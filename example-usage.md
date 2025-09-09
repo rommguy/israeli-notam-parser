@@ -24,11 +24,13 @@ The `-s` flag adds summary statistics showing how many NOTAMs of each type and f
 
 ## Example 3: Export for Flight Planning
 
-Export filtered NOTAMs to a JSON file for use in flight planning software:
+Export filtered NOTAMs to a JSON file (automatically saved to `results/` folder):
 
 ```bash
 npm run parse -- -d 2025-01-15 -i LLBG -e flight-plan-notams.json
 ```
+
+This creates `results/flight-plan-notams.json` with your filtered NOTAMs.
 
 ## Example 4: Quick Overview
 
@@ -52,6 +54,20 @@ npm run parse -- -d 15/01/2025
 # DD-MM-YYYY format  
 npm run parse -- -d 15-01-2025
 ```
+
+## Important: Using `--` with npm run
+
+When using `npm run parse`, you **must** include `--` before your arguments:
+
+```bash
+# ✅ Correct
+npm run parse -- -d 2025-01-15 -e results.json
+
+# ❌ Wrong - will cause npm config errors
+npm run parse -d 2025-01-15 -e results.json
+```
+
+The `--` tells npm to pass everything after it to the script instead of treating it as npm options.
 
 ## Sample Output
 

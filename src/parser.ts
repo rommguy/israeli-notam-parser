@@ -122,8 +122,32 @@ export class NotamParser {
     
     if (filePath) {
       const fs = require('fs');
-      fs.writeFileSync(filePath, jsonData, 'utf8');
-      console.log(`NOTAMs exported to ${filePath}`);
+      const path = require('path');
+      
+      // Ensure results directory exists
+      const resultsDir = path.join(process.cwd(), 'results');
+      if (!fs.existsSync(resultsDir)) {
+        fs.mkdirSync(resultsDir, { recursive: true });
+      }
+      
+      // If user provided just a filename, place it in results folder
+      // If they provided a path, use it as-is
+      let finalPath = filePath;
+      if (!path.isAbsolute(filePath) && !filePath.includes('/') && !filePath.includes('\\')) {
+        finalPath = path.join(resultsDir, filePath);
+      } else if (filePath.startsWith('./') || filePath.startsWith('../')) {
+        // Handle relative paths - resolve them relative to results directory
+        finalPath = path.resolve(resultsDir, filePath);
+      }
+      
+      // Ensure the directory for the final path exists
+      const finalDir = path.dirname(finalPath);
+      if (!fs.existsSync(finalDir)) {
+        fs.mkdirSync(finalDir, { recursive: true });
+      }
+      
+      fs.writeFileSync(finalPath, jsonData, 'utf8');
+      console.log(`NOTAMs exported to ${finalPath}`);
     }
     
     return jsonData;

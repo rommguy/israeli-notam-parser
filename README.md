@@ -24,6 +24,8 @@ npm run parse
 
 ## Usage
 
+**Important:** When using `npm run parse`, you must use `--` to separate npm arguments from script arguments.
+
 ### Basic Usage
 
 ```bash
@@ -31,28 +33,28 @@ npm run parse
 npm run parse
 
 # Show NOTAMs valid on a specific date
-npm run parse 2025-01-15
-npm run parse --date 2025-01-15
-npm run parse -d 15/01/2025
+npm run parse -- 2025-01-15
+npm run parse -- --date 2025-01-15
+npm run parse -- -d 15/01/2025
 ```
 
 ### Advanced Filtering
 
 ```bash
 # Filter by specific airport (Ben Gurion)
-npm run parse -d 2025-01-15 -i LLBG
+npm run parse -- -d 2025-01-15 -i LLBG
 
 # Filter by NOTAM type (Aerodrome NOTAMs only)
-npm run parse -d 2025-01-15 -t A
+npm run parse -- -d 2025-01-15 -t A
 
 # Combine filters
-npm run parse -d 2025-01-15 -i LLBG -t A
+npm run parse -- -d 2025-01-15 -i LLBG -t A
 
 # Show summary statistics
-npm run parse -s
+npm run parse -- -s
 
-# Export results to JSON file
-npm run parse -d 2025-01-15 -e notams.json
+# Export results to JSON file (automatically saved to results/ folder)
+npm run parse -- -d 2025-01-15 -e notams.json
 ```
 
 ## Command Line Options
@@ -99,17 +101,25 @@ Each NOTAM displays:
 - Validity status (if no dates are specified)
 - Description text
 
+## File Export
+
+Exported files are automatically saved to the `results/` folder:
+
+- **Simple filename**: `npm run parse -- -e notams.json` → saves to `results/notams.json`
+- **Relative path**: `npm run parse -- -e ./my-folder/notams.json` → saves to `results/my-folder/notams.json`
+- **Absolute path**: Uses the exact path you specify
+
 ## Examples
 
 ```bash
 # Check NOTAMs for a flight to Ben Gurion on January 15, 2025
-npm run parse -d 2025-01-15 -i LLBG
+npm run parse -- -d 2025-01-15 -i LLBG
 
 # Get all aerodrome NOTAMs for a specific date with summary
-npm run parse -d 15/01/2025 -t A -s
+npm run parse -- -d 15/01/2025 -t A -s
 
-# Export all NOTAMs valid on a date to a file
-npm run parse -d 2025-01-15 -e my-flight-notams.json
+# Export all NOTAMs valid on a date to a file (saved to results/ folder)
+npm run parse -- -d 2025-01-15 -e my-flight-notams.json
 ```
 
 ## Development

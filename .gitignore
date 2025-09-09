@@ -113,6 +113,12 @@ data/*.json
 data/*.xml
 data/*.csv
 
+# Results folder (exported NOTAMs)
+results/*.json
+results/*.xml
+results/*.csv
+results/*.txt
+
 # Test files
 test-output/
 *.test.js
