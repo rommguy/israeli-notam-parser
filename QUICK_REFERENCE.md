@@ -34,7 +34,7 @@ npm run start -- --help
 - **No JSON file?** → Add `--export filename.json`
 - **Messy rawText?** → Check `cleanText()` in `src/scraper.ts`
 - **No NOTAMs found?** → Check parsing regex in `parseHtmlContent()`
-- **Date issues?** → Check `extractDates()` method
+- **Date issues?** → CLI only accepts YYYY-MM-DD format
 
 ## 🧪 Quick Test
 ```bash

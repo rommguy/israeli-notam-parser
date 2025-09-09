@@ -149,44 +149,14 @@ class NotamCli {
   }
   
   private parseDate(dateStr: string): Date {
-    // Try different date formats
-    const formats = [
-      // ISO format: 2025-01-15
-      () => parseISO(dateStr),
-      // DD/MM/YYYY
-      () => {
-        const parts = dateStr.split('/');
-        if (parts.length === 3) {
-          return new Date(parseInt(parts[2]), parseInt(parts[1]) - 1, parseInt(parts[0]));
-        }
-        return new Date(NaN);
-      },
-      // DD-MM-YYYY
-      () => {
-        const parts = dateStr.split('-');
-        if (parts.length === 3 && parts[0].length <= 2) {
-          return new Date(parseInt(parts[2]), parseInt(parts[1]) - 1, parseInt(parts[0]));
-        }
-        return new Date(NaN);
-      },
-      // MM/DD/YYYY
-      () => {
-        const parts = dateStr.split('/');
-        if (parts.length === 3) {
-          return new Date(parseInt(parts[2]), parseInt(parts[0]) - 1, parseInt(parts[1]));
-        }
-        return new Date(NaN);
-      }
-    ];
+    // Only accept ISO format: YYYY-MM-DD
+    const date = parseISO(dateStr);
     
-    for (const formatFn of formats) {
-      const date = formatFn();
-      if (isValid(date)) {
-        return date;
-      }
+    if (!isValid(date)) {
+      throw new Error(`Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`);
     }
     
-    throw new Error(`Invalid date format: ${dateStr}. Use formats like: 2025-01-15, 15/01/2025, or 15-01-2025`);
+    return date;
   }
   
   private showHelp(): void {
@@ -197,7 +167,7 @@ NOTAM Parser for Israeli Aviation Authority
 Usage: npm run parse [options] [flight-date]
 
 Options:
-  -d, --date <date>     Flight date to filter NOTAMs (YYYY-MM-DD, DD/MM/YYYY, or DD-MM-YYYY)
+  -d, --date <date>     Flight date to filter NOTAMs (YYYY-MM-DD format only)
   -i, --icao <code>     Filter by ICAO airport code (e.g., LLBG, LLLL)
   -t, --type <type>     Filter by NOTAM type (A=Aerodrome, C=En-route, R=Radar, N=Navigation)
   -e, --export <file>   Export filtered results to JSON file
@@ -207,7 +177,7 @@ Options:
 Examples:
   npm run parse                           # Show all current NOTAMs
   npm run parse 2025-01-15               # Show NOTAMs valid on Jan 15, 2025
-  npm run parse --date 15/01/2025        # Same as above, different date format
+  npm run parse --date 2025-01-15        # Same as above, using --date flag
   npm run parse -d 2025-01-15 -i LLBG    # NOTAMs for Ben Gurion Airport on specific date
   npm run parse -d 2025-01-15 -t A       # Only aerodrome NOTAMs for specific date
   npm run parse -s                       # Show summary statistics

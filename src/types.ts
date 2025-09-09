@@ -7,6 +7,7 @@ export interface NOTAM {
   description: string;
   validFrom?: Date;
   validTo?: Date;
+  createdDate: Date; // When this NOTAM was parsed/created
   rawText: string;
 }
 

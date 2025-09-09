@@ -47,6 +47,7 @@ export class NotamScraper {
           number: number,
           year: year,
           description: description.trim(),
+          createdDate: new Date(),
           rawText: this.cleanText(text)
         };
         
@@ -96,6 +97,7 @@ export class NotamScraper {
           number: number,
           year: year,
           description: description.trim(),
+          createdDate: new Date(),
           rawText: this.cleanText(trimmedLine)
         };
         

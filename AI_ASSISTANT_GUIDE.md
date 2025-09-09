@@ -73,7 +73,9 @@ npm run start -- --help
 - Filters too restrictive (try without filters first)
 
 ### Issue: "Date parsing errors"
-**Solution**: Check `extractDates()` method in `scraper.ts` - may need new regex patterns for date formats.
+**Solution**: 
+- For CLI date input: Only ISO format (YYYY-MM-DD) is accepted
+- For NOTAM content parsing: Check `extractDates()` method in `scraper.ts` - may need new regex patterns for date formats found in NOTAMs
 
 ## Development Workflow
 

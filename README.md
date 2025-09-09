@@ -10,7 +10,7 @@ This script parses NOTAMs (Notice to Airmen) from the Israeli Aviation Authority
 - Supports additional filtering by ICAO airport code and NOTAM type
 - Exports filtered results to JSON format
 - Provides summary statistics
-- Command-line interface with multiple date format support
+- Command-line interface with ISO date format (YYYY-MM-DD)
 
 ## Installation
 
@@ -35,7 +35,7 @@ npm run parse
 # Show NOTAMs valid on a specific date
 npm run parse -- 2025-01-15
 npm run parse -- --date 2025-01-15
-npm run parse -- -d 15/01/2025
+npm run parse -- -d 2025-01-15
 ```
 
 ### Advanced Filtering
@@ -116,7 +116,7 @@ Exported files are automatically saved to the `results/` folder:
 npm run parse -- -d 2025-01-15 -i LLBG
 
 # Get all aerodrome NOTAMs for a specific date with summary
-npm run parse -- -d 15/01/2025 -t A -s
+npm run parse -- -d 2025-01-15 -t A -s
 
 # Export all NOTAMs valid on a date to a file (saved to results/ folder)
 npm run parse -- -d 2025-01-15 -e my-flight-notams.json
