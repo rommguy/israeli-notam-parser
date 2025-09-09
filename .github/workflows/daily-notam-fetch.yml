@@ -17,7 +17,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '18'
+        node-version: '20'
         cache: 'npm'
         
     - name: Install dependencies
@@ -35,7 +35,10 @@ jobs:
       
     - name: Fetch NOTAMs for tomorrow
       run: |
+        echo "Fetching NOTAMs for date: ${{ steps.tomorrow.outputs.date }}"
         npm run start -- --date ${{ steps.tomorrow.outputs.date }} --export daily-notams/${{ steps.tomorrow.outputs.date }}.json
+      env:
+        NODE_OPTIONS: "--no-experimental-fetch"
         
     - name: Commit and push results
       run: |
