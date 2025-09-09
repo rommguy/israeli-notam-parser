@@ -47,7 +47,7 @@ export class NotamScraper {
           number: number,
           year: year,
           description: description.trim(),
-          rawText: text
+          rawText: this.cleanText(text)
         };
         
         // Try to extract dates from the description
@@ -96,7 +96,7 @@ export class NotamScraper {
           number: number,
           year: year,
           description: description.trim(),
-          rawText: trimmedLine
+          rawText: this.cleanText(trimmedLine)
         };
         
         this.extractDates(notam);
@@ -188,5 +188,16 @@ export class NotamScraper {
     if (month === undefined) return undefined;
     
     return new Date(year, month, day, hour, minute);
+  }
+
+  private cleanText(text: string): string {
+    // Clean up excessive whitespace and normalize the text for readability
+    return text
+      .split('\n')                    // Split into lines
+      .map(line => line.trim())       // Trim each line
+      .filter(line => line.length > 0) // Remove empty lines
+      .join(' ')                      // Join with spaces instead of newlines
+      .replace(/\s+/g, ' ')           // Replace multiple spaces with single space
+      .trim();                        // Final trim
   }
 }
