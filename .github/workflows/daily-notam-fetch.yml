@@ -1,0 +1,59 @@
+name: Daily NOTAM Fetch
+
+on:
+  schedule:
+    # Run every day at 2:00 AM UTC (4:00 AM Israel time during winter, 5:00 AM during summer)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  fetch-notams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build TypeScript
+      run: npm run build
+      
+    - name: Get tomorrow's date
+      id: tomorrow
+      run: echo "date=$(date -d '+1 day' '+%Y-%m-%d')" >> $GITHUB_OUTPUT
+      
+    - name: Create daily-notams directory
+      run: mkdir -p daily-notams
+      
+    - name: Fetch NOTAMs for tomorrow
+      run: |
+        npm run start -- --date ${{ steps.tomorrow.outputs.date }} --export daily-notams/${{ steps.tomorrow.outputs.date }}.json
+        
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add daily-notams/${{ steps.tomorrow.outputs.date }}.json
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Add daily NOTAMs for ${{ steps.tomorrow.outputs.date }}"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: notams-${{ steps.tomorrow.outputs.date }}
+        path: daily-notams/${{ steps.tomorrow.outputs.date }}.json
+        retention-days: 30

@@ -11,7 +11,10 @@ src/
 ├── scraper.ts    # Web scraping and HTML parsing logic
 └── types.ts      # TypeScript type definitions
 
-results/          # Output directory for exported JSON files
+results/          # Output directory for exported JSON files (gitignored)
+daily-notams/     # Automated daily NOTAM files (tracked in git)
+.github/workflows/
+└── daily-notam-fetch.yml  # GitHub Action for automated daily fetching
 ```
 
 ## Critical Understanding Points
@@ -126,6 +129,37 @@ rm results/test.json
 4. **ICAO codes** are automatically converted to uppercase
 5. **Raw text cleaning** happens during parsing, not during export
 
+## Automated Daily NOTAM Fetching
+
+### GitHub Action Workflow
+The project includes an automated GitHub Action (`.github/workflows/daily-notam-fetch.yml`) that:
+- **Runs daily at 2:00 AM UTC** (4-5 AM Israel time)
+- **Automatically fetches NOTAMs for tomorrow** 
+- **Saves to `daily-notams/` directory** (tracked in git, not ignored)
+- **Commits results automatically** to the repository
+- **Can be triggered manually** from GitHub Actions tab
+
+### Daily NOTAM Files
+- **Location**: `daily-notams/` directory
+- **Naming**: Files are named `YYYY-MM-DD.json` (e.g., `2025-09-12.json`)
+- **Content**: Same structure as manual exports, but filtered for specific date
+- **Retention**: Files are committed to git and also stored as GitHub artifacts for 30 days
+
+### Manual Daily NOTAM Generation
+To manually generate a daily NOTAM file for a specific date:
+```bash
+# Generate NOTAMs for tomorrow
+npm run start -- --date $(date -d '+1 day' '+%Y-%m-%d') --export daily-notams/$(date -d '+1 day' '+%Y-%m-%d').json
+
+# Generate NOTAMs for a specific date
+npm run start -- --date 2025-09-15 --export daily-notams/2025-09-15.json
+```
+
+### Workflow Management
+- **View runs**: GitHub repository → Actions tab → Daily NOTAM Fetch
+- **Manual trigger**: Actions tab → Daily NOTAM Fetch → Run workflow
+- **Download artifacts**: Available from workflow run pages (30-day retention)
+
 ## Testing Strategy
 
 1. **Basic functionality**: Run without flags
@@ -133,3 +167,4 @@ rm results/test.json
 3. **Filtering**: Test with various date/ICAO/type combinations
 4. **Edge cases**: Test with invalid dates, unknown ICAO codes
 5. **Text formatting**: Check `rawText` field in exported JSON for readability
+6. **Automation testing**: Manually trigger GitHub Action workflow
