@@ -9,6 +9,7 @@ export interface NOTAM {
   validTo?: Date;
   createdDate: Date; // When this NOTAM was parsed/created
   rawText: string;
+  mapLink?: string; // Google Maps link for coordinates found in PSN
 }
 
 export interface NotamFilterOptions {

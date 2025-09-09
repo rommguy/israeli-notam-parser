@@ -59,6 +59,9 @@ export class NotamScraper {
         // Try to extract dates from the description
         this.extractDates(notam);
         
+        // Try to extract coordinates and generate map link
+        this.extractMapLink(notam);
+        
         notams.push(notam);
       }
     });
@@ -113,6 +116,7 @@ export class NotamScraper {
         };
         
         this.extractDates(notam);
+        this.extractMapLink(notam);
         existingNotams.push(notam);
       }
     }
@@ -201,6 +205,46 @@ export class NotamScraper {
     if (month === undefined) return undefined;
     
     return new Date(year, month, day, hour, minute);
+  }
+
+  private extractMapLink(notam: NOTAM): void {
+    // Search in both description and raw text for coordinate patterns
+    const searchText = `${notam.description} ${notam.rawText}`;
+    
+    // Pattern for coordinates like: PSN 320024N0344404E
+    const coordinatePattern = /PSN\s+(\d{6}N\d{7}E)/i;
+    const match = searchText.match(coordinatePattern);
+    
+    if (match) {
+      const coordinates = match[1];
+      const googleMapsUrl = this.convertToGoogleMapsUrl(coordinates);
+      if (googleMapsUrl) {
+        notam.mapLink = googleMapsUrl;
+      }
+    }
+  }
+  
+  private convertToGoogleMapsUrl(coordinates: string): string | null {
+    // Parse coordinates like 320024N0344404E
+    const match = coordinates.match(/(\d{2})(\d{2})(\d{2})N(\d{3})(\d{2})(\d{2})E/);
+    
+    if (!match) return null;
+    
+    const [, latDeg, latMin, latSec, lonDeg, lonMin, lonSec] = match;
+    
+    // Convert to decimal degrees
+    const latitude = parseInt(latDeg) + parseInt(latMin) / 60 + parseInt(latSec) / 3600;
+    const longitude = parseInt(lonDeg) + parseInt(lonMin) / 60 + parseInt(lonSec) / 3600;
+    
+    // Format for Google Maps (degrees, minutes, seconds)
+    const latDegFormatted = latDeg;
+    const latMinFormatted = latMin;
+    const latSecFormatted = latSec;
+    const lonDegFormatted = lonDeg;
+    const lonMinFormatted = lonMin;
+    const lonSecFormatted = lonSec;
+    
+    return `https://www.google.com/maps/place/${latDegFormatted}°${latMinFormatted}'${latSecFormatted}"N+${lonDegFormatted}°${lonMinFormatted}'${lonSecFormatted}"E`;
   }
 
   private cleanText(text: string): string {
