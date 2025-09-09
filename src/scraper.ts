@@ -39,6 +39,11 @@ export class NotamScraper {
       
       if (notamMatch) {
         const [, type, number, year, icaoCode, description] = notamMatch;
+        const cleanedText = this.cleanText(text);
+        
+        // Extract description from cleaned text for better accuracy
+        const cleanedMatch = cleanedText.match(/([ACRNacrn])(\d{4})\/(\d{2})\s+([A-Z]{4})\s+E\)\s*(.*)/);
+        const fullDescription = cleanedMatch ? cleanedMatch[5].trim() : description.trim();
         
         const notam: NOTAM = {
           id: `${type.toUpperCase()}${number}/${year}`,
@@ -46,9 +51,9 @@ export class NotamScraper {
           type: type.toUpperCase() as NOTAM['type'],
           number: number,
           year: year,
-          description: description.trim(),
+          description: fullDescription,
           createdDate: new Date(),
-          rawText: this.cleanText(text)
+          rawText: cleanedText
         };
         
         // Try to extract dates from the description
@@ -90,15 +95,21 @@ export class NotamScraper {
           continue;
         }
         
+        const cleanedText = this.cleanText(trimmedLine);
+        
+        // Extract description from cleaned text for better accuracy
+        const cleanedMatch = cleanedText.match(/([ACRNacrn])(\d{4})\/(\d{2})\s+([A-Z]{4})\s+E\)\s*(.*)/);
+        const fullDescription = cleanedMatch ? cleanedMatch[5].trim() : description.trim();
+        
         const notam: NOTAM = {
           id,
           icaoCode: icaoCode,
           type: type.toUpperCase() as NOTAM['type'],
           number: number,
           year: year,
-          description: description.trim(),
+          description: fullDescription,
           createdDate: new Date(),
-          rawText: this.cleanText(trimmedLine)
+          rawText: cleanedText
         };
         
         this.extractDates(notam);
