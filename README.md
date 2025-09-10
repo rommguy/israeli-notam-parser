@@ -209,6 +209,23 @@ npm run dev:web
 npm run build:web
 ```
 
+### Testing
+```bash
+# Run all tests
+npm test
+
+# Run tests with coverage
+npm run test:coverage
+
+# Run tests in CI mode (for GitHub Actions)
+npm run test:ci
+
+# Set up pre-commit hooks (one-time setup)
+npm run setup-hooks
+```
+
+**📋 For complete testing and deployment documentation, see [TESTING_AND_DEPLOYMENT.md](./TESTING_AND_DEPLOYMENT.md)**
+
 ## Error Handling
 
 The script includes robust error handling for:
