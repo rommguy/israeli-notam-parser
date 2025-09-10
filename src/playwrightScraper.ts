@@ -211,6 +211,31 @@ export class PlaywrightNotamScraper {
   }
 
   /**
+   * Debug helper to analyze page structure
+   */
+  private async debugPageStructure(notam: NOTAM): Promise<void> {
+    if (!this.page || this.config.headless) return; // Only debug in non-headless mode
+    
+    console.log(`\n=== DEBUG: Analyzing page structure for ${notam.id} ===`);
+    
+    // Find all elements with f_getMoreInfo onclick
+    const moreInfoButtons = await this.page.$$('[onclick*="f_getMoreInfo"]');
+    console.log(`Found ${moreInfoButtons.length} f_getMoreInfo buttons on page`);
+    
+    // Find rows containing this NOTAM
+    const notamRows = await this.page.$$(`tr:has-text("${notam.id}")`);
+    console.log(`Found ${notamRows.length} table rows containing ${notam.id}`);
+    
+    // Take screenshot for debugging
+    await this.page.screenshot({ 
+      path: `debug-${notam.id.replace('/', '-')}.png`,
+      fullPage: true 
+    });
+    console.log(`Screenshot saved as debug-${notam.id.replace('/', '-')}.png`);
+    console.log('=== END DEBUG ===\n');
+  }
+
+  /**
    * Expand a single NOTAM by clicking on it
    */
   private async expandSingleNotam(notam: NOTAM, retryCount: number): Promise<NotamExpansionResult> {
@@ -219,14 +244,16 @@ export class PlaywrightNotamScraper {
     }
 
     try {
-      // Look for clickable elements containing the NOTAM ID
+      // Look for the specific expand button with the f_getMoreInfo onclick handler
       const selectors = [
-        `text="${notam.id}"`,
-        `[id*="${notam.id}"]`,
-        `[onclick*="${notam.id}"]`,
-        `.notam-item:has-text("${notam.id}")`,
-        `tr:has-text("${notam.id}")`,
-        `td:has-text("${notam.id}")`
+        // Primary: Look for the expand button with f_getMoreInfo onclick in the same row as the NOTAM
+        `tr:has-text("${notam.id}") [onclick^="javascript:f_getMoreInfo(this.parentNode.parentNode.parentNode"]`,
+        // Secondary: Look for any f_getMoreInfo button near the NOTAM text
+        `[onclick^="javascript:f_getMoreInfo(this.parentNode.parentNode.parentNode"]:near(:text("${notam.id}"))`,
+        // Fallback: Look for expand buttons in table rows containing the NOTAM
+        `tr:has-text("${notam.id}") img[src*="plus"]`,
+        `tr:has-text("${notam.id}") img[src*="expand"]`,
+        `tr:has-text("${notam.id}") [onclick*="getMoreInfo"]`
       ];
 
       let clickableElement = null;
@@ -244,8 +271,35 @@ export class PlaywrightNotamScraper {
       }
 
       if (!clickableElement) {
-        // Try to find elements with expand/collapse functionality
-        const expandButtons = await this.page.$$('img[src*="plus"], img[src*="expand"], .expand-button, [onclick*="expand"]');
+        // Try to find f_getMoreInfo buttons and match them to the correct NOTAM row
+        console.log(`Looking for f_getMoreInfo buttons for NOTAM ${notam.id}`);
+        const moreInfoButtons = await this.page.$$('[onclick^="javascript:f_getMoreInfo(this.parentNode.parentNode.parentNode"]');
+        
+        for (const button of moreInfoButtons) {
+          // Check if this button is in the same table row as our NOTAM
+          const parentRow = await button.evaluateHandle(el => {
+            // Navigate up the DOM to find the table row
+            let current = el.parentElement;
+            while (current && current.tagName !== 'TR') {
+              current = current.parentElement;
+            }
+            return current;
+          });
+          
+          if (parentRow) {
+            const rowText = await parentRow.textContent();
+            if (rowText?.includes(notam.id)) {
+              clickableElement = button;
+              console.log(`Found f_getMoreInfo button for ${notam.id} in table row`);
+              break;
+            }
+          }
+        }
+      }
+      
+      if (!clickableElement) {
+        // Final fallback: look for any expand-related elements in rows containing the NOTAM
+        const expandButtons = await this.page.$$('img[src*="plus"], img[src*="expand"], .expand-button, [onclick*="expand"], [onclick*="getMoreInfo"]');
         
         for (const button of expandButtons) {
           const parentRow = await button.$('xpath=ancestor::tr[1]');
@@ -253,7 +307,7 @@ export class PlaywrightNotamScraper {
             const rowText = await parentRow.textContent();
             if (rowText?.includes(notam.id)) {
               clickableElement = button;
-              console.log(`Found expand button for ${notam.id} in parent row`);
+              console.log(`Found generic expand button for ${notam.id} in parent row`);
               break;
             }
           }
@@ -261,6 +315,9 @@ export class PlaywrightNotamScraper {
       }
 
       if (!clickableElement) {
+        // Debug page structure if we can't find the element
+        await this.debugPageStructure(notam);
+        
         return {
           notamId: notam.id,
           success: false,
@@ -270,11 +327,18 @@ export class PlaywrightNotamScraper {
       }
 
       // Click the element and wait for response
+      console.log(`Clicking element for ${notam.id}...`);
+      
       await Promise.all([
-        this.page.waitForResponse(response => 
-          response.url().includes('.aspx') && response.status() === 200,
-          { timeout: 10000 }
-        ).catch(() => null), // Don't fail if no network request
+        // Wait for any network response that might indicate content loading
+        this.page.waitForResponse(response => {
+          const url = response.url();
+          return (url.includes('.aspx') || url.includes('getMoreInfo') || url.includes('AeroInfo')) 
+                 && response.status() === 200;
+        }, { timeout: 10000 }).catch(() => {
+          console.log(`No network response detected for ${notam.id}, continuing anyway`);
+          return null;
+        }),
         clickableElement.click()
       ]);
 
