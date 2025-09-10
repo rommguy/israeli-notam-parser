@@ -26,6 +26,9 @@ jobs:
     - name: Install dependencies
       run: npm ci
       
+    - name: Install Playwright browsers
+      run: npx playwright install chromium --with-deps
+      
     - name: Run tests
       run: npm run test:ci
       
@@ -36,13 +39,16 @@ jobs:
       id: tomorrow
       run: echo "date=$(date -d '+1 day' '+%Y-%m-%d')" >> $GITHUB_OUTPUT
       
-    - name: Create daily-notams directory
-      run: mkdir -p daily-notams
+    - name: Create directories
+      run: |
+        mkdir -p daily-notams
+        mkdir -p data/notams
+        mkdir -p data/backups
       
-    - name: Fetch NOTAMs for tomorrow
+    - name: Fetch NOTAMs for tomorrow (incremental)
       run: |
         echo "Fetching NOTAMs for date: ${{ steps.tomorrow.outputs.date }}"
-        npm run start -- --date ${{ steps.tomorrow.outputs.date }} --export daily-notams/${{ steps.tomorrow.outputs.date }}.json
+        npm run start -- --incremental --from-storage --date ${{ steps.tomorrow.outputs.date }} --export daily-notams/${{ steps.tomorrow.outputs.date }}.json
       env:
         NODE_OPTIONS: "--no-experimental-fetch"
         
@@ -51,10 +57,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add daily-notams/${{ steps.tomorrow.outputs.date }}.json
+        git add data/notams/notams.json
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Add daily NOTAMs for ${{ steps.tomorrow.outputs.date }}"
+          git commit -m "Add daily NOTAMs for ${{ steps.tomorrow.outputs.date }} and update storage"
           git push
         fi
       env:

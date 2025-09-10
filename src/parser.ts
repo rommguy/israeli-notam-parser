@@ -1,25 +1,114 @@
-import { NOTAM, NotamFilterOptions, ParsedNotamData } from './types';
+import { NOTAM, NotamFilterOptions, ParsedNotamData, PlaywrightConfig } from './types';
 import { fetchNotams, parseHtmlContent } from './scraper';
+import { fetchNotamsWithPlaywright } from './playwrightScraper';
+import { loadExistingNotams, saveNotams, mergeNotams, exportDailyNotams, getStorageStats } from './storage';
 import { isWithinInterval, parseISO, format } from 'date-fns';
 
 /**
- * Fetch and parse NOTAMs from the Israeli Aviation Authority website
+ * @deprecated This function provides incomplete/dangerous partial data and has been disabled for aviation safety.
+ * Use fetchAndParseNotamsIncremental() or fetchAndParseNotamsFullRefresh() instead.
  */
 export async function fetchAndParseNotams(): Promise<ParsedNotamData> {
+  throw new Error('Legacy NOTAM fetching has been disabled for aviation safety. It provides incomplete/dangerous partial data. Use fetchAndParseNotamsIncremental() or fetchAndParseNotamsFullRefresh() instead.');
+}
+
+/**
+ * Fetch and parse NOTAMs with incremental updates using Playwright
+ */
+export async function fetchAndParseNotamsIncremental(
+  usePlaywright: boolean = true,
+  playwrightConfig?: Partial<PlaywrightConfig>
+): Promise<ParsedNotamData> {
   try {
-    console.log('Fetching NOTAMs from Israeli Aviation Authority...');
-    const html = await fetchNotams();
+    console.log('Loading existing NOTAMs from storage...');
+    const storage = await loadExistingNotams();
+    const existingIds = storage.notams.map(notam => notam.id);
     
-    console.log('Parsing NOTAM data...');
-    const notams = parseHtmlContent(html);
+    console.log(`Found ${storage.totalCount} existing NOTAMs in storage`);
+    
+    let newNotams: NOTAM[] = [];
+    
+    if (usePlaywright) {
+      console.log('Fetching NOTAMs using Playwright browser automation...');
+      newNotams = await fetchNotamsWithPlaywright(existingIds, playwrightConfig);
+    } else {
+      throw new Error('Playwright is required for complete NOTAM data. Legacy scraping provides incomplete/dangerous partial data and is not allowed.');
+    }
+    
+    console.log(`Found ${newNotams.length} new NOTAMs to process`);
+    
+    // Merge new NOTAMs with existing ones
+    const { merged, newCount } = mergeNotams(storage.notams, newNotams);
+    
+    // Update storage
+    const updatedStorage = {
+      ...storage,
+      notams: merged,
+      newCount: newCount,
+      totalCount: merged.length
+    };
+    
+    await saveNotams(updatedStorage);
+    
+    // Print statistics
+    const stats = getStorageStats(updatedStorage);
+    console.log(`Storage updated: ${stats.totalNotams} total NOTAMs (${stats.newNotams} new)`);
+    
+    return {
+      notams: merged,
+      lastUpdated: new Date(),
+      totalCount: merged.length,
+      newCount: newCount
+    };
+  } catch (error) {
+    throw new Error(`Failed to fetch and parse NOTAMs incrementally: ${error}`);
+  }
+}
+
+/**
+ * Force a full refresh of all NOTAMs (ignores existing storage)
+ */
+export async function fetchAndParseNotamsFullRefresh(
+  usePlaywright: boolean = true,
+  playwrightConfig?: Partial<PlaywrightConfig>
+): Promise<ParsedNotamData> {
+  try {
+    console.log('Performing full refresh of all NOTAMs...');
+    
+    let notams: NOTAM[] = [];
+    
+    if (usePlaywright) {
+      console.log('Fetching all NOTAMs using Playwright browser automation...');
+      // Pass empty array to fetch all NOTAMs
+      notams = await fetchNotamsWithPlaywright([], playwrightConfig);
+    } else {
+      throw new Error('Playwright is required for complete NOTAM data. Legacy scraping provides incomplete/dangerous partial data and is not allowed.');
+    }
+    
+    console.log(`Fetched ${notams.length} NOTAMs in full refresh`);
+    
+    // Save to storage (this will replace existing data)
+    const storage = {
+      notams: notams,
+      lastUpdated: new Date(),
+      totalCount: notams.length,
+      newCount: notams.length, // All NOTAMs are "new" in a full refresh
+      metadata: {
+        version: '1.0.0',
+        source: 'israeli-aviation-authority'
+      }
+    };
+    
+    await saveNotams(storage);
     
     return {
       notams,
       lastUpdated: new Date(),
-      totalCount: notams.length
+      totalCount: notams.length,
+      newCount: notams.length
     };
   } catch (error) {
-    throw new Error(`Failed to fetch and parse NOTAMs: ${error}`);
+    throw new Error(`Failed to perform full refresh: ${error}`);
   }
 }
 
@@ -111,6 +200,37 @@ export function exportToJson(data: ParsedNotamData, filePath?: string): string {
   }
   
   return jsonData;
+}
+
+/**
+ * Export NOTAMs in daily format (for backward compatibility with existing workflow)
+ */
+export async function exportDailyNotamsFromStorage(
+  date: string, 
+  outputPath: string,
+  filterOptions?: Partial<NotamFilterOptions>
+): Promise<void> {
+  const storage = await loadExistingNotams();
+  let notamsToExport = storage.notams;
+  
+  // Apply filters if provided
+  if (filterOptions) {
+    if (filterOptions.flightDate) {
+      notamsToExport = filterNotamsByDate(notamsToExport, filterOptions.flightDate);
+    }
+    if (filterOptions.icaoCode) {
+      notamsToExport = notamsToExport.filter(notam => 
+        notam.icaoCode === filterOptions.icaoCode?.toUpperCase()
+      );
+    }
+    if (filterOptions.type) {
+      notamsToExport = notamsToExport.filter(notam => 
+        notam.type === filterOptions.type
+      );
+    }
+  }
+  
+  await exportDailyNotams(notamsToExport, date, outputPath);
 }
 
 /**
