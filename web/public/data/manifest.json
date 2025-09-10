@@ -1,0 +1,11 @@
+{
+  "availableFiles": [
+    "2025-09-10.json",
+    "2025-09-11.json"
+  ],
+  "generatedAt": "2025-09-10T15:08:51.345Z",
+  "mapping": {
+    "today": "2025-09-10.json",
+    "tomorrow": "2025-09-11.json"
+  }
+}

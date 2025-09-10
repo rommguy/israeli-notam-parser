@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { 
   ToggleButton, 
   ToggleButtonGroup, 
@@ -7,7 +7,8 @@ import {
   Box 
 } from '@mui/material';
 import { Today, Event } from '@mui/icons-material';
-import { getDateDisplayLabel } from '../../utils/dateUtils';
+import { formatDateForDisplay } from '../../utils/dateUtils';
+import { getDataManifest } from '../../services/availableData';
 
 interface DateSelectorProps {
   selectedDate: 'today' | 'tomorrow';
@@ -20,6 +21,30 @@ export const DateSelector: React.FC<DateSelectorProps> = ({
   onDateChange,
   disabled = false,
 }) => {
+  const [dateLabels, setDateLabels] = useState({
+    today: 'Today',
+    tomorrow: 'Tomorrow'
+  });
+
+  useEffect(() => {
+    const loadDateLabels = async () => {
+      try {
+        const manifest = await getDataManifest();
+        const labels = {
+          today: manifest.mapping.today ? 
+            formatDateForDisplay(manifest.mapping.today.replace('.json', '')) : 'Today',
+          tomorrow: manifest.mapping.tomorrow ? 
+            formatDateForDisplay(manifest.mapping.tomorrow.replace('.json', '')) : 'Tomorrow'
+        };
+        setDateLabels(labels);
+      } catch (error) {
+        console.warn('Could not load date labels:', error);
+      }
+    };
+
+    loadDateLabels();
+  }, []);
+
   const handleChange = (
     _event: React.MouseEvent<HTMLElement>,
     newValue: 'today' | 'tomorrow' | null,
@@ -68,7 +93,7 @@ export const DateSelector: React.FC<DateSelectorProps> = ({
               Today
             </Typography>
             <Typography variant="caption" component="div" color="text.secondary">
-              {getDateDisplayLabel('today').split(' (')[1]?.replace(')', '')}
+              {dateLabels.today !== 'Today' ? dateLabels.today : 'No data'}
             </Typography>
           </Box>
         </ToggleButton>
@@ -80,7 +105,7 @@ export const DateSelector: React.FC<DateSelectorProps> = ({
               Tomorrow
             </Typography>
             <Typography variant="caption" component="div" color="text.secondary">
-              {getDateDisplayLabel('tomorrow').split(' (')[1]?.replace(')', '')}
+              {dateLabels.tomorrow !== 'Tomorrow' ? dateLabels.tomorrow : 'No data'}
             </Typography>
           </Box>
         </ToggleButton>

@@ -1,12 +1,21 @@
 import type { NOTAM, ParsedNotamData } from '../types';
 import { getNotamDataPath, parseNotamDate } from '../utils/dateUtils';
+import { getActualDataPath } from './availableData';
 
 /**
  * Load NOTAM data for a specific date
  */
 export const loadNotamData = async (dateSelection: 'today' | 'tomorrow'): Promise<ParsedNotamData> => {
   try {
-    const dataPath = getNotamDataPath(dateSelection);
+    // Try to get actual available data path first, fallback to calculated path
+    let dataPath: string;
+    try {
+      dataPath = await getActualDataPath(dateSelection);
+    } catch (error) {
+      // Fallback to calculated path
+      dataPath = getNotamDataPath(dateSelection);
+    }
+    
     const response = await fetch(dataPath);
     
     if (!response.ok) {
