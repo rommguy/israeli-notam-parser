@@ -1,6 +1,12 @@
 #!/usr/bin/env node
 
-import { NotamParser } from './parser';
+import { 
+  fetchAndParseNotams, 
+  filterNotams, 
+  formatNotamForDisplay, 
+  generateSummary, 
+  exportToJson 
+} from './parser';
 import { NotamFilterOptions } from './types';
 import { parseISO, format, isValid } from 'date-fns';
 
@@ -14,11 +20,6 @@ interface CliOptions {
 }
 
 class NotamCli {
-  private parser: NotamParser;
-  
-  constructor() {
-    this.parser = new NotamParser();
-  }
   
   async run(): Promise<void> {
     const options = this.parseArgs();
@@ -30,7 +31,7 @@ class NotamCli {
     
     try {
       // Fetch and parse NOTAMs
-      const data = await this.parser.fetchAndParseNotams();
+      const data = await fetchAndParseNotams();
       console.log(`\\nFetched ${data.totalCount} NOTAMs (Last updated: ${format(data.lastUpdated, 'dd MMM yyyy HH:mm')})\\n`);
       
       let filteredNotams = data.notams;
@@ -49,7 +50,7 @@ class NotamCli {
           filterOptions.type = options.type.toUpperCase() as any;
         }
         
-        filteredNotams = this.parser.filterNotams(data.notams, filterOptions);
+        filteredNotams = filterNotams(data.notams, filterOptions);
         
         console.log(`Filtered to ${filteredNotams.length} NOTAMs for:`);
         console.log(`  Flight Date: ${format(filterOptions.flightDate, 'dd MMM yyyy')}`);
@@ -62,7 +63,7 @@ class NotamCli {
       if (options.summary) {
         console.log('SUMMARY:');
         console.log('========');
-        console.log(this.parser.generateSummary(filteredNotams));
+        console.log(generateSummary(filteredNotams));
         console.log('');
       }
       
@@ -74,7 +75,7 @@ class NotamCli {
         console.log('='.repeat(50));
         
         filteredNotams.forEach((notam, index) => {
-          console.log(`${index + 1}. ${this.parser.formatNotamForDisplay(notam)}`);
+          console.log(`${index + 1}. ${formatNotamForDisplay(notam)}`);
           console.log('');
         });
       }
@@ -85,7 +86,7 @@ class NotamCli {
           ...data,
           notams: filteredNotams
         };
-        this.parser.exportToJson(exportData, options.export);
+        exportToJson(exportData, options.export);
       }
       
     } catch (error) {

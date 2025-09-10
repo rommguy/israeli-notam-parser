@@ -19,8 +19,13 @@ RESPONSE_VERBOSITY: "BALANCED"
 # Possible values: "CONCISE", "BALANCED", "DETAILED"
 # Controls the level of detail in AI responses
 
-CODE_STYLE_PREFERENCES: ""
-# Specify coding style preferences (indentation, naming conventions, etc.)
+CODE_STYLE_PREFERENCES: "FUNCTIONAL_PROGRAMMING"
+# ENFORCED RULES:
+# - NO CLASSES: Use functional programming approach with pure functions
+# - Prefer stateless functions over stateful classes
+# - Use composition over inheritance
+# - Keep side effects isolated in dedicated functions
+# - Export individual functions rather than class methods
 
 EXPLANATION_LEVEL: "MEDIUM"
 # Possible values: "MINIMAL", "MEDIUM", "COMPREHENSIVE"
@@ -123,6 +128,37 @@ CUSTOM_FOLDER_STRUCTURE: {}
 
 TECHNOLOGY_PRESETS: {}
 # Predefined technology stacks for quick selection
+
+## PROJECT-SPECIFIC CODING RULES
+
+### Functional Programming Enforcement
+AVOID_CLASSES: true
+# STRICTLY ENFORCED: Do not create new classes in this project
+# Rationale: This project follows functional programming principles
+
+PREFERRED_PATTERNS: [
+  "Pure functions with explicit inputs/outputs",
+  "Stateless function exports",
+  "Composition over inheritance", 
+  "Isolated side effects",
+  "Function-based module organization"
+]
+
+PROHIBITED_PATTERNS: [
+  "Class declarations (class MyClass {})",
+  "Constructor functions", 
+  "Instance methods (this.method)",
+  "Stateful class instances",
+  "Object-oriented inheritance"
+]
+
+### Exception Cases
+CLASS_EXCEPTIONS: [
+  "External library classes (axios, cheerio, etc.)",
+  "Built-in JavaScript classes (Date, Error, etc.)",
+  "Third-party framework requirements"
+]
+# Only external/built-in classes are allowed, no custom classes
 
 ---
 

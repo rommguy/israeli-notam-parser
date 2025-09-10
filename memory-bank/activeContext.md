@@ -1,13 +1,17 @@
 # Active Context: NOTAM Parser for Israeli Aviation Authority
-*Version: 1.0*
+*Version: 1.1*
 *Created: 2025-01-27*
-*Last Updated: 2025-01-27*
-*Current RIPER Mode: RESEARCH*
+*Last Updated: 2025-09-10*
+*Current RIPER Mode: EXECUTE*
 
 ## Current Focus
-Successfully completed implementation of a React web application for NOTAM viewing and management. The web application provides a modern, user-friendly interface for the existing NOTAM data with comprehensive filtering, read/unread tracking, and statistics dashboard.
+Recently completed major refactoring of the codebase to adopt functional programming principles. All business logic has been converted from classes to pure functions, and coding rules have been established to prevent future class usage.
 
 ## Recent Changes
+- **2025-09-10**: Refactored NotamParser class to functional exports
+- **2025-09-10**: Updated CLI to use functional imports instead of class instantiation
+- **2025-09-10**: Added coding rules to enforce functional programming approach
+- **2025-09-10**: Updated system documentation to reflect functional architecture
 - 2025-01-27 - Created memory-bank directory structure and completed START phase
 - 2025-01-27 - Analyzed existing NOTAM Parser CLI codebase
 - 2025-01-27 - Implemented complete React web application with Material-UI
@@ -18,6 +22,9 @@ Successfully completed implementation of a React web application for NOTAM viewi
 - 2025-01-27 - Updated project documentation and README files
 
 ## Active Decisions
+- **FUNCTIONAL PROGRAMMING ENFORCED**: No custom classes allowed in this project - all business logic uses pure functions
+- **STATELESS ARCHITECTURE**: Functions don't maintain internal state, dependencies passed as parameters
+- **COMPOSITION OVER INHERITANCE**: Function composition replaces class hierarchies
 - **Web Application Architecture**: COMPLETED - React with Material-UI, TypeScript, and Vite
 - **State Management**: COMPLETED - React hooks with localStorage for persistence
 - **UI Framework**: COMPLETED - Material-UI with aviation-themed colors and responsive design

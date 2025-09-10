@@ -1,23 +1,30 @@
 # System Patterns: NOTAM Parser for Israeli Aviation Authority
-*Version: 1.0*
+*Version: 1.1*
 *Created: 2025-01-27*
-*Last Updated: 2025-01-27*
+*Last Updated: 2025-09-10*
 
 ## Architecture Overview
-The NOTAM Parser follows a modular, layered architecture with clear separation of concerns. The system is designed as a command-line application with three main layers: CLI interface, business logic, and data access. Each layer has specific responsibilities and communicates through well-defined interfaces.
+The NOTAM Parser follows a **functional programming architecture** with clear separation of concerns. The system is designed as a command-line application using stateless functions rather than classes. This approach emphasizes pure functions, immutability, and composition over inheritance.
 
 ## Key Components
-- **NotamCli**: CLI interface and argument parsing layer
-- **NotamParser**: Core business logic for NOTAM processing and filtering
-- **NotamScraper**: Data access layer for web scraping and HTML parsing
+- **NotamCli**: CLI interface and argument parsing (class retained for CLI structure)
+- **Parser Functions**: Stateless functions for NOTAM processing and filtering
+- **NotamScraper**: Data access layer for web scraping and HTML parsing (class retained for external library integration)
 - **Type Definitions**: TypeScript interfaces for type safety and data contracts
 
 ## Design Patterns in Use
-- **Command Pattern**: CLI interface encapsulates user commands and delegates to appropriate handlers
-- **Strategy Pattern**: Different filtering strategies (by date, airport, type) are implemented as separate methods
-- **Template Method Pattern**: Common NOTAM processing steps are defined in base methods with specific implementations
-- **Factory Pattern**: NotamParser creates and configures NotamScraper instances
-- **Data Transfer Object (DTO)**: NOTAM interface serves as a DTO for data transfer between layers
+- **Functional Composition**: Functions are composed together to build complex operations
+- **Pure Functions**: Most functions are pure with no side effects (filtering, formatting, parsing)
+- **Separation of Concerns**: Side effects (HTTP, file I/O) are isolated in dedicated functions
+- **Module Pattern**: Functions are grouped by responsibility and exported as modules
+- **Data Transfer Object (DTO)**: NOTAM interface serves as a DTO for data transfer between functions
+
+## Functional Programming Principles
+- **No Custom Classes**: All business logic implemented as pure functions
+- **Stateless Operations**: Functions don't maintain internal state
+- **Immutable Data**: Input data is never modified, new data structures are returned
+- **Explicit Dependencies**: All dependencies are passed as function parameters
+- **Side Effect Isolation**: File I/O and HTTP requests are contained in specific functions
 
 ## Data Flow
 ```
@@ -39,7 +46,8 @@ NotamParser.exportToJson() → File Export (optional)
 ```
 
 ## Key Technical Decisions
-- **Modular Architecture**: Separated concerns into distinct classes for maintainability and testability
+- **Functional Architecture**: Separated concerns into pure functions for maintainability and testability
+- **No Custom Classes**: Business logic implemented as stateless functions to avoid state management complexity
 - **TypeScript Types**: Comprehensive type definitions ensure data integrity and developer experience
 - **Error Handling**: Centralized error handling with specific error types for different failure scenarios
 - **Date Processing**: Multiple date format support with intelligent parsing and validation
@@ -47,10 +55,11 @@ NotamParser.exportToJson() → File Export (optional)
 - **File Management**: Automatic directory creation and path resolution for export functionality
 
 ## Component Relationships
-- **NotamCli** depends on **NotamParser** for all business logic
-- **NotamParser** depends on **NotamScraper** for data access
+- **NotamCli** imports and calls **parser functions** directly
+- **Parser functions** create **NotamScraper** instances as needed (dependency injection)
 - **NotamScraper** is independent and handles all web scraping concerns
 - **Type definitions** are shared across all components for consistency
+- **Functions are stateless** - no persistent relationships between calls
 
 ## Data Processing Pipeline
 1. **Fetch**: HTTP request to Israeli Aviation Authority website
