@@ -1,28 +1,72 @@
 # NOTAM Parser for Israeli Aviation Authority
 
-This script parses NOTAMs (Notice to Airmen) from the Israeli Aviation Authority website and allows filtering by flight date to show only NOTAMs that are valid during that specific date.
+A comprehensive toolkit for parsing and viewing NOTAMs (Notice to Airmen) from the Israeli Aviation Authority, featuring both a command-line interface and a modern web application.
 
-## Features
+## 🚀 Quick Start
 
-- Fetches live NOTAM data from https://brin.iaa.gov.il/aeroinfo/AeroInfo.aspx?msgType=Notam
-- Parses NOTAM structure including ID, ICAO codes, types, and validity dates
-- Filters NOTAMs by flight date to show only relevant notices
-- Supports additional filtering by ICAO airport code and NOTAM type
-- Exports filtered results to JSON format
-- Provides summary statistics
-- Command-line interface with ISO date format (YYYY-MM-DD)
-
-## Installation
-
+### Web Application (Recommended)
 ```bash
-# Install dependencies
-npm install
+npm run dev:web
+```
+Visit `http://localhost:5173` for an interactive NOTAM viewer with filtering, read/unread tracking, and statistics.
 
-# Run the parser
-npm run parse
+### Command Line Interface
+```bash
+npm run parse -- -d 2025-01-15 -i LLBG
 ```
 
-## Usage
+## 🌟 Features
+
+### Web Application
+- 📅 **Date Selection**: View NOTAMs for today or tomorrow
+- 🏢 **ICAO Filtering**: Multi-select filtering by Israeli airports/FIRs
+- ✅ **Read/Unread Tracking**: Mark NOTAMs as read with persistent storage
+- 📊 **Statistics Dashboard**: Real-time stats and completion tracking
+- 🗺️ **Google Maps Integration**: Clickable location links
+- 📱 **Responsive Design**: Mobile-friendly Material-UI interface
+
+### Command Line Interface
+- 🌐 **Live Data Fetching**: Direct from Israeli Aviation Authority
+- 🔍 **Advanced Filtering**: By date, ICAO code, and NOTAM type
+- 📤 **JSON Export**: Structured data export capabilities
+- 📈 **Summary Statistics**: Quick overview of NOTAM data
+- ⏰ **Automated Scheduling**: Daily GitHub Actions for data updates
+
+## 📦 Installation
+
+```bash
+# Install CLI dependencies
+npm install
+
+# Install web application dependencies
+npm run install:web
+
+# Or install both
+npm install && npm run install:web
+```
+
+## 💻 Usage
+
+### Web Application
+
+```bash
+# Start development server
+npm run dev:web
+
+# Build for production
+npm run build:web
+
+# Build both CLI and web app
+npm run build:all
+```
+
+The web application will be available at `http://localhost:5173` with:
+- Interactive NOTAM cards with read/unread status
+- Real-time filtering by date and ICAO codes
+- Statistics dashboard showing completion progress
+- Mobile-responsive Material-UI design
+
+### Command Line Interface
 
 **Important:** When using `npm run parse`, you must use `--` to separate npm arguments from script arguments.
 
@@ -122,14 +166,44 @@ npm run parse -- -d 2025-01-15 -t A -s
 npm run parse -- -d 2025-01-15 -e my-flight-notams.json
 ```
 
-## Development
+## 🏗️ Project Structure
 
+```
+notam-parser/
+├── web/                    # React web application
+│   ├── src/
+│   │   ├── components/     # UI components
+│   │   ├── hooks/          # Custom React hooks
+│   │   ├── services/       # Data loading
+│   │   └── types/          # TypeScript types
+│   └── public/data/        # NOTAM JSON files
+├── src/                    # CLI application
+│   ├── index.ts           # CLI entry point
+│   ├── parser.ts          # NOTAM parsing logic
+│   ├── scraper.ts         # Web scraping
+│   └── types.ts           # Shared type definitions
+├── daily-notams/          # Generated NOTAM data
+└── .github/workflows/     # Automated data fetching
+```
+
+## 🛠️ Development
+
+### CLI Development
 ```bash
 # Build TypeScript
 npm run build
 
 # Run with ts-node (development)
 npm start
+```
+
+### Web Development
+```bash
+# Start web development server
+npm run dev:web
+
+# Build web application
+npm run build:web
 ```
 
 ## Error Handling

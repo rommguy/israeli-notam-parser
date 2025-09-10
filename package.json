@@ -6,7 +6,11 @@
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "parse": "ts-node src/index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:web": "cd web && npm run dev",
+    "build:web": "cd web && npm run build",
+    "build:all": "npm run build && npm run build:web",
+    "install:web": "cd web && npm install"
   },
   "author": "",
   "license": "ISC",
