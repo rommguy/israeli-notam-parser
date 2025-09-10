@@ -118,10 +118,9 @@ results/*.xml
 results/*.csv
 results/*.txt
 
-# Test files
+# Test output files
 test-output/
-*.test.js
-*.test.ts
+*.test.js  # Compiled test files
 
 # Local configuration files
 config.local.*
