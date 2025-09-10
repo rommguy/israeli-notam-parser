@@ -1,5 +1,5 @@
 import { NOTAM, NotamFilterOptions, ParsedNotamData } from './types';
-import { NotamScraper } from './scraper';
+import { fetchNotams, parseHtmlContent } from './scraper';
 import { isWithinInterval, parseISO, format } from 'date-fns';
 
 /**
@@ -8,11 +8,10 @@ import { isWithinInterval, parseISO, format } from 'date-fns';
 export async function fetchAndParseNotams(): Promise<ParsedNotamData> {
   try {
     console.log('Fetching NOTAMs from Israeli Aviation Authority...');
-    const scraper = new NotamScraper();
-    const html = await scraper.fetchNotams();
+    const html = await fetchNotams();
     
     console.log('Parsing NOTAM data...');
-    const notams = scraper.parseHtmlContent(html);
+    const notams = parseHtmlContent(html);
     
     return {
       notams,
