@@ -1,10 +1,11 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { copyFileSync, existsSync, mkdirSync } from 'fs'
+import { copyFileSync, existsSync, mkdirSync, readdirSync } from 'fs'
 import { resolve } from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: process.env.NODE_ENV === 'production' ? '/israeli-notam-parser/' : '/',
   plugins: [
     react(),
     // Custom plugin to copy NOTAM data files
@@ -17,19 +18,26 @@ export default defineConfig({
           mkdirSync(dataDir, { recursive: true })
         }
 
-        // Copy JSON files from parent directory
+        // Copy all JSON files from parent directory
         const sourceDir = resolve(__dirname, '../daily-notams')
-        const files = ['2025-09-10.json', '2025-09-11.json']
         
-        files.forEach(file => {
-          const sourcePath = resolve(sourceDir, file)
-          const destPath = resolve(dataDir, file)
+        if (existsSync(sourceDir)) {
+          const files = readdirSync(sourceDir).filter(file => file.endsWith('.json'))
           
-          if (existsSync(sourcePath)) {
+          files.forEach(file => {
+            const sourcePath = resolve(sourceDir, file)
+            const destPath = resolve(dataDir, file)
+            
             copyFileSync(sourcePath, destPath)
             console.log(`Copied ${file} to public/data/`)
+          })
+          
+          if (files.length === 0) {
+            console.warn('No JSON files found in daily-notams directory')
           }
-        })
+        } else {
+          console.warn('daily-notams directory not found')
+        }
       }
     }
   ],

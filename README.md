@@ -4,7 +4,10 @@ A comprehensive toolkit for parsing and viewing NOTAMs (Notice to Airmen) from t
 
 ## 🚀 Quick Start
 
-### Web Application (Recommended)
+### 🌐 Live Demo
+**[View Live Application](https://rommguy.github.io/israeli-notam-parser/)**
+
+### Web Application (Local Development)
 ```bash
 npm run dev:web
 ```
