@@ -1,12 +1,12 @@
 export interface NOTAM {
   id: string;
   icaoCode: string;
-  type: 'A' | 'C' | 'R' | 'N'; // A=Aerodrome, C=En-route, R=Radar, N=Navigation
+  type: "A" | "C" | "R" | "N"; // A=Aerodrome, C=En-route, R=Radar, N=Navigation
   number: string;
   year: string;
   description: string;
-  validFrom?: Date;
-  validTo?: Date;
+  validFrom: Date;
+  validTo: Date;
   createdDate: Date; // When this NOTAM was parsed/created
   rawText: string;
   mapLink?: string; // Google Maps link for coordinates found in PSN
@@ -17,7 +17,7 @@ export interface NOTAM {
 export interface NotamFilterOptions {
   flightDate: Date;
   icaoCode?: string;
-  type?: NOTAM['type'];
+  type?: NOTAM["type"];
 }
 
 export interface ParsedNotamData {
