@@ -42,7 +42,7 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
 export const fetchNotams = async (
   page: Page,
   existingNotamIds: string[]
-): Promise<string[]> => {
+): Promise<NOTAM[]> => {
   const mainInfoDivs = await page.$$("[id^=divMainInfo]");
   const allItems = await Promise.all(
     mainInfoDivs.map(async (div) => {

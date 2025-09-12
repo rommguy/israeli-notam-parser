@@ -40,13 +40,6 @@ export function filterNotams(
     );
   }
 
-  // Filter by type if specified
-  if (options.type) {
-    filteredNotams = filteredNotams.filter(
-      (notam) => notam.type === options.type
-    );
-  }
-
   return filteredNotams;
 }
 
@@ -59,7 +52,6 @@ export function formatNotamForDisplay(notam: NOTAM): string {
   return [
     `ID: ${notam.id}`,
     `ICAO: ${notam.icaoCode}`,
-    `Type: ${getTypeDescription(notam.type)}`,
     notam.validFrom ?
       `Valid From: ${format(notam.validFrom, "dd MMM yyyy HH:mm")}`
     : "",
@@ -143,11 +135,6 @@ export async function exportDailyNotamsFromStorage(
         (notam) => notam.icaoCode === filterOptions.icaoCode?.toUpperCase()
       );
     }
-    if (filterOptions.type) {
-      notamsToExport = notamsToExport.filter(
-        (notam) => notam.type === filterOptions.type
-      );
-    }
   }
 
   await exportDailyNotams(notamsToExport, date, outputPath);
@@ -157,14 +144,6 @@ export async function exportDailyNotamsFromStorage(
  * Generate summary statistics for NOTAMs
  */
 export function generateSummary(notams: NOTAM[]): string {
-  const typeCount = notams.reduce(
-    (acc, notam) => {
-      acc[notam.type] = (acc[notam.type] || 0) + 1;
-      return acc;
-    },
-    {} as Record<string, number>
-  );
-
   const icaoCount = notams.reduce(
     (acc, notam) => {
       acc[notam.icaoCode] = (acc[notam.icaoCode] || 0) + 1;
@@ -175,12 +154,6 @@ export function generateSummary(notams: NOTAM[]): string {
 
   const summary = [
     `Total NOTAMs: ${notams.length}`,
-    "",
-    "By Type:",
-    ...Object.entries(typeCount).map(
-      ([type, count]) =>
-        `  ${getTypeDescription(type as NOTAM["type"])}: ${count}`
-    ),
     "",
     "By Airport/FIR:",
     ...Object.entries(icaoCount)
@@ -236,22 +209,4 @@ function getValidityString(notam: NOTAM): string {
     return `Until ${format(notam.validTo, "dd MMM yyyy HH:mm")}`;
   }
   return "";
-}
-
-/**
- * Get human-readable description for NOTAM type
- */
-function getTypeDescription(type: NOTAM["type"]): string {
-  switch (type) {
-    case "A":
-      return "Aerodrome";
-    case "C":
-      return "En-route";
-    case "R":
-      return "Radar";
-    case "N":
-      return "Navigation";
-    default:
-      return type;
-  }
 }
