@@ -58,8 +58,9 @@ export function extractDates(notam: NOTAM): void {
     /(?:TILL|UNTIL)\s+(\d{1,2}\s+[A-Z]{3}\s+\d{4}(?:\s+\d{2}:\d{2})?)/i;
   const tillMatch = searchText.match(tillPattern);
   if (tillMatch) {
-    const dateStr =
-      tillMatch[1].includes(":") ? tillMatch[1] : `${tillMatch[1]} 23:59`;
+    const dateStr = tillMatch[1].includes(":")
+      ? tillMatch[1]
+      : `${tillMatch[1]} 23:59`;
     notam.validTo = parseAlternativeDate(dateStr);
   }
 
@@ -148,7 +149,7 @@ export function extractMapLink(notam: NOTAM): void {
 export function convertToGoogleMapsUrl(coordinates: string): string | null {
   // Parse coordinates like 320024N0344404E
   const match = coordinates.match(
-    /(\d{2})(\d{2})(\d{2})N(\d{3})(\d{2})(\d{2})E/
+    /(\d{2})(\d{2})(\d{2})N(\d{3})(\d{2})(\d{2})E/,
   );
 
   if (!match) return null;
@@ -173,14 +174,6 @@ export function convertToGoogleMapsUrl(coordinates: string): string | null {
 }
 
 const hardCodedFetchedIds = [
-  "C2237/25",
-  "C2236/25",
-  "C2235/25",
-  "C2234/25",
-  "C2233/25",
-  "C2232/25",
-  "C2231/25",
-  "C2230/25",
   "C2228/25",
   "C2226/25",
   "C2227/25",
@@ -273,11 +266,45 @@ const hardCodedFetchedIds = [
   "A0759/25",
   "A0758/25",
   "A0757/25",
+  "C2048/25",
+  "A0748/25",
+  "C2005/25",
+  "A0722/25",
+  "A0695/25",
+  "C1840/25",
+  "A0694/25",
+  "C1839/25",
+  "C1737/25",
+  "C1710/25",
+  "A0675/25",
+  "C1659/25",
+  "C1646/25",
+  "C1473/25",
+  "C1326/25",
+  "C1324/25",
+  "C1313/25",
+  "C1312/25",
+  "C1288/25",
+  "A0482/25",
+  "A0449/25",
+  "A0448/25",
+  "A0447/25",
+  "A0445/25",
+  "A0446/25",
+  "C0731/25",
+  "C0042/25",
+  "C0037/25",
+  "C0035/25",
+  "C0036/25",
+  "C0033/25",
+  "C0034/25",
+  "A0042/25",
+  "A0018/25",
 ];
 
 export const fetchNotamsWithPlaywright = async (
   existingNotamIds: string[] = [],
-  config: Partial<PlaywrightConfig> = {}
+  config: Partial<PlaywrightConfig> = {},
 ): Promise<string[]> => {
   try {
     const page = await initParser(config);
