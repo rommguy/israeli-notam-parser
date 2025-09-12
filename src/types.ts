@@ -4,8 +4,8 @@ export interface NOTAM {
   number: string;
   year: string;
   description: string;
-  validFrom: Date;
-  validTo: Date;
+  validFrom: Date | null;
+  validTo: Date | null;
   createdDate: Date;
   rawText: string;
   mapLink?: string;

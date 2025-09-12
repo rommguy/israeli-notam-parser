@@ -1,6 +1,6 @@
 import { chromium, Page, ElementHandle } from "playwright";
 import { NOTAM, PlaywrightConfig, NotamExpansionResult } from "./types";
-import { parse } from "date-fns";
+import { parse, addYears } from "date-fns";
 
 // Constants
 const BASE_URL = "https://brin.iaa.gov.il/aeroinfo/AeroInfo.aspx?msgType=Notam";
@@ -41,6 +41,9 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  */
 
 export const parseDate = (dateString: string): Date => {
+  if (dateString.toLowerCase() === "perm") {
+    return addYears(new Date(), 3);
+  }
   if (dateString.length !== 10) {
     throw new Error("Date string must be exactly 10 characters (YYMMDDHHMM)");
   }
@@ -95,18 +98,17 @@ const createNotam = (data: Partial<NOTAM> & { id: string }): NOTAM => {
   };
 };
 
-const parseAaBc = async (
+export const parseAaBc = (
   notamId: string,
-  itemId: string,
-  moreInfoDiv: ElementHandle<HTMLTableCellElement>,
-): Promise<{ icaoCode: string; validFrom: Date; validTo: Date }> => {
-  const allMoreMsgElm = await moreInfoDiv.$$(".more_MsgText");
-  const allMoreMsgText = await Promise.all(
-    allMoreMsgElm.map(async (elm) => await elm.innerText()),
-  );
+  allMoreMsgText: string[],
+): {
+  icaoCode: string;
+  validFrom: Date | null;
+  validTo: Date | null;
+} => {
   const aBcText = allMoreMsgText.find((text) => text.includes("A)"));
   const aBcMatch = aBcText?.match(
-    /A\)\s+(\w+)\s+B\)\s+(\d{10})\s+C\)\s+(\d{10})/,
+    /A\)\s+(\w+)\s+B\)\s+(\d{10})\s+C\)\s*(\d{10}|PERM)/,
   );
 
   const icaoCodeRaw = aBcMatch?.[1];
@@ -114,16 +116,24 @@ const parseAaBc = async (
   const validToRaw = aBcMatch?.[3];
   if (!icaoCodeRaw || !validFromRaw || !validToRaw) {
     console.error(
-      `ICAO code, valid from or valid to not found for item id: ${itemId}, notam id: ${notamId}`,
+      `ICAO code, valid from or valid to not found for notam id: ${notamId}`,
     );
-    return createNotam({
-      id: notamId,
-    });
+    return { icaoCode: "", validFrom: null, validTo: null };
   }
   const icaoCode = icaoCodeRaw.trim();
   const validFrom = parseDate(validFromRaw.trim());
   const validTo = parseDate(validToRaw.trim());
   return { icaoCode, validFrom, validTo };
+};
+
+export const parseQ = async (
+  notamId: string,
+  allMoreMsgText: string[],
+): Promise<{ mapLink: string }> => {
+  const qText = allMoreMsgText.find((text) => text.includes("Q)"));
+  const qMatch = qText?.match(/Q\)\s+[\w\/\s]+\/(\d{4}[NS]\d{5}[EW]\d{3})/);
+  const coordinates = qMatch?.[1];
+  return { mapLink: coordinates || "" };
 };
 
 const parseNotam =
@@ -162,11 +172,12 @@ const parseNotam =
         id: notamId,
       });
     }
-    const { icaoCode, validFrom, validTo } = await parseAaBc(
-      notamId,
-      itemId,
-      moreInfoDiv as ElementHandle<HTMLTableCellElement>,
+    const allMoreMsgElm = await moreInfoDiv.$$(".more_MsgText");
+    const allMoreMsgText = await Promise.all(
+      allMoreMsgElm.map(async (elm) => await elm.innerText()),
     );
+    const { icaoCode, validFrom, validTo } = parseAaBc(notamId, allMoreMsgText);
+    const { mapLink } = await parseQ(notamId, allMoreMsgText);
 
     return createNotam({
       id: notamId,
@@ -175,6 +186,7 @@ const parseNotam =
       validTo,
       description: notamContent.join(" "),
       rawText: notamContent.join(" "),
+      mapLink,
     });
   };
 
