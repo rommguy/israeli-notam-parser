@@ -89,12 +89,12 @@ const createNotam = (data: Partial<NOTAM> & { id: string }): NOTAM => {
     id: data.id,
     icaoCode: data.icaoCode || "",
     number: data.number || "",
-    year: data.year || "",
     description: data.description || "",
     validFrom: data.validFrom || new Date(),
     validTo: data.validTo || new Date(),
     createdDate: new Date(),
     rawText: data.rawText || "",
+    mapLink: data.mapLink || "",
   };
 };
 
