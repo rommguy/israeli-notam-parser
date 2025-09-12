@@ -133,7 +133,35 @@ export const parseQ = async (
   const qText = allMoreMsgText.find((text) => text.includes("Q)"));
   const qMatch = qText?.match(/Q\)\s+[\w\/\s]+\/(\d{4}[NS]\d{5}[EW]\d{3})/);
   const coordinates = qMatch?.[1];
-  return { mapLink: coordinates || "" };
+
+  if (!coordinates) {
+    return { mapLink: "" };
+  }
+
+  // Parse coordinates format: 3149N03458E001
+  // 3149N = 31.49° North, 03458E = 34.58° East, 001 = radius (ignored)
+  const coordMatch = coordinates.match(/(\d{4})([NS])(\d{5})([EW])\d{3}/);
+
+  if (!coordMatch) {
+    console.error(
+      `Could not parse coordinates format: ${coordinates} for NOTAM ${notamId}`,
+    );
+    return { mapLink: "" };
+  }
+
+  const [, latRaw, latDir, lonRaw, lonDir] = coordMatch;
+
+  // Convert to decimal degrees, max 2 digits after the decimal point
+  const lat = (
+    parseInt(latRaw.slice(0, 2)) +
+    parseInt(latRaw.slice(2, 4)) / 60
+  ).toFixed(2);
+  const lon = (
+    parseInt(lonRaw.slice(0, 3)) +
+    parseInt(lonRaw.slice(3, 5)) / 60
+  ).toFixed(2);
+  const googleMapsUrl = `https://www.google.com/maps?q=${lat},${lon}`;
+  return { mapLink: googleMapsUrl };
 };
 
 const parseNotam =
