@@ -20,7 +20,7 @@ export function cleanText(text: string): string {
  */
 export function extractDates(notam: NOTAM): void {
   // Search in both description, raw text, and expanded content for date patterns
-  const searchText = `${notam.description} ${notam.rawText} ${notam.expandedContent || ""}`;
+  const searchText = `${notam.description} ${notam.rawText} `;
 
   // Pattern 1: Standard NOTAM format "FROM 2501011200 TO 2501012359"
   const datePattern = /(?:FROM|FM)\s+(\d{10})\s+(?:TO|TILL)\s+(\d{10})/i;
@@ -128,7 +128,7 @@ export function parseAlternativeDate(dateStr: string): Date {
  */
 export function extractMapLink(notam: NOTAM): void {
   // Search in description, raw text, and expanded content for coordinate patterns
-  const searchText = `${notam.description} ${notam.rawText} ${notam.expandedContent || ""}`;
+  const searchText = `${notam.description} ${notam.rawText}`;
 
   // Pattern for coordinates like: PSN 320024N0344404E
   const coordinatePattern = /PSN\s+(\d{6}N\d{7}E)/i;
@@ -305,11 +305,10 @@ const hardCodedFetchedIds = [
 export const fetchNotamsWithPlaywright = async (
   existingNotamIds: string[] = [],
   config: Partial<PlaywrightConfig> = {},
-): Promise<string[]> => {
+): Promise<NOTAM[]> => {
   try {
     const page = await initParser(config);
-    const notamIdsToScrape = await fetchNotams(page, hardCodedFetchedIds);
-    return notamIdsToScrape;
+    return await fetchNotams(page, hardCodedFetchedIds);
   } finally {
     await [];
   }

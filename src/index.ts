@@ -8,7 +8,7 @@ import {
   exportToJson,
 } from "./parser";
 import { fetchNotamsWithPlaywright } from "./scraperUtils";
-import { NotamFilterOptions } from "./types";
+import { NOTAM, NotamFilterOptions } from "./types";
 import { parseISO, format, isValid } from "date-fns";
 
 interface CliOptions {
@@ -24,7 +24,7 @@ interface CliOptions {
 }
 
 class NotamCli {
-  async fetchNotamIdsToScrape(): Promise<string[]> {
+  async fetchNotamIdsToScrape(): Promise<NOTAM[]> {
     return await fetchNotamsWithPlaywright();
   }
 
@@ -156,9 +156,8 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-  const notamIdsToScrape = cli.fetchNotamIdsToScrape().then((notamIds) => {
-    console.log(notamIds);
-    return notamIds;
+  cli.fetchNotamIdsToScrape().then((notams) => {
+    console.log(notams);
   });
 }
 

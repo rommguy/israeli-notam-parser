@@ -17,17 +17,18 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
 };
 
 /**
- * Parsing logic plan:
- * Fetch and parse NOTAMs with dynamic content expansion
+ DOM structure of the NOTAM page:
  * document.querySelectorAll('[id^=divMainInfo]').length - brings all main info divs for NOTAMs - the item id is after _ for example id=divMainInfo_1920055
  * document.querySelectorAll('[id^=divMoreInfo]').length - brings all more info divs for NOTAMs - same item id as the main info for example id=divMoreInfo_1920055
  * both divs are nested under a <td> element
  * When expanding - the main info div gets display:none, the more info gets display:inline and the other way around when collapsing
- *
+ * 
+ * Parsing logic plan:
+ * Fetch and parse NOTAMs with dynamic content expansion*
  * Start by finding all main info divs, the extract the item ids from them and the NOTAM id from their content
  * the NOTAM id is in the first element under the main info div with class "NotamID"
  * For each NOTAM in the page:
- *   If that NOTAM id is already parsed skip it -
+ *   If that NOTAM id is already parsed skip it
  *   Find all elements under the main info div with class "MsgText" and combine their content - that's the NOTAM content
  *   Then Expand that notam
  *   Expanding is done by clicking on the first <img> element under the main info div
@@ -39,26 +40,82 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  *
  */
 
+const parseNotam = async (
+  page: Page,
+  notamId: string,
+  itemId: string
+): Promise<NOTAM> => {
+  const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
+  const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
+
+  if (!mainInfoDiv || !moreInfoDiv) {
+    console.error(
+      `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`
+    );
+    return {
+      id: notamId,
+      icaoCode: "",
+      number: "",
+      year: "",
+      description: "",
+      validFrom: new Date(),
+      validTo: new Date(),
+      createdDate: new Date(),
+      rawText: "",
+    };
+  }
+
+  const notamContentElements = await mainInfoDiv.$$(".MsgText");
+  const notamContent = await Promise.all(
+    notamContentElements.map(async (element) => {
+      return await element.innerText();
+    })
+  );
+
+  return {
+    id: notamId,
+    icaoCode: "",
+    number: "",
+    year: "",
+    description: notamContent.join(" "),
+    validFrom: new Date(),
+    validTo: new Date(),
+    createdDate: new Date(),
+    rawText: notamContent.join(" "),
+  };
+};
+
 export const fetchNotams = async (
   page: Page,
   existingNotamIds: string[]
 ): Promise<NOTAM[]> => {
   const mainInfoDivs = await page.$$("[id^=divMainInfo]");
-  const allItems = await Promise.all(
-    mainInfoDivs.map(async (div) => {
-      const itemId = (await div.getAttribute("id"))?.split("_")[1];
-      // find the first element under the main info div with class "NotamID"
-      const notamIdElm = (await div.$$(".NotamID"))?.[0];
-      const notamId = (await notamIdElm?.innerText()).trim();
+  const allItems: Array<{ itemId: string; notamId: string }> =
+    await Promise.all(
+      mainInfoDivs.map(async (div) => {
+        const itemId = (await div.getAttribute("id"))?.split("_")[1];
+        if (!itemId) {
+          return { itemId: "", notamId: "" };
+        }
+        // find the first element under the main info div with class "NotamID"
+        const notamIdElm = (await div.$$(".NotamID"))?.[0];
+        const notamId = (await notamIdElm?.innerText()).trim();
 
-      return { itemId, notamId };
-    })
-  );
+        return { itemId, notamId };
+      })
+    );
   const itemsToParse = allItems.filter(
     (item) => !existingNotamIds.includes(item.notamId)
   );
 
-  return itemsToParse.map((item) => item.notamId);
+  const parsedNotams = await Promise.all(
+    itemsToParse.map(async (item) => {
+      const notam = await parseNotam(page, item.notamId, item.itemId);
+      return notam;
+    })
+  );
+
+  return parsedNotams;
 };
 
 export const initParser = async (
