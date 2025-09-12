@@ -1,4 +1,4 @@
-import { parseDate } from "../src/playwrightScraper";
+import { parseDate } from "../src/scraper";
 
 describe("scaper tests", () => {
   describe("parseDate", () => {
@@ -18,7 +18,7 @@ describe("scaper tests", () => {
       const invalidDateString = "250115143"; // 9 characters instead of 10
 
       expect(() => parseDate(invalidDateString)).toThrow(
-        "Date string must be exactly 10 characters (YYMMDDHHMM)",
+        "Date string must be exactly 10 characters (YYMMDDHHMM)"
       );
     });
   });
