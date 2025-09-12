@@ -1,7 +1,14 @@
-import { chromium, Browser, Page, BrowserContext } from "playwright";
+import {
+  chromium,
+  Browser,
+  Page,
+  BrowserContext,
+  ElementHandle,
+} from "playwright";
 import * as cheerio from "cheerio";
 import { NOTAM, PlaywrightConfig, NotamExpansionResult } from "./types";
 import { cleanText, extractDates, extractMapLink } from "./scraperUtils";
+import { parse } from "date-fns";
 
 // Constants
 const BASE_URL = "https://brin.iaa.gov.il/aeroinfo/AeroInfo.aspx?msgType=Notam";
@@ -12,7 +19,7 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
   viewport: { width: 1280, height: 720 },
   userAgent:
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-  slowMo: 100, // Small delay between actions
+  slowMo: 100,
   devtools: false,
 };
 
@@ -34,11 +41,92 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  *   Expanding is done by clicking on the first <img> element under the main info div
  *   Wait for the display property to become "none" for the main info and not "none" for the more info div with the same item id.
  *   Then, extract data from the more info
- *   find the <td> element with Q) and read the coordinates if exist. example Q) LLLL/QWMLW/IV/BO /W /000/120/3105N03454E001
  *   find the <td> element with A) B) and C) and extract ICAO code A), valid from B) and valid to C). Example -  A) LLLL B) 2509070500 C) 2509181500
  *   Find the <td> element with D) and add that to the content field before the content extracted from the MsgText elements
+ *   find the <td> element with Q) and read the coordinates if exist. example Q) LLLL/QWMLW/IV/BO /W /000/120/3105N03454E001
+ *   
  *
  */
+
+const parseDate = (dateString: string): Date => {
+  if (dateString.length !== 10) {
+    throw new Error("Date string must be exactly 10 characters (YYMMDDHHMM)");
+  }
+  return parse(dateString, "yyMMddHHmm", new Date());
+};
+
+const expandNotam = async (page: Page, itemId: string) => {
+  const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
+  if (!mainInfoDiv) {
+    console.error(
+      `Main info or more info div not found for item id: ${itemId}`
+    );
+    return;
+  }
+
+  const img = await mainInfoDiv.$("img");
+  if (!img) {
+    console.error(`Img element not found for item id: ${itemId}`);
+    return;
+  }
+  await img.click();
+
+  await page.waitForFunction((itemId: string) => {
+    const moreInfoDiv = document.getElementById(`divMoreInfo_${itemId}`);
+    const moreInfoElm = moreInfoDiv?.querySelectorAll(".more_MsgText") || [];
+    return (
+      document.getElementById(`divMainInfo_${itemId}`)?.style.display ===
+        "none" &&
+      moreInfoDiv?.style.display !== "none" &&
+      moreInfoElm.length > 0
+    );
+  }, itemId);
+};
+
+const createNotam = (data: Partial<NOTAM> & { id: string }): NOTAM => {
+  return {
+    id: data.id,
+    icaoCode: data.icaoCode || "",
+    number: data.number || "",
+    year: data.year || "",
+    description: data.description || "",
+    validFrom: data.validFrom || new Date(),
+    validTo: data.validTo || new Date(),
+    createdDate: new Date(),
+    rawText: data.rawText || "",
+  };
+};
+
+const parseAaBc = async (
+  notamId: string,
+  itemId: string,
+  moreInfoDiv: ElementHandle<HTMLTableCellElement>
+): Promise<{ icaoCode: string; validFrom: Date; validTo: Date }> => {
+  const allMoreMsgElm = await moreInfoDiv.$$(".more_MsgText");
+  const allMoreMsgText = await Promise.all(
+    allMoreMsgElm.map(async (elm) => await elm.innerText())
+  );
+  const aBcText = allMoreMsgText.find((text) => text.includes("A)"));
+  const aBcMatch = aBcText?.match(
+    /A\)\s+(\w+)\s+B\)\s+(\d{10})\s+C\)\s+(\d{10})/
+  );
+
+  const icaoCodeRaw = aBcMatch?.[1];
+  const validFromRaw = aBcMatch?.[2];
+  const validToRaw = aBcMatch?.[3];
+  if (!icaoCodeRaw || !validFromRaw || !validToRaw) {
+    console.error(
+      `ICAO code, valid from or valid to not found for item id: ${itemId}, notam id: ${notamId}`
+    );
+    return createNotam({
+      id: notamId,
+    });
+  }
+  const icaoCode = icaoCodeRaw.trim();
+  const validFrom = parseDate(validFromRaw.trim());
+  const validTo = parseDate(validToRaw.trim());
+  return { icaoCode, validFrom, validTo };
+};
 
 const parseNotam =
   (page: Page) =>
@@ -50,23 +138,14 @@ const parseNotam =
     itemId: string;
   }): Promise<NOTAM> => {
     const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
-    const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
 
-    if (!mainInfoDiv || !moreInfoDiv) {
+    if (!mainInfoDiv) {
       console.error(
         `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`
       );
-      return {
+      return createNotam({
         id: notamId,
-        icaoCode: "",
-        number: "",
-        year: "",
-        description: "",
-        validFrom: new Date(),
-        validTo: new Date(),
-        createdDate: new Date(),
-        rawText: "",
-      };
+      });
     }
 
     const notamContentElements = await mainInfoDiv.$$(".MsgText");
@@ -75,18 +154,30 @@ const parseNotam =
         return await element.innerText();
       })
     );
+    await expandNotam(page, itemId);
+    const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
+    if (!moreInfoDiv) {
+      console.error(
+        `More info div not found for item id: ${itemId}, notam id: ${notamId}`
+      );
+      return createNotam({
+        id: notamId,
+      });
+    }
+    const { icaoCode, validFrom, validTo } = await parseAaBc(
+      notamId,
+      itemId,
+      moreInfoDiv as ElementHandle<HTMLTableCellElement>
+    );
 
-    return {
+    return createNotam({
       id: notamId,
-      icaoCode: "",
-      number: "",
-      year: "",
+      icaoCode,
+      validFrom,
+      validTo,
       description: notamContent.join(" "),
-      validFrom: new Date(),
-      validTo: new Date(),
-      createdDate: new Date(),
       rawText: notamContent.join(" "),
-    };
+    });
   };
 
 export const fetchNotams = async (
@@ -101,7 +192,7 @@ export const fetchNotams = async (
         if (!itemId) {
           return { itemId: "", notamId: "" };
         }
-        // find the first element under the main info div with class "NotamID"
+
         const notamIdElm = (await div.$$(".NotamID"))?.[0];
         const notamId = (await notamIdElm?.innerText()).trim();
 
@@ -112,7 +203,11 @@ export const fetchNotams = async (
     (item) => !existingNotamIds.includes(item.notamId)
   );
 
-  const parsedNotams = await Promise.all(itemsToParse.map(parseNotam(page)));
+  const parsedNotams: NOTAM[] = [];
+  for (const item of itemsToParse) {
+    const parsedNotam = await parseNotam(page)(item);
+    parsedNotams.push(parsedNotam);
+  }
 
   return parsedNotams;
 };
