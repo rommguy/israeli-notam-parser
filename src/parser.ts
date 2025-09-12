@@ -1,10 +1,5 @@
-import {
-  NOTAM,
-  NotamFilterOptions,
-  ParsedNotamData,
-  PlaywrightConfig,
-} from "./types";
-import { fetchNotamsWithPlaywright } from "./scraperUtils";
+import { NOTAM, NotamFilterOptions, ParsedNotamData } from "./types";
+
 import {
   loadExistingNotams,
   saveNotams,
@@ -26,7 +21,7 @@ export function filterNotamsByDate(notams: NOTAM[], flightDate: Date): NOTAM[] {
  */
 export function filterNotams(
   notams: NOTAM[],
-  options: NotamFilterOptions
+  options: NotamFilterOptions,
 ): NOTAM[] {
   let filteredNotams = notams;
 
@@ -36,7 +31,7 @@ export function filterNotams(
   // Filter by ICAO code if specified
   if (options.icaoCode) {
     filteredNotams = filteredNotams.filter(
-      (notam) => notam.icaoCode === options.icaoCode?.toUpperCase()
+      (notam) => notam.icaoCode === options.icaoCode?.toUpperCase(),
     );
   }
 
@@ -52,15 +47,15 @@ export function formatNotamForDisplay(notam: NOTAM): string {
   return [
     `ID: ${notam.id}`,
     `ICAO: ${notam.icaoCode}`,
-    notam.validFrom ?
-      `Valid From: ${format(notam.validFrom, "dd MMM yyyy HH:mm")}`
-    : "",
-    notam.validTo ?
-      `Valid To: ${format(notam.validTo, "dd MMM yyyy HH:mm")}`
-    : "",
-    !notam.validFrom && !notam.validTo ?
-      "Validity: Not specified (assumed current)"
-    : "",
+    notam.validFrom
+      ? `Valid From: ${format(notam.validFrom, "dd MMM yyyy HH:mm")}`
+      : "",
+    notam.validTo
+      ? `Valid To: ${format(notam.validTo, "dd MMM yyyy HH:mm")}`
+      : "",
+    !notam.validFrom && !notam.validTo
+      ? "Validity: Not specified (assumed current)"
+      : "",
     `Description: ${notam.description}`,
     "---",
   ]
@@ -117,7 +112,7 @@ export function exportToJson(data: ParsedNotamData, filePath?: string): string {
 export async function exportDailyNotamsFromStorage(
   date: string,
   outputPath: string,
-  filterOptions?: Partial<NotamFilterOptions>
+  filterOptions?: Partial<NotamFilterOptions>,
 ): Promise<void> {
   const storage = await loadExistingNotams();
   let notamsToExport = storage.notams;
@@ -127,12 +122,12 @@ export async function exportDailyNotamsFromStorage(
     if (filterOptions.flightDate) {
       notamsToExport = filterNotamsByDate(
         notamsToExport,
-        filterOptions.flightDate
+        filterOptions.flightDate,
       );
     }
     if (filterOptions.icaoCode) {
       notamsToExport = notamsToExport.filter(
-        (notam) => notam.icaoCode === filterOptions.icaoCode?.toUpperCase()
+        (notam) => notam.icaoCode === filterOptions.icaoCode?.toUpperCase(),
       );
     }
   }
@@ -149,7 +144,7 @@ export function generateSummary(notams: NOTAM[]): string {
       acc[notam.icaoCode] = (acc[notam.icaoCode] || 0) + 1;
       return acc;
     },
-    {} as Record<string, number>
+    {} as Record<string, number>,
   );
 
   const summary = [

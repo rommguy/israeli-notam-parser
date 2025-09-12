@@ -1,14 +1,5 @@
-#!/usr/bin/env node
-
-import {
-  exportDailyNotamsFromStorage,
-  filterNotams,
-  formatNotamForDisplay,
-  generateSummary,
-  exportToJson,
-} from "./parser";
-import { fetchNotamsWithPlaywright } from "./scraperUtils";
-import { NOTAM, NotamFilterOptions } from "./types";
+import { initParser, fetchNotams } from "./scraper";
+import { NOTAM } from "./types";
 import { parseISO, format, isValid } from "date-fns";
 
 interface CliOptions {
@@ -152,10 +143,13 @@ const hardCodedFetchedIds = [
 ];
 
 class NotamCli {
-  async fetchNotamIdsToScrape(): Promise<NOTAM[]> {
-    return await fetchNotamsWithPlaywright(hardCodedFetchedIds, {
-      headless: false,
-    });
+  async fetchNotamIdsToScrape(existingNotamIds: string[]): Promise<NOTAM[]> {
+    try {
+      const page = await initParser({ headless: false });
+      return await fetchNotams(page, existingNotamIds);
+    } finally {
+      await [];
+    }
   }
 
   private parseArgs(): CliOptions {
@@ -286,7 +280,7 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-  cli.fetchNotamIdsToScrape().then((notams) => {
+  cli.fetchNotamIdsToScrape(hardCodedFetchedIds).then((notams) => {
     console.log(notams);
   });
 }
