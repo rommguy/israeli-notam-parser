@@ -48,18 +48,24 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  *
  */
 
-const parseDate = (dateString: string): Date => {
+export const parseDate = (dateString: string): Date => {
   if (dateString.length !== 10) {
     throw new Error("Date string must be exactly 10 characters (YYMMDDHHMM)");
   }
-  return parse(dateString, "yyMMddHHmm", new Date());
+
+  // need this in UTC as the dateString is also in UTC
+  return parse(
+    `20${dateString} +00:00`,
+    "yyyyMMddHHmm xxx",
+    new Date(0, 0, 0, 0, 0, 0, 0),
+  );
 };
 
 const expandNotam = async (page: Page, itemId: string) => {
   const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
   if (!mainInfoDiv) {
     console.error(
-      `Main info or more info div not found for item id: ${itemId}`
+      `Main info or more info div not found for item id: ${itemId}`,
     );
     return;
   }
@@ -100,15 +106,15 @@ const createNotam = (data: Partial<NOTAM> & { id: string }): NOTAM => {
 const parseAaBc = async (
   notamId: string,
   itemId: string,
-  moreInfoDiv: ElementHandle<HTMLTableCellElement>
+  moreInfoDiv: ElementHandle<HTMLTableCellElement>,
 ): Promise<{ icaoCode: string; validFrom: Date; validTo: Date }> => {
   const allMoreMsgElm = await moreInfoDiv.$$(".more_MsgText");
   const allMoreMsgText = await Promise.all(
-    allMoreMsgElm.map(async (elm) => await elm.innerText())
+    allMoreMsgElm.map(async (elm) => await elm.innerText()),
   );
   const aBcText = allMoreMsgText.find((text) => text.includes("A)"));
   const aBcMatch = aBcText?.match(
-    /A\)\s+(\w+)\s+B\)\s+(\d{10})\s+C\)\s+(\d{10})/
+    /A\)\s+(\w+)\s+B\)\s+(\d{10})\s+C\)\s+(\d{10})/,
   );
 
   const icaoCodeRaw = aBcMatch?.[1];
@@ -116,7 +122,7 @@ const parseAaBc = async (
   const validToRaw = aBcMatch?.[3];
   if (!icaoCodeRaw || !validFromRaw || !validToRaw) {
     console.error(
-      `ICAO code, valid from or valid to not found for item id: ${itemId}, notam id: ${notamId}`
+      `ICAO code, valid from or valid to not found for item id: ${itemId}, notam id: ${notamId}`,
     );
     return createNotam({
       id: notamId,
@@ -141,7 +147,7 @@ const parseNotam =
 
     if (!mainInfoDiv) {
       console.error(
-        `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`
+        `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`,
       );
       return createNotam({
         id: notamId,
@@ -152,13 +158,13 @@ const parseNotam =
     const notamContent = await Promise.all(
       notamContentElements.map(async (element) => {
         return await element.innerText();
-      })
+      }),
     );
     await expandNotam(page, itemId);
     const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
     if (!moreInfoDiv) {
       console.error(
-        `More info div not found for item id: ${itemId}, notam id: ${notamId}`
+        `More info div not found for item id: ${itemId}, notam id: ${notamId}`,
       );
       return createNotam({
         id: notamId,
@@ -167,7 +173,7 @@ const parseNotam =
     const { icaoCode, validFrom, validTo } = await parseAaBc(
       notamId,
       itemId,
-      moreInfoDiv as ElementHandle<HTMLTableCellElement>
+      moreInfoDiv as ElementHandle<HTMLTableCellElement>,
     );
 
     return createNotam({
@@ -182,7 +188,7 @@ const parseNotam =
 
 export const fetchNotams = async (
   page: Page,
-  existingNotamIds: string[]
+  existingNotamIds: string[],
 ): Promise<NOTAM[]> => {
   const mainInfoDivs = await page.$$("[id^=divMainInfo]");
   const allItems: Array<{ itemId: string; notamId: string }> =
@@ -197,10 +203,10 @@ export const fetchNotams = async (
         const notamId = (await notamIdElm?.innerText()).trim();
 
         return { itemId, notamId };
-      })
+      }),
     );
   const itemsToParse = allItems.filter(
-    (item) => !existingNotamIds.includes(item.notamId)
+    (item) => !existingNotamIds.includes(item.notamId),
   );
 
   const parsedNotams: NOTAM[] = [];
@@ -213,7 +219,7 @@ export const fetchNotams = async (
 };
 
 export const initParser = async (
-  config: Partial<PlaywrightConfig>
+  config: Partial<PlaywrightConfig>,
 ): Promise<Page> => {
   console.log("Launching browser...");
   const browser = await chromium.launch({
