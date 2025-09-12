@@ -40,50 +40,54 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  *
  */
 
-const parseNotam = async (
-  page: Page,
-  notamId: string,
-  itemId: string
-): Promise<NOTAM> => {
-  const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
-  const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
+const parseNotam =
+  (page: Page) =>
+  async ({
+    notamId,
+    itemId,
+  }: {
+    notamId: string;
+    itemId: string;
+  }): Promise<NOTAM> => {
+    const mainInfoDiv = await page.$(`[id=divMainInfo_${itemId}]`);
+    const moreInfoDiv = await page.$(`[id=divMoreInfo_${itemId}]`);
 
-  if (!mainInfoDiv || !moreInfoDiv) {
-    console.error(
-      `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`
+    if (!mainInfoDiv || !moreInfoDiv) {
+      console.error(
+        `Main info or more info div not found for item id: ${itemId}, notam id: ${notamId}`
+      );
+      return {
+        id: notamId,
+        icaoCode: "",
+        number: "",
+        year: "",
+        description: "",
+        validFrom: new Date(),
+        validTo: new Date(),
+        createdDate: new Date(),
+        rawText: "",
+      };
+    }
+
+    const notamContentElements = await mainInfoDiv.$$(".MsgText");
+    const notamContent = await Promise.all(
+      notamContentElements.map(async (element) => {
+        return await element.innerText();
+      })
     );
+
     return {
       id: notamId,
       icaoCode: "",
       number: "",
       year: "",
-      description: "",
+      description: notamContent.join(" "),
       validFrom: new Date(),
       validTo: new Date(),
       createdDate: new Date(),
-      rawText: "",
+      rawText: notamContent.join(" "),
     };
-  }
-
-  const notamContentElements = await mainInfoDiv.$$(".MsgText");
-  const notamContent = await Promise.all(
-    notamContentElements.map(async (element) => {
-      return await element.innerText();
-    })
-  );
-
-  return {
-    id: notamId,
-    icaoCode: "",
-    number: "",
-    year: "",
-    description: notamContent.join(" "),
-    validFrom: new Date(),
-    validTo: new Date(),
-    createdDate: new Date(),
-    rawText: notamContent.join(" "),
   };
-};
 
 export const fetchNotams = async (
   page: Page,
@@ -108,12 +112,7 @@ export const fetchNotams = async (
     (item) => !existingNotamIds.includes(item.notamId)
   );
 
-  const parsedNotams = await Promise.all(
-    itemsToParse.map(async (item) => {
-      const notam = await parseNotam(page, item.notamId, item.itemId);
-      return notam;
-    })
-  );
+  const parsedNotams = await Promise.all(itemsToParse.map(parseNotam(page)));
 
   return parsedNotams;
 };
