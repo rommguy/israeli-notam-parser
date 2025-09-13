@@ -1,6 +1,8 @@
 import { initParser, fetchNotams } from "./scraper";
 import { NOTAM } from "./types";
 import { parseISO, format, isValid } from "date-fns";
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from "fs";
+import { join, dirname } from "path";
 
 interface CliOptions {
   flightDate?: string;
@@ -142,6 +144,64 @@ const hardCodedFetchedIds = [
   "A0018/25",
 ];
 
+interface NotamFileData {
+  notams: NOTAM[];
+  totalCount: number;
+  lastUpdated: string;
+}
+
+function saveNotamsToFile(notams: NOTAM[]): void {
+  const fullPath = join(process.cwd(), "daily-notams", "notams.json");
+
+  const dir = dirname(fullPath);
+  if (!existsSync(dir)) {
+    mkdirSync(dir, { recursive: true });
+  }
+
+  let existingNotams: NOTAM[] = [];
+  let existingData: NotamFileData | null = null;
+
+  if (existsSync(fullPath)) {
+    try {
+      const fileContent = readFileSync(fullPath, "utf-8");
+      existingData = JSON.parse(fileContent) as NotamFileData;
+      existingNotams = existingData.notams || [];
+    } catch (error) {
+      console.warn(`Warning: Could not read existing file ${fullPath}:`, error);
+      existingNotams = [];
+    }
+  }
+
+  // Merge new NOTAMs with existing ones, avoiding duplicates
+  const existingIds = new Set(existingNotams.map((notam) => notam.id));
+  const newNotams = notams.filter((notam) => !existingIds.has(notam.id));
+
+  const mergedNotams = [...existingNotams, ...newNotams];
+
+  // Create the file data structure
+  const fileData: NotamFileData = {
+    notams: mergedNotams,
+    totalCount: mergedNotams.length,
+    lastUpdated: new Date().toISOString(),
+  };
+
+  // Write to file
+  try {
+    writeFileSync(fullPath, JSON.stringify(fileData, null, 2), "utf-8");
+    console.log(`✅ Saved ${newNotams.length} new NOTAMs to ${fullPath}`);
+    console.log(`📊 Total NOTAMs in file: ${mergedNotams.length}`);
+
+    if (newNotams.length === 0) {
+      console.log(
+        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`
+      );
+    }
+  } catch (error) {
+    console.error(`❌ Error saving NOTAMs to ${fullPath}:`, error);
+    throw error;
+  }
+}
+
 class NotamCli {
   async scrapeMissingNotams(existingNotamIds: string[]): Promise<NOTAM[]> {
     try {
@@ -281,8 +341,18 @@ ICAO Codes for Israeli Airports:
 if (require.main === module) {
   const cli = new NotamCli();
   cli.scrapeMissingNotams(hardCodedFetchedIds).then((notams) => {
+    console.log(`🔍 Scraped ${notams.length} NOTAMs`);
+
+    // Automatically save the results to a JSON file
+    if (notams.length > 0) {
+      saveNotamsToFile(notams);
+    } else {
+      console.log("ℹ️  No NOTAMs to save");
+    }
+
+    console.log("\n📋 NOTAM Details:");
     console.log(notams);
   });
 }
 
-export { NotamCli };
+export { NotamCli, saveNotamsToFile };
