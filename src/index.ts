@@ -17,22 +17,6 @@ interface CliOptions {
   fromStorage?: boolean;
 }
 const hardCodedFetchedIds = [
-  "C2228/25",
-  "C2226/25",
-  "C2227/25",
-  "C2225/25",
-  "C2223/25",
-  "C2224/25",
-  "A0830/25",
-  "A0827/25",
-  "A0828/25",
-  "A0829/25",
-  "A0825/25",
-  "A0826/25",
-  "A0821/25",
-  "A0822/25",
-  "A0823/25",
-  "A0824/25",
   "A0819/25",
   "A0820/25",
   "A0817/25",
@@ -133,16 +117,6 @@ const hardCodedFetchedIds = [
   "A0448/25",
   "A0447/25",
   "A0445/25",
-  "A0446/25",
-  "C0731/25",
-  "C0042/25",
-  "C0037/25",
-  "C0035/25",
-  "C0036/25",
-  "C0033/25",
-  "C0034/25",
-  "A0042/25",
-  "A0018/25",
 ];
 
 interface NotamFileData {
@@ -384,9 +358,6 @@ if (require.main === module) {
     } else {
       console.log("ℹ️  No NOTAMs to save");
     }
-
-    console.log("\n📋 NOTAM Details:");
-    console.log(notams);
   });
 }
 
