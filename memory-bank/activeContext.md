@@ -1,81 +1,122 @@
 # Active Context: NOTAM Parser for Israeli Aviation Authority
-*Version: 1.1*
-*Created: 2025-01-27*
-*Last Updated: 2025-09-10*
-*Current RIPER Mode: EXECUTE*
+
+_Version: 1.2_
+_Created: 2025-01-27_
+_Last Updated: 2025-09-13_
+_Current RIPER Mode: RESEARCH_
 
 ## Current Focus
-Recently completed major refactoring of the codebase to adopt functional programming principles. All business logic has been converted from classes to pure functions, and coding rules have been established to prevent future class usage.
+
+Major refactoring completed to replace static scraping with Playwright browser automation. The system now handles dynamic content expansion and extracts comprehensive NOTAM data. Current functionality fetches and logs NOTAMs to console, with storage persistence planned as the next major feature.
 
 ## Recent Changes
-- **2025-09-10**: Refactored NotamParser class to functional exports
-- **2025-09-10**: Updated CLI to use functional imports instead of class instantiation
-- **2025-09-10**: Added coding rules to enforce functional programming approach
-- **2025-09-10**: Updated system documentation to reflect functional architecture
+
+- **2025-09-13**: Updated memory bank files to reflect current Playwright-based architecture
+- **2025-09-13**: Removed outdated references to parser.ts and static scraping approach
+- **2025-09-13**: Updated documentation to reflect browser automation and dynamic content handling
+- **Recent**: Major refactoring to replace Cheerio/Axios with Playwright browser automation
+- **Recent**: Removed parser.ts file and consolidated parsing logic into scraper.ts
+- **Recent**: Implemented dynamic NOTAM expansion with click automation and content waiting
+- **Recent**: Added incremental fetching using hardcoded NOTAM ID comparison
+- **Recent**: Simplified CLI to basic functionality (advanced filtering temporarily removed)
+- **Recent**: Added support for both headless and visible browser modes for debugging
 - 2025-01-27 - Created memory-bank directory structure and completed START phase
-- 2025-01-27 - Analyzed existing NOTAM Parser CLI codebase
-- 2025-01-27 - Implemented complete React web application with Material-UI
-- 2025-01-27 - Created 32-step implementation plan and executed all phases
-- 2025-01-27 - Built responsive UI with date selection, ICAO filtering, and read/unread tracking
-- 2025-01-27 - Integrated localStorage for persistent read state management
-- 2025-01-27 - Added statistics dashboard and Google Maps integration
-- 2025-01-27 - Updated project documentation and README files
+- 2025-01-27 - Implemented complete React web application with Material-UI (web/ folder unchanged)
 
 ## Active Decisions
+
+- **BROWSER AUTOMATION APPROACH**: Playwright chosen over static scraping for dynamic content handling
+- **INCREMENTAL PROCESSING**: Hardcoded NOTAM ID comparison to avoid duplicate processing
 - **FUNCTIONAL PROGRAMMING ENFORCED**: No custom classes allowed in this project - all business logic uses pure functions
-- **STATELESS ARCHITECTURE**: Functions don't maintain internal state, dependencies passed as parameters
-- **COMPOSITION OVER INHERITANCE**: Function composition replaces class hierarchies
-- **Web Application Architecture**: COMPLETED - React with Material-UI, TypeScript, and Vite
-- **State Management**: COMPLETED - React hooks with localStorage for persistence
-- **UI Framework**: COMPLETED - Material-UI with aviation-themed colors and responsive design
-- **Data Strategy**: COMPLETED - Static JSON file consumption with Vite build integration
-- **Read/Unread Tracking**: COMPLETED - Global per-NOTAM ID with localStorage persistence
+- **CONSOLE OUTPUT CURRENT**: Storage persistence planned but not yet implemented
+- **SIMPLIFIED CLI**: Advanced filtering and export functionality temporarily removed during refactoring
+- **DUAL BROWSER MODES**: Support both headless and visible browser modes for debugging
+- **Web Application Architecture**: COMPLETED - React with Material-UI, TypeScript, and Vite (unchanged)
+- **Data Strategy**: CLI and web app are separate - web app uses static JSON files, CLI uses live browser automation
 
 ## Next Steps
-1. Test web application with real user scenarios
-2. Gather feedback on UI/UX design and functionality
-3. Consider additional features like search, export, or advanced filtering
-4. Monitor performance with larger NOTAM datasets
-5. Evaluate integration with existing GitHub Actions workflow
+
+1. **Implement Storage Persistence**: Add functionality to save fetched NOTAMs to local files (JSON format)
+2. **Re-implement Advanced Filtering**: Add back date, ICAO, and type filtering functionality
+3. **Add Export Functionality**: Restore JSON export capabilities with automatic file management
+4. **Enhance CLI Interface**: Restore comprehensive command-line options and help system
+5. **Optimize Incremental Updates**: Replace hardcoded NOTAM IDs with dynamic storage-based comparison
+6. **Add Error Recovery**: Improve browser automation error handling and retry mechanisms
+7. **Performance Optimization**: Add caching and optimize browser automation for repeated runs
 
 ## Current Challenges
-- **Project Maturity**: The project is already feature-complete, requiring identification of enhancement opportunities
-- **Documentation Gap**: Existing code lacks comprehensive documentation for future maintenance
-- **Testing Coverage**: No automated testing is currently implemented
-- **Error Handling**: While present, error handling could be more comprehensive
+
+- **Feature Regression**: Advanced filtering and export functionality was removed during refactoring and needs re-implementation
+- **Storage Implementation**: No persistence layer currently exists - NOTAMs are only logged to console
+- **Hardcoded Dependencies**: NOTAM ID comparison uses hardcoded array instead of dynamic storage
+- **Browser Automation Complexity**: Managing browser lifecycle and handling dynamic content failures
+- **Performance Overhead**: Browser automation is slower and more resource-intensive than static scraping
+- **Testing Coverage**: Limited automated testing for browser automation workflows
+- **Documentation Gap**: Code documentation needs updating for new Playwright-based architecture
 
 ## Implementation Progress
-- [✓] Analyzed existing codebase structure and requirements
-- [✓] Completed comprehensive 32-step implementation plan
-- [✓] Set up React application with Vite and Material-UI
-- [✓] Implemented all core components (Layout, DateSelector, IcaoFilter, ViewToggle, NotamCard, NotamList, StatsBar)
-- [✓] Built data layer with services and custom hooks
-- [✓] Integrated localStorage for read/unread state persistence
-- [✓] Added TypeScript type safety throughout application
-- [✓] Configured build process with JSON data copying
-- [✓] Created responsive design with aviation-themed UI
-- [✓] Updated project documentation and README files
+
+### Browser Automation Refactoring (Current Focus)
+
+- [✓] Replaced Cheerio/Axios static scraping with Playwright browser automation
+- [✓] Implemented dynamic NOTAM content expansion with click automation
+- [✓] Added comprehensive NOTAM data extraction (A/B/C sections, Q coordinates, D descriptions)
+- [✓] Implemented incremental fetching using NOTAM ID comparison
+- [✓] Added support for both headless and visible browser modes
+- [✓] Updated all memory bank documentation to reflect new architecture
+- [ ] **IN PROGRESS**: Storage persistence implementation
+- [ ] **PLANNED**: Advanced filtering functionality restoration
+- [ ] **PLANNED**: JSON export functionality restoration
+- [ ] **PLANNED**: Enhanced CLI interface restoration
+
+### Web Application (Completed)
+
+- [✓] Complete React application with Material-UI and TypeScript
+- [✓] All core components and data layer implemented
+- [✓] localStorage integration for read/unread state persistence
+- [✓] Responsive design with aviation-themed UI
 - [✓] Successfully built and tested application
 
 ## Project Status Summary
-The NOTAM Parser is a mature, feature-complete TypeScript application with:
-- ✅ Complete CLI interface with comprehensive options
-- ✅ Web scraping functionality for Israeli Aviation Authority data
-- ✅ Advanced NOTAM parsing with date and coordinate extraction
-- ✅ Multi-criteria filtering (date, airport, type)
-- ✅ JSON export functionality
-- ✅ Summary statistics generation
+
+The NOTAM Parser consists of two main components:
+
+### CLI Application (Currently Refactoring)
+
+- ✅ Browser automation with Playwright for dynamic content handling
+- ✅ Comprehensive NOTAM data extraction with expansion automation
+- ✅ Incremental fetching to avoid duplicate processing
 - ✅ Google Maps integration for coordinate data
-- ✅ Robust error handling and validation
+- ✅ Support for both headless and visible browser modes
+- ⏳ Storage persistence (in development)
+- ❌ Advanced filtering functionality (temporarily removed)
+- ❌ JSON export functionality (temporarily removed)
+- ❌ Comprehensive CLI options (temporarily simplified)
+
+### Web Application (Feature Complete)
+
+- ✅ Complete React application with Material-UI
+- ✅ Date selection and ICAO filtering
+- ✅ Read/unread tracking with localStorage
+- ✅ Statistics dashboard and responsive design
+- ✅ Static JSON data consumption
 
 ## Potential Enhancement Areas
-- **Testing**: Add unit tests, integration tests, and E2E tests
-- **Documentation**: Add JSDoc comments to all methods and classes
-- **Error Handling**: Enhance error messages and recovery mechanisms
-- **Performance**: Add caching for repeated requests
-- **Features**: Add new filtering options or output formats
-- **Monitoring**: Add logging and monitoring capabilities
+
+### CLI Application Priority
+
+- **Storage Implementation**: Add JSON file persistence for fetched NOTAMs (HIGH)
+- **Feature Restoration**: Re-implement filtering and export functionality (HIGH)
+- **CLI Enhancement**: Restore comprehensive command-line options (MEDIUM)
+- **Performance Optimization**: Add caching and browser automation optimization (MEDIUM)
+- **Error Recovery**: Enhance browser automation error handling (MEDIUM)
+
+### General Improvements
+
+- **Testing**: Add comprehensive testing for browser automation workflows (HIGH)
+- **Documentation**: Add JSDoc comments and update code documentation (MEDIUM)
+- **Monitoring**: Add logging and monitoring capabilities (LOW)
 
 ---
 
-*This document captures the current state of work and immediate next steps.*
+_This document captures the current state of work and immediate next steps._

@@ -143,7 +143,7 @@ const hardCodedFetchedIds = [
 ];
 
 class NotamCli {
-  async fetchNotamIdsToScrape(existingNotamIds: string[]): Promise<NOTAM[]> {
+  async scrapeMissingNotams(existingNotamIds: string[]): Promise<NOTAM[]> {
     try {
       const page = await initParser({ headless: false });
       return await fetchNotams(page, existingNotamIds);
@@ -224,7 +224,7 @@ class NotamCli {
 
     if (!isValid(date)) {
       throw new Error(
-        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`,
+        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`
       );
     }
 
@@ -280,7 +280,7 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-  cli.fetchNotamIdsToScrape(hardCodedFetchedIds).then((notams) => {
+  cli.scrapeMissingNotams(hardCodedFetchedIds).then((notams) => {
     console.log(notams);
   });
 }
