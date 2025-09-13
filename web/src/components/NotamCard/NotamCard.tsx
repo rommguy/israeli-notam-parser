@@ -16,7 +16,6 @@ import {
   RadioButtonUnchecked,
   Map,
   Flight,
-  Schedule,
 } from "@mui/icons-material";
 import { formatInTimeZone } from "date-fns-tz";
 import type { NOTAM } from "../../types";
@@ -50,7 +49,7 @@ export const NotamCard: React.FC<NotamCardProps> = ({
   };
 
   const getTypeColor = (
-    type: NOTAM["type"]
+    type: NOTAM["type"],
   ): "primary" | "secondary" | "warning" | "info" => {
     switch (type) {
       case "A":
@@ -82,11 +81,11 @@ export const NotamCard: React.FC<NotamCardProps> = ({
       sx={{
         mb: 2,
         opacity: isRead ? 0.7 : 1,
-        backgroundColor:
-          isRead ? alpha(theme.palette.grey[100], 0.5) : "background.paper",
-        border:
-          isRead ?
-            `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
+        backgroundColor: isRead
+          ? alpha(theme.palette.grey[100], 0.5)
+          : "background.paper",
+        border: isRead
+          ? `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
           : `1px solid ${alpha(theme.palette.primary.main, 0.12)}`,
         transition: "all 0.2s ease-in-out",
         "&:hover": {
@@ -130,9 +129,7 @@ export const NotamCard: React.FC<NotamCardProps> = ({
             aria-label={isRead ? "Mark as unread" : "Mark as read"}
             sx={{ ml: 1 }}
           >
-            {isRead ?
-              <CheckCircle />
-            : <RadioButtonUnchecked />}
+            {isRead ? <CheckCircle /> : <RadioButtonUnchecked />}
           </IconButton>
         </Box>
 
@@ -167,18 +164,9 @@ export const NotamCard: React.FC<NotamCardProps> = ({
           }}
         >
           <Box sx={{ display: "flex", alignItems: "center", gap: 2 }}>
-            {/* Created Date */}
-            <Box sx={{ display: "flex", alignItems: "center", gap: 0.5 }}>
-              <Schedule sx={{ fontSize: 14, color: "text.secondary" }} />
-              <Typography variant="caption" color="text.secondary">
-                {formatInTimeZone(notam.createdDate, "UTC", "MMM dd, HH:mm")}{" "}
-                UTC
-              </Typography>
-            </Box>
-
             {/* Validity Dates */}
             {(notam.validFrom || notam.validTo) && (
-              <Box>
+              <Box sx={{ display: "flex", alignItems: "center", gap: 0.5 }}>
                 {notam.validFrom && (
                   <Typography variant="caption" color="text.secondary">
                     From:{" "}
