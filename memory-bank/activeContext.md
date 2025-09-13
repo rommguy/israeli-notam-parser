@@ -7,10 +7,14 @@ _Current RIPER Mode: RESEARCH_
 
 ## Current Focus
 
-Major refactoring completed to replace static scraping with Playwright browser automation. The CLI implementation has been simplified to focus on core scraping functionality without filtering (filtering handled by frontend). The system now properly processes command-line arguments and handles browser automation with both headless and visible modes.
+Complete system integration achieved with both CLI and web app working together seamlessly. The CLI produces a single `notams.json` file with all NOTAM data, while the web app loads this file and performs runtime filtering by date. Both GitHub Actions workflows are configured for daily data fetching and web deployment to GitHub Pages.
 
 ## Recent Changes
 
+- **2025-09-13**: Updated web app to use single notams.json file with runtime filtering
+- **2025-09-13**: Modified Vite build process to copy single NOTAM file instead of date-specific files
+- **2025-09-13**: Updated notamService.ts to load single file and filter by date at runtime
+- **2025-09-13**: Created GitHub Actions workflow for web deployment to GitHub Pages
 - **2025-09-13**: Fixed GitHub Actions workflow to use simplified CLI commands
 - **2025-09-13**: Updated daily-notam-fetch.yml to use `npm run parse` instead of outdated options
 - **2025-09-13**: Fixed test suite by removing obsolete tests and fixing imports
@@ -70,6 +74,9 @@ Major refactoring completed to replace static scraping with Playwright browser a
 - [✓] Fixed GitHub Actions workflow with correct CLI commands
 - [✓] Fixed test suite and removed obsolete tests
 - [✓] All tests passing (13 tests, 2 test suites)
+- [✓] Updated web app to use single NOTAM file with runtime filtering
+- [✓] Created GitHub Pages deployment workflow
+- [✓] Integrated CLI and web app data flow
 - [✓] Updated all memory bank documentation to reflect new architecture
 
 ### Web Application (Completed)
