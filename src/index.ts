@@ -1,4 +1,5 @@
 import { initParser, fetchNotams } from "./scraper";
+import { Browser } from "playwright";
 import { NOTAM } from "./types";
 import { parseISO, format, isValid } from "date-fns";
 import { writeFileSync, readFileSync, existsSync, mkdirSync } from "fs";
@@ -193,7 +194,7 @@ function saveNotamsToFile(notams: NOTAM[]): void {
 
     if (newNotams.length === 0) {
       console.log(
-        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`
+        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`,
       );
     }
   } catch (error) {
@@ -204,11 +205,18 @@ function saveNotamsToFile(notams: NOTAM[]): void {
 
 class NotamCli {
   async scrapeMissingNotams(existingNotamIds: string[]): Promise<NOTAM[]> {
+    let browser: Browser | null = null;
     try {
-      const page = await initParser({ headless: false });
+      const { browser: browserInstance, page } = await initParser({
+        headless: false,
+      });
+      browser = browserInstance;
       return await fetchNotams(page, existingNotamIds);
     } finally {
-      await [];
+      if (browser) {
+        await browser.close();
+        console.log("🔒 Browser closed");
+      }
     }
   }
 
@@ -284,7 +292,7 @@ class NotamCli {
 
     if (!isValid(date)) {
       throw new Error(
-        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`
+        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`,
       );
     }
 
