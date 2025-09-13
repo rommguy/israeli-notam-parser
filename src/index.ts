@@ -188,7 +188,7 @@ function saveNotamsToFile(notams: NOTAM[]): void {
 
     if (newNotams.length === 0) {
       console.log(
-        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`,
+        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`
       );
     }
   } catch (error) {
@@ -197,23 +197,44 @@ function saveNotamsToFile(notams: NOTAM[]): void {
   }
 }
 
-class NotamCli {
-  async scrapeMissingNotams(existingNotamIds: string[]): Promise<NOTAM[]> {
-    let browser: Browser | null = null;
-    try {
-      const { browser: browserInstance, page } = await initParser({
-        headless: false,
-      });
-      browser = browserInstance;
-      return await fetchNotams(page, existingNotamIds);
-    } finally {
-      if (browser) {
-        await browser.close();
-        console.log("🔒 Browser closed");
-      }
+const scrapeMissingNotams = async (
+  existingNotamIds: string[]
+): Promise<NOTAM[]> => {
+  let browser: Browser | null = null;
+  try {
+    const { browser: browserInstance, page } = await initParser({
+      headless: false,
+    });
+    browser = browserInstance;
+    return await fetchNotams(page, existingNotamIds);
+  } finally {
+    if (browser) {
+      await browser.close();
+      console.log("🔒 Browser closed");
     }
   }
+};
 
+const scrapeNotams = async (): Promise<void> => {
+  const existingIds = getExistingNotamIds();
+  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
+
+  console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
+  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
+  console.log(`   - From file: ${existingIds.length}`);
+
+  scrapeMissingNotams(allExistingIds).then((notams) => {
+    console.log(`🔍 Scraped ${notams.length} NOTAMs`);
+
+    if (notams.length > 0) {
+      saveNotamsToFile(notams);
+    } else {
+      console.log("ℹ️  No NOTAMs to save");
+    }
+  });
+};
+
+class NotamCli {
   private parseArgs(): CliOptions {
     const args = process.argv.slice(2);
     const options: CliOptions = {};
@@ -286,7 +307,7 @@ class NotamCli {
 
     if (!isValid(date)) {
       throw new Error(
-        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`,
+        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`
       );
     }
 
@@ -342,23 +363,7 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-
-  const existingIds = getExistingNotamIds();
-  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
-
-  console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
-  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
-  console.log(`   - From file: ${existingIds.length}`);
-
-  cli.scrapeMissingNotams(allExistingIds).then((notams) => {
-    console.log(`🔍 Scraped ${notams.length} NOTAMs`);
-
-    if (notams.length > 0) {
-      saveNotamsToFile(notams);
-    } else {
-      console.log("ℹ️  No NOTAMs to save");
-    }
-  });
+  scrapeNotams();
 }
 
 export { NotamCli, saveNotamsToFile, getExistingNotamIds };
