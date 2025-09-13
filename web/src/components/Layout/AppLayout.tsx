@@ -101,15 +101,32 @@ export const AppLayout: React.FC<AppLayoutProps> = ({
         }}
       >
         <Container maxWidth="xl">
-          <Typography 
-            variant="body2" 
-            color="text.secondary" 
-            align="center"
-            sx={{ fontSize: '0.75rem' }}
-          >
-            Data sourced from Israeli Aviation Authority • 
-            Last updated: {new Date().toLocaleString()}
-          </Typography>
+          <Box sx={{ display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, justifyContent: 'center', alignItems: 'center', gap: { xs: 0.5, sm: 2 } }}>
+            <Typography 
+              variant="body2" 
+              color="text.secondary" 
+              align="center"
+              sx={{ fontSize: '0.75rem' }}
+            >
+              NOTAMs updated every day at 2:00 UTC
+            </Typography>
+            <Typography 
+              variant="body2" 
+              color="text.secondary" 
+              align="center"
+              sx={{ fontSize: '0.75rem', display: { xs: 'none', sm: 'inline' } }}
+            >
+              •
+            </Typography>
+            <Typography 
+              variant="body2" 
+              color="text.secondary" 
+              align="center"
+              sx={{ fontSize: '0.75rem' }}
+            >
+              Built by Guy Romm
+            </Typography>
+          </Box>
         </Container>
       </Box>
     </Box>
