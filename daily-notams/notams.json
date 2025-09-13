@@ -386,8 +386,143 @@
       "validTo": "2025-09-14T16:05:00.000Z",
       "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
       "mapLink": "https://www.google.com/maps?q=31.90,34.72"
+    },
+    {
+      "id": "A0819/25",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM,",
+      "validFrom": "2025-09-11T06:13:00.000Z",
+      "validTo": "2025-09-14T21:30:00.000Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM,",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88"
+    },
+    {
+      "id": "A0820/25",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM,",
+      "validFrom": "2025-09-15T02:00:00.000Z",
+      "validTo": "2025-09-30T23:59:00.000Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM,",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88"
+    },
+    {
+      "id": "A0817/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.) ",
+      "validFrom": "2025-09-11T06:10:00.000Z",
+      "validTo": "2025-09-14T21:30:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.) ",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02"
+    },
+    {
+      "id": "A0818/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.) ",
+      "validFrom": "2025-09-15T02:00:00.000Z",
+      "validTo": "2025-09-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.) ",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02"
+    },
+    {
+      "id": "A0816/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)  ",
+      "validFrom": "2025-09-15T06:00:00.000Z",
+      "validTo": "2025-09-15T10:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90"
+    },
+    {
+      "id": "A0815/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT, DUE WIP.)  ",
+      "validFrom": "2025-09-15T06:00:00.000Z",
+      "validTo": "2025-09-15T09:30:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT, DUE WIP.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88"
+    },
+    {
+      "id": "C2221/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD FRDIS-BOREN. SDTYM-DOORS.",
+      "validFrom": "2025-09-20T03:45:00.000Z",
+      "validTo": "2025-09-20T08:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD FRDIS-BOREN. SDTYM-DOORS.",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.00"
+    },
+    {
+      "id": "C2220/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD OREN (BOORN).)  ",
+      "validFrom": "2025-09-20T03:45:00.000Z",
+      "validTo": "2025-09-20T08:30:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD OREN (BOORN).)  ",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.02"
+    },
+    {
+      "id": "C2219/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ORAKV-FRDIS-BOREN. SDTYM-DOORS.",
+      "validFrom": "2025-09-19T03:15:00.000Z",
+      "validTo": "2025-09-19T08:15:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ORAKV-FRDIS-BOREN. SDTYM-DOORS.",
+      "mapLink": "https://www.google.com/maps?q=32.60,34.93"
+    },
+    {
+      "id": "C2218/25",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS BUBBLE CLSD CARMEL CENTER, EAST, WEST, NORTH.)  ",
+      "validFrom": "2025-09-19T03:15:00.000Z",
+      "validTo": "2025-09-19T08:15:00.000Z",
+      "rawText": "E) MINI UAS BUBBLE CLSD CARMEL CENTER, EAST, WEST, NORTH.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.02"
+    },
+    {
+      "id": "C2209/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD GOVRN-ZHRYA-BSEMS.)  ",
+      "validFrom": "2025-09-16T16:30:00.000Z",
+      "validTo": "2025-09-16T18:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD GOVRN-ZHRYA-BSEMS.)  ",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.93"
+    },
+    {
+      "id": "C2208/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-SUVAS. GALIM-SUVAS.)",
+      "validFrom": "2025-09-14T22:00:00.000Z",
+      "validTo": "2025-09-15T02:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-SUVAS. GALIM-SUVAS.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48"
+    },
+    {
+      "id": "C2207/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD.",
+      "validFrom": "2025-09-14T22:00:00.000Z",
+      "validTo": "2025-09-15T02:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD.",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.55"
+    },
+    {
+      "id": "C2203/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-09-18T09:00:00.000Z",
+      "validTo": "2025-09-19T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38"
+    },
+    {
+      "id": "C2192/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZBTMS-BASAN-HGSRM-LLKS. SELZR-ZKOCH-GOMME-LLKS.)",
+      "validFrom": "2025-09-09T10:24:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZBTMS-BASAN-HGSRM-LLKS. SELZR-ZKOCH-GOMME-LLKS.)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.63"
     }
   ],
-  "totalCount": 43,
-  "lastUpdated": "2025-09-13T18:12:55.912Z"
+  "totalCount": 58,
+  "lastUpdated": "2025-09-13T18:53:31.143Z"
 }
