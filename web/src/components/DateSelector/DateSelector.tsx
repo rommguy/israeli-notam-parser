@@ -1,18 +1,14 @@
-import React, { useEffect, useState } from 'react';
-import { 
-  ToggleButton, 
-  ToggleButtonGroup, 
-  Paper, 
-  Typography, 
-  Box 
-} from '@mui/material';
-import { Today, Event } from '@mui/icons-material';
-import { formatDateForDisplay } from '../../utils/dateUtils';
-import { getDataManifest } from '../../services/availableData';
+import React from "react";
+import { Paper, Typography, Box } from "@mui/material";
+import { DatePicker } from "@mui/x-date-pickers/DatePicker";
+import { LocalizationProvider } from "@mui/x-date-pickers/LocalizationProvider";
+import { AdapterDateFns } from "@mui/x-date-pickers/AdapterDateFns";
+import { CalendarToday } from "@mui/icons-material";
+import { format, addDays, subDays } from "date-fns";
 
 interface DateSelectorProps {
-  selectedDate: 'today' | 'tomorrow';
-  onDateChange: (date: 'today' | 'tomorrow') => void;
+  selectedDate: Date;
+  onDateChange: (date: Date) => void;
   disabled?: boolean;
 }
 
@@ -21,95 +17,94 @@ export const DateSelector: React.FC<DateSelectorProps> = ({
   onDateChange,
   disabled = false,
 }) => {
-  const [dateLabels, setDateLabels] = useState({
-    today: 'Today',
-    tomorrow: 'Tomorrow'
-  });
-
-  useEffect(() => {
-    const loadDateLabels = async () => {
-      try {
-        const manifest = await getDataManifest();
-        const labels = {
-          today: manifest.mapping.today ? 
-            formatDateForDisplay(manifest.mapping.today.replace('.json', '')) : 'Today',
-          tomorrow: manifest.mapping.tomorrow ? 
-            formatDateForDisplay(manifest.mapping.tomorrow.replace('.json', '')) : 'Tomorrow'
-        };
-        setDateLabels(labels);
-      } catch (error) {
-        console.warn('Could not load date labels:', error);
-      }
-    };
-
-    loadDateLabels();
-  }, []);
-
-  const handleChange = (
-    _event: React.MouseEvent<HTMLElement>,
-    newValue: 'today' | 'tomorrow' | null,
-  ) => {
-    if (newValue !== null) {
-      onDateChange(newValue);
+  const handleDateChange = (newDate: Date | null) => {
+    if (newDate) {
+      onDateChange(newDate);
     }
   };
 
+  // Quick date buttons for common selections
+  const quickDates = [
+    { label: "Yesterday", date: subDays(new Date(), 1) },
+    { label: "Today", date: new Date() },
+    { label: "Tomorrow", date: addDays(new Date(), 1) },
+  ];
+
   return (
-    <Paper elevation={1} sx={{ p: 2, mb: 2 }}>
-      <Box sx={{ mb: 1 }}>
-        <Typography variant="subtitle2" color="text.secondary" gutterBottom>
-          Select Date
-        </Typography>
-      </Box>
-      
-      <ToggleButtonGroup
-        value={selectedDate}
-        exclusive
-        onChange={handleChange}
-        aria-label="date selection"
-        fullWidth
-        disabled={disabled}
-        sx={{
-          '& .MuiToggleButton-root': {
-            py: 1.5,
-            px: 2,
-            textTransform: 'none',
-            border: '1px solid',
-            borderColor: 'divider',
-            '&.Mui-selected': {
-              backgroundColor: 'primary.main',
-              color: 'primary.contrastText',
-              '&:hover': {
-                backgroundColor: 'primary.dark',
-              },
+    <LocalizationProvider dateAdapter={AdapterDateFns}>
+      <Paper elevation={1} sx={{ p: 2, mb: 2 }}>
+        <Box sx={{ mb: 2 }}>
+          <Typography variant="subtitle2" color="text.secondary" gutterBottom>
+            <CalendarToday
+              sx={{ fontSize: 16, mr: 1, verticalAlign: "middle" }}
+            />
+            Select Date
+          </Typography>
+        </Box>
+
+        <DatePicker
+          value={selectedDate}
+          onChange={handleDateChange}
+          disabled={disabled}
+          slotProps={{
+            textField: {
+              fullWidth: true,
+              variant: "outlined",
+              size: "small",
             },
-          },
-        }}
-      >
-        <ToggleButton value="today" aria-label="today">
-          <Today sx={{ mr: 1 }} />
-          <Box sx={{ textAlign: 'left' }}>
-            <Typography variant="body2" component="div" sx={{ fontWeight: 600 }}>
-              Today
-            </Typography>
-            <Typography variant="caption" component="div" color="text.secondary">
-              {dateLabels.today !== 'Today' ? dateLabels.today : 'No data'}
-            </Typography>
+          }}
+          format="MMM dd, yyyy"
+        />
+
+        {/* Quick date selection buttons */}
+        <Box sx={{ mt: 2 }}>
+          <Typography variant="caption" color="text.secondary" gutterBottom>
+            Quick select:
+          </Typography>
+          <Box sx={{ display: "flex", gap: 1, mt: 1 }}>
+            {quickDates.map(({ label, date }) => (
+              <Box
+                key={label}
+                component="button"
+                onClick={() => onDateChange(date)}
+                disabled={disabled}
+                sx={{
+                  px: 1.5,
+                  py: 0.5,
+                  border: 1,
+                  borderColor: "divider",
+                  borderRadius: 1,
+                  backgroundColor: "transparent",
+                  color: "text.secondary",
+                  fontSize: "0.75rem",
+                  cursor: "pointer",
+                  transition: "all 0.2s",
+                  "&:hover": {
+                    backgroundColor: "action.hover",
+                    borderColor: "primary.main",
+                    color: "primary.main",
+                  },
+                  "&:disabled": {
+                    cursor: "not-allowed",
+                    opacity: 0.5,
+                  },
+                }}
+              >
+                {label}
+              </Box>
+            ))}
           </Box>
-        </ToggleButton>
-        
-        <ToggleButton value="tomorrow" aria-label="tomorrow">
-          <Event sx={{ mr: 1 }} />
-          <Box sx={{ textAlign: 'left' }}>
-            <Typography variant="body2" component="div" sx={{ fontWeight: 600 }}>
-              Tomorrow
-            </Typography>
-            <Typography variant="caption" component="div" color="text.secondary">
-              {dateLabels.tomorrow !== 'Tomorrow' ? dateLabels.tomorrow : 'No data'}
-            </Typography>
-          </Box>
-        </ToggleButton>
-      </ToggleButtonGroup>
-    </Paper>
+        </Box>
+
+        {/* Selected date info */}
+        <Box
+          sx={{ mt: 2, p: 1, backgroundColor: "action.hover", borderRadius: 1 }}
+        >
+          <Typography variant="caption" color="text.secondary">
+            Selected: {format(selectedDate, "EEEE, MMMM dd, yyyy")}
+          </Typography>
+        </Box>
+      </Paper>
+    </LocalizationProvider>
   );
 };

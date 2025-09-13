@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   Card,
   CardContent,
@@ -10,16 +10,16 @@ import {
   Divider,
   alpha,
   useTheme,
-} from '@mui/material';
+} from "@mui/material";
 import {
   CheckCircle,
   RadioButtonUnchecked,
   Map,
   Flight,
   Schedule,
-} from '@mui/icons-material';
-import { format } from 'date-fns';
-import type { NOTAM } from '../../types';
+} from "@mui/icons-material";
+import { formatInTimeZone } from "date-fns-tz";
+import type { NOTAM } from "../../types";
 
 interface NotamCardProps {
   notam: NOTAM;
@@ -34,23 +34,35 @@ export const NotamCard: React.FC<NotamCardProps> = ({
 }) => {
   const theme = useTheme();
 
-  const getTypeDescription = (type: NOTAM['type']): string => {
+  const getTypeDescription = (type: NOTAM["type"]): string => {
     switch (type) {
-      case 'A': return 'Aerodrome';
-      case 'C': return 'En-route';
-      case 'R': return 'Radar';
-      case 'N': return 'Navigation';
-      default: return type;
+      case "A":
+        return "Aerodrome";
+      case "C":
+        return "En-route";
+      case "R":
+        return "Radar";
+      case "N":
+        return "Navigation";
+      default:
+        return type;
     }
   };
 
-  const getTypeColor = (type: NOTAM['type']): 'primary' | 'secondary' | 'warning' | 'info' => {
+  const getTypeColor = (
+    type: NOTAM["type"]
+  ): "primary" | "secondary" | "warning" | "info" => {
     switch (type) {
-      case 'A': return 'primary';
-      case 'C': return 'info';
-      case 'R': return 'warning';
-      case 'N': return 'secondary';
-      default: return 'primary';
+      case "A":
+        return "primary";
+      case "C":
+        return "info";
+      case "R":
+        return "warning";
+      case "N":
+        return "secondary";
+      default:
+        return "primary";
     }
   };
 
@@ -60,39 +72,46 @@ export const NotamCard: React.FC<NotamCardProps> = ({
 
   const handleMapClick = () => {
     if (notam.mapLink) {
-      window.open(notam.mapLink, '_blank', 'noopener,noreferrer');
+      window.open(notam.mapLink, "_blank", "noopener,noreferrer");
     }
   };
 
   return (
-    <Card 
+    <Card
       elevation={isRead ? 1 : 3}
       sx={{
         mb: 2,
         opacity: isRead ? 0.7 : 1,
-        backgroundColor: isRead 
-          ? alpha(theme.palette.grey[100], 0.5)
-          : 'background.paper',
-        border: isRead 
-          ? `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
+        backgroundColor:
+          isRead ? alpha(theme.palette.grey[100], 0.5) : "background.paper",
+        border:
+          isRead ?
+            `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
           : `1px solid ${alpha(theme.palette.primary.main, 0.12)}`,
-        transition: 'all 0.2s ease-in-out',
-        '&:hover': {
+        transition: "all 0.2s ease-in-out",
+        "&:hover": {
           elevation: isRead ? 2 : 4,
-          transform: 'translateY(-1px)',
+          transform: "translateY(-1px)",
         },
       }}
     >
       <CardContent sx={{ pb: 2 }}>
         {/* Header */}
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-            <Typography 
-              variant="h6" 
+        <Box
+          sx={{
+            display: "flex",
+            justifyContent: "space-between",
+            alignItems: "flex-start",
+            mb: 2,
+          }}
+        >
+          <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
+            <Typography
+              variant="h6"
               component="h3"
-              sx={{ 
+              sx={{
                 fontWeight: 700,
-                color: isRead ? 'text.secondary' : 'primary.main',
+                color: isRead ? "text.secondary" : "primary.main",
               }}
             >
               {notam.id}
@@ -101,35 +120,37 @@ export const NotamCard: React.FC<NotamCardProps> = ({
               label={getTypeDescription(notam.type)}
               color={getTypeColor(notam.type)}
               size="small"
-              variant={isRead ? 'outlined' : 'filled'}
+              variant={isRead ? "outlined" : "filled"}
             />
           </Box>
-          
+
           <IconButton
             onClick={handleToggleRead}
-            color={isRead ? 'default' : 'primary'}
-            aria-label={isRead ? 'Mark as unread' : 'Mark as read'}
+            color={isRead ? "default" : "primary"}
+            aria-label={isRead ? "Mark as unread" : "Mark as read"}
             sx={{ ml: 1 }}
           >
-            {isRead ? <CheckCircle /> : <RadioButtonUnchecked />}
+            {isRead ?
+              <CheckCircle />
+            : <RadioButtonUnchecked />}
           </IconButton>
         </Box>
 
         {/* ICAO Code */}
-        <Box sx={{ display: 'flex', alignItems: 'center', mb: 2, gap: 1 }}>
-          <Flight sx={{ fontSize: 16, color: 'text.secondary' }} />
+        <Box sx={{ display: "flex", alignItems: "center", mb: 2, gap: 1 }}>
+          <Flight sx={{ fontSize: 16, color: "text.secondary" }} />
           <Typography variant="body2" color="text.secondary">
             <strong>ICAO:</strong> {notam.icaoCode}
           </Typography>
         </Box>
 
         {/* Description */}
-        <Typography 
-          variant="body1" 
-          sx={{ 
+        <Typography
+          variant="body1"
+          sx={{
             mb: 2,
             lineHeight: 1.6,
-            color: isRead ? 'text.secondary' : 'text.primary',
+            color: isRead ? "text.secondary" : "text.primary",
           }}
         >
           {notam.description}
@@ -138,13 +159,20 @@ export const NotamCard: React.FC<NotamCardProps> = ({
         <Divider sx={{ my: 2 }} />
 
         {/* Footer */}
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
+        <Box
+          sx={{
+            display: "flex",
+            justifyContent: "space-between",
+            alignItems: "center",
+          }}
+        >
+          <Box sx={{ display: "flex", alignItems: "center", gap: 2 }}>
             {/* Created Date */}
-            <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.5 }}>
-              <Schedule sx={{ fontSize: 14, color: 'text.secondary' }} />
+            <Box sx={{ display: "flex", alignItems: "center", gap: 0.5 }}>
+              <Schedule sx={{ fontSize: 14, color: "text.secondary" }} />
               <Typography variant="caption" color="text.secondary">
-                {format(notam.createdDate, 'MMM dd, HH:mm')}
+                {formatInTimeZone(notam.createdDate, "UTC", "MMM dd, HH:mm")}{" "}
+                UTC
               </Typography>
             </Box>
 
@@ -153,15 +181,22 @@ export const NotamCard: React.FC<NotamCardProps> = ({
               <Box>
                 {notam.validFrom && (
                   <Typography variant="caption" color="text.secondary">
-                    From: {format(notam.validFrom, 'MMM dd, HH:mm')}
+                    From:{" "}
+                    {formatInTimeZone(notam.validFrom, "UTC", "MMM dd, HH:mm")}{" "}
+                    UTC
                   </Typography>
                 )}
                 {notam.validFrom && notam.validTo && (
-                  <Typography variant="caption" color="text.secondary"> • </Typography>
+                  <Typography variant="caption" color="text.secondary">
+                    {" "}
+                    •{" "}
+                  </Typography>
                 )}
                 {notam.validTo && (
                   <Typography variant="caption" color="text.secondary">
-                    To: {format(notam.validTo, 'MMM dd, HH:mm')}
+                    To:{" "}
+                    {formatInTimeZone(notam.validTo, "UTC", "MMM dd, HH:mm")}{" "}
+                    UTC
                   </Typography>
                 )}
               </Box>
@@ -176,7 +211,7 @@ export const NotamCard: React.FC<NotamCardProps> = ({
               onClick={handleMapClick}
               variant="outlined"
               color="primary"
-              sx={{ textTransform: 'none' }}
+              sx={{ textTransform: "none" }}
             >
               View Map
             </Button>

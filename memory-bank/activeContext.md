@@ -7,10 +7,16 @@ _Current RIPER Mode: RESEARCH_
 
 ## Current Focus
 
-Complete system integration achieved with both CLI and web app working together seamlessly. The CLI produces a single `notams.json` file with all NOTAM data, while the web app loads this file and performs runtime filtering by date. Both GitHub Actions workflows are configured for daily data fetching and web deployment to GitHub Pages.
+Major UI enhancement completed with flexible date selection replacing the limited today/tomorrow options. Users can now select any date and view NOTAMs that are valid for that specific date. The system uses proper date-fns logic for accurate filtering and includes quick selection buttons for common dates. Complete system integration achieved with both CLI and web app working together seamlessly.
 
 ## Recent Changes
 
+- **2025-09-13**: Updated NOTAM cards to display validity dates in UTC with clear UTC labels
+- **2025-09-13**: Added date-fns-tz dependency for proper UTC timezone formatting
+- **2025-09-13**: Replaced today/tomorrow selector with flexible date picker using Material-UI DatePicker
+- **2025-09-13**: Enhanced date filtering logic using date-fns for accurate date comparisons
+- **2025-09-13**: Added quick date selection buttons (Yesterday, Today, Tomorrow) for better UX
+- **2025-09-13**: Updated all components and services to use Date objects instead of string literals
 - **2025-09-13**: Updated web app to use single notams.json file with runtime filtering
 - **2025-09-13**: Modified Vite build process to copy single NOTAM file instead of date-specific files
 - **2025-09-13**: Updated notamService.ts to load single file and filter by date at runtime

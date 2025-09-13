@@ -30,7 +30,7 @@ export interface NotamReadState {
 }
 
 export interface FilterState {
-  selectedDate: "today" | "tomorrow";
+  selectedDate: Date;
   selectedIcaoCodes: string[];
   showOnlyUnread: boolean;
 }

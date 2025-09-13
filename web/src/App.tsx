@@ -1,31 +1,31 @@
-import { useState } from 'react';
-import { ThemeProvider, createTheme, CssBaseline } from '@mui/material';
-import { Box, Alert } from '@mui/material';
-import { AppLayout } from './components/Layout/AppLayout';
-import { DateSelector } from './components/DateSelector/DateSelector';
-import { IcaoFilter } from './components/IcaoFilter/IcaoFilter';
-import { ViewToggle } from './components/ViewToggle/ViewToggle';
-import { NotamList } from './components/NotamList/NotamList';
-import { StatsBar } from './components/StatsBar/StatsBar';
-import { useNotams } from './hooks/useNotams';
-import { getUniqueIcaoCodes } from './services/notamService';
+import { useState } from "react";
+import { ThemeProvider, createTheme, CssBaseline } from "@mui/material";
+import { Box, Alert } from "@mui/material";
+import { AppLayout } from "./components/Layout/AppLayout";
+import { DateSelector } from "./components/DateSelector/DateSelector";
+import { IcaoFilter } from "./components/IcaoFilter/IcaoFilter";
+import { ViewToggle } from "./components/ViewToggle/ViewToggle";
+import { NotamList } from "./components/NotamList/NotamList";
+import { StatsBar } from "./components/StatsBar/StatsBar";
+import { useNotams } from "./hooks/useNotams";
+import { getUniqueIcaoCodes } from "./services/notamService";
 
 // Create Material-UI theme with aviation colors
 const theme = createTheme({
   palette: {
     primary: {
-      main: '#1565C0', // Aviation blue
-      light: '#42A5F5',
-      dark: '#0D47A1',
+      main: "#1565C0", // Aviation blue
+      light: "#42A5F5",
+      dark: "#0D47A1",
     },
     secondary: {
-      main: '#FF6F00', // Aviation orange
-      light: '#FFB74D',
-      dark: '#E65100',
+      main: "#FF6F00", // Aviation orange
+      light: "#FFB74D",
+      dark: "#E65100",
     },
     background: {
-      default: '#FAFAFA',
-      paper: '#FFFFFF',
+      default: "#FAFAFA",
+      paper: "#FFFFFF",
     },
   },
   typography: {
@@ -53,8 +53,8 @@ const theme = createTheme({
 });
 
 function App() {
-  const [selectedDate, setSelectedDate] = useState<'today' | 'tomorrow'>('today');
-  
+  const [selectedDate, setSelectedDate] = useState<Date>(new Date());
+
   // Use the custom hook for NOTAM data management
   const {
     notams,
@@ -77,28 +77,36 @@ function App() {
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <AppLayout>
-        <Box sx={{ display: 'flex', gap: 3, flexDirection: { xs: 'column', md: 'row' } }}>
+        <Box
+          sx={{
+            display: "flex",
+            gap: 3,
+            flexDirection: { xs: "column", md: "row" },
+          }}
+        >
           {/* Left Sidebar - Controls */}
-          <Box sx={{ 
-            width: { xs: '100%', md: '300px' },
-            flexShrink: 0,
-            position: { md: 'sticky' },
-            top: { md: 24 },
-            alignSelf: { md: 'flex-start' }
-          }}>
+          <Box
+            sx={{
+              width: { xs: "100%", md: "300px" },
+              flexShrink: 0,
+              position: { md: "sticky" },
+              top: { md: 24 },
+              alignSelf: { md: "flex-start" },
+            }}
+          >
             <DateSelector
               selectedDate={selectedDate}
               onDateChange={setSelectedDate}
               disabled={isLoading}
             />
-            
+
             <IcaoFilter
               selectedIcaoCodes={selectedIcaoCodes}
               onIcaoCodesChange={setSelectedIcaoCodes}
               availableIcaoCodes={availableIcaoCodes}
               disabled={isLoading}
             />
-            
+
             <ViewToggle
               showOnlyUnread={showOnlyUnread}
               onToggle={setShowOnlyUnread}
@@ -130,11 +138,11 @@ function App() {
               isRead={isRead}
               onToggleRead={toggleReadStatus}
               emptyMessage={
-                showOnlyUnread 
-                  ? "No unread NOTAMs found. Great job staying up to date!"
-                  : selectedIcaoCodes.length > 0
-                    ? "No NOTAMs found for the selected airports/FIRs."
-                    : "No NOTAMs found for the selected date."
+                showOnlyUnread ?
+                  "No unread NOTAMs found. Great job staying up to date!"
+                : selectedIcaoCodes.length > 0 ?
+                  "No NOTAMs found for the selected airports/FIRs."
+                : `No NOTAMs found for ${selectedDate.toLocaleDateString()}.`
               }
             />
           </Box>

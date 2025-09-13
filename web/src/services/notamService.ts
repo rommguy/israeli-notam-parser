@@ -1,5 +1,6 @@
 import type { NOTAM, ParsedNotamData } from "../types";
 import { parseNotamDate } from "../utils/dateUtils";
+import { isAfter, isBefore, isSameDay, startOfDay, endOfDay } from "date-fns";
 
 // Cache for the loaded NOTAM data to avoid multiple fetches
 let cachedNotamData: ParsedNotamData | null = null;
@@ -65,27 +66,27 @@ const loadSingleNotamFile = async (): Promise<ParsedNotamData> => {
  * Load NOTAM data for a specific date (now filters from single file)
  */
 export const loadNotamData = async (
-  dateSelection: "today" | "tomorrow"
+  selectedDate: Date
 ): Promise<ParsedNotamData> => {
   try {
     const allData = await loadSingleNotamFile();
 
-    // Get the target date for filtering
-    const now = new Date();
-    const targetDate =
-      dateSelection === "today" ? now : (
-        new Date(now.getTime() + 24 * 60 * 60 * 1000)
-      );
-    const targetDateStr = targetDate.toISOString().split("T")[0]; // YYYY-MM-DD format
+    // Normalize the selected date to start of day for comparison
+    const targetDate = startOfDay(selectedDate);
 
     // Filter NOTAMs that are valid for the target date
     const filteredNotams = allData.notams.filter((notam) => {
       if (!notam.validFrom || !notam.validTo) return true; // Include NOTAMs without date info
 
-      const validFromStr = notam.validFrom.toISOString().split("T")[0];
-      const validToStr = notam.validTo.toISOString().split("T")[0];
+      // Check if the selected date falls within the NOTAM's validity period
+      // validFrom <= selectedDate <= validTo
+      const validFrom = startOfDay(notam.validFrom);
+      const validTo = endOfDay(notam.validTo);
 
-      return validFromStr <= targetDateStr && validToStr >= targetDateStr;
+      return (
+        (isBefore(validFrom, targetDate) || isSameDay(validFrom, targetDate)) &&
+        (isAfter(validTo, targetDate) || isSameDay(validTo, targetDate))
+      );
     });
 
     return {
@@ -94,39 +95,41 @@ export const loadNotamData = async (
       totalCount: filteredNotams.length,
     };
   } catch (error) {
-    console.error(`Error loading NOTAM data for ${dateSelection}:`, error);
+    console.error(
+      `Error loading NOTAM data for ${selectedDate.toISOString()}:`,
+      error
+    );
     throw error;
   }
 };
 
 /**
- * Load NOTAM data for both today and tomorrow
+ * Load NOTAM data for multiple dates
  */
-export const loadAllNotamData = async (): Promise<{
-  today?: ParsedNotamData;
-  tomorrow?: ParsedNotamData;
+export const loadAllNotamData = async (
+  dates: Date[]
+): Promise<{
+  data: Record<string, ParsedNotamData>;
   errors: string[];
 }> => {
   const results: {
-    today?: ParsedNotamData;
-    tomorrow?: ParsedNotamData;
+    data: Record<string, ParsedNotamData>;
     errors: string[];
   } = {
+    data: {},
     errors: [],
   };
 
-  // Load today's data
-  try {
-    results.today = await loadNotamData("today");
-  } catch (error) {
-    results.errors.push(`Failed to load today's NOTAMs: ${error}`);
-  }
-
-  // Load tomorrow's data
-  try {
-    results.tomorrow = await loadNotamData("tomorrow");
-  } catch (error) {
-    results.errors.push(`Failed to load tomorrow's NOTAMs: ${error}`);
+  // Load data for each date
+  for (const date of dates) {
+    try {
+      const dateKey = date.toISOString().split("T")[0]; // YYYY-MM-DD format
+      results.data[dateKey] = await loadNotamData(date);
+    } catch (error) {
+      results.errors.push(
+        `Failed to load NOTAMs for ${date.toISOString()}: ${error}`
+      );
+    }
   }
 
   return results;
