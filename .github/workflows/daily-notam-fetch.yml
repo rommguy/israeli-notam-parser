@@ -12,64 +12,57 @@ permissions:
 jobs:
   fetch-notams:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-        cache: 'npm'
-        
-    - name: Install dependencies
-      run: npm ci
-      
-    - name: Install Playwright browsers
-      run: npx playwright install chromium --with-deps
-      
-    - name: Run tests
-      run: npm run test:ci
-      
-    - name: Build TypeScript
-      run: npm run build
-      
-    - name: Get tomorrow's date
-      id: tomorrow
-      run: echo "date=$(date -d '+1 day' '+%Y-%m-%d')" >> $GITHUB_OUTPUT
-      
-    - name: Create directories
-      run: |
-        mkdir -p daily-notams
-        mkdir -p data/notams
-        mkdir -p data/backups
-      
-    - name: Fetch NOTAMs for tomorrow (incremental)
-      run: |
-        echo "Fetching NOTAMs for date: ${{ steps.tomorrow.outputs.date }}"
-        npm run start -- --incremental --from-storage --date ${{ steps.tomorrow.outputs.date }} --export daily-notams/${{ steps.tomorrow.outputs.date }}.json
-      env:
-        NODE_OPTIONS: "--no-experimental-fetch"
-        
-    - name: Commit and push results
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add daily-notams/${{ steps.tomorrow.outputs.date }}.json
-        git add data/notams/notams.json
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Add daily NOTAMs for ${{ steps.tomorrow.outputs.date }} and update storage"
-          git push
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: notams-${{ steps.tomorrow.outputs.date }}
-        path: daily-notams/${{ steps.tomorrow.outputs.date }}.json
-        retention-days: 30
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
+      - name: Run tests
+        run: npm run test:ci
+
+      - name: Build TypeScript
+        run: npm run build
+
+      - name: Create directories
+        run: |
+          mkdir -p daily-notams
+
+      - name: Fetch new NOTAMs (incremental)
+        run: |
+          echo "Fetching new NOTAMs using simplified CLI..."
+          npm run parse
+        env:
+          NODE_OPTIONS: "--no-experimental-fetch"
+
+      - name: Commit and push results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add daily-notams/notams.json
+          if git diff --staged --quiet; then
+            echo "No new NOTAMs to commit"
+          else
+            git commit -m "Update NOTAMs - $(date '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: notams-$(date '+%Y-%m-%d')
+          path: daily-notams/notams.json
+          retention-days: 30

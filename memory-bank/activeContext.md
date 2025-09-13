@@ -11,11 +11,14 @@ Major refactoring completed to replace static scraping with Playwright browser a
 
 ## Recent Changes
 
+- **2025-09-13**: Fixed GitHub Actions workflow to use simplified CLI commands
+- **2025-09-13**: Updated daily-notam-fetch.yml to use `npm run parse` instead of outdated options
+- **2025-09-13**: Fixed test suite by removing obsolete tests and fixing imports
+- **2025-09-13**: All tests now passing (13 tests, 2 test suites)
 - **2025-09-13**: Simplified CLI implementation to focus on core scraping functionality
 - **2025-09-13**: Removed filtering options from CLI (filtering now handled by frontend)
 - **2025-09-13**: Fixed CLI argument processing to properly route commands
 - **2025-09-13**: Added proper browser lifecycle management in scrapeNotams function
-- **2025-09-13**: Updated help text to reflect simplified functionality
 - **2025-09-13**: Updated memory bank files to reflect current Playwright-based architecture
 - **2025-09-13**: Removed outdated references to parser.ts and static scraping approach
 - **Recent**: Major refactoring to replace Cheerio/Axios with Playwright browser automation
@@ -49,7 +52,6 @@ Major refactoring completed to replace static scraping with Playwright browser a
 - **Hardcoded Dependencies**: NOTAM ID comparison uses hardcoded array instead of dynamic storage
 - **Browser Automation Complexity**: Managing browser lifecycle and handling dynamic content failures
 - **Performance Overhead**: Browser automation is slower and more resource-intensive than static scraping
-- **Testing Coverage**: Limited automated testing for browser automation workflows and CLI argument processing
 - **Documentation Gap**: Code documentation needs updating for new simplified CLI architecture
 
 ## Implementation Progress
@@ -65,6 +67,9 @@ Major refactoring completed to replace static scraping with Playwright browser a
 - [✓] Fixed CLI argument processing and command routing
 - [✓] Added proper browser lifecycle management
 - [✓] Updated help text and removed obsolete options
+- [✓] Fixed GitHub Actions workflow with correct CLI commands
+- [✓] Fixed test suite and removed obsolete tests
+- [✓] All tests passing (13 tests, 2 test suites)
 - [✓] Updated all memory bank documentation to reflect new architecture
 
 ### Web Application (Completed)
