@@ -6,7 +6,7 @@
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "parse": "ts-node src/index.ts",
-    "parse-debug": "npm run parse -- --no-headless --incremental",
+    "parse-debug": "npm run parse -- --no-headless",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",

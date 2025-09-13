@@ -6,15 +6,8 @@ import { writeFileSync, readFileSync, existsSync, mkdirSync } from "fs";
 import { join, dirname } from "path";
 
 interface CliOptions {
-  flightDate?: string;
-  icaoCode?: string;
-  type?: string;
-  export?: string;
-  summary?: boolean;
   help?: boolean;
-  incremental?: boolean;
   headless?: boolean;
-  fromStorage?: boolean;
 }
 const hardCodedFetchedIds = [
   "A0819/25",
@@ -27,14 +20,6 @@ const hardCodedFetchedIds = [
   "C2220/25",
   "C2219/25",
   "C2218/25",
-  "C2217/25",
-  "C2216/25",
-  "C2215/25",
-  "C2214/25",
-  "C2213/25",
-  "C2212/25",
-  "C2211/25",
-  "C2210/25",
   "C2209/25",
   "C2208/25",
   "C2207/25",
@@ -188,7 +173,7 @@ function saveNotamsToFile(notams: NOTAM[]): void {
 
     if (newNotams.length === 0) {
       console.log(
-        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`
+        `ℹ️  No new NOTAMs to add (all ${notams.length} NOTAMs already exist in file)`,
       );
     }
   } catch (error) {
@@ -197,16 +182,28 @@ function saveNotamsToFile(notams: NOTAM[]): void {
   }
 }
 
-const scrapeMissingNotams = async (
-  existingNotamIds: string[]
-): Promise<NOTAM[]> => {
+const scrapeNotams = async (headless: boolean = true): Promise<void> => {
+  const existingIds = getExistingNotamIds();
+  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
+
+  console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
+  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
+  console.log(`   - From file: ${existingIds.length}`);
+
   let browser: Browser | null = null;
   try {
     const { browser: browserInstance, page } = await initParser({
-      headless: false,
+      headless,
     });
     browser = browserInstance;
-    return await fetchNotams(page, existingNotamIds);
+    const notams = await fetchNotams(page, allExistingIds);
+    console.log(`🔍 Scraped ${notams.length} NOTAMs`);
+
+    if (notams.length > 0) {
+      saveNotamsToFile(notams);
+    } else {
+      console.log("ℹ️  No NOTAMs to save");
+    }
   } finally {
     if (browser) {
       await browser.close();
@@ -215,85 +212,30 @@ const scrapeMissingNotams = async (
   }
 };
 
-const scrapeNotams = async (): Promise<void> => {
-  const existingIds = getExistingNotamIds();
-  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
-
-  console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
-  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
-  console.log(`   - From file: ${existingIds.length}`);
-
-  scrapeMissingNotams(allExistingIds).then((notams) => {
-    console.log(`🔍 Scraped ${notams.length} NOTAMs`);
-
-    if (notams.length > 0) {
-      saveNotamsToFile(notams);
-    } else {
-      console.log("ℹ️  No NOTAMs to save");
-    }
-  });
-};
-
 class NotamCli {
   private parseArgs(): CliOptions {
     const args = process.argv.slice(2);
-    const options: CliOptions = {};
+    const options: CliOptions = {
+      headless: true, // Default to headless mode
+    };
 
     for (let i = 0; i < args.length; i++) {
       const arg = args[i];
 
       switch (arg) {
-        case "--date":
-        case "-d":
-          options.flightDate = args[++i];
-          break;
-
-        case "--icao":
-        case "-i":
-          options.icaoCode = args[++i];
-          break;
-
-        case "--type":
-        case "-t":
-          options.type = args[++i];
-          break;
-
-        case "--export":
-        case "-e":
-          options.export = args[++i];
-          break;
-
-        case "--summary":
-        case "-s":
-          options.summary = true;
-          break;
-
         case "--help":
         case "-h":
           options.help = true;
-          break;
-
-        case "--incremental":
-          options.incremental = true;
           break;
 
         case "--no-headless":
           options.headless = false;
           break;
 
-        case "--from-storage":
-          options.fromStorage = true;
-          break;
-
         default:
-          if (!arg.startsWith("-")) {
-            // Assume first non-flag argument is the flight date
-            if (!options.flightDate) {
-              options.flightDate = arg;
-            }
-          } else {
-            console.warn(`Unknown option: ${arg}`);
-          }
+          console.warn(
+            `Unknown option: ${arg}. Use --help for available options.`,
+          );
           break;
       }
     }
@@ -307,7 +249,7 @@ class NotamCli {
 
     if (!isValid(date)) {
       throw new Error(
-        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`
+        `Invalid date format: ${dateStr}. Use ISO format: YYYY-MM-DD (e.g., 2025-01-15)`,
       );
     }
 
@@ -319,39 +261,31 @@ class NotamCli {
 NOTAM Parser for Israeli Aviation Authority
 ==========================================
 
-Usage: npm run parse [options] [flight-date]
+Usage: npm run parse [options]
+
+Description:
+  Fetches all new NOTAMs from the Israeli Aviation Authority website using
+  Playwright browser automation. Only fetches NOTAMs that haven't been
+  previously scraped (incremental updates). All filtering is handled by
+  the web frontend application.
 
 Options:
-  -d, --date <date>     Flight date to filter NOTAMs (YYYY-MM-DD format only)
-  -i, --icao <code>     Filter by ICAO airport code (e.g., LLBG, LLLL)
-  -t, --type <type>     Filter by NOTAM type (A=Aerodrome, C=En-route, R=Radar, N=Navigation)
-  -e, --export <file>   Export filtered results to JSON file
-  -s, --summary         Show summary statistics
   -h, --help            Show this help message
-
-Fetching Options:
-  --incremental         Force incremental update (only fetch new NOTAMs)
-  --full-refresh        Force full refresh of all NOTAMs (ignore existing storage)
   --no-headless         Run browser in visible mode (for debugging)
-  --from-storage        Export from existing storage without fetching new data
-
-Note: All NOTAM fetching uses Playwright browser automation for complete data safety.
-Legacy scraping has been disabled as it provides incomplete/dangerous partial data.
 
 Examples:
-  npm run parse                           # Show all current NOTAMs (incremental update)
-  npm run parse --full-refresh           # Force complete refresh of all NOTAMs
-  npm run parse --incremental            # Force incremental update only
-  npm run parse --no-headless            # Run browser in visible mode (for debugging)
-  npm run parse --from-storage -e daily.json  # Export from storage without fetching
-  npm run parse 2025-01-15               # Show NOTAMs valid on Jan 15, 2025
-  npm run parse --date 2025-01-15        # Same as above, using --date flag
-  npm run parse -d 2025-01-15 -i LLBG    # NOTAMs for Ben Gurion Airport on specific date
-  npm run parse -d 2025-01-15 -t A       # Only aerodrome NOTAMs for specific date
-  npm run parse -s                       # Show summary statistics
-  npm run parse -d 2025-01-15 -e notams.json  # Export filtered NOTAMs to file
+  npm run parse                    # Fetch new NOTAMs (headless mode)
+  npm run parse --no-headless      # Fetch new NOTAMs (visible browser for debugging)
+  npm run parse --help             # Show this help message
 
-ICAO Codes for Israeli Airports:
+Notes:
+  - All NOTAM fetching uses Playwright browser automation for reliable data extraction
+  - Only new NOTAMs are fetched to avoid duplicate processing
+  - Fetched NOTAMs are saved to daily-notams/notams.json
+  - Use the web application (npm run dev:web) for filtering and viewing NOTAMs
+  - Browser automation handles dynamic content expansion automatically
+
+ICAO Codes for Israeli Airports (for reference):
   LLBG - Ben Gurion Airport
   LLHA - Haifa Airport  
   LLOV - Ovda Airport
@@ -363,7 +297,17 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-  scrapeNotams();
+  const options = cli["parseArgs"]();
+
+  if (options.help) {
+    cli["showHelp"]();
+    process.exit(0);
+  }
+
+  scrapeNotams(options.headless).catch((error) => {
+    console.error("❌ Error during NOTAM scraping:", error);
+    process.exit(1);
+  });
 }
 
 export { NotamCli, saveNotamsToFile, getExistingNotamIds };

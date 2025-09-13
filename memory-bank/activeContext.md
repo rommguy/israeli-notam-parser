@@ -7,19 +7,20 @@ _Current RIPER Mode: RESEARCH_
 
 ## Current Focus
 
-Major refactoring completed to replace static scraping with Playwright browser automation. The system now handles dynamic content expansion and extracts comprehensive NOTAM data. Current functionality fetches and logs NOTAMs to console, with storage persistence planned as the next major feature.
+Major refactoring completed to replace static scraping with Playwright browser automation. The CLI implementation has been simplified to focus on core scraping functionality without filtering (filtering handled by frontend). The system now properly processes command-line arguments and handles browser automation with both headless and visible modes.
 
 ## Recent Changes
 
+- **2025-09-13**: Simplified CLI implementation to focus on core scraping functionality
+- **2025-09-13**: Removed filtering options from CLI (filtering now handled by frontend)
+- **2025-09-13**: Fixed CLI argument processing to properly route commands
+- **2025-09-13**: Added proper browser lifecycle management in scrapeNotams function
+- **2025-09-13**: Updated help text to reflect simplified functionality
 - **2025-09-13**: Updated memory bank files to reflect current Playwright-based architecture
 - **2025-09-13**: Removed outdated references to parser.ts and static scraping approach
-- **2025-09-13**: Updated documentation to reflect browser automation and dynamic content handling
 - **Recent**: Major refactoring to replace Cheerio/Axios with Playwright browser automation
-- **Recent**: Removed parser.ts file and consolidated parsing logic into scraper.ts
 - **Recent**: Implemented dynamic NOTAM expansion with click automation and content waiting
 - **Recent**: Added incremental fetching using hardcoded NOTAM ID comparison
-- **Recent**: Simplified CLI to basic functionality (advanced filtering temporarily removed)
-- **Recent**: Added support for both headless and visible browser modes for debugging
 - 2025-01-27 - Created memory-bank directory structure and completed START phase
 - 2025-01-27 - Implemented complete React web application with Material-UI (web/ folder unchanged)
 
@@ -36,38 +37,35 @@ Major refactoring completed to replace static scraping with Playwright browser a
 
 ## Next Steps
 
-1. **Implement Storage Persistence**: Add functionality to save fetched NOTAMs to local files (JSON format)
-2. **Re-implement Advanced Filtering**: Add back date, ICAO, and type filtering functionality
-3. **Add Export Functionality**: Restore JSON export capabilities with automatic file management
-4. **Enhance CLI Interface**: Restore comprehensive command-line options and help system
-5. **Optimize Incremental Updates**: Replace hardcoded NOTAM IDs with dynamic storage-based comparison
-6. **Add Error Recovery**: Improve browser automation error handling and retry mechanisms
-7. **Performance Optimization**: Add caching and optimize browser automation for repeated runs
+1. **Optimize Incremental Updates**: Replace hardcoded NOTAM IDs with dynamic storage-based comparison
+2. **Add Error Recovery**: Improve browser automation error handling and retry mechanisms
+3. **Performance Optimization**: Add caching and optimize browser automation for repeated runs
+4. **Testing Enhancement**: Add comprehensive testing for CLI argument processing and browser automation
+5. **Documentation Updates**: Update README and other documentation to reflect simplified CLI
+6. **Monitoring and Logging**: Add better logging and monitoring capabilities for production use
 
 ## Current Challenges
 
-- **Feature Regression**: Advanced filtering and export functionality was removed during refactoring and needs re-implementation
-- **Storage Implementation**: No persistence layer currently exists - NOTAMs are only logged to console
 - **Hardcoded Dependencies**: NOTAM ID comparison uses hardcoded array instead of dynamic storage
 - **Browser Automation Complexity**: Managing browser lifecycle and handling dynamic content failures
 - **Performance Overhead**: Browser automation is slower and more resource-intensive than static scraping
-- **Testing Coverage**: Limited automated testing for browser automation workflows
-- **Documentation Gap**: Code documentation needs updating for new Playwright-based architecture
+- **Testing Coverage**: Limited automated testing for browser automation workflows and CLI argument processing
+- **Documentation Gap**: Code documentation needs updating for new simplified CLI architecture
 
 ## Implementation Progress
 
-### Browser Automation Refactoring (Current Focus)
+### CLI Implementation and Browser Automation (Completed)
 
 - [✓] Replaced Cheerio/Axios static scraping with Playwright browser automation
 - [✓] Implemented dynamic NOTAM content expansion with click automation
 - [✓] Added comprehensive NOTAM data extraction (A/B/C sections, Q coordinates, D descriptions)
 - [✓] Implemented incremental fetching using NOTAM ID comparison
 - [✓] Added support for both headless and visible browser modes
+- [✓] Simplified CLI to focus on core scraping functionality
+- [✓] Fixed CLI argument processing and command routing
+- [✓] Added proper browser lifecycle management
+- [✓] Updated help text and removed obsolete options
 - [✓] Updated all memory bank documentation to reflect new architecture
-- [ ] **IN PROGRESS**: Storage persistence implementation
-- [ ] **PLANNED**: Advanced filtering functionality restoration
-- [ ] **PLANNED**: JSON export functionality restoration
-- [ ] **PLANNED**: Enhanced CLI interface restoration
 
 ### Web Application (Completed)
 
@@ -81,17 +79,17 @@ Major refactoring completed to replace static scraping with Playwright browser a
 
 The NOTAM Parser consists of two main components:
 
-### CLI Application (Currently Refactoring)
+### CLI Application (Feature Complete)
 
 - ✅ Browser automation with Playwright for dynamic content handling
 - ✅ Comprehensive NOTAM data extraction with expansion automation
 - ✅ Incremental fetching to avoid duplicate processing
 - ✅ Google Maps integration for coordinate data
 - ✅ Support for both headless and visible browser modes
-- ⏳ Storage persistence (in development)
-- ❌ Advanced filtering functionality (temporarily removed)
-- ❌ JSON export functionality (temporarily removed)
-- ❌ Comprehensive CLI options (temporarily simplified)
+- ✅ Simplified CLI focused on core scraping functionality
+- ✅ Proper command-line argument processing and routing
+- ✅ Browser lifecycle management and error handling
+- ✅ Storage persistence to daily-notams/notams.json
 
 ### Web Application (Feature Complete)
 
@@ -105,11 +103,10 @@ The NOTAM Parser consists of two main components:
 
 ### CLI Application Priority
 
-- **Storage Implementation**: Add JSON file persistence for fetched NOTAMs (HIGH)
-- **Feature Restoration**: Re-implement filtering and export functionality (HIGH)
-- **CLI Enhancement**: Restore comprehensive command-line options (MEDIUM)
+- **Hardcoded ID Optimization**: Replace hardcoded NOTAM IDs with dynamic storage-based comparison (HIGH)
 - **Performance Optimization**: Add caching and browser automation optimization (MEDIUM)
 - **Error Recovery**: Enhance browser automation error handling (MEDIUM)
+- **Testing Coverage**: Add comprehensive testing for CLI and browser automation (MEDIUM)
 
 ### General Improvements
 
