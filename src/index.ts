@@ -151,6 +151,26 @@ interface NotamFileData {
   lastUpdated: string;
 }
 
+function getExistingNotamIds(): string[] {
+  const filePath = join(process.cwd(), "daily-notams", "notams.json");
+
+  if (!existsSync(filePath)) {
+    console.log("📄 No existing NOTAM file found");
+    return [];
+  }
+
+  try {
+    const fileContent = readFileSync(filePath, "utf-8");
+    const data = JSON.parse(fileContent) as NotamFileData;
+    const existingIds = data.notams?.map((notam) => notam.id) || [];
+    console.log(`📋 Found ${existingIds.length} existing NOTAMs in file`);
+    return existingIds;
+  } catch (error) {
+    console.warn(`⚠️  Warning: Could not read existing NOTAM file:`, error);
+    return [];
+  }
+}
+
 function saveNotamsToFile(notams: NOTAM[]): void {
   const fullPath = join(process.cwd(), "daily-notams", "notams.json");
 
@@ -348,10 +368,17 @@ ICAO Codes for Israeli Airports:
 
 if (require.main === module) {
   const cli = new NotamCli();
-  cli.scrapeMissingNotams(hardCodedFetchedIds).then((notams) => {
+
+  const existingIds = getExistingNotamIds();
+  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
+
+  console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
+  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
+  console.log(`   - From file: ${existingIds.length}`);
+
+  cli.scrapeMissingNotams(allExistingIds).then((notams) => {
     console.log(`🔍 Scraped ${notams.length} NOTAMs`);
 
-    // Automatically save the results to a JSON file
     if (notams.length > 0) {
       saveNotamsToFile(notams);
     } else {
@@ -363,4 +390,4 @@ if (require.main === module) {
   });
 }
 
-export { NotamCli, saveNotamsToFile };
+export { NotamCli, saveNotamsToFile, getExistingNotamIds };
