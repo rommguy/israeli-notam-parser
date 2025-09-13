@@ -1,4 +1,4 @@
-import { parseDate, parseAaBc, parseQ } from "../src/scraper";
+import { parseDate, parseAaBc, parseQ } from "./scraper";
 
 describe("scaper tests", () => {
   describe("parseDate", () => {

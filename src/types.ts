@@ -10,18 +10,6 @@ export interface NOTAM {
   mapLink?: string;
 }
 
-export interface NotamFilterOptions {
-  flightDate: Date;
-  icaoCode?: string;
-}
-
-export interface ParsedNotamData {
-  notams: NOTAM[];
-  lastUpdated: Date;
-  totalCount: number;
-  newCount?: number; // Number of new NOTAMs in this fetch
-}
-
 /**
  * Configuration for Playwright browser automation
  */
