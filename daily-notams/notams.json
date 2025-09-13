@@ -377,8 +377,17 @@
       "validTo": "2025-09-17T09:25:00.000Z",
       "rawText": "E) UAS ACT WILL TAKE PLACE WI AIRSTRIP, FM GND UP TO 2,000FT AMSL. OPS WILL BE COORD AND APPROVED BY ATC. CTN ADZ.)",
       "mapLink": "https://www.google.com/maps?q=30.62,35.20"
+    },
+    {
+      "id": "C2238/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-09-14T15:25:00.000Z",
+      "validTo": "2025-09-14T16:05:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72"
     }
   ],
-  "totalCount": 42,
-  "lastUpdated": "2025-09-13T17:49:13.010Z"
+  "totalCount": 43,
+  "lastUpdated": "2025-09-13T18:12:55.912Z"
 }
