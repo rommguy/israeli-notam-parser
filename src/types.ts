@@ -1,11 +1,9 @@
 export interface NOTAM {
   id: string;
   icaoCode: string;
-  number: string;
   description: string;
   validFrom: Date | null;
   validTo: Date | null;
-  createdDate: Date;
   rawText: string;
   mapLink?: string;
 }

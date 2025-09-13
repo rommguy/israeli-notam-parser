@@ -1,19 +1,6 @@
-import { chromium, Page, ElementHandle } from "playwright";
-import { NOTAM, PlaywrightConfig, NotamExpansionResult } from "./types";
+import { chromium, Page } from "playwright";
+import { NOTAM, PlaywrightConfig } from "./types";
 import { parse, addYears } from "date-fns";
-
-// Constants
-const BASE_URL = "https://brin.iaa.gov.il/aeroinfo/AeroInfo.aspx?msgType=Notam";
-
-const DEFAULT_CONFIG: PlaywrightConfig = {
-  headless: true,
-  timeout: 30000,
-  viewport: { width: 1280, height: 720 },
-  userAgent:
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-  slowMo: 100,
-  devtools: false,
-};
 
 /**
  DOM structure of the NOTAM page:
@@ -39,6 +26,8 @@ const DEFAULT_CONFIG: PlaywrightConfig = {
  *   
  *
  */
+
+const BASE_URL = "https://brin.iaa.gov.il/aeroinfo/AeroInfo.aspx?msgType=Notam";
 
 export const parseDate = (dateString: string): Date => {
   if (dateString.toLowerCase() === "perm") {
@@ -88,11 +77,9 @@ const createNotam = (data: Partial<NOTAM> & { id: string }): NOTAM => {
   return {
     id: data.id,
     icaoCode: data.icaoCode || "",
-    number: data.number || "",
     description: data.description || "",
     validFrom: data.validFrom || new Date(),
     validTo: data.validTo || new Date(),
-    createdDate: new Date(),
     rawText: data.rawText || "",
     mapLink: data.mapLink || "",
   };
