@@ -34,6 +34,7 @@ export interface FilterState {
   selectedDate: Date;
   selectedIcaoCodes: string[];
   showOnlyUnread: boolean;
+  centerPosFilter: "all" | "north" | "south";
 }
 
 export interface NotamStats {

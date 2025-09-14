@@ -4,6 +4,7 @@ import {
   loadNotamData,
   filterNotamsByIcao,
   filterNotamsByReadStatus,
+  filterNotamsByCenterPos,
   getNotamStats,
 } from "../services/notamService";
 import { useNotamReadState } from "./useLocalStorage";
@@ -21,6 +22,7 @@ interface UseNotamsResult {
   filteredNotams: NOTAM[];
   selectedIcaoCodes: string[];
   showOnlyUnread: boolean;
+  centerPosFilter: "all" | "north" | "south";
 
   // Statistics
   stats: {
@@ -33,6 +35,7 @@ interface UseNotamsResult {
   // Actions
   setSelectedIcaoCodes: (codes: string[]) => void;
   setShowOnlyUnread: (showOnlyUnread: boolean) => void;
+  setCenterPosFilter: (filter: "all" | "north" | "south") => void;
   markAsRead: (notamId: string) => void;
   markAsUnread: (notamId: string) => void;
   toggleReadStatus: (notamId: string) => void;
@@ -52,6 +55,9 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
   // State for filtering
   const [selectedIcaoCodes, setSelectedIcaoCodes] = useState<string[]>([]);
   const [showOnlyUnread, setShowOnlyUnread] = useState(false);
+  const [centerPosFilter, setCenterPosFilter] = useState<
+    "all" | "north" | "south"
+  >("all");
 
   // Read state management
   const [readState, setNotamReadStatus, toggleNotamReadStatus] =
@@ -92,11 +98,14 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
     // Filter by ICAO codes
     filtered = filterNotamsByIcao(filtered, selectedIcaoCodes);
 
+    // Filter by center position
+    filtered = filterNotamsByCenterPos(filtered, centerPosFilter);
+
     // Filter by read status
     filtered = filterNotamsByReadStatus(filtered, readState, showOnlyUnread);
 
     return filtered;
-  }, [notams, selectedIcaoCodes, readState, showOnlyUnread]);
+  }, [notams, selectedIcaoCodes, centerPosFilter, readState, showOnlyUnread]);
 
   // Calculate statistics
   const stats = useMemo(() => {
@@ -150,6 +159,7 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
     filteredNotams,
     selectedIcaoCodes,
     showOnlyUnread,
+    centerPosFilter,
 
     // Statistics
     stats,
@@ -157,6 +167,7 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
     // Actions
     setSelectedIcaoCodes,
     setShowOnlyUnread,
+    setCenterPosFilter,
     markAsRead,
     markAsUnread,
     toggleReadStatus,

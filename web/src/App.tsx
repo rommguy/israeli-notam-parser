@@ -4,6 +4,7 @@ import { Box, Alert } from "@mui/material";
 import { AppLayout } from "./components/Layout/AppLayout";
 import { DateSelector } from "./components/DateSelector/DateSelector";
 import { IcaoFilter } from "./components/IcaoFilter/IcaoFilter";
+import { CenterPosFilter } from "./components/CenterPosFilter/CenterPosFilter";
 import { ViewToggle } from "./components/ViewToggle/ViewToggle";
 import { NotamList } from "./components/NotamList/NotamList";
 import { StatsBar } from "./components/StatsBar/StatsBar";
@@ -64,8 +65,10 @@ function App() {
     stats,
     selectedIcaoCodes,
     showOnlyUnread,
+    centerPosFilter,
     setSelectedIcaoCodes,
     setShowOnlyUnread,
+    setCenterPosFilter,
     toggleReadStatus,
     isRead,
   } = useNotams(selectedDate);
@@ -107,6 +110,12 @@ function App() {
               disabled={isLoading}
             />
 
+            <CenterPosFilter
+              centerPosFilter={centerPosFilter}
+              onCenterPosFilterChange={setCenterPosFilter}
+              disabled={isLoading}
+            />
+
             <ViewToggle
               showOnlyUnread={showOnlyUnread}
               onToggle={setShowOnlyUnread}
@@ -116,21 +125,18 @@ function App() {
             />
           </Box>
 
-          {/* Main Content */}
           <Box sx={{ flex: 1, minWidth: 0 }}>
             {/* Statistics */}
             {!isLoading && !error && stats.total > 0 && (
               <StatsBar stats={stats} />
             )}
 
-            {/* Error Display */}
             {error && (
               <Alert severity="error" sx={{ mb: 2 }}>
                 {error}
               </Alert>
             )}
 
-            {/* NOTAM List */}
             <NotamList
               notams={filteredNotams}
               isLoading={isLoading}
@@ -138,11 +144,9 @@ function App() {
               isRead={isRead}
               onToggleRead={toggleReadStatus}
               emptyMessage={
-                showOnlyUnread ?
-                  "No unread NOTAMs found. Great job staying up to date!"
-                : selectedIcaoCodes.length > 0 ?
-                  "No NOTAMs found for the selected airports/FIRs."
-                : `No NOTAMs found for ${selectedDate.toLocaleDateString()}.`
+                showOnlyUnread
+                  ? "No unread NOTAMs found. Great job staying up to date!"
+                  : "No NOTAMs found for the selected filters."
               }
             />
           </Box>

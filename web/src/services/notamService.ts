@@ -23,7 +23,7 @@ const loadSingleNotamFile = async (): Promise<ParsedNotamData> => {
 
     if (!response.ok) {
       throw new Error(
-        `Failed to load NOTAM data: ${response.status} ${response.statusText}`
+        `Failed to load NOTAM data: ${response.status} ${response.statusText}`,
       );
     }
 
@@ -46,8 +46,9 @@ const loadSingleNotamFile = async (): Promise<ParsedNotamData> => {
           number,
           year,
           createdDate: new Date(), // Use current date as fallback since we don't have this data
-          validFrom:
-            notam.validFrom ? parseNotamDate(notam.validFrom) : undefined,
+          validFrom: notam.validFrom
+            ? parseNotamDate(notam.validFrom)
+            : undefined,
           validTo: notam.validTo ? parseNotamDate(notam.validTo) : undefined,
         };
       }),
@@ -66,7 +67,7 @@ const loadSingleNotamFile = async (): Promise<ParsedNotamData> => {
  * Load NOTAM data for a specific date (now filters from single file)
  */
 export const loadNotamData = async (
-  selectedDate: Date
+  selectedDate: Date,
 ): Promise<ParsedNotamData> => {
   try {
     const allData = await loadSingleNotamFile();
@@ -97,7 +98,7 @@ export const loadNotamData = async (
   } catch (error) {
     console.error(
       `Error loading NOTAM data for ${selectedDate.toISOString()}:`,
-      error
+      error,
     );
     throw error;
   }
@@ -107,7 +108,7 @@ export const loadNotamData = async (
  * Load NOTAM data for multiple dates
  */
 export const loadAllNotamData = async (
-  dates: Date[]
+  dates: Date[],
 ): Promise<{
   data: Record<string, ParsedNotamData>;
   errors: string[];
@@ -127,7 +128,7 @@ export const loadAllNotamData = async (
       results.data[dateKey] = await loadNotamData(date);
     } catch (error) {
       results.errors.push(
-        `Failed to load NOTAMs for ${date.toISOString()}: ${error}`
+        `Failed to load NOTAMs for ${date.toISOString()}: ${error}`,
       );
     }
   }
@@ -140,7 +141,7 @@ export const loadAllNotamData = async (
  */
 export const filterNotamsByIcao = (
   notams: NOTAM[],
-  selectedIcaoCodes: string[]
+  selectedIcaoCodes: string[],
 ): NOTAM[] => {
   if (selectedIcaoCodes.length === 0) {
     return notams;
@@ -155,13 +156,40 @@ export const filterNotamsByIcao = (
 export const filterNotamsByReadStatus = (
   notams: NOTAM[],
   readState: Record<string, boolean>,
-  showOnlyUnread: boolean
+  showOnlyUnread: boolean,
 ): NOTAM[] => {
   if (!showOnlyUnread) {
     return notams;
   }
 
   return notams.filter((notam) => !readState[notam.id]);
+};
+
+export const filterNotamsByCenterPos = (
+  notams: NOTAM[],
+  centerPosFilter: "all" | "north" | "south",
+): NOTAM[] => {
+  if (centerPosFilter === "all") {
+    return notams;
+  }
+
+  return notams.filter((notam) => {
+    if (!notam.centerPos) {
+      return true;
+    }
+
+    const lat = notam.centerPos.lat;
+
+    if (centerPosFilter === "north") {
+      // North: latitude >= 32.05N
+      return lat >= 32.05;
+    } else if (centerPosFilter === "south") {
+      // South: latitude <= 32.15N
+      return lat <= 32.15;
+    }
+
+    return true;
+  });
 };
 
 /**
@@ -177,7 +205,7 @@ export const getUniqueIcaoCodes = (notams: NOTAM[]): string[] => {
  */
 export const getNotamStats = (
   notams: NOTAM[],
-  readState: Record<string, boolean>
+  readState: Record<string, boolean>,
 ): {
   total: number;
   unread: number;
