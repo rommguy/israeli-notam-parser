@@ -1,5 +1,5 @@
 {
   "dataFile": "notams.json",
-  "generatedAt": "2025-09-14T13:32:22.608Z",
+  "generatedAt": "2025-09-14T13:46:44.300Z",
   "description": "Single NOTAM file with all data - filtering handled at runtime"
 }
