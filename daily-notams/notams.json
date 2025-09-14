@@ -154,15 +154,6 @@
       "mapLink": "https://www.google.com/maps?q=32.28,34.38"
     },
     {
-      "id": "A0822/25",
-      "icaoCode": "LLLL",
-      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400)",
-      "validFrom": "2025-09-15T02:00:00.000Z",
-      "validTo": "2028-09-13T16:56:03.915Z",
-      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400)",
-      "mapLink": "https://www.google.com/maps?q=32.28,34.38"
-    },
-    {
       "id": "A0823/25",
       "icaoCode": "LLLL",
       "description": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2,",
@@ -901,328 +892,6 @@
       "mapLink": "https://www.google.com/maps?q=32.60,35.42"
     },
     {
-      "id": "A0675/25",
-      "icaoCode": "LLLL",
-      "description": "E) ATS RTE J14 CLSD BTN MOCEV-FOLKU. ISRAEL AIP, PART ENR 3.1, CHART 6-1. REF.) ",
-      "validFrom": "2025-07-07T10:55:00.000Z",
-      "validTo": "2028-09-14T04:39:23.081Z",
-      "rawText": "E) ATS RTE J14 CLSD BTN MOCEV-FOLKU. ISRAEL AIP, PART ENR 3.1, CHART 6-1. REF.) ",
-      "mapLink": "https://www.google.com/maps?q=32.57,35.28"
-    },
-    {
-      "id": "C1659/25",
-      "icaoCode": "LLIB",
-      "description": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)  ",
-      "validFrom": "2025-07-01T10:24:00.000Z",
-      "validTo": "2025-09-30T20:59:00.000Z",
-      "rawText": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)  ",
-      "mapLink": "https://www.google.com/maps?q=32.98,35.57"
-    },
-    {
-      "id": "C1646/25",
-      "icaoCode": "LLSO",
-      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
-      "validFrom": "2025-06-30T13:32:00.000Z",
-      "validTo": "2025-09-30T20:59:00.000Z",
-      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
-      "mapLink": "https://www.google.com/maps?q=32.95,35.10"
-    },
-    {
-      "id": "C1473/25",
-      "icaoCode": "LLLL",
-      "description": "E) FLT CIV HEL ALONG ULTRALIGHT RTE WITHDRAWN. DOM AIP, PART B-08, PARA 6.A. AND 6.F. REF.) ",
-      "validFrom": "2025-06-09T09:39:00.000Z",
-      "validTo": "2028-09-14T04:39:24.538Z",
-      "rawText": "E) FLT CIV HEL ALONG ULTRALIGHT RTE WITHDRAWN. DOM AIP, PART B-08, PARA 6.A. AND 6.F. REF.) ",
-      "mapLink": "https://www.google.com/maps?q=31.42,35.35"
-    },
-    {
-      "id": "C1326/25",
-      "icaoCode": "LLLL",
-      "description": "E) MIL ATC PHONE NR CHG AS FLW PLUTO WEST 04-692-6211. PLUTO EAST 04-692-6239.",
-      "validFrom": "2025-05-26T07:10:00.000Z",
-      "validTo": "2028-09-14T04:39:25.039Z",
-      "rawText": "E) MIL ATC PHONE NR CHG AS FLW PLUTO WEST 04-692-6211. PLUTO EAST 04-692-6239.",
-      "mapLink": "https://www.google.com/maps?q=31.42,35.35"
-    },
-    {
-      "id": "C1324/25",
-      "icaoCode": "LLLL",
-      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA INDUSTRY AREA, EXTENDED OF LLD50, AN AREA BTN THE FLW PSN CLSD BTN SS-SR FM GND UP TO 500FT AMSL 322818.7N0345555.9E",
-      "validFrom": "2025-05-26T06:30:00.000Z",
-      "validTo": "2028-09-14T04:39:25.648Z",
-      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA INDUSTRY AREA, EXTENDED OF LLD50, AN AREA BTN THE FLW PSN CLSD BTN SS-SR FM GND UP TO 500FT AMSL 322818.7N0345555.9E",
-      "mapLink": "https://www.google.com/maps?q=32.48,34.95"
-    },
-    {
-      "id": "C1313/25",
-      "icaoCode": "LLFK",
-      "description": "E) AIRSTRIP OPR CHG AS FLW OPR OHAD HERMAN 050-5454902, EMAIL HCL-PIK(AT)MEGOLAN.ORG.IL",
-      "validFrom": "2025-06-01T00:01:00.000Z",
-      "validTo": "2028-09-14T04:39:27.173Z",
-      "rawText": "E) AIRSTRIP OPR CHG AS FLW OPR OHAD HERMAN 050-5454902, EMAIL HCL-PIK(AT)MEGOLAN.ORG.IL",
-      "mapLink": "https://www.google.com/maps?q=32.78,35.72"
-    },
-    {
-      "id": "A0811/25",
-      "icaoCode": "LLLL",
-      "description": "E) CHECKLIST YEAR=2025 0018 0040 0042 0445 0446 0447 0448 0449 0482 0675 0676 0694 0695 0722 0739 0747 0748 0757 0758 0759 0760 0765 0768 0774",
-      "validFrom": "2025-09-04T07:10:00.000Z",
-      "validTo": "2025-10-04T07:10:00.000Z",
-      "rawText": "E) CHECKLIST YEAR=2025 0018 0040 0042 0445 0446 0447 0448 0449 0482 0675 0676 0694 0695 0722 0739 0747 0748 0757 0758 0759 0760 0765 0768 0774",
-      "mapLink": "https://www.google.com/maps?q=31.40,35.33"
-    },
-    {
-      "id": "C2140/25",
-      "icaoCode": "LLEK",
-      "description": "E) MIL TRG AREA ATC FREQ CHG TO 129.050MHZ. DOM AIP, PART A-07, PAGE 4, PARA 12. REF.) ",
-      "validFrom": "2025-09-04T06:27:00.000Z",
-      "validTo": "2028-09-14T04:41:12.486Z",
-      "rawText": "E) MIL TRG AREA ATC FREQ CHG TO 129.050MHZ. DOM AIP, PART A-07, PAGE 4, PARA 12. REF.) ",
-      "mapLink": "https://www.google.com/maps?q=31.83,34.82"
-    },
-    {
-      "id": "A0809/25",
-      "icaoCode": "LLLL",
-      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)  ",
-      "validFrom": "2025-09-21T07:00:00.000Z",
-      "validTo": "2025-09-21T10:00:00.000Z",
-      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)  ",
-      "mapLink": "https://www.google.com/maps?q=32.33,34.97"
-    },
-    {
-      "id": "C2139/25",
-      "icaoCode": "LLLL",
-      "description": "E) LLD45 REESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E",
-      "validFrom": "2025-09-04T05:36:00.000Z",
-      "validTo": "2028-09-14T04:41:13.608Z",
-      "rawText": "E) LLD45 REESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E",
-      "mapLink": "https://www.google.com/maps?q=32.58,35.12"
-    },
-    {
-      "id": "C2138/25",
-      "icaoCode": "LLLL",
-      "description": "E) LLD44 REESTABLISHED BTN FLW PSN FM GND UP TO 2,000FT AMSL OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323910N0351040E 323936N0350910E 323923N0350757E",
-      "validFrom": "2025-09-04T05:35:00.000Z",
-      "validTo": "2028-09-14T04:41:14.114Z",
-      "rawText": "E) LLD44 REESTABLISHED BTN FLW PSN FM GND UP TO 2,000FT AMSL OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323910N0351040E 323936N0350910E 323923N0350757E",
-      "mapLink": "https://www.google.com/maps?q=32.62,35.15"
-    },
-    {
-      "id": "A0807/25",
-      "icaoCode": "LLBG",
-      "description": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL.",
-      "validFrom": "2025-09-10T03:30:00.000Z",
-      "validTo": "2025-12-10T21:59:00.000Z",
-      "rawText": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL.",
-      "mapLink": "https://www.google.com/maps?q=32.02,34.88"
-    },
-    {
-      "id": "C2129/25",
-      "icaoCode": "LLLL",
-      "description": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN.",
-      "validFrom": "2025-09-08T13:00:00.000Z",
-      "validTo": "2025-09-30T16:00:00.000Z",
-      "rawText": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN.",
-      "mapLink": "https://www.google.com/maps?q=32.10,35.22"
-    },
-    {
-      "id": "C2126/25",
-      "icaoCode": "LLHZ",
-      "description": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)  ",
-      "validFrom": "2025-09-01T04:00:00.000Z",
-      "validTo": "2025-09-30T20:59:00.000Z",
-      "rawText": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)  ",
-      "mapLink": "https://www.google.com/maps?q=32.18,34.83"
-    },
-    {
-      "id": "A0794/25",
-      "icaoCode": "LLLL",
-      "description": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)  ",
-      "validFrom": "2025-08-31T10:18:00.000Z",
-      "validTo": "2025-12-31T21:59:00.000Z",
-      "rawText": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)  ",
-      "mapLink": "https://www.google.com/maps?q=31.42,35.35"
-    },
-    {
-      "id": "A0781/25",
-      "icaoCode": "LLLL",
-      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.) ",
-      "validFrom": "2025-09-01T00:01:00.000Z",
-      "validTo": "2025-09-30T23:59:00.000Z",
-      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.) ",
-      "mapLink": "https://www.google.com/maps?q=32.13,34.85"
-    },
-    {
-      "id": "C2120/25",
-      "icaoCode": "LLLL",
-      "description": "E) DUE INTRP, PLUTO CTL FREQ TEMPO CHG TO 119.150MHZ.)  ",
-      "validFrom": "2025-08-31T07:14:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) DUE INTRP, PLUTO CTL FREQ TEMPO CHG TO 119.150MHZ.)  ",
-      "mapLink": "https://www.google.com/maps?q=32.58,35.00"
-    },
-    {
-      "id": "C2118/25",
-      "icaoCode": "LLLL",
-      "description": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB.",
-      "validFrom": "2025-08-31T07:13:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB.",
-      "mapLink": "https://www.google.com/maps?q=32.10,34.77"
-    },
-    {
-      "id": "C2115/25",
-      "icaoCode": "LLLL",
-      "description": "E) CVFR RTE CLSD, EXC PPR FLT FM IAF NMASD-SHORELINE-TYONA.) ",
-      "validFrom": "2025-08-31T07:11:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) CVFR RTE CLSD, EXC PPR FLT FM IAF NMASD-SHORELINE-TYONA.) ",
-      "mapLink": "https://www.google.com/maps?q=31.92,34.68"
-    },
-    {
-      "id": "C2116/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD S OF LINE BTN 313147N0344813E AND 313147N0345427E. CTN ADZ.)",
-      "validFrom": "2025-08-31T07:12:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD S OF LINE BTN 313147N0344813E AND 313147N0345427E. CTN ADZ.)",
-      "mapLink": "https://www.google.com/maps?q=31.50,34.90"
-    },
-    {
-      "id": "C2112/25",
-      "icaoCode": "LLLL",
-      "description": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD.) ",
-      "validFrom": "2025-08-31T07:09:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD.) ",
-      "mapLink": "https://www.google.com/maps?q=31.73,34.68"
-    },
-    {
-      "id": "C2113/25",
-      "icaoCode": "LLLL",
-      "description": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZMGEN-GILAT-MINGV. NASIH-GILAT-NTVOT-SDROT.)",
-      "validFrom": "2025-08-31T07:10:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZMGEN-GILAT-MINGV. NASIH-GILAT-NTVOT-SDROT.)",
-      "mapLink": "https://www.google.com/maps?q=31.38,34.55"
-    },
-    {
-      "id": "C2108/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF AMIOZ-NBSOR-TZHOT-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
-      "validFrom": "2025-08-31T07:00:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF AMIOZ-NBSOR-TZHOT-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
-      "mapLink": "https://www.google.com/maps?q=31.30,34.55"
-    },
-    {
-      "id": "C2106/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT RTE CLSD SHAHR-ALLON-FAZEL-ARGMN-TIRAT-ENHRD-MRHVA. NAAMA-FAZEL.)",
-      "validFrom": "2025-08-31T06:59:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT RTE CLSD SHAHR-ALLON-FAZEL-ARGMN-TIRAT-ENHRD-MRHVA. NAAMA-FAZEL.)",
-      "mapLink": "https://www.google.com/maps?q=32.28,35.33"
-    },
-    {
-      "id": "C2107/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD. ZBRCH-NIZNM-ZASHD-SOREK.)",
-      "validFrom": "2025-08-31T07:00:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD. ZBRCH-NIZNM-ZASHD-SOREK.)",
-      "mapLink": "https://www.google.com/maps?q=31.78,34.73"
-    },
-    {
-      "id": "C2101/25",
-      "icaoCode": "LLLL",
-      "description": "E) AN AREA FM EGYPT BOUNDARY TO 3KM OUTWARD CLSD TO ALL FLT, EXC AGRICULTURE MIL OR MFO FLT. OPS OF FLT FM EGYPT BOUNDRAY TO 6KM EB REQUIRES",
-      "validFrom": "2025-08-31T06:56:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) AN AREA FM EGYPT BOUNDARY TO 3KM OUTWARD CLSD TO ALL FLT, EXC AGRICULTURE MIL OR MFO FLT. OPS OF FLT FM EGYPT BOUNDRAY TO 6KM EB REQUIRES",
-      "mapLink": "https://www.google.com/maps?q=30.48,34.58"
-    },
-    {
-      "id": "C2102/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF HAROD (BHROD), NAAMA (BNAMM).) ",
-      "validFrom": "2025-08-31T06:56:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF HAROD (BHROD), NAAMA (BNAMM).) ",
-      "mapLink": "https://www.google.com/maps?q=32.22,35.35"
-    },
-    {
-      "id": "C2103/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF NITZANIM (BNZNI), SHIVTA (BSVTA), SHDEROT NORTH (BDRTN), SHDEROT SOUTH (BDRTS).)",
-      "validFrom": "2025-08-31T06:57:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF NITZANIM (BNZNI), SHIVTA (BSVTA), SHDEROT NORTH (BDRTN), SHDEROT SOUTH (BDRTS).)",
-      "mapLink": "https://www.google.com/maps?q=31.33,34.65"
-    },
-    {
-      "id": "C2098/25",
-      "icaoCode": "LLGV",
-      "description": "E) OPS AVBL FOR AGRICULTURE FLT AND UAS/UAV ONLY.)  ",
-      "validFrom": "2025-08-31T06:55:00.000Z",
-      "validTo": "2025-10-31T21:59:00.000Z",
-      "rawText": "E) OPS AVBL FOR AGRICULTURE FLT AND UAS/UAV ONLY.)  ",
-      "mapLink": "https://www.google.com/maps?q=31.23,34.47"
-    },
-    {
-      "id": "C2240/25",
-      "icaoCode": "LLLL",
-      "description": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 325331N0352326E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY.",
-      "validFrom": "2025-09-15T09:00:00.000Z",
-      "validTo": "2025-09-16T03:00:00.000Z",
-      "rawText": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 325331N0352326E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY.",
-      "mapLink": "https://www.google.com/maps?q=32.88,35.38",
-      "centerPos": {
-        "lat": 32.88333333333333,
-        "lon": 35.38333333333333
-      }
-    },
-    {
-      "id": "C2239/25",
-      "icaoCode": "LLLL",
-      "description": "E) ULTRALIGHT RTE CLSD, DUE FLY-PAST NIRYA-MRHVA-TAVOR-KKAMA-ZEMAH-HAONN-LLFK. ZEMAH-MIGDL.",
-      "validFrom": "2025-09-17T14:30:00.000Z",
-      "validTo": "2025-09-17T15:30:00.000Z",
-      "rawText": "E) ULTRALIGHT RTE CLSD, DUE FLY-PAST NIRYA-MRHVA-TAVOR-KKAMA-ZEMAH-HAONN-LLFK. ZEMAH-MIGDL.",
-      "mapLink": "https://www.google.com/maps?q=32.63,35.45",
-      "centerPos": {
-        "lat": 32.63333333333333,
-        "lon": 35.45
-      }
-    },
-    {
-      "id": "C2236/25",
-      "icaoCode": "LLLL",
-      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)  ",
-      "validFrom": "2025-09-17T03:00:00.000Z",
-      "validTo": "2025-09-17T03:50:00.000Z",
-      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)  ",
-      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
-      "centerPos": {
-        "lat": 30.616666666666667,
-        "lon": 35
-      }
-    },
-    {
-      "id": "C2235/25",
-      "icaoCode": "LLLL",
-      "description": "E) CVFR RTE CLSD ZDAFA-NMASD-ZASHD.)  ",
-      "validFrom": "2025-09-17T06:00:00.000Z",
-      "validTo": "2025-09-17T14:00:00.000Z",
-      "rawText": "E) CVFR RTE CLSD ZDAFA-NMASD-ZASHD.)  ",
-      "mapLink": "https://www.google.com/maps?q=31.82,34.65",
-      "centerPos": {
-        "lat": 31.816666666666666,
-        "lon": 34.65
-      }
-    },
-    {
       "id": "C2234/25",
       "icaoCode": "LLLL",
       "description": "E) CVFR RTE CLSD ZDAFA-NITZA-HODYA-REVAH.)  ",
@@ -1231,7 +900,7 @@
       "rawText": "E) CVFR RTE CLSD ZDAFA-NITZA-HODYA-REVAH.)  ",
       "mapLink": "https://www.google.com/maps?q=31.72,34.65",
       "centerPos": {
-        "lat": 31.716666666666665,
+        "lat": 31.72,
         "lon": 34.65
       }
     },
@@ -1247,8 +916,463 @@
         "lat": 31.65,
         "lon": 34.85
       }
+    },
+    {
+      "id": "A0822/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400)",
+      "validFrom": "2025-09-15T02:00:00.000Z",
+      "validTo": "2028-09-14T13:21:17.854Z",
+      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "C2240/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 325331N0352326E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY.",
+      "validFrom": "2025-09-15T09:00:00.000Z",
+      "validTo": "2025-09-16T03:00:00.000Z",
+      "rawText": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 325331N0352326E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY.",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.38",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2239/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, DUE FLY-PAST NIRYA-MRHVA-TAVOR-KKAMA-ZEMAH-HAONN-LLFK. ZEMAH-MIGDL.",
+      "validFrom": "2025-09-17T14:30:00.000Z",
+      "validTo": "2025-09-17T15:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, DUE FLY-PAST NIRYA-MRHVA-TAVOR-KKAMA-ZEMAH-HAONN-LLFK. ZEMAH-MIGDL.",
+      "mapLink": "https://www.google.com/maps?q=32.63,35.45",
+      "centerPos": {
+        "lat": 32.63,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2236/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)  ",
+      "validFrom": "2025-09-17T03:00:00.000Z",
+      "validTo": "2025-09-17T03:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)  ",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2235/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZDAFA-NMASD-ZASHD.)  ",
+      "validFrom": "2025-09-17T06:00:00.000Z",
+      "validTo": "2025-09-17T14:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZDAFA-NMASD-ZASHD.)  ",
+      "mapLink": "https://www.google.com/maps?q=31.82,34.65",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "A0811/25",
+      "icaoCode": "LLLL",
+      "description": "E) CHECKLIST YEAR=2025 0018 0040 0042 0445 0446 0447 0448 0449 0482 0675 0676 0694 0695 0722 0739 0747 0748 0757 0758 0759 0760 0765 0768 0774",
+      "validFrom": "2025-09-04T07:10:00.000Z",
+      "validTo": "2025-10-04T07:10:00.000Z",
+      "rawText": "E) CHECKLIST YEAR=2025 0018 0040 0042 0445 0446 0447 0448 0449 0482 0675 0676 0694 0695 0722 0739 0747 0748 0757 0758 0759 0760 0765 0768 0774",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C2140/25",
+      "icaoCode": "LLEK",
+      "description": "E) MIL TRG AREA ATC FREQ CHG TO 129.050MHZ. DOM AIP, PART A-07, PAGE 4, PARA 12. REF.) ",
+      "validFrom": "2025-09-04T06:27:00.000Z",
+      "validTo": "2028-09-14T13:24:39.138Z",
+      "rawText": "E) MIL TRG AREA ATC FREQ CHG TO 129.050MHZ. DOM AIP, PART A-07, PAGE 4, PARA 12. REF.) ",
+      "mapLink": "https://www.google.com/maps?q=31.83,34.82",
+      "centerPos": {
+        "lat": 31.83,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "A0809/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)  ",
+      "validFrom": "2025-09-21T07:00:00.000Z",
+      "validTo": "2025-09-21T10:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2139/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLD45 REESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E",
+      "validFrom": "2025-09-04T05:36:00.000Z",
+      "validTo": "2028-09-14T13:24:40.149Z",
+      "rawText": "E) LLD45 REESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.12",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2138/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLD44 REESTABLISHED BTN FLW PSN FM GND UP TO 2,000FT AMSL OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323910N0351040E 323936N0350910E 323923N0350757E",
+      "validFrom": "2025-09-04T05:35:00.000Z",
+      "validTo": "2028-09-14T13:24:40.742Z",
+      "rawText": "E) LLD44 REESTABLISHED BTN FLW PSN FM GND UP TO 2,000FT AMSL OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323910N0351040E 323936N0350910E 323923N0350757E",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.15",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "A0807/25",
+      "icaoCode": "LLBG",
+      "description": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL.",
+      "validFrom": "2025-09-10T03:30:00.000Z",
+      "validTo": "2025-12-10T21:59:00.000Z",
+      "rawText": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL.",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2129/25",
+      "icaoCode": "LLLL",
+      "description": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN.",
+      "validFrom": "2025-09-08T13:00:00.000Z",
+      "validTo": "2025-09-30T16:00:00.000Z",
+      "rawText": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN.",
+      "mapLink": "https://www.google.com/maps?q=32.10,35.22",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C2126/25",
+      "icaoCode": "LLHZ",
+      "description": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)  ",
+      "validFrom": "2025-09-01T04:00:00.000Z",
+      "validTo": "2025-09-30T20:59:00.000Z",
+      "rawText": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0794/25",
+      "icaoCode": "LLLL",
+      "description": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)  ",
+      "validFrom": "2025-08-31T10:18:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)  ",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0781/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.) ",
+      "validFrom": "2025-09-01T00:01:00.000Z",
+      "validTo": "2025-09-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.) ",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C2120/25",
+      "icaoCode": "LLLL",
+      "description": "E) DUE INTRP, PLUTO CTL FREQ TEMPO CHG TO 119.150MHZ.)  ",
+      "validFrom": "2025-08-31T07:14:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) DUE INTRP, PLUTO CTL FREQ TEMPO CHG TO 119.150MHZ.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.00",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2118/25",
+      "icaoCode": "LLLL",
+      "description": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB.",
+      "validFrom": "2025-08-31T07:13:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB.",
+      "mapLink": "https://www.google.com/maps?q=32.10,34.77",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C2115/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PPR FLT FM IAF NMASD-SHORELINE-TYONA.) ",
+      "validFrom": "2025-08-31T07:11:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PPR FLT FM IAF NMASD-SHORELINE-TYONA.) ",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.68",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C2116/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD S OF LINE BTN 313147N0344813E AND 313147N0345427E. CTN ADZ.)",
+      "validFrom": "2025-08-31T07:12:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD S OF LINE BTN 313147N0344813E AND 313147N0345427E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.50,34.90",
+      "centerPos": {
+        "lat": 31.5,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2112/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD.) ",
+      "validFrom": "2025-08-31T07:09:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD.) ",
+      "mapLink": "https://www.google.com/maps?q=31.73,34.68",
+      "centerPos": {
+        "lat": 31.73,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C2113/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZMGEN-GILAT-MINGV. NASIH-GILAT-NTVOT-SDROT.)",
+      "validFrom": "2025-08-31T07:10:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) HEL RTE CLSD, EXC PPR FLT FM IAF ZMGEN-GILAT-MINGV. NASIH-GILAT-NTVOT-SDROT.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,34.55",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C2108/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF AMIOZ-NBSOR-TZHOT-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
+      "validFrom": "2025-08-31T07:00:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF AMIOZ-NBSOR-TZHOT-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
+      "mapLink": "https://www.google.com/maps?q=31.30,34.55",
+      "centerPos": {
+        "lat": 31.3,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C2106/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD SHAHR-ALLON-FAZEL-ARGMN-TIRAT-ENHRD-MRHVA. NAAMA-FAZEL.)",
+      "validFrom": "2025-08-31T06:59:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD SHAHR-ALLON-FAZEL-ARGMN-TIRAT-ENHRD-MRHVA. NAAMA-FAZEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,35.33",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C2107/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD. ZBRCH-NIZNM-ZASHD-SOREK.)",
+      "validFrom": "2025-08-31T07:00:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PPR FLT FM IAF ZPLGT-ZBRCH-NITZA-NMADD-ZASHD. ZBRCH-NIZNM-ZASHD-SOREK.)",
+      "mapLink": "https://www.google.com/maps?q=31.78,34.73",
+      "centerPos": {
+        "lat": 31.78,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C2101/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM EGYPT BOUNDARY TO 3KM OUTWARD CLSD TO ALL FLT, EXC AGRICULTURE MIL OR MFO FLT. OPS OF FLT FM EGYPT BOUNDRAY TO 6KM EB REQUIRES",
+      "validFrom": "2025-08-31T06:56:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) AN AREA FM EGYPT BOUNDARY TO 3KM OUTWARD CLSD TO ALL FLT, EXC AGRICULTURE MIL OR MFO FLT. OPS OF FLT FM EGYPT BOUNDRAY TO 6KM EB REQUIRES",
+      "mapLink": "https://www.google.com/maps?q=30.48,34.58",
+      "centerPos": {
+        "lat": 30.48,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "C2102/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF HAROD (BHROD), NAAMA (BNAMM).) ",
+      "validFrom": "2025-08-31T06:56:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF HAROD (BHROD), NAAMA (BNAMM).) ",
+      "mapLink": "https://www.google.com/maps?q=32.22,35.35",
+      "centerPos": {
+        "lat": 32.22,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C2103/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF NITZANIM (BNZNI), SHIVTA (BSVTA), SHDEROT NORTH (BDRTN), SHDEROT SOUTH (BDRTS).)",
+      "validFrom": "2025-08-31T06:57:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PPR FLT FM IAF NITZANIM (BNZNI), SHIVTA (BSVTA), SHDEROT NORTH (BDRTN), SHDEROT SOUTH (BDRTS).)",
+      "mapLink": "https://www.google.com/maps?q=31.33,34.65",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "C2098/25",
+      "icaoCode": "LLGV",
+      "description": "E) OPS AVBL FOR AGRICULTURE FLT AND UAS/UAV ONLY.)  ",
+      "validFrom": "2025-08-31T06:55:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) OPS AVBL FOR AGRICULTURE FLT AND UAS/UAV ONLY.)  ",
+      "mapLink": "https://www.google.com/maps?q=31.23,34.47",
+      "centerPos": {
+        "lat": 31.23,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "A0675/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MOCEV-FOLKU. ISRAEL AIP, PART ENR 3.1, CHART 6-1. REF.) ",
+      "validFrom": "2025-07-07T10:55:00.000Z",
+      "validTo": "2028-09-14T13:24:51.417Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MOCEV-FOLKU. ISRAEL AIP, PART ENR 3.1, CHART 6-1. REF.) ",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.28",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C1659/25",
+      "icaoCode": "LLIB",
+      "description": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)  ",
+      "validFrom": "2025-07-01T10:24:00.000Z",
+      "validTo": "2025-09-30T20:59:00.000Z",
+      "rawText": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)  ",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1646/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
+      "validFrom": "2025-06-30T13:32:00.000Z",
+      "validTo": "2025-09-30T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C1473/25",
+      "icaoCode": "LLLL",
+      "description": "E) FLT CIV HEL ALONG ULTRALIGHT RTE WITHDRAWN. DOM AIP, PART B-08, PARA 6.A. AND 6.F. REF.) ",
+      "validFrom": "2025-06-09T09:39:00.000Z",
+      "validTo": "2028-09-14T13:24:53.152Z",
+      "rawText": "E) FLT CIV HEL ALONG ULTRALIGHT RTE WITHDRAWN. DOM AIP, PART B-08, PARA 6.A. AND 6.F. REF.) ",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1326/25",
+      "icaoCode": "LLLL",
+      "description": "E) MIL ATC PHONE NR CHG AS FLW PLUTO WEST 04-692-6211. PLUTO EAST 04-692-6239.",
+      "validFrom": "2025-05-26T07:10:00.000Z",
+      "validTo": "2028-09-14T13:24:53.652Z",
+      "rawText": "E) MIL ATC PHONE NR CHG AS FLW PLUTO WEST 04-692-6211. PLUTO EAST 04-692-6239.",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1324/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA INDUSTRY AREA, EXTENDED OF LLD50, AN AREA BTN THE FLW PSN CLSD BTN SS-SR FM GND UP TO 500FT AMSL 322818.7N0345555.9E",
+      "validFrom": "2025-05-26T06:30:00.000Z",
+      "validTo": "2028-09-14T13:24:54.172Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA INDUSTRY AREA, EXTENDED OF LLD50, AN AREA BTN THE FLW PSN CLSD BTN SS-SR FM GND UP TO 500FT AMSL 322818.7N0345555.9E",
+      "mapLink": "https://www.google.com/maps?q=32.48,34.95",
+      "centerPos": {
+        "lat": 32.48,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1313/25",
+      "icaoCode": "LLFK",
+      "description": "E) AIRSTRIP OPR CHG AS FLW OPR OHAD HERMAN 050-5454902, EMAIL HCL-PIK(AT)MEGOLAN.ORG.IL",
+      "validFrom": "2025-06-01T00:01:00.000Z",
+      "validTo": "2028-09-14T13:24:54.789Z",
+      "rawText": "E) AIRSTRIP OPR CHG AS FLW OPR OHAD HERMAN 050-5454902, EMAIL HCL-PIK(AT)MEGOLAN.ORG.IL",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.72",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.72
+      }
     }
   ],
   "totalCount": 136,
-  "lastUpdated": "2025-09-14T12:58:03.154Z"
+  "lastUpdated": "2025-09-14T13:24:54.791Z"
 }

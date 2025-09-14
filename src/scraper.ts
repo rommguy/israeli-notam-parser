@@ -63,6 +63,7 @@ const expandNotam = async (page: Page, itemId: string) => {
 
   await page.waitForFunction((itemId: string) => {
     const moreInfoDiv = document.getElementById(`divMoreInfo_${itemId}`);
+    // todo handle A0822/25 - content is visible after expand
     const moreInfoElm = moreInfoDiv?.querySelectorAll(".more_MsgText") || [];
     return (
       document.getElementById(`divMainInfo_${itemId}`)?.style.display ===
