@@ -49,7 +49,7 @@ export const NotamCard: React.FC<NotamCardProps> = ({
   };
 
   const getTypeColor = (
-    type: NOTAM["type"],
+    type: NOTAM["type"]
   ): "primary" | "secondary" | "warning" | "info" => {
     switch (type) {
       case "A":
@@ -81,11 +81,11 @@ export const NotamCard: React.FC<NotamCardProps> = ({
       sx={{
         mb: 2,
         opacity: isRead ? 0.7 : 1,
-        backgroundColor: isRead
-          ? alpha(theme.palette.grey[100], 0.5)
-          : "background.paper",
-        border: isRead
-          ? `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
+        backgroundColor:
+          isRead ? alpha(theme.palette.grey[100], 0.5) : "background.paper",
+        border:
+          isRead ?
+            `1px solid ${alpha(theme.palette.grey[300], 0.5)}`
           : `1px solid ${alpha(theme.palette.primary.main, 0.12)}`,
         transition: "all 0.2s ease-in-out",
         "&:hover": {
@@ -129,7 +129,9 @@ export const NotamCard: React.FC<NotamCardProps> = ({
             aria-label={isRead ? "Mark as unread" : "Mark as read"}
             sx={{ ml: 1 }}
           >
-            {isRead ? <CheckCircle /> : <RadioButtonUnchecked />}
+            {isRead ?
+              <CheckCircle />
+            : <RadioButtonUnchecked />}
           </IconButton>
         </Box>
 
@@ -170,7 +172,11 @@ export const NotamCard: React.FC<NotamCardProps> = ({
                 {notam.validFrom && (
                   <Typography variant="caption" color="text.secondary">
                     From:{" "}
-                    {formatInTimeZone(notam.validFrom, "UTC", "MMM dd, HH:mm")}{" "}
+                    {formatInTimeZone(
+                      notam.validFrom,
+                      "UTC",
+                      "MMM dd, yyyy, HH:mm"
+                    )}{" "}
                     UTC
                   </Typography>
                 )}
@@ -183,7 +189,11 @@ export const NotamCard: React.FC<NotamCardProps> = ({
                 {notam.validTo && (
                   <Typography variant="caption" color="text.secondary">
                     To:{" "}
-                    {formatInTimeZone(notam.validTo, "UTC", "MMM dd, HH:mm")}{" "}
+                    {formatInTimeZone(
+                      notam.validTo,
+                      "UTC",
+                      "MMM dd, yyyy, HH:mm"
+                    )}{" "}
                     UTC
                   </Typography>
                 )}
