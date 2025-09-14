@@ -9,61 +9,6 @@ interface CliOptions {
   help?: boolean;
   headless?: boolean;
 }
-const hardCodedFetchedIds = [
-  "A0811/25",
-  "C2140/25",
-  "A0809/25",
-  "C2139/25",
-  "C2138/25",
-  "A0807/25",
-  "C2134/25",
-  "C2129/25",
-  "C2126/25",
-  "A0794/25",
-  "A0781/25",
-  "C2120/25",
-  "C2118/25",
-  "C2115/25",
-  "C2116/25",
-  "C2112/25",
-  "C2113/25",
-  "C2108/25",
-  "C2106/25",
-  "C2107/25",
-  "C2101/25",
-  "C2102/25",
-  "C2103/25",
-  "C2098/25",
-  "C2099/25",
-  "C2100/25",
-  "C2094/25",
-  "A0775/25",
-  "A0774/25",
-  "C2072/25",
-  "A0768/25",
-  "C2058/25",
-  "A0760/25",
-  "A0759/25",
-  "A0758/25",
-  "A0757/25",
-  "C2048/25",
-  "A0748/25",
-  "C2005/25",
-  "A0722/25",
-  "A0695/25",
-  "C1840/25",
-  "A0694/25",
-  "C1839/25",
-  "C1737/25",
-  "C1710/25",
-  "A0675/25",
-  "C1659/25",
-  "C1646/25",
-  "C1473/25",
-  "C1326/25",
-  "C1324/25",
-  "C1313/25",
-];
 
 interface NotamFileData {
   notams: NOTAM[];
@@ -145,10 +90,9 @@ function saveNotamsToFile(notams: NOTAM[]): void {
 
 const scrapeNotams = async (headless: boolean = true): Promise<void> => {
   const existingIds = getExistingNotamIds();
-  const allExistingIds = [...new Set([...hardCodedFetchedIds, ...existingIds])];
+  const allExistingIds = [...new Set([...existingIds])];
 
   console.log(`🔍 Total existing IDs to skip: ${allExistingIds.length}`);
-  console.log(`   - Hardcoded IDs: ${hardCodedFetchedIds.length}`);
   console.log(`   - From file: ${existingIds.length}`);
 
   let browser: Browser | null = null;
