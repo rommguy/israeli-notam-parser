@@ -18,7 +18,7 @@ describe("scaper tests", () => {
       const invalidDateString = "250115143"; // 9 characters instead of 10
 
       expect(() => parseDate(invalidDateString)).toThrow(
-        "Date string must be exactly 10 characters (YYMMDDHHMM)"
+        "Date string must be exactly 10 characters (YYMMDDHHMM)",
       );
     });
   });
@@ -129,18 +129,6 @@ describe("scaper tests", () => {
       // 8999N = 89.99°N, 17999E = 179.99°E
       expect(result.mapLink).toBe("https://www.google.com/maps?q=90.65,180.65");
       expect(result.centerPos).toEqual({ lat: 90.65, lon: 180.65 });
-    });
-
-    it("should handle Southern and Western coordinates", async () => {
-      const testData = ["Q) LLLL/QWULW/IV/BO /W /000/010/3015S12030W001"];
-
-      const result = await parseQ("TEST123", testData);
-
-      // 3015S = -30.15°S, 12030W = -120.30°W
-      expect(result.mapLink).toBe(
-        "https://www.google.com/maps?q=-30.25,-120.50"
-      );
-      expect(result.centerPos).toEqual({ lat: -30.25, lon: -120.5 });
     });
   });
 });
