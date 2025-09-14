@@ -10,6 +10,7 @@ export interface NOTAM {
   createdDate: Date;
   rawText: string;
   mapLink?: string;
+  centerPos: { lat: number; lon: number } | null;
 }
 
 export interface NotamFilterOptions {

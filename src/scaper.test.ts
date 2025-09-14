@@ -18,7 +18,7 @@ describe("scaper tests", () => {
       const invalidDateString = "250115143"; // 9 characters instead of 10
 
       expect(() => parseDate(invalidDateString)).toThrow(
-        "Date string must be exactly 10 characters (YYMMDDHHMM)",
+        "Date string must be exactly 10 characters (YYMMDDHHMM)"
       );
     });
   });
@@ -77,6 +77,7 @@ describe("scaper tests", () => {
       const result = await parseQ("TEST123", testData);
 
       expect(result.mapLink).toBe("https://www.google.com/maps?q=32.63,35.45");
+      expect(result.centerPos).toEqual({ lat: 32.63, lon: 35.45 });
     });
 
     it("should handle different coordinate formats", async () => {
@@ -86,6 +87,7 @@ describe("scaper tests", () => {
 
       // 4012N = 40.12°N, 07408E = 74.08°E
       expect(result.mapLink).toBe("https://www.google.com/maps?q=40.20,74.13");
+      expect(result.centerPos).toEqual({ lat: 40.2, lon: 74.13 });
     });
 
     it("should return empty string when Q) section is not found", async () => {
@@ -97,6 +99,7 @@ describe("scaper tests", () => {
       const result = await parseQ("TEST123", testData);
 
       expect(result.mapLink).toBe("");
+      expect(result.centerPos).toBe(null);
     });
 
     it("should return empty string when coordinates format is invalid", async () => {
@@ -105,6 +108,7 @@ describe("scaper tests", () => {
       const result = await parseQ("TEST123", testData);
 
       expect(result.mapLink).toBe("");
+      expect(result.centerPos).toBe(null);
     });
 
     it("should handle coordinates with leading zeros", async () => {
@@ -114,6 +118,7 @@ describe("scaper tests", () => {
 
       // 0105N = 01.05°N, 00203E = 02.03°E
       expect(result.mapLink).toBe("https://www.google.com/maps?q=1.08,2.05");
+      expect(result.centerPos).toEqual({ lat: 1.08, lon: 2.05 });
     });
 
     it("should handle edge case with maximum coordinates", async () => {
@@ -123,6 +128,19 @@ describe("scaper tests", () => {
 
       // 8999N = 89.99°N, 17999E = 179.99°E
       expect(result.mapLink).toBe("https://www.google.com/maps?q=90.65,180.65");
+      expect(result.centerPos).toEqual({ lat: 90.65, lon: 180.65 });
+    });
+
+    it("should handle Southern and Western coordinates", async () => {
+      const testData = ["Q) LLLL/QWULW/IV/BO /W /000/010/3015S12030W001"];
+
+      const result = await parseQ("TEST123", testData);
+
+      // 3015S = -30.15°S, 12030W = -120.30°W
+      expect(result.mapLink).toBe(
+        "https://www.google.com/maps?q=-30.25,-120.50"
+      );
+      expect(result.centerPos).toEqual({ lat: -30.25, lon: -120.5 });
     });
   });
 });

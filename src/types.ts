@@ -6,6 +6,7 @@ export interface NOTAM {
   validTo: Date | null;
   rawText: string;
   mapLink?: string;
+  centerPos: { lat: number; lon: number } | null;
 }
 
 /**
