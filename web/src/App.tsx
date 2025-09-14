@@ -139,6 +139,7 @@ function App() {
 
             <NotamList
               notams={filteredNotams}
+              showOnlyUnread={showOnlyUnread}
               isLoading={isLoading}
               error={error}
               isRead={isRead}

@@ -1,9 +1,9 @@
 import { useState, useEffect, useMemo, useCallback } from "react";
+import { flow } from "lodash/fp";
 import type { NOTAM, ParsedNotamData } from "../types";
 import {
   loadNotamData,
   filterNotamsByIcao,
-  filterNotamsByReadStatus,
   filterNotamsByCenterPos,
   getNotamStats,
 } from "../services/notamService";
@@ -47,7 +47,6 @@ interface UseNotamsResult {
  * Custom hook for managing NOTAM data, filtering, and read state
  */
 export function useNotams(selectedDate: Date): UseNotamsResult {
-  // State for data loading
   const [rawData, setRawData] = useState<ParsedNotamData | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -73,7 +72,7 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
       setRawData(data);
     } catch (err) {
       setError(
-        err instanceof Error ? err.message : "Failed to load NOTAM data"
+        err instanceof Error ? err.message : "Failed to load NOTAM data",
       );
       setRawData(null);
     } finally {
@@ -93,18 +92,11 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
 
   // Apply filters to get filtered NOTAMs
   const filteredNotams = useMemo(() => {
-    let filtered = notams;
-
-    // Filter by ICAO codes
-    filtered = filterNotamsByIcao(filtered, selectedIcaoCodes);
-
-    // Filter by center position
-    filtered = filterNotamsByCenterPos(filtered, centerPosFilter);
-
-    // Filter by read status
-    filtered = filterNotamsByReadStatus(filtered, readState, showOnlyUnread);
-
-    return filtered;
+    return flow(
+      filterNotamsByIcao(selectedIcaoCodes),
+      filterNotamsByCenterPos(centerPosFilter),
+      // filterNotamsByReadStatus(readState, showOnlyUnread),
+    )(notams);
   }, [notams, selectedIcaoCodes, centerPosFilter, readState, showOnlyUnread]);
 
   // Calculate statistics
@@ -117,28 +109,28 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
     (notamId: string) => {
       setNotamReadStatus(notamId, true);
     },
-    [setNotamReadStatus]
+    [setNotamReadStatus],
   );
 
   const markAsUnread = useCallback(
     (notamId: string) => {
       setNotamReadStatus(notamId, false);
     },
-    [setNotamReadStatus]
+    [setNotamReadStatus],
   );
 
   const toggleReadStatus = useCallback(
     (notamId: string) => {
       toggleNotamReadStatus(notamId);
     },
-    [toggleNotamReadStatus]
+    [toggleNotamReadStatus],
   );
 
   const isRead = useCallback(
     (notamId: string) => {
       return Boolean(readState[notamId]);
     },
-    [readState]
+    [readState],
   );
 
   // Refresh data function
@@ -173,36 +165,5 @@ export function useNotams(selectedDate: Date): UseNotamsResult {
     toggleReadStatus,
     isRead,
     refreshData,
-  };
-}
-
-/**
- * Hook for managing data from multiple dates
- */
-export function useMultiDateNotams(dates: Date[]): {
-  data: Record<string, UseNotamsResult>;
-  hasErrors: boolean;
-  isAnyLoading: boolean;
-} {
-  const results = dates.reduce(
-    (acc, date) => {
-      const dateKey = date.toISOString().split("T")[0];
-      acc[dateKey] = useNotams(date);
-      return acc;
-    },
-    {} as Record<string, UseNotamsResult>
-  );
-
-  const hasErrors = Object.values(results).some((result) =>
-    Boolean(result.error)
-  );
-  const isAnyLoading = Object.values(results).some(
-    (result) => result.isLoading
-  );
-
-  return {
-    data: results,
-    hasErrors,
-    isAnyLoading,
   };
 }

@@ -1,4 +1,4 @@
-import React from 'react';
+import type { MouseEvent } from "react";
 import {
   Paper,
   Typography,
@@ -6,8 +6,8 @@ import {
   ToggleButton,
   ToggleButtonGroup,
   Badge,
-} from '@mui/material';
-import { Visibility, VisibilityOff } from '@mui/icons-material';
+} from "@mui/material";
+import { Visibility, VisibilityOff } from "@mui/icons-material";
 
 interface ViewToggleProps {
   showOnlyUnread: boolean;
@@ -17,19 +17,19 @@ interface ViewToggleProps {
   disabled?: boolean;
 }
 
-export const ViewToggle: React.FC<ViewToggleProps> = ({
+export const ViewToggle = ({
   showOnlyUnread,
   onToggle,
   totalCount,
   unreadCount,
   disabled = false,
-}) => {
+}: ViewToggleProps) => {
   const handleChange = (
-    _event: React.MouseEvent<HTMLElement>,
-    newValue: 'all' | 'unread' | null,
+    _event: MouseEvent<HTMLElement>,
+    newValue: "all" | "unread" | null,
   ) => {
     if (newValue !== null) {
-      onToggle(newValue === 'unread');
+      onToggle(newValue === "unread");
     }
   };
 
@@ -42,24 +42,24 @@ export const ViewToggle: React.FC<ViewToggleProps> = ({
       </Box>
 
       <ToggleButtonGroup
-        value={showOnlyUnread ? 'unread' : 'all'}
+        value={showOnlyUnread ? "unread" : "all"}
         exclusive
         onChange={handleChange}
         aria-label="view toggle"
         fullWidth
         disabled={disabled}
         sx={{
-          '& .MuiToggleButton-root': {
+          "& .MuiToggleButton-root": {
             py: 1,
             px: 2,
-            textTransform: 'none',
-            border: '1px solid',
-            borderColor: 'divider',
-            '&.Mui-selected': {
-              backgroundColor: 'primary.main',
-              color: 'primary.contrastText',
-              '&:hover': {
-                backgroundColor: 'primary.dark',
+            textTransform: "none",
+            border: "1px solid",
+            borderColor: "divider",
+            "&.Mui-selected": {
+              backgroundColor: "primary.main",
+              color: "primary.contrastText",
+              "&:hover": {
+                backgroundColor: "primary.dark",
               },
             },
           },
@@ -67,16 +67,16 @@ export const ViewToggle: React.FC<ViewToggleProps> = ({
       >
         <ToggleButton value="all" aria-label="show all NOTAMs">
           <Visibility sx={{ mr: 1 }} />
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+          <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
             <Typography variant="body2" sx={{ fontWeight: 600 }}>
               All NOTAMs
             </Typography>
-            <Badge 
-              badgeContent={totalCount} 
+            <Badge
+              badgeContent={totalCount}
               color="default"
               sx={{
-                '& .MuiBadge-badge': {
-                  fontSize: '0.75rem',
+                "& .MuiBadge-badge": {
+                  fontSize: "0.75rem",
                   height: 18,
                   minWidth: 18,
                 },
@@ -87,16 +87,16 @@ export const ViewToggle: React.FC<ViewToggleProps> = ({
 
         <ToggleButton value="unread" aria-label="show unread NOTAMs only">
           <VisibilityOff sx={{ mr: 1 }} />
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+          <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
             <Typography variant="body2" sx={{ fontWeight: 600 }}>
               Unread Only
             </Typography>
-            <Badge 
-              badgeContent={unreadCount} 
+            <Badge
+              badgeContent={unreadCount}
               color="error"
               sx={{
-                '& .MuiBadge-badge': {
-                  fontSize: '0.75rem',
+                "& .MuiBadge-badge": {
+                  fontSize: "0.75rem",
                   height: 18,
                   minWidth: 18,
                 },

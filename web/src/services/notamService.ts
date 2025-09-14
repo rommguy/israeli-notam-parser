@@ -139,58 +139,41 @@ export const loadAllNotamData = async (
 /**
  * Filter NOTAMs by ICAO codes
  */
-export const filterNotamsByIcao = (
-  notams: NOTAM[],
-  selectedIcaoCodes: string[],
-): NOTAM[] => {
-  if (selectedIcaoCodes.length === 0) {
-    return notams;
-  }
+export const filterNotamsByIcao =
+  (selectedIcaoCodes: string[]) =>
+  (notams: NOTAM[]): NOTAM[] => {
+    if (selectedIcaoCodes.length === 0) {
+      return notams;
+    }
 
-  return notams.filter((notam) => selectedIcaoCodes.includes(notam.icaoCode));
-};
+    return notams.filter((notam) => selectedIcaoCodes.includes(notam.icaoCode));
+  };
 
-/**
- * Filter NOTAMs by read status
- */
-export const filterNotamsByReadStatus = (
-  notams: NOTAM[],
-  readState: Record<string, boolean>,
-  showOnlyUnread: boolean,
-): NOTAM[] => {
-  if (!showOnlyUnread) {
-    return notams;
-  }
+export const filterNotamsByCenterPos =
+  (centerPosFilter: "all" | "north" | "south") =>
+  (notams: NOTAM[]): NOTAM[] => {
+    if (centerPosFilter === "all") {
+      return notams;
+    }
 
-  return notams.filter((notam) => !readState[notam.id]);
-};
+    return notams.filter((notam) => {
+      if (!notam.centerPos) {
+        return true;
+      }
 
-export const filterNotamsByCenterPos = (
-  notams: NOTAM[],
-  centerPosFilter: "all" | "north" | "south",
-): NOTAM[] => {
-  if (centerPosFilter === "all") {
-    return notams;
-  }
+      const lat = notam.centerPos.lat;
 
-  return notams.filter((notam) => {
-    if (!notam.centerPos) {
+      if (centerPosFilter === "north") {
+        // North: latitude >= 32.05N
+        return lat >= 32.05;
+      } else if (centerPosFilter === "south") {
+        // South: latitude <= 32.15N
+        return lat <= 32.15;
+      }
+
       return true;
-    }
-
-    const lat = notam.centerPos.lat;
-
-    if (centerPosFilter === "north") {
-      // North: latitude >= 32.05N
-      return lat >= 32.05;
-    } else if (centerPosFilter === "south") {
-      // South: latitude <= 32.15N
-      return lat <= 32.15;
-    }
-
-    return true;
-  });
-};
+    });
+  };
 
 /**
  * Get unique ICAO codes from NOTAMs
