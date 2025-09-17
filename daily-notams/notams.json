@@ -1858,8 +1858,47 @@
         "lat": 32.18,
         "lon": 35.25
       }
+    },
+    {
+      "id": "C2258/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2025-09-21T04:30:00.000Z",
+      "validTo": "2025-09-21T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C2255/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD, DUE ILS ACT WI LLRD.)",
+      "validFrom": "2025-09-17T06:00:00.000Z",
+      "validTo": "2025-09-17T12:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD, DUE ILS ACT WI LLRD.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2254/25",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD. CTN ADZ.)",
+      "validFrom": "2025-09-17T06:00:00.000Z",
+      "validTo": "2025-09-17T12:00:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
     }
   ],
-  "totalCount": 143,
-  "lastUpdated": "2025-09-16T02:32:53.255Z"
+  "totalCount": 146,
+  "lastUpdated": "2025-09-17T02:32:14.637Z"
 }
