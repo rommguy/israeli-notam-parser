@@ -1897,8 +1897,125 @@
         "lat": 32.6,
         "lon": 35.23
       }
+    },
+    {
+      "id": "C2270/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-09-19T05:00:00.000Z",
+      "validTo": "2025-09-19T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2267/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2025-09-21T05:00:00.000Z",
+      "validTo": "2025-09-21T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.62,34.87",
+      "centerPos": {
+        "lat": 31.62,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C2268/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-09-21T05:00:00.000Z",
+      "validTo": "2025-09-21T06:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2266/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2.4NM RADIUS CENTERED ON PSN 314852N0344916E CLSD FM GND UP TO 6,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2025-09-18T14:20:00.000Z",
+      "validTo": "2025-09-18T14:50:00.000Z",
+      "rawText": "E) AN AREA WI 2.4NM RADIUS CENTERED ON PSN 314852N0344916E CLSD FM GND UP TO 6,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,34.82",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2265/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZGLNI-MIGDL.)",
+      "validFrom": "2025-09-21T07:00:00.000Z",
+      "validTo": "2025-09-21T13:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZGLNI-MIGDL.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.45",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2264/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.7NM RADIUS CENTERED ON PSN 324801N0352636E CLSD FM GND UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-09-21T07:00:00.000Z",
+      "validTo": "2025-09-21T13:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.7NM RADIUS CENTERED ON PSN 324801N0352636E CLSD FM GND UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.45",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2263/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE A-EAST(BMGEA) AND ULTRALIGHT BUBBLE KINNERET(BKNRT) CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2025-09-19T03:30:00.000Z",
+      "validTo": "2025-09-19T06:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE A-EAST(BMGEA) AND ULTRALIGHT BUBBLE KINNERET(BKNRT) CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.53",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.53
+      }
+    },
+    {
+      "id": "C2262/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST KKAMA-ZEMAH-HAONN-LLFK. HAONN-ENGEV-ZBTZD-DESHE-MIGDL-ZEMAH. ZGLNI-MIGDL. DESHE-ZAMID. HEL RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST ZEMAH-HAONN-ENGEV-ZBTZD-DESHE-MIGDL-ZEMAH. TAVOR-ZEMAH. TAVOR-MIGDL. ZGLNI-MIGDL. DESHE-ZAMID. MNHMA-ZEMAH. ZBTZD-ZBTMS.)",
+      "validFrom": "2025-09-19T03:30:00.000Z",
+      "validTo": "2025-09-19T06:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST KKAMA-ZEMAH-HAONN-LLFK. HAONN-ENGEV-ZBTZD-DESHE-MIGDL-ZEMAH. ZGLNI-MIGDL. DESHE-ZAMID. HEL RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST ZEMAH-HAONN-ENGEV-ZBTZD-DESHE-MIGDL-ZEMAH. TAVOR-ZEMAH. TAVOR-MIGDL. ZGLNI-MIGDL. DESHE-ZAMID. MNHMA-ZEMAH. ZBTZD-ZBTMS.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.55",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.55
+      }
+    },
+    {
+      "id": "A0833/25",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2025-09-30T14:00:00.000Z",
+      "validTo": "2025-09-30T16:00:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 146,
-  "lastUpdated": "2025-09-17T02:32:14.637Z"
+  "totalCount": 155,
+  "lastUpdated": "2025-09-18T02:33:25.881Z"
 }
