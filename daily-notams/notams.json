@@ -2300,8 +2300,86 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "A0839/25",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-10-21T05:25:00.000Z",
+      "validTo": "2025-10-21T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2300/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KELACH BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, AS FLW CLSD FM GND UP TO 2,000FT AMSL 312731N0344646E 312731N0344953E 313137N0344956E 313131N0344729E. CLSD FM GND UP TO 8,500FT AMSL 313113N0344749E 313111N0344950E 312837N0344953E 312837N0344817E. CTN ADZ.)",
+      "validFrom": "2025-09-21T13:06:00.000Z",
+      "validTo": "2025-10-31T20:59:00.000Z",
+      "rawText": "E) AN AREA AT KELACH BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, AS FLW CLSD FM GND UP TO 2,000FT AMSL 312731N0344646E 312731N0344953E 313137N0344956E 313131N0344729E. CLSD FM GND UP TO 8,500FT AMSL 313113N0344749E 313111N0344950E 312837N0344953E 312837N0344817E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.50,34.80",
+      "centerPos": {
+        "lat": 31.5,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C2297/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.7NM RADIUS CENTERED ON PSN 324801N0352636E CLSD FM GND UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-09-28T08:00:00.000Z",
+      "validTo": "2025-09-28T14:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.7NM RADIUS CENTERED ON PSN 324801N0352636E CLSD FM GND UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.45",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2298/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZGLNI-MIGDL.)",
+      "validFrom": "2025-09-28T08:00:00.000Z",
+      "validTo": "2025-09-28T14:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZGLNI-MIGDL.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.45",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2296/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-09-26T05:00:00.000Z",
+      "validTo": "2025-09-26T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2294/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT DUE HOL.)",
+      "validFrom": "2025-09-22T00:01:00.000Z",
+      "validTo": "2025-09-24T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT DUE HOL.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 177,
-  "lastUpdated": "2025-09-19T02:34:52.565Z"
+  "totalCount": 183,
+  "lastUpdated": "2025-09-22T02:38:27.019Z"
 }
