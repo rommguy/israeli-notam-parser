@@ -2391,8 +2391,125 @@
         "lat": 30.32,
         "lon": 34.82
       }
+    },
+    {
+      "id": "A0843/25",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 5MIN.)",
+      "validFrom": "2025-10-21T10:35:00.000Z",
+      "validTo": "2025-10-21T11:15:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 5MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2310/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RAMLA. AN AREA WI 0.1KM RADIUS CENTERED ON PSN 315527N0345124E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2025-10-08T17:30:00.000Z",
+      "validTo": "2025-10-09T19:30:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RAMLA. AN AREA WI 0.1KM RADIUS CENTERED ON PSN 315527N0345124E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.85",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C2309/25",
+      "icaoCode": "LLLL",
+      "description": "E) CTN ADZ WHEN FLYING ALONG HEL RTE RIDING-EGLIL.)",
+      "validFrom": "2025-09-29T18:00:00.000Z",
+      "validTo": "2025-09-29T20:30:00.000Z",
+      "rawText": "E) CTN ADZ WHEN FLYING ALONG HEL RTE RIDING-EGLIL.)",
+      "mapLink": "https://www.google.com/maps?q=32.12,34.78",
+      "centerPos": {
+        "lat": 32.12,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C2308/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT TEL-AVIV HOF-TEL BARUCH. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 320705N0344712E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2025-09-29T18:00:00.000Z",
+      "validTo": "2025-09-29T20:30:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT TEL-AVIV HOF-TEL BARUCH. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 320705N0344712E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.12,34.78",
+      "centerPos": {
+        "lat": 32.12,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C2307/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-03T05:00:00.000Z",
+      "validTo": "2025-10-03T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0842/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.)",
+      "validFrom": "2025-10-01T00:01:00.000Z",
+      "validTo": "2025-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0840/25",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2025-10-01T00:01:00.000Z",
+      "validTo": "2028-09-26T02:35:15.448Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0841/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.)",
+      "validFrom": "2025-10-01T00:01:00.000Z",
+      "validTo": "2025-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2306/25",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, IN CASE OF EMERG AD NOT AVBL.)",
+      "validFrom": "2025-09-29T06:00:00.000Z",
+      "validTo": "2025-09-29T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, IN CASE OF EMERG AD NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 184,
-  "lastUpdated": "2025-09-23T02:34:19.515Z"
+  "totalCount": 193,
+  "lastUpdated": "2025-09-26T02:35:17.301Z"
 }
