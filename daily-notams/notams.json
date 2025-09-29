@@ -2508,8 +2508,112 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C2322/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "validFrom": "2025-10-01T00:01:00.000Z",
+      "validTo": "2025-10-31T21:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.30",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2321/25",
+      "icaoCode": "LLLL",
+      "description": "E) BZVUE AVBL ON WEEKEND FM 0600LMT OR HOL EVE FM 1400LMT UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. REF.)",
+      "validFrom": "2025-10-03T00:01:00.000Z",
+      "validTo": "2028-09-29T02:36:50.546Z",
+      "rawText": "E) BZVUE AVBL ON WEEKEND FM 0600LMT OR HOL EVE FM 1400LMT UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.87,35.13",
+      "centerPos": {
+        "lat": 32.87,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "A0845/25",
+      "icaoCode": "LLHA",
+      "description": "E) SELF SER REFUEL FOR HEL AT APN A PROHIBITED.)",
+      "validFrom": "2025-09-28T11:34:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) SELF SER REFUEL FOR HEL AT APN A PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0844/25",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND A1, L5 CLSD.)",
+      "validFrom": "2025-09-28T11:34:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) ACFT STAND A1, L5 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2313/25",
+      "icaoCode": "LLHZ",
+      "description": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)",
+      "validFrom": "2025-09-28T10:37:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2314/25",
+      "icaoCode": "LLIB",
+      "description": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)",
+      "validFrom": "2025-09-28T10:38:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C2312/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
+      "validFrom": "2025-09-28T10:03:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE ULTRALIGHT AND HEL FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2311/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE RE-DESIGNATED AS STANDARD HEL RTE RIDNG-EGLIL-MORSA-YARKN-KESEM. EGLIL-ZAYLN. PARDS-MORSA. IAF HEL MAP REF.)",
+      "validFrom": "2025-09-28T09:53:00.000Z",
+      "validTo": "2028-09-29T02:36:55.781Z",
+      "rawText": "E) HEL RTE RE-DESIGNATED AS STANDARD HEL RTE RIDNG-EGLIL-MORSA-YARKN-KESEM. EGLIL-ZAYLN. PARDS-MORSA. IAF HEL MAP REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.12,34.85",
+      "centerPos": {
+        "lat": 32.12,
+        "lon": 34.85
+      }
     }
   ],
-  "totalCount": 193,
-  "lastUpdated": "2025-09-26T02:35:17.301Z"
+  "totalCount": 201,
+  "lastUpdated": "2025-09-29T02:36:55.782Z"
 }
