@@ -2885,8 +2885,125 @@
         "lat": 32.57,
         "lon": 35.45
       }
+    },
+    {
+      "id": "C2348/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-15T04:30:00.000Z",
+      "validTo": "2025-10-15T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2347/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-10-15T15:45:00.000Z",
+      "validTo": "2025-10-15T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2346/25",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-15T15:45:00.000Z",
+      "validTo": "2025-10-15T16:45:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2345/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-10-15T15:45:00.000Z",
+      "validTo": "2025-10-15T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2344/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE GOVRIN N AND S (BGOVN, BGOVS) CLSD.)",
+      "validFrom": "2025-10-17T07:45:00.000Z",
+      "validTo": "2025-10-17T08:30:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE GOVRIN N AND S (BGOVN, BGOVS) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C2343/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD.)",
+      "validFrom": "2025-10-17T07:45:00.000Z",
+      "validTo": "2025-10-17T08:30:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.50,34.90",
+      "centerPos": {
+        "lat": 31.5,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2342/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE MEYTAR (BMTAR) CLSD.)",
+      "validFrom": "2025-10-17T07:15:00.000Z",
+      "validTo": "2025-10-17T07:50:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE MEYTAR (BMTAR) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,35.07",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2341/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE EIN-GEDI (BNGDI) AND ZOHAR (ZHRAR) CLSD.)",
+      "validFrom": "2025-10-17T06:50:00.000Z",
+      "validTo": "2025-10-17T07:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE EIN-GEDI (BNGDI) AND ZOHAR (ZHRAR) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.15,35.32",
+      "centerPos": {
+        "lat": 31.15,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C2340/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-15T05:00:00.000Z",
+      "validTo": "2025-10-15T15:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 222,
-  "lastUpdated": "2025-09-30T02:34:21.877Z"
+  "totalCount": 231,
+  "lastUpdated": "2025-10-01T02:38:51.703Z"
 }
