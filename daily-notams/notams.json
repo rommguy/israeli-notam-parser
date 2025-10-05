@@ -3002,8 +3002,21 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C2350/25",
+      "icaoCode": "LLLL",
+      "description": "E) CTA CLSD AN AREA FLW PSN FM GND UP TO 4,OOOFT CLSD TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E 313910N0343642E CTN ADZ.)",
+      "validFrom": "2025-10-05T06:00:00.000Z",
+      "validTo": "2025-10-05T14:30:00.000Z",
+      "rawText": "E) CTA CLSD AN AREA FLW PSN FM GND UP TO 4,OOOFT CLSD TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E 313910N0343642E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
     }
   ],
-  "totalCount": 231,
-  "lastUpdated": "2025-10-01T02:38:51.703Z"
+  "totalCount": 232,
+  "lastUpdated": "2025-10-05T02:38:12.554Z"
 }
