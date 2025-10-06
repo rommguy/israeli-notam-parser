@@ -3015,8 +3015,73 @@
         "lat": 31.63,
         "lon": 34.62
       }
+    },
+    {
+      "id": "A0853/25",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2025-10-14T10:00:00.000Z",
+      "validTo": "2025-10-16T16:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2355/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT DUE TAMAR-FESTIVAL, EXC HEL. AIRSTRIP NOT AVBL FOR EMERG.)",
+      "validFrom": "2025-10-08T14:00:00.000Z",
+      "validTo": "2025-10-13T08:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT DUE TAMAR-FESTIVAL, EXC HEL. AIRSTRIP NOT AVBL FOR EMERG.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2354/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT DUE HOL, EXC HEL OR IN CASE OF EMERG.)",
+      "validFrom": "2025-10-06T00:01:00.000Z",
+      "validTo": "2025-10-07T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT DUE HOL, EXC HEL OR IN CASE OF EMERG.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2353/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-08T05:00:00.000Z",
+      "validTo": "2025-10-17T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2351/25",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ULTRALIGHT IN FLYPAST. OPS OF HEL BY PPR FM AIRSTRIP OPR.)",
+      "validFrom": "2025-10-09T05:30:00.000Z",
+      "validTo": "2025-10-09T08:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ULTRALIGHT IN FLYPAST. OPS OF HEL BY PPR FM AIRSTRIP OPR.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
     }
   ],
-  "totalCount": 232,
-  "lastUpdated": "2025-10-05T02:38:12.554Z"
+  "totalCount": 237,
+  "lastUpdated": "2025-10-06T02:36:08.735Z"
 }
