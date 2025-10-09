@@ -3080,8 +3080,34 @@
         "lat": 31.97,
         "lon": 34.75
       }
+    },
+    {
+      "id": "C2357/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE AND ULTRALIGHT FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. OPS OF HEL AVBL AT THE N PART OF THE AIRSTRIP BY OWN OPS. CTN ADZ.)",
+      "validFrom": "2025-10-08T17:21:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE AND ULTRALIGHT FLT, DUE SAFETY REASON AND INFRASTRUCTURE AVBL. OPS OF HEL AVBL AT THE N PART OF THE AIRSTRIP BY OWN OPS. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2356/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD DUE FIRING WI LLR24 TYONA-SHEFC-SOREK. FLT FM N TO LLRS SHALL FLY TO NTAIM VIA SUPER AT 800FT AMSL AND PROCEED FOR LDG.)",
+      "validFrom": "2025-10-08T11:16:00.000Z",
+      "validTo": "2025-10-12T14:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD DUE FIRING WI LLR24 TYONA-SHEFC-SOREK. FLT FM N TO LLRS SHALL FLY TO NTAIM VIA SUPER AT 800FT AMSL AND PROCEED FOR LDG.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.73",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.73
+      }
     }
   ],
-  "totalCount": 237,
-  "lastUpdated": "2025-10-06T02:36:08.735Z"
+  "totalCount": 239,
+  "lastUpdated": "2025-10-09T02:35:44.787Z"
 }
