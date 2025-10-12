@@ -3106,8 +3106,21 @@
         "lat": 31.97,
         "lon": 34.73
       }
+    },
+    {
+      "id": "A0854/25",
+      "icaoCode": "LLBG",
+      "description": "E) BTN 0600-1400LMT (0300-1100UTC) LDG OF GA FLT PROHIBITED. BTN 0600-1600LMT (0300-1300UTC) LDG OF CARGO FLT PROHIBITED.)",
+      "validFrom": "2025-10-13T03:00:00.000Z",
+      "validTo": "2025-10-13T13:00:00.000Z",
+      "rawText": "E) BTN 0600-1400LMT (0300-1100UTC) LDG OF GA FLT PROHIBITED. BTN 0600-1600LMT (0300-1300UTC) LDG OF CARGO FLT PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 239,
-  "lastUpdated": "2025-10-09T02:35:44.787Z"
+  "totalCount": 240,
+  "lastUpdated": "2025-10-12T02:36:21.389Z"
 }
