@@ -3119,8 +3119,164 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C2368/25",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF AGRICULTURE FLT BTN FLW PSN PROHIBITED TYONA-NSHRM-NAHEM-NOAAM-BKAMA-NCITY-HOVAV-NEGEV-TLLIM TLLIM-LLKZ-SIGAL-ASKLN-TYONA, INCLUDING LLP19.)",
+      "validFrom": "2025-10-13T03:30:00.000Z",
+      "validTo": "2025-10-13T15:30:00.000Z",
+      "rawText": "E) OPS OF AGRICULTURE FLT BTN FLW PSN PROHIBITED TYONA-NSHRM-NAHEM-NOAAM-BKAMA-NCITY-HOVAV-NEGEV-TLLIM TLLIM-LLKZ-SIGAL-ASKLN-TYONA, INCLUDING LLP19.)",
+      "mapLink": "https://www.google.com/maps?q=31.40,34.60",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 34.6
+      }
+    },
+    {
+      "id": "C2367/25",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF GLD, SAILPLANE, HANG-GLIDER, POWERED-PARACHUTE, PARAGLIDER, UAS/UAV OR MEDEL-ACFT BTN THE AREA WI NMASD-SFAIM-MEYAL-ALMOG-HOMMA-BSEMS-ZASHD PROHIBITED.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) OPS OF GLD, SAILPLANE, HANG-GLIDER, POWERED-PARACHUTE, PARAGLIDER, UAS/UAV OR MEDEL-ACFT BTN THE AREA WI NMASD-SFAIM-MEYAL-ALMOG-HOMMA-BSEMS-ZASHD PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.05",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2366/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT JERUSALEM WI 1.1NM RADIUS CENTERED ON PSN 314637N0351219E CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL. CTN ADZ.)",
+      "validFrom": "2025-10-13T06:30:00.000Z",
+      "validTo": "2025-10-13T12:00:00.000Z",
+      "rawText": "E) AN AREA AT JERUSALEM WI 1.1NM RADIUS CENTERED ON PSN 314637N0351219E CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.78,35.20",
+      "centerPos": {
+        "lat": 31.78,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2364/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-13T09:30:00.000Z",
+      "validTo": "2025-10-13T11:30:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2365/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA CLSD. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-13T09:30:00.000Z",
+      "validTo": "2025-10-13T11:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA CLSD. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2362/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD GOVRIN-NORTH (BGOVN). GOVRIN-SOUTH (BGOVS).)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD GOVRIN-NORTH (BGOVN). GOVRIN-SOUTH (BGOVS).)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C2363/25",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C2361/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM. TYONA-SHEFC-SOREK. ZASHD-SOREK-MEHOL. LLRS-SOREK-BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. NTAIM-MNSZN. SIRNI-NSHRM-AYLON-LTRUN-SHARG. SHARG-SORES-TZUBA-KENED-HOMMA-DUMIM-YRIHO-ALMOG. HOMMA-MRSBA. DUMIM-MIHMS. NSHRM-NCSHN-LTRUN. NCSHN-BSEMS. BSEMS-ESTOL-SHARG. NSHRM-SHLVM-REUTE. SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-ZNYMN-MEYAL.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM. TYONA-SHEFC-SOREK. ZASHD-SOREK-MEHOL. LLRS-SOREK-BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. NTAIM-MNSZN. SIRNI-NSHRM-AYLON-LTRUN-SHARG. SHARG-SORES-TZUBA-KENED-HOMMA-DUMIM-YRIHO-ALMOG. HOMMA-MRSBA. DUMIM-MIHMS. NSHRM-NCSHN-LTRUN. NCSHN-BSEMS. BSEMS-ESTOL-SHARG. NSHRM-SHLVM-REUTE. SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-ZNYMN-MEYAL.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.05",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2360/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD TYONA-CLORE-RIDNG-HTZUK-ARENA-SFAIM. RIDNG-EGLIL-LLHZ. RIDNG-ROKCH-PARDS-MORSA. EGLIL-MORSA-YARKN-KESEM. YARKN-RAMTM. NMASD-SHORELINE-TYONA. NMASD-ZASHD-YAVNE-NAGID-BOVED-NTAIM. TYONA-SUPER-NTAIM-SIRNI-NSHRM-AYLON-LTRUN. LTRUN-SHARG-SORES-HAREL-HNINA-DUMIM-ALMOG. NCSHN-LTRUN. BSEMS-ESTOL-SORES. LTRUN-ESTOL-SHARG-HORON-MAKAB. SFAIM-LIAAD-CLORE.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD TYONA-CLORE-RIDNG-HTZUK-ARENA-SFAIM. RIDNG-EGLIL-LLHZ. RIDNG-ROKCH-PARDS-MORSA. EGLIL-MORSA-YARKN-KESEM. YARKN-RAMTM. NMASD-SHORELINE-TYONA. NMASD-ZASHD-YAVNE-NAGID-BOVED-NTAIM. TYONA-SUPER-NTAIM-SIRNI-NSHRM-AYLON-LTRUN. LTRUN-SHARG-SORES-HAREL-HNINA-DUMIM-ALMOG. NCSHN-LTRUN. BSEMS-ESTOL-SORES. LTRUN-ESTOL-SHARG-HORON-MAKAB. SFAIM-LIAAD-CLORE.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.05",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2359/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD TYONA-CLORE-RIDNG-HTZUK-ARENA-APOLN-SFAIM. HTZUK-KNTRY-LLHZ. RIDNG-ROKCH-PARDS-GNYAM. NMASD-SHORELINE-TYONA. NMASD-ZASHD-YAVNE-NAGID-BOVED-NTAIM. TYONA-SUPER-NTAIM-SIRNI-NSHRM-AYLON-LTRUN. LTRUN-SHARG-SORES-HAREL-HNINA-ANATA-DUMIM-YRIHO. ALMOG-YRIHO-MIHMS-ANATA. DUMIM-MIHMS. BSEMS-ESTOL-SORES.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD TYONA-CLORE-RIDNG-HTZUK-ARENA-APOLN-SFAIM. HTZUK-KNTRY-LLHZ. RIDNG-ROKCH-PARDS-GNYAM. NMASD-SHORELINE-TYONA. NMASD-ZASHD-YAVNE-NAGID-BOVED-NTAIM. TYONA-SUPER-NTAIM-SIRNI-NSHRM-AYLON-LTRUN. LTRUN-SHARG-SORES-HAREL-HNINA-ANATA-DUMIM-YRIHO. ALMOG-YRIHO-MIHMS-ANATA. DUMIM-MIHMS. BSEMS-ESTOL-SORES.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.05",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0858/25",
+      "icaoCode": "LLBG",
+      "description": "E) TWY T4 CLSD, EXC BY-ATC.)",
+      "validFrom": "2025-10-12T15:42:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) TWY T4 CLSD, EXC BY-ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0857/25",
+      "icaoCode": "LLBG",
+      "description": "E) TFC EXP DLA, ARR FLT ADZ TO CONSIDER EXTRA FUEL DUE HLDG OR DLA.)",
+      "validFrom": "2025-10-13T05:00:00.000Z",
+      "validTo": "2025-10-13T11:00:00.000Z",
+      "rawText": "E) TFC EXP DLA, ARR FLT ADZ TO CONSIDER EXTRA FUEL DUE HLDG OR DLA.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 240,
-  "lastUpdated": "2025-10-12T02:36:21.389Z"
+  "totalCount": 252,
+  "lastUpdated": "2025-10-13T02:37:45.254Z"
 }
