@@ -3275,8 +3275,372 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "A0871/25",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2025-10-22T14:00:00.000Z",
+      "validTo": "2025-10-22T16:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2428/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-21T04:30:00.000Z",
+      "validTo": "2025-10-21T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2426/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-10-20T15:45:00.000Z",
+      "validTo": "2025-10-20T18:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2427/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-10-21T16:15:00.000Z",
+      "validTo": "2025-10-21T18:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2425/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD BASAN-LLKS.)",
+      "validFrom": "2025-10-20T03:20:00.000Z",
+      "validTo": "2025-10-20T05:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD BASAN-LLKS.)",
+      "mapLink": "https://www.google.com/maps?q=33.18,35.62",
+      "centerPos": {
+        "lat": 33.18,
+        "lon": 35.62
+      }
+    },
+    {
+      "id": "C2424/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "validFrom": "2025-10-20T03:20:00.000Z",
+      "validTo": "2025-10-20T05:00:00.000Z",
+      "rawText": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=33.13,35.60",
+      "centerPos": {
+        "lat": 33.13,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C2423/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT ZVULUN BUBBLE N(BZVUE) AND S(BZVUL) CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-19T09:00:00.000Z",
+      "validTo": "2025-10-19T13:20:00.000Z",
+      "rawText": "E) ULTRALIGHT ZVULUN BUBBLE N(BZVUE) AND S(BZVUL) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.90,35.12",
+      "centerPos": {
+        "lat": 32.9,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2420/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "validFrom": "2025-10-19T11:45:00.000Z",
+      "validTo": "2025-10-19T12:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2419/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-21T07:40:00.000Z",
+      "validTo": "2025-10-21T11:40:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2418/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-19T09:20:00.000Z",
+      "validTo": "2025-10-19T13:20:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2417/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2025-10-21T07:40:00.000Z",
+      "validTo": "2025-10-21T11:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.12",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2416/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2025-10-20T08:30:00.000Z",
+      "validTo": "2025-10-20T17:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.12",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2415/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2025-10-19T09:20:00.000Z",
+      "validTo": "2025-10-19T13:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2412/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "validFrom": "2025-10-19T07:30:00.000Z",
+      "validTo": "2025-10-19T10:45:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C2411/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "validFrom": "2025-10-19T07:30:00.000Z",
+      "validTo": "2025-10-19T10:45:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.68",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C2410/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.)",
+      "validFrom": "2025-10-19T07:00:00.000Z",
+      "validTo": "2025-10-19T18:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.23,34.40",
+      "centerPos": {
+        "lat": 32.23,
+        "lon": 34.4
+      }
+    },
+    {
+      "id": "C2409/25",
+      "icaoCode": "LLLL",
+      "description": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN. CTN ADZ. F) GND G) UNL)",
+      "validFrom": "2025-10-16T13:00:00.000Z",
+      "validTo": "2025-10-30T17:00:00.000Z",
+      "rawText": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN. CTN ADZ. F) GND G) UNL)",
+      "mapLink": "https://www.google.com/maps?q=32.10,35.22",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "A0870/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD BTN W1-W4 DUE WIP.)",
+      "validFrom": "2025-10-22T03:00:00.000Z",
+      "validTo": "2025-10-22T09:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD BTN W1-W4 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0869/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-20T06:00:00.000Z",
+      "validTo": "2025-10-20T10:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2406/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-10-19T05:00:00.000Z",
+      "validTo": "2025-10-23T15:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2405/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT EIN-HASHOFET BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 323526N0350620E 323522N0350628E 323322N0350443E 323327N0350437E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-10-20T14:00:00.000Z",
+      "validTo": "2025-10-22T19:30:00.000Z",
+      "rawText": "E) AN AREA AT EIN-HASHOFET BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 323526N0350620E 323522N0350628E 323322N0350443E 323327N0350437E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.10",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2404/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR ULTRALIGHT AND HEL RTE CLSD AYLON-LTRUN-SHARG. NCSHN-LTRUN.)",
+      "validFrom": "2025-10-17T15:00:00.000Z",
+      "validTo": "2025-10-17T20:00:00.000Z",
+      "rawText": "E) CVFR ULTRALIGHT AND HEL RTE CLSD AYLON-LTRUN-SHARG. NCSHN-LTRUN.)",
+      "mapLink": "https://www.google.com/maps?q=31.83,34.97",
+      "centerPos": {
+        "lat": 31.83,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2403/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT LATRUN, FM GND UP TO 2,000FT AMSL, AN AREA WI 500M RADIUS CENTERED ON PSN 315020N0345849E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2025-10-17T15:00:00.000Z",
+      "validTo": "2025-10-17T20:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT LATRUN, FM GND UP TO 2,000FT AMSL, AN AREA WI 500M RADIUS CENTERED ON PSN 315020N0345849E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.83,34.97",
+      "centerPos": {
+        "lat": 31.83,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2402/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-23T09:00:00.000Z",
+      "validTo": "2025-10-24T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0868/25",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-10-27T16:35:00.000Z",
+      "validTo": "2025-10-29T19:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2401/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2025-10-16T04:00:00.000Z",
+      "validTo": "2025-10-16T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C2400/25",
+      "icaoCode": "LLMZ",
+      "description": "E) OPS HR ON FRI/HOL EVE AND SAT/HOL CHG TO 0800-1700LMT. DOM AIP, PART AIRSTRIP, PAGE LLMZ-1, PARA 6 REF.)",
+      "validFrom": "2025-10-15T05:28:00.000Z",
+      "validTo": "2025-12-31T21:59:00.000Z",
+      "rawText": "E) OPS HR ON FRI/HOL EVE AND SAT/HOL CHG TO 0800-1700LMT. DOM AIP, PART AIRSTRIP, PAGE LLMZ-1, PARA 6 REF.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2397/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-17T05:00:00.000Z",
+      "validTo": "2025-10-17T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 252,
-  "lastUpdated": "2025-10-13T02:37:45.254Z"
+  "totalCount": 280,
+  "lastUpdated": "2025-10-16T02:35:41.198Z"
 }
