@@ -3639,8 +3639,177 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C2437/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH.)",
+      "validFrom": "2025-10-23T16:00:00.000Z",
+      "validTo": "2025-10-23T20:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.15,35.10",
+      "centerPos": {
+        "lat": 30.15,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2435/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-10-22T15:15:00.000Z",
+      "validTo": "2025-10-22T18:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2436/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-23T04:30:00.000Z",
+      "validTo": "2025-10-23T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2434/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT ZVULUN BUBBLE N(BZVUE) AND S(BZVUL) CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-22T07:40:00.000Z",
+      "validTo": "2025-10-22T11:40:00.000Z",
+      "rawText": "E) ULTRALIGHT ZVULUN BUBBLE N(BZVUE) AND S(BZVUL) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.90,35.12",
+      "centerPos": {
+        "lat": 32.9,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2433/25",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-22T07:40:00.000Z",
+      "validTo": "2025-10-22T11:40:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2431/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2025-10-22T07:40:00.000Z",
+      "validTo": "2025-10-22T11:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2432/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-10-22T15:15:00.000Z",
+      "validTo": "2025-10-22T18:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A0874/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "validFrom": "2025-10-19T09:20:00.000Z",
+      "validTo": "2025-10-19T13:20:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "A0875/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "validFrom": "2025-10-22T07:40:00.000Z",
+      "validTo": "2025-10-22T11:40:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2430/25",
+      "icaoCode": "LLLL",
+      "description": "E) CARMEL-WEST UAS BUBBLE CLSD.)",
+      "validFrom": "2025-10-19T13:45:00.000Z",
+      "validTo": "2025-10-23T18:45:00.000Z",
+      "rawText": "E) CARMEL-WEST UAS BUBBLE CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,34.98",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C2429/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 27 NOV 2025.)",
+      "validFrom": "2025-11-27T00:01:00.000Z",
+      "validTo": "2025-12-10T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 27 NOV 2025.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0873/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 27 NOV 2025.)",
+      "validFrom": "2025-11-27T00:01:00.000Z",
+      "validTo": "2025-12-10T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 27 NOV 2025.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0872/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-27T08:00:00.000Z",
+      "validTo": "2025-10-27T11:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
     }
   ],
-  "totalCount": 280,
-  "lastUpdated": "2025-10-16T02:35:41.198Z"
+  "totalCount": 293,
+  "lastUpdated": "2025-10-17T02:34:45.243Z"
 }
