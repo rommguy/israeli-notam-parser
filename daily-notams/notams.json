@@ -3808,8 +3808,34 @@
         "lat": 32.33,
         "lon": 34.97
       }
+    },
+    {
+      "id": "A0876/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2025-10-17T16:30:00.000Z",
+      "validTo": "2025-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0877/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "validFrom": "2025-10-17T16:31:00.000Z",
+      "validTo": "2025-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
     }
   ],
-  "totalCount": 293,
-  "lastUpdated": "2025-10-17T02:34:45.243Z"
+  "totalCount": 295,
+  "lastUpdated": "2025-10-18T02:30:52.887Z"
 }
