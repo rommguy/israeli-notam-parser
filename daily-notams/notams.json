@@ -3834,8 +3834,47 @@
         "lat": 32.13,
         "lon": 34.85
       }
+    },
+    {
+      "id": "C2440/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-10-20T11:00:00.000Z",
+      "validTo": "2025-10-20T20:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C2439/25",
+      "icaoCode": "LLMZ",
+      "description": "E) OPS HR ON FRI/HOL EVE AND SAT/HOL CHG TO 0800-1700LMT. DOM AIP, PART AIRSTRIP, PAGE LLMZ-1, PARA 6 REF.)",
+      "validFrom": "2025-10-19T08:30:00.000Z",
+      "validTo": "2028-10-20T02:38:42.651Z",
+      "rawText": "E) OPS HR ON FRI/HOL EVE AND SAT/HOL CHG TO 0800-1700LMT. DOM AIP, PART AIRSTRIP, PAGE LLMZ-1, PARA 6 REF.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0878/25",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2025-10-20T14:30:00.000Z",
+      "validTo": "2025-10-20T15:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 295,
-  "lastUpdated": "2025-10-18T02:30:52.887Z"
+  "totalCount": 298,
+  "lastUpdated": "2025-10-20T02:38:43.465Z"
 }
