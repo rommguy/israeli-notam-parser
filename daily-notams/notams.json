@@ -4289,8 +4289,294 @@
         "lat": 31.08,
         "lon": 34.9
       }
+    },
+    {
+      "id": "A0901/25",
+      "icaoCode": "LLLL",
+      "description": "E) DVOR BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-28T11:00:00.000Z",
+      "validTo": "2025-10-28T13:00:00.000Z",
+      "rawText": "E) DVOR BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0900/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-28T07:00:00.000Z",
+      "validTo": "2025-10-28T09:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0899/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-27T07:00:00.000Z",
+      "validTo": "2025-10-27T11:00:00.000Z",
+      "rawText": "E) ILS 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.87",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "A0898/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-27T11:00:00.000Z",
+      "validTo": "2025-10-27T14:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2519/25",
+      "icaoCode": "LLHZ",
+      "description": "E) APN A, G CLSD DUE WIP.)",
+      "validFrom": "2025-10-26T00:01:00.000Z",
+      "validTo": "2025-10-28T21:59:00.000Z",
+      "rawText": "E) APN A, G CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2518/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD SHFAM-VINGT-PELEG-OLGAH-SDTYM-DOORS. HADRA-GNHML-PRHNA-EIRON. HADRA-ORAKV-FRDIS-BOREN-HOTRM-DAROM.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD SHFAM-VINGT-PELEG-OLGAH-SDTYM-DOORS. HADRA-GNHML-PRHNA-EIRON. HADRA-ORAKV-FRDIS-BOREN-HOTRM-DAROM.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.92",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "A0897/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "validFrom": "2025-10-23T13:00:00.000Z",
+      "validTo": "2025-10-23T23:00:00.000Z",
+      "rawText": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2517/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-10-23T13:00:00.000Z",
+      "validTo": "2025-10-23T23:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C2516/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA. PELEG-OLGAH-HADRA-ORAKV-FRDIS-ATLIT-DAROM. HADRA-PRHNA-ERION. HOTRM-FOMMA-LLLV. SDTYM-LLLV-FRDIS.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA. PELEG-OLGAH-HADRA-ORAKV-FRDIS-ATLIT-DAROM. HADRA-PRHNA-ERION. HOTRM-FOMMA-LLLV. SDTYM-LLLV-FRDIS.)",
+      "mapLink": "https://www.google.com/maps?q=32.48,34.47",
+      "centerPos": {
+        "lat": 32.48,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C2515/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-30T10:00:00.000Z",
+      "validTo": "2025-10-31T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2514/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "validFrom": "2025-10-26T04:00:00.000Z",
+      "validTo": "2025-10-26T14:00:00.000Z",
+      "rawText": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2513/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DEROR-SHARO-ZYAAR-HADRA-FRDIS-BOREN-HOTRM-DAROM. SHARO-PELEG-OLGAH-SDTYM-FRDIS. EIRON-SDTYM. EIRON-HADRA-OLGAH.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DEROR-SHARO-ZYAAR-HADRA-FRDIS-BOREN-HOTRM-DAROM. SHARO-PELEG-OLGAH-SDTYM-FRDIS. EIRON-SDTYM. EIRON-HADRA-OLGAH.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.92",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "A0895/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J11 CLSD BTN KANER-NAT. J14 NAT-ZACCI. J15 NAT-ATLIT. P68 GALIM-MERVA. Q17 ATLIT-ZAHAV. Q28 ATLIT-GALIM.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) ATS RTE CLSD J11 CLSD BTN KANER-NAT. J14 NAT-ZACCI. J15 NAT-ATLIT. P68 GALIM-MERVA. Q17 ATLIT-ZAHAV. Q28 ATLIT-GALIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.80",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C2512/25",
+      "icaoCode": "LLLV",
+      "description": "E) OIL RIG LIVYATAN HELIPAD CLSD.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) OIL RIG LIVYATAN HELIPAD CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,34.80",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C2511/25",
+      "icaoCode": "LLLL",
+      "description": "E) HASHARON DAROM BUBBLE (BSARS) CLSD TO ALL FLT INCLUDING HEL FLT.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) HASHARON DAROM BUBBLE (BSARS) CLSD TO ALL FLT INCLUDING HEL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2510/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 9 11 12 13 CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 9 11 12 13 CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.35,34.88",
+      "centerPos": {
+        "lat": 32.35,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0894/25",
+      "icaoCode": "LLHA",
+      "description": "E) CTR CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) CTR CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2509/25",
+      "icaoCode": "LLES",
+      "description": "E) CTR CLSD TO ALL FLT.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) CTR CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.43,35.00",
+      "centerPos": {
+        "lat": 32.43,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2508/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN THE FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 20,000FT AMSL 325239N0342624E 324751N0350502E 321743N0345845E 322134N0344657E CTN ADZ.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) AN AREA BTN THE FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 20,000FT AMSL 325239N0342624E 324751N0350502E 321743N0345845E 322134N0344657E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,34.72",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2507/25",
+      "icaoCode": "LLLL",
+      "description": "E) KARMEL UAS BUBBLE NR NORTH, WEST, CENTER AND EAST CLSD TO ALL FLT. )",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) KARMEL UAS BUBBLE NR NORTH, WEST, CENTER AND EAST CLSD TO ALL FLT. )",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.02",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0893/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "validFrom": "2025-10-22T13:00:00.000Z",
+      "validTo": "2025-10-23T06:00:00.000Z",
+      "rawText": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2506/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-10-22T13:00:00.000Z",
+      "validTo": "2025-10-23T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 330,
-  "lastUpdated": "2025-10-22T02:39:13.803Z"
+  "totalCount": 352,
+  "lastUpdated": "2025-10-23T02:37:05.891Z"
 }
