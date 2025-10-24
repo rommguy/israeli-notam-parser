@@ -4575,8 +4575,242 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C2540/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-10-28T15:50:00.000Z",
+      "validTo": "2025-10-28T17:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2539/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-28T07:30:00.000Z",
+      "validTo": "2025-10-28T11:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2538/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-10-27T07:30:00.000Z",
+      "validTo": "2025-10-27T11:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2537/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-10-28T07:00:00.000Z",
+      "validTo": "2025-10-28T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2536/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-10-27T07:00:00.000Z",
+      "validTo": "2025-10-27T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2535/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-10-26T07:00:00.000Z",
+      "validTo": "2025-10-26T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2534/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NAAMA-FAZEL.)",
+      "validFrom": "2025-10-26T07:00:00.000Z",
+      "validTo": "2025-10-26T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NAAMA-FAZEL.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,35.47",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 35.47
+      }
+    },
+    {
+      "id": "C2533/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "validFrom": "2025-10-26T06:00:00.000Z",
+      "validTo": "2025-10-26T09:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.92",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "A0909/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME BSA FREQ 114.300MHZ CH90X WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-10-30T05:00:00.000Z",
+      "validTo": "2025-10-30T07:30:00.000Z",
+      "rawText": "E) VOR/DME BSA FREQ 114.300MHZ CH90X WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2532/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-10-25T04:00:00.000Z",
+      "validTo": "2025-10-25T14:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0908/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "validFrom": "2025-10-25T04:00:00.000Z",
+      "validTo": "2025-10-25T14:00:00.000Z",
+      "rawText": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2531/25",
+      "icaoCode": "LLLL",
+      "description": "E) HAROD BUBBLE (BHROD) CLSD TO ALL FLT INCLUDING HEL FLT.)",
+      "validFrom": "2025-10-25T04:00:00.000Z",
+      "validTo": "2025-10-25T14:00:00.000Z",
+      "rawText": "E) HAROD BUBBLE (BHROD) CLSD TO ALL FLT INCLUDING HEL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.38",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2530/25",
+      "icaoCode": "LLBO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "validFrom": "2025-10-27T05:00:00.000Z",
+      "validTo": "2025-10-27T12:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.67,34.93",
+      "centerPos": {
+        "lat": 32.67,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2529/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HABONIM CLSD. F) SFC G) 12000FT AMSL)",
+      "validFrom": "2025-10-27T05:00:00.000Z",
+      "validTo": "2025-10-27T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE HABONIM CLSD. F) SFC G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.65,34.93",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "A0907/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J11 CLSD BTN KANER-NAT. J14 NAT-ZACCI. J15 NAT-ATLIT. Q28 ATLIT-GALIM.)",
+      "validFrom": "2025-10-27T05:15:00.000Z",
+      "validTo": "2025-10-27T06:30:00.000Z",
+      "rawText": "E) ATS RTE CLSD J11 CLSD BTN KANER-NAT. J14 NAT-ZACCI. J15 NAT-ATLIT. Q28 ATLIT-GALIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.80",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "A0905/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD P68 GALIM-MERVA EXC ACFT C/S HFA. Q17 ATLIT-ZAHAV.)",
+      "validFrom": "2025-10-27T05:00:00.000Z",
+      "validTo": "2025-10-27T12:00:00.000Z",
+      "rawText": "E) ATS RTE CLSD P68 GALIM-MERVA EXC ACFT C/S HFA. Q17 ATLIT-ZAHAV.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,34.75",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C2528/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA-SHFAM. GALIM-INBAR. HOTRM-FOMMA-LLLV.)",
+      "validFrom": "2025-10-27T05:00:00.000Z",
+      "validTo": "2025-10-27T12:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA-SHFAM. GALIM-INBAR. HOTRM-FOMMA-LLLV.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,34.42",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 34.42
+      }
+    },
+    {
+      "id": "A0902/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "validFrom": "2025-10-27T06:00:00.000Z",
+      "validTo": "2025-10-27T11:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 352,
-  "lastUpdated": "2025-10-23T02:37:05.891Z"
+  "totalCount": 370,
+  "lastUpdated": "2025-10-24T02:35:18.416Z"
 }
