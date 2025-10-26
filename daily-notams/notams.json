@@ -4809,8 +4809,21 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C2541/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-10-26T07:00:00.000Z",
+      "validTo": "2025-10-26T15:30:00.000Z",
+      "rawText": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
     }
   ],
-  "totalCount": 370,
-  "lastUpdated": "2025-10-24T02:35:18.416Z"
+  "totalCount": 371,
+  "lastUpdated": "2025-10-26T02:37:16.312Z"
 }
