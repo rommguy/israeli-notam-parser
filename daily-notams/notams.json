@@ -4822,8 +4822,346 @@
         "lat": 31.63,
         "lon": 34.62
       }
+    },
+    {
+      "id": "A0933/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "validFrom": "2025-10-27T19:00:00.000Z",
+      "validTo": "2025-10-28T05:00:00.000Z",
+      "rawText": "E) ATS RTE J14 WILL BE CLSD BY-ATC BTN ZACCI-GIMIK. MIL ACT REC PREFERENCE ON TFC ALONG THE RTE.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2548/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-10-27T19:00:00.000Z",
+      "validTo": "2025-10-28T05:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0932/25",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-11-04T06:25:00.000Z",
+      "validTo": "2025-11-04T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0931/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2025-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0929/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLR01 DEACTIVATED, XNG MERVA AVBL. F) 7000FT AMSL G) 40000FT AMSL)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) LLR01 DEACTIVATED, XNG MERVA AVBL. F) 7000FT AMSL G) 40000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.78,34.68",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "A0925/25",
+      "icaoCode": "LLBG",
+      "description": "E) TWY R CLSD BTN E-N EXC TWY INT E/R AND N/R DUE WIP.)",
+      "validFrom": "2025-11-02T04:00:00.000Z",
+      "validTo": "2025-12-01T16:00:00.000Z",
+      "rawText": "E) TWY R CLSD BTN E-N EXC TWY INT E/R AND N/R DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0926/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 CLSD BTN TAPUZ-JILET-DAFNA.)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) ATS RTE W13 CLSD BTN TAPUZ-JILET-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0927/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE H14 NAT-MERVA AVBL BTN 5,000FT QNH TO FL600. ATS RTE J10 GOBRI-NAT AVBL BTN 6,000FT QNH TO FL600.)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) ATS RTE H14 NAT-MERVA AVBL BTN 5,000FT QNH TO FL600. ATS RTE J10 GOBRI-NAT AVBL BTN 6,000FT QNH TO FL600.)",
+      "mapLink": "https://www.google.com/maps?q=32.32,34.97",
+      "centerPos": {
+        "lat": 32.32,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "A0928/25",
+      "icaoCode": "LLLL",
+      "description": "E) OVERFLIGHT BTN 11,000FT-FL600 TEMPO CHG, FLT SHALL FLY AS FLW FM AMMAN FIR TO NICOSIA FIR, FOR FLT DEP FM AD WI AMMAN FIR, MIL FLT AND OVERFLIGHT VIA AMMAN FIR TO NICOSIA FIR TALMI-L53-GOBRI-J10-NAT-H14-MERVA. FM S ALONG J10 TO NICOSIA FIR SIVAK-J10-GOBRI-J10-NAT-H14-MERVA.)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) OVERFLIGHT BTN 11,000FT-FL600 TEMPO CHG, FLT SHALL FLY AS FLW FM AMMAN FIR TO NICOSIA FIR, FOR FLT DEP FM AD WI AMMAN FIR, MIL FLT AND OVERFLIGHT VIA AMMAN FIR TO NICOSIA FIR TALMI-L53-GOBRI-J10-NAT-H14-MERVA. FM S ALONG J10 TO NICOSIA FIR SIVAK-J10-GOBRI-J10-NAT-H14-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.25,35.02",
+      "centerPos": {
+        "lat": 32.25,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0921/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "validFrom": "2025-10-26T12:10:00.000Z",
+      "validTo": "2025-10-29T03:30:00.000Z",
+      "rawText": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.78,34.68",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "A0922/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2028-10-27T02:41:29.827Z",
+      "rawText": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.78,34.68",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "A0923/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 CLSD BTN ABIMI-SUVAS.)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) ATS RTE L53 CLSD BTN ABIMI-SUVAS.)",
+      "mapLink": "https://www.google.com/maps?q=32.03,34.62",
+      "centerPos": {
+        "lat": 32.03,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "A0924/25",
+      "icaoCode": "LLBG",
+      "description": "E) DEP FLT NB AND WB AVBL VIA SID MERVA ONLY. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID DAFNA SUVAS NOT AVBL.)",
+      "validFrom": "2025-10-29T03:30:00.000Z",
+      "validTo": "2025-10-29T07:00:00.000Z",
+      "rawText": "E) DEP FLT NB AND WB AVBL VIA SID MERVA ONLY. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID DAFNA SUVAS NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0916/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2025-10-26T12:08:00.000Z",
+      "validTo": "2025-10-29T03:30:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0918/25",
+      "icaoCode": "LLBG",
+      "description": "E) TWY W4 CLSD N OF RWY 12 DUE WIP.)",
+      "validFrom": "2025-11-02T04:00:00.000Z",
+      "validTo": "2025-12-01T16:00:00.000Z",
+      "rawText": "E) TWY W4 CLSD N OF RWY 12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0919/25",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2025-10-26T12:09:00.000Z",
+      "validTo": "2025-10-29T03:30:00.000Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0920/25",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2028-10-27T02:41:34.793Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0913/25",
+      "icaoCode": "LLBG",
+      "description": "E) TWY S CLSD DUE WIP.)",
+      "validFrom": "2025-11-02T04:00:00.000Z",
+      "validTo": "2025-12-01T16:00:00.000Z",
+      "rawText": "E) TWY S CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0914/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "validFrom": "2025-10-26T12:07:00.000Z",
+      "validTo": "2025-10-29T03:30:00.000Z",
+      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0915/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2028-10-27T02:41:37.891Z",
+      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0910/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "validFrom": "2025-11-02T04:00:00.000Z",
+      "validTo": "2025-12-01T16:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2547/25",
+      "icaoCode": "LLHZ",
+      "description": "E) WIP ON APN A,G. ENTRY/EXIT APN BY PPR FM AD OPS CENTER. CTN ADZ WHEN TAX IN/OUT OR ABM APN A AND APN G.)",
+      "validFrom": "2025-10-26T09:07:00.000Z",
+      "validTo": "2025-10-28T21:59:00.000Z",
+      "rawText": "E) WIP ON APN A,G. ENTRY/EXIT APN BY PPR FM AD OPS CENTER. CTN ADZ WHEN TAX IN/OUT OR ABM APN A AND APN G.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2545/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-10-28T10:10:00.000Z",
+      "validTo": "2025-10-28T10:50:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2544/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-10-27T17:20:00.000Z",
+      "validTo": "2025-10-27T20:30:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2543/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2025-10-29T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2542/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2025-10-29T05:00:00.000Z",
+      "validTo": "2025-10-29T14:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
     }
   ],
-  "totalCount": 371,
-  "lastUpdated": "2025-10-26T02:37:16.312Z"
+  "totalCount": 397,
+  "lastUpdated": "2025-10-27T02:41:42.919Z"
 }
