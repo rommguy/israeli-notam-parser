@@ -5160,8 +5160,60 @@
         "lat": 33.02,
         "lon": 35.75
       }
+    },
+    {
+      "id": "C2551/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLD41 ESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E 323421N0350411E 323315N0350832E 323502N0350911E 323601N0350534E 323713N0350531E. CTN ADZ. DOM AIP, PART A-17, PAGE 10, PARA 3.12/13, PAGE 19, TABLE., CHART A. REF. F) 2000FT AMSL G) 8000FT AMSL)",
+      "validFrom": "2025-10-27T12:46:00.000Z",
+      "validTo": "2028-10-28T02:36:06.735Z",
+      "rawText": "E) LLD41 ESTABLISHED BTN 2,000-8,000FT AMSL WI FLW PSN OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 323714N0350517E 323649N0350505E 323608N0350410E 323421N0350411E 323315N0350832E 323502N0350911E 323601N0350534E 323713N0350531E. CTN ADZ. DOM AIP, PART A-17, PAGE 10, PARA 3.12/13, PAGE 19, TABLE., CHART A. REF. F) 2000FT AMSL G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.12",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2550/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-11-02T06:00:00.000Z",
+      "validTo": "2025-11-06T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0934/25",
+      "icaoCode": "LLER",
+      "description": "E) AD BEACON U/S.)",
+      "validFrom": "2025-10-27T08:16:00.000Z",
+      "validTo": "2026-01-31T21:59:00.000Z",
+      "rawText": "E) AD BEACON U/S.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2549/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "validFrom": "2025-11-01T00:01:00.000Z",
+      "validTo": "2025-11-30T21:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.30",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.3
+      }
     }
   ],
-  "totalCount": 397,
-  "lastUpdated": "2025-10-27T02:41:42.919Z"
+  "totalCount": 401,
+  "lastUpdated": "2025-10-28T02:36:09.424Z"
 }
