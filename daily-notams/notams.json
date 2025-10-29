@@ -5212,8 +5212,47 @@
         "lat": 32.53,
         "lon": 35.3
       }
+    },
+    {
+      "id": "C2556/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-10-29T07:00:00.000Z",
+      "validTo": "2025-10-29T15:30:00.000Z",
+      "rawText": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "A0937/25",
+      "icaoCode": "LLBG",
+      "description": "E) DUE WIP ON RWY 08/26 COMM FAILURE PROC FOR IFR FLT TEMPO CHG. ARR FLT WHEN NO CLR RECEIVED JOIN AS FLW ARR FM KONFO STAR VETEK1A, ARR FM AMMIT STAR AMMIT2E, ARR FM SALAM STAR SALAM1E, PERFORM ILS APCH RWY 30. DEP FLT IF RETURNING TO LAND PCD TO ORLEV, TURN TO BG304 AT 6,000FT AND PERFORM ILS APCH RWY 30.)",
+      "validFrom": "2025-11-02T04:00:00.000Z",
+      "validTo": "2025-12-01T16:00:00.000Z",
+      "rawText": "E) DUE WIP ON RWY 08/26 COMM FAILURE PROC FOR IFR FLT TEMPO CHG. ARR FLT WHEN NO CLR RECEIVED JOIN AS FLW ARR FM KONFO STAR VETEK1A, ARR FM AMMIT STAR AMMIT2E, ARR FM SALAM STAR SALAM1E, PERFORM ILS APCH RWY 30. DEP FLT IF RETURNING TO LAND PCD TO ORLEV, TURN TO BG304 AT 6,000FT AND PERFORM ILS APCH RWY 30.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0936/25",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-10-29T17:00:00.000Z",
+      "validTo": "2025-10-29T19:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 401,
-  "lastUpdated": "2025-10-28T02:36:09.424Z"
+  "totalCount": 404,
+  "lastUpdated": "2025-10-29T02:39:05.041Z"
 }
