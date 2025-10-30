@@ -5251,8 +5251,216 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "A0938/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "validFrom": "2025-11-04T07:00:00.000Z",
+      "validTo": "2025-11-04T12:40:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.40",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2572/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2025-11-04T09:30:00.000Z",
+      "validTo": "2025-11-04T14:20:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2571/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE MAHANAYIM E AND W CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-04T07:00:00.000Z",
+      "validTo": "2025-11-04T12:40:00.000Z",
+      "rawText": "E) PJE AIRSPACE MAHANAYIM E AND W CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C2570/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-11-04T16:45:00.000Z",
+      "validTo": "2025-11-04T18:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2569/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD KOYAR-ALUMT-DESHE. TAVOR-ALUMT-HAROV.)",
+      "validFrom": "2025-11-04T07:00:00.000Z",
+      "validTo": "2025-11-04T12:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD KOYAR-ALUMT-DESHE. TAVOR-ALUMT-HAROV.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.53",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.53
+      }
+    },
+    {
+      "id": "C2568/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2025-11-04T17:45:00.000Z",
+      "validTo": "2025-11-04T18:30:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2566/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO.)",
+      "validFrom": "2025-11-04T09:30:00.000Z",
+      "validTo": "2025-11-04T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.13",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C2567/25",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2025-11-04T17:45:00.000Z",
+      "validTo": "2025-11-04T18:30:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2565/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "validFrom": "2025-11-04T16:45:00.000Z",
+      "validTo": "2025-11-04T17:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2564/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-04T05:30:00.000Z",
+      "validTo": "2025-11-04T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2563/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-03T05:30:00.000Z",
+      "validTo": "2025-11-03T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2562/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "validFrom": "2025-11-04T16:45:00.000Z",
+      "validTo": "2025-11-04T17:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2561/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "validFrom": "2025-11-02T12:45:00.000Z",
+      "validTo": "2025-11-02T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHN.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2560/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-11-06T10:00:00.000Z",
+      "validTo": "2025-11-07T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2559/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-10-30T07:00:00.000Z",
+      "validTo": "2025-10-30T15:30:00.000Z",
+      "rawText": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "C2558/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-10-31T06:00:00.000Z",
+      "validTo": "2025-10-31T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 404,
-  "lastUpdated": "2025-10-29T02:39:05.041Z"
+  "totalCount": 420,
+  "lastUpdated": "2025-10-30T02:38:35.982Z"
 }
