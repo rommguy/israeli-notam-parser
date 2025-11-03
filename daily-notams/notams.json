@@ -5914,8 +5914,34 @@
         "lat": 30.83,
         "lon": 34.83
       }
+    },
+    {
+      "id": "C2612/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM-VINGT. HEL RTE CLSD ARENA-SHFAM-VINGT.)",
+      "validFrom": "2025-11-07T07:00:00.000Z",
+      "validTo": "2025-11-07T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM-VINGT. HEL RTE CLSD ARENA-SHFAM-VINGT.)",
+      "mapLink": "https://www.google.com/maps?q=31.30,34.55",
+      "centerPos": {
+        "lat": 31.3,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C2611/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-11-03T07:00:00.000Z",
+      "validTo": "2025-11-03T15:30:00.000Z",
+      "rawText": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
     }
   ],
-  "totalCount": 455,
-  "lastUpdated": "2025-10-31T02:39:02.814Z"
+  "totalCount": 457,
+  "lastUpdated": "2025-11-03T02:39:36.866Z"
 }
