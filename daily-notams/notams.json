@@ -5940,8 +5940,125 @@
         "lat": 31.63,
         "lon": 34.62
       }
+    },
+    {
+      "id": "C2621/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD RIDNG-EGLIL-ZAYLN. EGLIL-MORSA-YARKN. PARDS-MORSA.)",
+      "validFrom": "2025-11-04T07:30:00.000Z",
+      "validTo": "2025-11-04T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD RIDNG-EGLIL-ZAYLN. EGLIL-MORSA-YARKN. PARDS-MORSA.)",
+      "mapLink": "https://www.google.com/maps?q=32.12,34.83",
+      "centerPos": {
+        "lat": 32.12,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2620/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KIRYAT-SHAUL WI 1NM RADIUS CENTERED ON PSN 320746N0344925E CLSD FM GND UP TO 700FT AMSL TO ALL FLT INCLUDING AGRICULTURE AND HEL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-04T07:30:00.000Z",
+      "validTo": "2025-11-04T11:00:00.000Z",
+      "rawText": "E) AN AREA AT KIRYAT-SHAUL WI 1NM RADIUS CENTERED ON PSN 320746N0344925E CLSD FM GND UP TO 700FT AMSL TO ALL FLT INCLUDING AGRICULTURE AND HEL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.82",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2619/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-07T06:00:00.000Z",
+      "validTo": "2025-11-07T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0944/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE TEMPO AVBL BTN 6,000-7,000FT AMSL J11 BTN KANER-NAT. J14 BTN NAT-ZACCI. J15 BTN NAT-RAPIV.)",
+      "validFrom": "2025-11-04T06:00:00.000Z",
+      "validTo": "2025-11-04T19:00:00.000Z",
+      "rawText": "E) ATS RTE TEMPO AVBL BTN 6,000-7,000FT AMSL J11 BTN KANER-NAT. J14 BTN NAT-ZACCI. J15 BTN NAT-RAPIV.)",
+      "mapLink": "https://www.google.com/maps?q=32.40,34.93",
+      "centerPos": {
+        "lat": 32.4,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2618/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD E OF NAT VOR AND 2NM FM NAT NB. CTN ADZ.)",
+      "validFrom": "2025-11-04T06:00:00.000Z",
+      "validTo": "2025-11-04T19:00:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD E OF NAT VOR AND 2NM FM NAT NB. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C2617/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322026N0345940E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "validFrom": "2025-11-04T06:00:00.000Z",
+      "validTo": "2025-11-04T19:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322026N0345940E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,35.00",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2616/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM-VINGT-PELEG. SHFAM-BSARS. HEL RTE CLSD ARENA-SFAIM-VINGT-PELEG. SFAIM-LIAAD.)",
+      "validFrom": "2025-11-07T07:00:00.000Z",
+      "validTo": "2025-11-07T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TYONA-SHFAM-VINGT-PELEG. SHFAM-BSARS. HEL RTE CLSD ARENA-SFAIM-VINGT-PELEG. SFAIM-LIAAD.)",
+      "mapLink": "https://www.google.com/maps?q=32.17,34.78",
+      "centerPos": {
+        "lat": 32.17,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C2615/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 300FT AMSL TO ALL FLT, DUE POWERED PARACHUTE ACT 321602N0344932E 321608N0344958E 321136N0344824E 321136N0344800E OPS WI CTR LLHZ PROHIBITED. EXER CTN.)",
+      "validFrom": "2025-11-07T07:00:00.000Z",
+      "validTo": "2025-11-07T09:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 300FT AMSL TO ALL FLT, DUE POWERED PARACHUTE ACT 321602N0344932E 321608N0344958E 321136N0344824E 321136N0344800E OPS WI CTR LLHZ PROHIBITED. EXER CTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.23,34.82",
+      "centerPos": {
+        "lat": 32.23,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2613/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "validFrom": "2025-11-03T07:00:00.000Z",
+      "validTo": "2025-11-07T15:00:00.000Z",
+      "rawText": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
     }
   ],
-  "totalCount": 457,
-  "lastUpdated": "2025-11-03T02:39:36.866Z"
+  "totalCount": 466,
+  "lastUpdated": "2025-11-04T02:40:27.766Z"
 }
