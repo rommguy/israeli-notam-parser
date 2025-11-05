@@ -6057,8 +6057,333 @@
         "lat": 32.57,
         "lon": 35.45
       }
+    },
+    {
+      "id": "C2646/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-11-05T13:00:00.000Z",
+      "validTo": "2025-11-05T21:59:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C2645/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2025-11-09T05:00:00.000Z",
+      "validTo": "2025-11-09T14:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C2644/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-11-09T06:00:00.000Z",
+      "validTo": "2025-11-13T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2643/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-11-05T08:00:00.000Z",
+      "validTo": "2025-11-05T15:30:00.000Z",
+      "rawText": "E) AN AREA AT ASHKELON BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 313910N0343642E 313855N0343901E 313558N0343745E 313656N0343514E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.62",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "C2642/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "validFrom": "2025-11-04T11:40:00.000Z",
+      "validTo": "2025-11-30T21:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.30",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "A0948/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.25",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C2641/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 9 13 CLSD.)",
+      "validFrom": "2025-11-12T07:15:00.000Z",
+      "validTo": "2025-11-12T08:45:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 9 13 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.93",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2640/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE HASHARON-DAROM (BSARS) CLSD TO ALL FLT, INCLUDING HEL FLT.)",
+      "validFrom": "2025-11-12T07:15:00.000Z",
+      "validTo": "2025-11-12T08:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE HASHARON-DAROM (BSARS) CLSD TO ALL FLT, INCLUDING HEL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2639/25",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:45:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2638/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:15:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2637/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD TIRRA-NIZOZ-ARRAA.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) HEL RTE CLSD TIRRA-NIZOZ-ARRAA.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.03",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C2636/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD NIRYA-MRHVA-TAVOR.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:15:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD NIRYA-MRHVA-TAVOR.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.33",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C2635/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOHAR-MMORR-LLMZ-ENGDI-SHALM-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. HEL RTE CLSD ZOHAR-LLMZ-ENGDI-SHALM-ZUKIM. ARRAD-HATRU-ZOHAR. ARRAD-KANIM-ZFIRA.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOHAR-MMORR-LLMZ-ENGDI-SHALM-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. HEL RTE CLSD ZOHAR-LLMZ-ENGDI-SHALM-ZUKIM. ARRAD-HATRU-ZOHAR. ARRAD-KANIM-ZFIRA.)",
+      "mapLink": "https://www.google.com/maps?q=31.43,35.40",
+      "centerPos": {
+        "lat": 31.43,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2633/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOHAR-MMORR-LLMZ-ENGDI-SHALM-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOHAR-MMORR-LLMZ-ENGDI-SHALM-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=31.43,35.40",
+      "centerPos": {
+        "lat": 31.43,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2632/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SORES-HAREL-HAINA-ANATA-DUMIM-YRIHO-ALMOG-ZUKIM. ANATA-MIHMS-YRIHO. DUMIM-MIHMS-SHAHR-ALLON-FAZEL. ALMOG-NAAMA-FAZEL.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SORES-HAREL-HAINA-ANATA-DUMIM-YRIHO-ALMOG-ZUKIM. ANATA-MIHMS-YRIHO. DUMIM-MIHMS-SHAHR-ALLON-FAZEL. ALMOG-NAAMA-FAZEL.)",
+      "mapLink": "https://www.google.com/maps?q=31.88,35.30",
+      "centerPos": {
+        "lat": 31.88,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2631/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD FAZEL-ARGMN-TIRAT-EITAN.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD FAZEL-ARGMN-TIRAT-EITAN.)",
+      "mapLink": "https://www.google.com/maps?q=32.27,35.52",
+      "centerPos": {
+        "lat": 32.27,
+        "lon": 35.52
+      }
+    },
+    {
+      "id": "C2630/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AFULA-TAVOR.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AFULA-TAVOR.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,35.35",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C2629/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AFULA-EITAN.)",
+      "validFrom": "2025-11-10T09:00:00.000Z",
+      "validTo": "2025-11-10T16:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AFULA-EITAN.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.40",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2628/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD TIRAT-EITAN-KOYAR. HEL RTE CLSD TIRAT-KOYAR.)",
+      "validFrom": "2025-11-10T09:00:00.000Z",
+      "validTo": "2025-11-10T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD TIRAT-EITAN-KOYAR. HEL RTE CLSD TIRAT-KOYAR.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.53",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.53
+      }
+    },
+    {
+      "id": "C2627/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-LID BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 321606N0345956E 321805N0345435E 322526N0345529E 322449N0350221E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-12T07:15:00.000Z",
+      "validTo": "2025-11-12T08:45:00.000Z",
+      "rawText": "E) AN AREA AT BET-LID BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 321606N0345956E 321805N0345435E 322526N0345529E 322449N0350221E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.35,34.97",
+      "centerPos": {
+        "lat": 32.35,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2626/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DEAD-SEA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 314225N0352230E 311216N0351603E 310758N0352517E 314117N0353019E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:45:00.000Z",
+      "rawText": "E) AN AREA AT DEAD-SEA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 314225N0352230E 311216N0351603E 310758N0352517E 314117N0353019E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.40",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2625/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT E OF TMA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 320922N0351541E 315141N0351555E 314814N0350840E 314454N0350707E 314144N0352959E 320338N0353110E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) AN AREA AT E OF TMA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, INCLUDING AGRICULTURE FLT 320922N0351541E 315141N0351555E 314814N0350840E 314454N0350707E 314144N0352959E 320338N0353110E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,35.35",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C2624/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BIKAA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 11,000FT AMSL, INCLUDING AGRICULTURE FLT 323213N0352157E 323135N0353405E 320313N0353220E 320606N0352340E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-10T07:45:00.000Z",
+      "validTo": "2025-11-12T11:15:00.000Z",
+      "rawText": "E) AN AREA AT BIKAA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 11,000FT AMSL, INCLUDING AGRICULTURE FLT 323213N0352157E 323135N0353405E 320313N0353220E 320606N0352340E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.30,35.45",
+      "centerPos": {
+        "lat": 32.3,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2623/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GAN-NER BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 4,000FT AMSL, INCLUDING AGRICULTURE FLT 323231N0352253E 323152N0351351E 323346N0351408E 323422N0351546E 323548N0351619E 323616N0351728E 323653N0351752E 323802N0351958E 323723N0352318E 323231N0352253E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-10T14:00:00.000Z",
+      "validTo": "2025-11-10T16:15:00.000Z",
+      "rawText": "E) AN AREA AT GAN-NER BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 4,000FT AMSL, INCLUDING AGRICULTURE FLT 323231N0352253E 323152N0351351E 323346N0351408E 323422N0351546E 323548N0351619E 323616N0351728E 323653N0351752E 323802N0351958E 323723N0352318E 323231N0352253E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.32",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C2622/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 4,000FT AMSL, INCLUDING AGRICULTURE FLT 323044N0352818E 322735N0353131E 322959N0353231E 323249N0353244E 323536N0352633E 323158N0352453E 323044N0352819E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "validFrom": "2025-11-10T09:00:00.000Z",
+      "validTo": "2025-11-10T11:00:00.000Z",
+      "rawText": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 4,000FT AMSL, INCLUDING AGRICULTURE FLT 323044N0352818E 322735N0353131E 322959N0353231E 323249N0353244E 323536N0352633E 323158N0352453E 323044N0352819E. NO RESTRICTIONS FOR SKED COMMERCIAL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.48",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.48
+      }
     }
   ],
-  "totalCount": 466,
-  "lastUpdated": "2025-11-04T02:40:27.766Z"
+  "totalCount": 491,
+  "lastUpdated": "2025-11-05T02:39:22.116Z"
 }
