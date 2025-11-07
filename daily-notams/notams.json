@@ -6382,8 +6382,242 @@
         "lat": 32.53,
         "lon": 35.48
       }
+    },
+    {
+      "id": "C2661/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE TZNIFIM (BZNIF) CLSD.)",
+      "validFrom": "2025-11-07T06:00:00.000Z",
+      "validTo": "2025-11-07T12:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE TZNIFIM (BZNIF) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=30.18,34.87",
+      "centerPos": {
+        "lat": 30.18,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C2660/25",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD. CTN ADZ.)",
+      "validFrom": "2025-11-09T12:30:00.000Z",
+      "validTo": "2025-11-09T13:30:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C2659/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "validFrom": "2025-11-09T12:30:00.000Z",
+      "validTo": "2025-11-09T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C2657/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-11-10T07:30:00.000Z",
+      "validTo": "2025-11-10T10:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2658/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-11-11T14:10:00.000Z",
+      "validTo": "2025-11-11T14:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2656/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-11-09T07:30:00.000Z",
+      "validTo": "2025-11-09T13:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "A0953/25",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE RWY INSPECTION. IN CASE OF EMERG AVBL WI 5MIN.)",
+      "validFrom": "2025-11-17T12:50:00.000Z",
+      "validTo": "2025-11-17T14:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE RWY INSPECTION. IN CASE OF EMERG AVBL WI 5MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2655/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLES CLSD YERUHAM (BYERU), ZOHAR (BZHAR), FARAN (BFRAN), HARIF (BHARF), SHITIM (BSTIM), TZNIFIM (BZNIF).)",
+      "validFrom": "2025-11-14T05:20:00.000Z",
+      "validTo": "2025-11-14T10:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLES CLSD YERUHAM (BYERU), ZOHAR (BZHAR), FARAN (BFRAN), HARIF (BHARF), SHITIM (BSTIM), TZNIFIM (BZNIF).)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.03",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C2654/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-11-11T15:10:00.000Z",
+      "validTo": "2025-11-11T20:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2653/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-11-11T15:10:00.000Z",
+      "validTo": "2025-11-11T20:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2652/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SEGEV-EVLYM-AHIUD.)",
+      "validFrom": "2025-11-10T10:20:00.000Z",
+      "validTo": "2025-11-10T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SEGEV-EVLYM-AHIUD.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.20",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "A0952/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "validFrom": "2025-11-09T17:00:00.000Z",
+      "validTo": "2025-11-09T17:50:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.40",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2650/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-11-09T15:10:00.000Z",
+      "validTo": "2025-11-09T18:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2649/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-11-09T15:10:00.000Z",
+      "validTo": "2025-11-09T18:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2648/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD. EVLYM-SEGEV.)",
+      "validFrom": "2025-11-09T09:30:00.000Z",
+      "validTo": "2025-11-09T14:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD. EVLYM-SEGEV.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.20",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2647/25",
+      "icaoCode": "LLLL",
+      "description": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN. CTN ADZ. F) GND G) UNL)",
+      "validFrom": "2025-11-12T13:00:00.000Z",
+      "validTo": "2025-11-26T15:00:00.000Z",
+      "rawText": "E) ASCENT OF FREE BALLOON/RADIOSONDE OVER ARIEL FM PSN 320610N0351235E UP TO 98,550FT AMSL, ROC 5 M/SEC, 1,000FT/MIN. CTN ADZ. F) GND G) UNL)",
+      "mapLink": "https://www.google.com/maps?q=32.10,35.22",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "A0951/25",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-12-02T06:25:00.000Z",
+      "validTo": "2025-12-02T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0950/25",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, EXC SKED COMMERCIAL FLT OPERATED BY ACFT WITH CAPACITY OF 30 PASSENGERS OR MORE, DUE POLICE DRILL. IN CASE OF EMERG AVBL WI 10MIN PPR FM ATC.)",
+      "validFrom": "2025-11-09T06:15:00.000Z",
+      "validTo": "2025-11-09T08:40:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, EXC SKED COMMERCIAL FLT OPERATED BY ACFT WITH CAPACITY OF 30 PASSENGERS OR MORE, DUE POLICE DRILL. IN CASE OF EMERG AVBL WI 10MIN PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 491,
-  "lastUpdated": "2025-11-05T02:39:22.116Z"
+  "totalCount": 509,
+  "lastUpdated": "2025-11-07T02:38:56.285Z"
 }
