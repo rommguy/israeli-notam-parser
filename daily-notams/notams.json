@@ -6616,8 +6616,203 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C2675/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2025-11-15T04:30:00.000Z",
+      "validTo": "2025-11-15T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2674/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2025-11-15T04:30:00.000Z",
+      "validTo": "2025-11-15T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "A0963/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY08 C/S BC FREQ 110.900MHZ U/S.)",
+      "validFrom": "2025-11-09T11:52:00.000Z",
+      "validTo": "2025-11-30T21:59:00.000Z",
+      "rawText": "E) ILS RWY08 C/S BC FREQ 110.900MHZ U/S.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0964/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ U/S.)",
+      "validFrom": "2025-11-09T11:52:00.000Z",
+      "validTo": "2025-11-30T21:59:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ U/S.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C2672/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE ZVULUN NORTH (BZVUE) AVBL FOR ULTRALIGHT ACFT AND POWERED PARACHUTE ACCORDING CONDITIONS OF AIC 05/25. ON SUN-THU BTN SR-0900LMT FM GND UP TO 500FT AMSL. ON FRI FM 0600LMT-SS, HOL EVE FM 1400LMT-SS, ON SAT/HOL BTN SR-SS, AVBL FM GND UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. AIC 05/25 WEF 02 OCT 2025 REF.)",
+      "validFrom": "2025-11-09T11:24:00.000Z",
+      "validTo": "2028-11-10T02:39:48.252Z",
+      "rawText": "E) ULTRALIGHT BUBBLE ZVULUN NORTH (BZVUE) AVBL FOR ULTRALIGHT ACFT AND POWERED PARACHUTE ACCORDING CONDITIONS OF AIC 05/25. ON SUN-THU BTN SR-0900LMT FM GND UP TO 500FT AMSL. ON FRI FM 0600LMT-SS, HOL EVE FM 1400LMT-SS, ON SAT/HOL BTN SR-SS, AVBL FM GND UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. AIC 05/25 WEF 02 OCT 2025 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C2671/25",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2025-11-10T16:50:00.000Z",
+      "validTo": "2025-11-12T20:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "A0958/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "validFrom": "2025-11-13T15:15:00.000Z",
+      "validTo": "2025-11-13T17:50:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.40",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C2670/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-11-13T03:40:00.000Z",
+      "validTo": "2025-11-13T10:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2669/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "validFrom": "2025-11-13T15:40:00.000Z",
+      "validTo": "2025-11-13T16:45:00.000Z",
+      "rawText": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=33.13,35.60",
+      "centerPos": {
+        "lat": 33.13,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C2668/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-11-13T13:00:00.000Z",
+      "validTo": "2025-11-13T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C2667/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HRGVS-RUHOT.)",
+      "validFrom": "2025-11-12T02:00:00.000Z",
+      "validTo": "2025-11-12T10:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.63,34.88",
+      "centerPos": {
+        "lat": 30.63,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2666/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-11-12T02:00:00.000Z",
+      "validTo": "2025-11-12T20:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2665/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-11-12T15:10:00.000Z",
+      "validTo": "2025-11-12T20:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2664/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SEGEV-EVLYM-AHIUD.)",
+      "validFrom": "2025-11-12T09:30:00.000Z",
+      "validTo": "2025-11-12T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SEGEV-EVLYM-AHIUD.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.20",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2663/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD LLMZ-ENGDI-SHALM-ZUKIM.)",
+      "validFrom": "2025-11-10T16:50:00.000Z",
+      "validTo": "2025-11-12T20:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD LLMZ-ENGDI-SHALM-ZUKIM.)",
+      "mapLink": "https://www.google.com/maps?q=31.48,35.40",
+      "centerPos": {
+        "lat": 31.48,
+        "lon": 35.4
+      }
     }
   ],
-  "totalCount": 509,
-  "lastUpdated": "2025-11-07T02:38:56.285Z"
+  "totalCount": 524,
+  "lastUpdated": "2025-11-10T02:40:24.534Z"
 }
