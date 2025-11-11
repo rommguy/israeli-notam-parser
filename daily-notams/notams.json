@@ -6811,8 +6811,60 @@
         "lat": 31.48,
         "lon": 35.4
       }
+    },
+    {
+      "id": "C2679/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-11-16T06:00:00.000Z",
+      "validTo": "2025-11-21T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2678/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "validFrom": "2025-11-11T06:00:00.000Z",
+      "validTo": "2025-11-11T09:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.92",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C2677/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT TEL-NOF WI 0.5NM RADIUS CENTERED ON PSN 315225N0345347E CLSD FM GND UP TO 700FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2025-11-11T06:00:00.000Z",
+      "validTo": "2025-11-11T14:00:00.000Z",
+      "rawText": "E) AN AREA AT TEL-NOF WI 0.5NM RADIUS CENTERED ON PSN 315225N0345347E CLSD FM GND UP TO 700FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.87,34.90",
+      "centerPos": {
+        "lat": 31.87,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2676/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-14T06:00:00.000Z",
+      "validTo": "2025-11-14T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 524,
-  "lastUpdated": "2025-11-10T02:40:24.534Z"
+  "totalCount": 528,
+  "lastUpdated": "2025-11-11T02:38:49.564Z"
 }
