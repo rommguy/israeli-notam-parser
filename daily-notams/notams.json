@@ -6863,8 +6863,60 @@
         "lat": 31.28,
         "lon": 34.72
       }
+    },
+    {
+      "id": "C2682/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323816N0352153E AT ALON-TAVOR POWER PLANT CLSD FM GND UP TO 1,500FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2025-11-18T17:00:00.000Z",
+      "validTo": "2025-11-19T03:30:00.000Z",
+      "rawText": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323816N0352153E AT ALON-TAVOR POWER PLANT CLSD FM GND UP TO 1,500FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.63,35.37",
+      "centerPos": {
+        "lat": 32.63,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C2683/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT, DUE GAS EMISSION.)",
+      "validFrom": "2025-11-18T17:00:00.000Z",
+      "validTo": "2025-11-19T03:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT, DUE GAS EMISSION.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2681/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-11-20T10:00:00.000Z",
+      "validTo": "2025-11-21T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2680/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-11-13T09:00:00.000Z",
+      "validTo": "2025-11-14T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 528,
-  "lastUpdated": "2025-11-11T02:38:49.564Z"
+  "totalCount": 532,
+  "lastUpdated": "2025-11-12T02:37:56.396Z"
 }
