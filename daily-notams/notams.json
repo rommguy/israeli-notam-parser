@@ -6915,8 +6915,47 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C2686/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "validFrom": "2025-11-16T04:00:00.000Z",
+      "validTo": "2025-11-21T15:00:00.000Z",
+      "rawText": "E) AN AREA WI LLMG TRG AREA B-EAST AT MOLEDET BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 2,000FT AMSL 323433N0352753E 323346N0352721E 323414N0352617E 323459N0352651E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C2684/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2025-11-22T04:30:00.000Z",
+      "validTo": "2025-11-22T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C2685/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2025-11-22T04:30:00.000Z",
+      "validTo": "2025-11-22T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
     }
   ],
-  "totalCount": 532,
-  "lastUpdated": "2025-11-12T02:37:56.396Z"
+  "totalCount": 535,
+  "lastUpdated": "2025-11-13T02:38:56.513Z"
 }
