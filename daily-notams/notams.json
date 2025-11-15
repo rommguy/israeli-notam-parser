@@ -7513,8 +7513,21 @@
         "lat": 30.83,
         "lon": 34.83
       }
+    },
+    {
+      "id": "A0966/25",
+      "icaoCode": "LLHA",
+      "description": "E) SELF FUELING STATION U/S UFN)",
+      "validFrom": "2025-11-14T13:37:00.000Z",
+      "validTo": "2025-11-17T23:59:00.000Z",
+      "rawText": "E) SELF FUELING STATION U/S UFN)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 578,
-  "lastUpdated": "2025-11-14T02:40:26.272Z"
+  "totalCount": 579,
+  "lastUpdated": "2025-11-15T02:35:55.067Z"
 }
