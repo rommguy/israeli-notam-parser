@@ -7526,8 +7526,99 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C2769/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2025-11-17T05:00:00.000Z",
+      "validTo": "2025-11-17T05:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C2768/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-11-17T05:00:00.000Z",
+      "validTo": "2025-11-17T05:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.42",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "A0970/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 WILL BE CLSD BTN VOR NAT-GIMIK.)",
+      "validFrom": "2025-11-17T05:30:00.000Z",
+      "validTo": "2025-11-17T10:30:00.000Z",
+      "rawText": "E) ATS RTE J14 WILL BE CLSD BTN VOR NAT-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2767/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2025-11-17T05:00:00.000Z",
+      "validTo": "2025-11-17T05:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0969/25",
+      "icaoCode": "LLLL",
+      "description": "E) DME OF VOR BTM FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-25T06:00:00.000Z",
+      "validTo": "2025-11-26T14:00:00.000Z",
+      "rawText": "E) DME OF VOR BTM FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.03",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "A0968/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-24T08:00:00.000Z",
+      "validTo": "2025-11-24T11:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2766/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-21T06:00:00.000Z",
+      "validTo": "2025-11-21T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 579,
-  "lastUpdated": "2025-11-15T02:35:55.067Z"
+  "totalCount": 586,
+  "lastUpdated": "2025-11-17T02:39:17.723Z"
 }
