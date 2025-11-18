@@ -7617,8 +7617,47 @@
         "lat": 31.28,
         "lon": 34.72
       }
+    },
+    {
+      "id": "C2771/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323816N0352153E AT ALON-TAVOR POWER PLANT CLSD FM GND UP TO 1,500FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2025-11-17T17:00:00.000Z",
+      "validTo": "2025-11-18T03:50:00.000Z",
+      "rawText": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323816N0352153E AT ALON-TAVOR POWER PLANT CLSD FM GND UP TO 1,500FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.63,35.37",
+      "centerPos": {
+        "lat": 32.63,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C2772/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT, DUE GAS EMISSION.)",
+      "validFrom": "2025-11-17T17:00:00.000Z",
+      "validTo": "2025-11-18T03:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE B-WEST(BMGWB) CLSD TO ALL FLT, DUE GAS EMISSION.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2770/25",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC.)",
+      "validFrom": "2025-11-25T07:30:00.000Z",
+      "validTo": "2025-11-25T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 586,
-  "lastUpdated": "2025-11-17T02:39:17.723Z"
+  "totalCount": 589,
+  "lastUpdated": "2025-11-18T02:37:56.054Z"
 }
