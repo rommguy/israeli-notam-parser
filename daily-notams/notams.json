@@ -7760,8 +7760,138 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C2791/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-11-23T10:00:00.000Z",
+      "validTo": "2025-11-23T15:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2790/25",
+      "icaoCode": "LLIB",
+      "description": "E) APN K CLSD DUE WIP. GA FLT WHO INTENDED TO PARK MORE THEN 10 MIN SHALL GET PRIOR APPROVAL FM ATC.)",
+      "validFrom": "2025-11-23T00:01:00.000Z",
+      "validTo": "2026-03-01T21:59:00.000Z",
+      "rawText": "E) APN K CLSD DUE WIP. GA FLT WHO INTENDED TO PARK MORE THEN 10 MIN SHALL GET PRIOR APPROVAL FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C2788/25",
+      "icaoCode": "LLIB",
+      "description": "E) ACFT STAND A1, A2 CLSD DUE WIP.)",
+      "validFrom": "2025-11-23T00:01:00.000Z",
+      "validTo": "2026-03-01T21:59:00.000Z",
+      "rawText": "E) ACFT STAND A1, A2 CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0977/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-08T05:00:00.000Z",
+      "validTo": "2025-12-08T14:00:00.000Z",
+      "rawText": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0976/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-03T05:00:00.000Z",
+      "validTo": "2025-12-03T14:00:00.000Z",
+      "rawText": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0975/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-01T08:00:00.000Z",
+      "validTo": "2025-12-01T11:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2786/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BINYAMINA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 500FT AMSL 323110N0345744E 323055N0345825E 323016N0345817E 323015N0345755E 323049N0345706E 323105N0345719E. CTN ADZ.)",
+      "validFrom": "2025-11-23T06:00:00.000Z",
+      "validTo": "2025-11-23T16:00:00.000Z",
+      "rawText": "E) AN AREA AT BINYAMINA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 500FT AMSL 323110N0345744E 323055N0345825E 323016N0345817E 323015N0345755E 323049N0345706E 323105N0345719E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,34.97",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2785/25",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E 323334N0351615E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2025-11-25T05:45:00.000Z",
+      "validTo": "2025-11-25T08:00:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E 323334N0351615E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0974/25",
+      "icaoCode": "LLLL",
+      "description": "E) DVOR BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-22T07:00:00.000Z",
+      "validTo": "2025-11-22T11:00:00.000Z",
+      "rawText": "E) DVOR BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2784/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-11-23T10:00:00.000Z",
+      "validTo": "2025-11-25T17:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
     }
   ],
-  "totalCount": 597,
-  "lastUpdated": "2025-11-20T02:37:40.125Z"
+  "totalCount": 607,
+  "lastUpdated": "2025-11-21T02:37:42.561Z"
 }
