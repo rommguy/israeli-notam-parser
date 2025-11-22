@@ -7890,8 +7890,34 @@
         "lat": 32.58,
         "lon": 35.07
       }
+    },
+    {
+      "id": "A0978/25",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2025-11-23T14:30:00.000Z",
+      "validTo": "2025-11-23T15:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2792/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-11-22T10:00:00.000Z",
+      "validTo": "2025-11-22T19:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 607,
-  "lastUpdated": "2025-11-21T02:37:42.561Z"
+  "totalCount": 609,
+  "lastUpdated": "2025-11-22T02:35:07.209Z"
 }
