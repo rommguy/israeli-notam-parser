@@ -7916,8 +7916,21 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C2793/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2025-11-23T13:00:00.000Z",
+      "validTo": "2025-11-23T21:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351644E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 609,
-  "lastUpdated": "2025-11-22T02:35:07.209Z"
+  "totalCount": 610,
+  "lastUpdated": "2025-11-23T02:45:25.188Z"
 }
