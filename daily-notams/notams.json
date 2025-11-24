@@ -7929,8 +7929,99 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C2798/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-11-27T06:00:00.000Z",
+      "validTo": "2025-11-28T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2797/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE ZVULUN NORTH (BZVUE) AVBL FOR ULTRALIGHT ACFT AND POWERED PARACHUTE ACCORDING CONDITIONS OF AIC 05/25. ON SUN-THU BTN SR-0900LMT FM GND UP TO 500FT AMSL. ON FRI FM 0600LMT-SS, HOL EVE FM 1400LMT-SS, ON SAT/HOL BTN SR-SS, AVBL FM GND UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. AIC 06/25 WEF 23 NOV 2025 REF.)",
+      "validFrom": "2025-11-23T14:20:00.000Z",
+      "validTo": "2028-11-24T02:42:01.476Z",
+      "rawText": "E) ULTRALIGHT BUBBLE ZVULUN NORTH (BZVUE) AVBL FOR ULTRALIGHT ACFT AND POWERED PARACHUTE ACCORDING CONDITIONS OF AIC 05/25. ON SUN-THU BTN SR-0900LMT FM GND UP TO 500FT AMSL. ON FRI FM 0600LMT-SS, HOL EVE FM 1400LMT-SS, ON SAT/HOL BTN SR-SS, AVBL FM GND UP TO 4,000FT AMSL. DOM AIP, PART B-08, CHART A. AIC 06/25 WEF 23 NOV 2025 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C2796/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "validFrom": "2025-11-25T07:40:00.000Z",
+      "validTo": "2025-11-25T08:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2795/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2025-11-24T08:00:00.000Z",
+      "validTo": "2025-11-24T17:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C2794/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT LATRUN. AN AREA BTN THE FLW PSNS N314945E0345822 N314949E0345806 N314936E0345743 N314910E0345813 CLSD FM GND UP TO 300FT AGL, 950FT AMSL. CTN ADZ. DOM AIP, PART B-03, CHART A, B-08, CHART A. REF. F) GND G) 1000FT AMSL)",
+      "validFrom": "2025-11-23T08:51:00.000Z",
+      "validTo": "2028-11-24T02:42:15.191Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT LATRUN. AN AREA BTN THE FLW PSNS N314945E0345822 N314949E0345806 N314936E0345743 N314910E0345813 CLSD FM GND UP TO 300FT AGL, 950FT AMSL. CTN ADZ. DOM AIP, PART B-03, CHART A, B-08, CHART A. REF. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.82,34.97",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "A0981/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 PCR 850/F/C/X/T. ISRAEL AIP, PART AD, PAGE AD-2-LLBG-6, TABLE 2.12 REF.)",
+      "validFrom": "2025-11-23T08:41:00.000Z",
+      "validTo": "2028-11-24T02:42:19.156Z",
+      "rawText": "E) RWY 03/21 PCR 850/F/C/X/T. ISRAEL AIP, PART AD, PAGE AD-2-LLBG-6, TABLE 2.12 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0980/25",
+      "icaoCode": "LLLL",
+      "description": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-25T05:00:00.000Z",
+      "validTo": "2025-11-26T15:00:00.000Z",
+      "rawText": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.03",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.03
+      }
     }
   ],
-  "totalCount": 610,
-  "lastUpdated": "2025-11-23T02:45:25.188Z"
+  "totalCount": 617,
+  "lastUpdated": "2025-11-24T02:42:24.436Z"
 }
