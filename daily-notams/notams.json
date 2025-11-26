@@ -8436,8 +8436,125 @@
         "lat": 32.95,
         "lon": 35.15
       }
+    },
+    {
+      "id": "C2818/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-11-30T06:00:00.000Z",
+      "validTo": "2025-12-04T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2817/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-11-26T05:00:00.000Z",
+      "validTo": "2025-11-26T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A1038/25",
+      "icaoCode": "LLLL",
+      "description": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-28T10:00:00.000Z",
+      "validTo": "2025-11-28T12:00:00.000Z",
+      "rawText": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2816/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-11-28T11:30:00.000Z",
+      "validTo": "2025-11-28T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2815/25",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E 323334N0351615E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2025-12-02T06:00:00.000Z",
+      "validTo": "2025-12-02T07:30:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E 323334N0351615E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A1037/25",
+      "icaoCode": "LLLL",
+      "description": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-11-25T09:46:00.000Z",
+      "validTo": "2025-11-27T15:00:00.000Z",
+      "rawText": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.03",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C2814/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 25 DEC 2025.)",
+      "validFrom": "2025-12-25T00:01:00.000Z",
+      "validTo": "2026-01-07T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 25 DEC 2025.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A1036/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 25 DEC 2025.)",
+      "validFrom": "2025-12-25T00:01:00.000Z",
+      "validTo": "2026-01-07T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 25 DEC 2025.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A1035/25",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320229.52N0345040.1E CLSD FM GND UP TO 73M 240FT AGL, 115M 377FT AMSL. CTN ADZ.)",
+      "validFrom": "2025-11-30T04:00:00.000Z",
+      "validTo": "2025-12-01T21:59:00.000Z",
+      "rawText": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320229.52N0345040.1E CLSD FM GND UP TO 73M 240FT AGL, 115M 377FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 649,
-  "lastUpdated": "2025-11-25T02:40:43.194Z"
+  "totalCount": 658,
+  "lastUpdated": "2025-11-26T02:39:28.969Z"
 }
