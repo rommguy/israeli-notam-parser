@@ -8956,8 +8956,60 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C2857/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-12-04T10:30:00.000Z",
+      "validTo": "2025-12-05T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A1042/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-01T07:00:00.000Z",
+      "validTo": "2025-12-01T11:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A1043/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2025-12-02T06:00:00.000Z",
+      "validTo": "2025-12-02T14:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A1041/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "validFrom": "2025-12-01T06:00:00.000Z",
+      "validTo": "2025-12-01T14:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 689,
-  "lastUpdated": "2025-11-28T02:39:27.477Z"
+  "totalCount": 693,
+  "lastUpdated": "2025-12-01T02:52:36.724Z"
 }
