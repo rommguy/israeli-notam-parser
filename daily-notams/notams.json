@@ -9307,8 +9307,34 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "A1055/25",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-03T11:00:00.000Z",
+      "validTo": "2025-12-03T14:00:00.000Z",
+      "rawText": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,35.02",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A1053/25",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-03T07:00:00.000Z",
+      "validTo": "2025-12-03T10:00:00.000Z",
+      "rawText": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 716,
-  "lastUpdated": "2025-12-02T02:41:09.045Z"
+  "totalCount": 718,
+  "lastUpdated": "2025-12-03T02:39:01.644Z"
 }
