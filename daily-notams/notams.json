@@ -9333,8 +9333,99 @@
         "lat": 29.75,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C2895/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2025-12-07T07:00:00.000Z",
+      "validTo": "2025-12-07T13:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2894/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE LIAAD-MARIB-ASKLN CLSD.)",
+      "validFrom": "2025-12-07T17:00:00.000Z",
+      "validTo": "2025-12-07T23:00:00.000Z",
+      "rawText": "E) HEL RTE LIAAD-MARIB-ASKLN CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,34.45",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 34.45
+      }
+    },
+    {
+      "id": "C2893/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-12-07T06:00:00.000Z",
+      "validTo": "2025-12-11T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2890/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL 330735N0354217E 330740N0354704E 325823N0354646E 325827N0354203E 330735N0354217E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-08T11:50:00.000Z",
+      "validTo": "2025-12-09T16:55:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN HEIGHTS BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL 330735N0354217E 330740N0354704E 325823N0354646E 325827N0354203E 330735N0354217E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.05,35.75",
+      "centerPos": {
+        "lat": 33.05,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C2889/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-07T11:00:00.000Z",
+      "validTo": "2025-12-10T17:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2888/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-12-11T09:35:00.000Z",
+      "validTo": "2025-12-12T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2887/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-12-05T06:00:00.000Z",
+      "validTo": "2025-12-05T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 718,
-  "lastUpdated": "2025-12-03T02:39:01.644Z"
+  "totalCount": 725,
+  "lastUpdated": "2025-12-04T02:39:05.605Z"
 }
