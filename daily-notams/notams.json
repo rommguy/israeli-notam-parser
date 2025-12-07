@@ -9866,8 +9866,21 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C2950/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 312905N0345508E CLSD FM GND UP TO 6,000FT AMSL TO AGRICULTURE FLT.)",
+      "validFrom": "2025-12-07T08:00:00.000Z",
+      "validTo": "2025-12-07T18:00:00.000Z",
+      "rawText": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 312905N0345508E CLSD FM GND UP TO 6,000FT AMSL TO AGRICULTURE FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.48,34.92",
+      "centerPos": {
+        "lat": 31.48,
+        "lon": 34.92
+      }
     }
   ],
-  "totalCount": 759,
-  "lastUpdated": "2025-12-05T02:40:01.788Z"
+  "totalCount": 760,
+  "lastUpdated": "2025-12-07T02:44:31.420Z"
 }
