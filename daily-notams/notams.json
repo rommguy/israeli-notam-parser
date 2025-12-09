@@ -9918,8 +9918,73 @@
         "lat": 33.05,
         "lon": 35.75
       }
+    },
+    {
+      "id": "C2960/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 322949N0350608E CLSD TO ALL FLT FM GND UP TO 1,000FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-09T04:00:00.000Z",
+      "validTo": "2025-12-09T08:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 322949N0350608E CLSD TO ALL FLT FM GND UP TO 1,000FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.10",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "A1065/25",
+      "icaoCode": "LLBG",
+      "description": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-12T07:00:00.000Z",
+      "validTo": "2025-12-12T12:00:00.000Z",
+      "rawText": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2959/25",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2025-12-14T06:00:00.000Z",
+      "validTo": "2025-12-14T07:30:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C2958/25",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT NAZERET WI LLRD CTR. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324226N0351736E CLSD FM GND UP TO 50M AGL 1,500FT AMSL. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2025-12-14T16:30:00.000Z",
+      "validTo": "2025-12-14T20:30:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT NAZERET WI LLRD CTR. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324226N0351736E CLSD FM GND UP TO 50M AGL 1,500FT AMSL. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.30",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2957/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-12-14T06:00:00.000Z",
+      "validTo": "2025-12-18T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 763,
-  "lastUpdated": "2025-12-08T02:40:06.495Z"
+  "totalCount": 768,
+  "lastUpdated": "2025-12-09T02:39:36.917Z"
 }
