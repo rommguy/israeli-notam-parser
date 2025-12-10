@@ -9983,8 +9983,47 @@
         "lat": 31.08,
         "lon": 34.9
       }
+    },
+    {
+      "id": "C2964/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-12-18T07:00:00.000Z",
+      "validTo": "2025-12-19T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2963/25",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33. AD NOT AVBL FOR EMERG. XNG CTR AVBL.)",
+      "validFrom": "2025-12-29T07:00:00.000Z",
+      "validTo": "2025-12-29T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33. AD NOT AVBL FOR EMERG. XNG CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A1067/25",
+      "icaoCode": "LLER",
+      "description": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-16T08:00:00.000Z",
+      "validTo": "2025-12-16T12:00:00.000Z",
+      "rawText": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 768,
-  "lastUpdated": "2025-12-09T02:39:36.917Z"
+  "totalCount": 771,
+  "lastUpdated": "2025-12-10T02:40:41.337Z"
 }
