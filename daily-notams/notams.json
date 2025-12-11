@@ -10022,8 +10022,60 @@
         "lat": 29.75,
         "lon": 35.02
       }
+    },
+    {
+      "id": "A1070/25",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320253.71N0345030.75E CLSD FM GND UP TO 80M 262FT AGL, 132M 433FT AMSL. CTN ADZ.)",
+      "validFrom": "2025-12-15T04:00:00.000Z",
+      "validTo": "2025-12-16T21:59:00.000Z",
+      "rawText": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320253.71N0345030.75E CLSD FM GND UP TO 80M 262FT AGL, 132M 433FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2968/25",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "validFrom": "2025-12-16T11:30:00.000Z",
+      "validTo": "2025-12-16T12:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.68",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C2967/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2025-12-24T05:00:00.000Z",
+      "validTo": "2025-12-24T19:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2966/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT REVIVIM BTN THE FLW PSN CLSD FM GND UP TO 2,800FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310711N0344550E 310548N0343919E 310455N0343655E 305931N0343814E 310035N0344409E 310350N0344739E 310711N0344550E. CTN ADZ.)",
+      "validFrom": "2025-12-22T07:00:00.000Z",
+      "validTo": "2025-12-23T10:20:00.000Z",
+      "rawText": "E) AN AREA AT REVIVIM BTN THE FLW PSN CLSD FM GND UP TO 2,800FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310711N0344550E 310548N0343919E 310455N0343655E 305931N0343814E 310035N0344409E 310350N0344739E 310711N0344550E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
     }
   ],
-  "totalCount": 771,
-  "lastUpdated": "2025-12-10T02:40:41.337Z"
+  "totalCount": 775,
+  "lastUpdated": "2025-12-11T02:41:45.192Z"
 }
