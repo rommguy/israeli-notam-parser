@@ -10074,8 +10074,60 @@
         "lat": 31.05,
         "lon": 34.7
       }
+    },
+    {
+      "id": "A1075/25",
+      "icaoCode": "LLBG",
+      "description": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL. PSN 320329.08N0344705.00E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.49N0344703.40E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.33N0344704.43E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320329.89N0344703.85E FM GND UP TO 90.62M AGL, 360FT AMSL. CTN ADZ.)",
+      "validFrom": "2025-12-14T11:00:00.000Z",
+      "validTo": "2026-03-15T21:59:00.000Z",
+      "rawText": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL. PSN 320329.08N0344705.00E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.49N0344703.40E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.33N0344704.43E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320329.89N0344703.85E FM GND UP TO 90.62M AGL, 360FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A1074/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2025-12-16T07:00:00.000Z",
+      "validTo": "2025-12-16T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A1073/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD BTN R-W4 DUE WIP.)",
+      "validFrom": "2025-12-15T06:00:00.000Z",
+      "validTo": "2025-12-15T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD BTN R-W4 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A1072/25",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2025-12-15T09:30:00.000Z",
+      "validTo": "2025-12-15T10:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 775,
-  "lastUpdated": "2025-12-11T02:41:45.192Z"
+  "totalCount": 779,
+  "lastUpdated": "2025-12-15T02:45:15.769Z"
 }
