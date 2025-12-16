@@ -10126,8 +10126,60 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C2973/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 323158N0350610E CLSD TO AGRICULTURE FLT FM GND UP TO 2,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-16T04:00:00.000Z",
+      "validTo": "2025-12-16T08:00:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 323158N0350610E CLSD TO AGRICULTURE FLT FM GND UP TO 2,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.10",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2972/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-12-19T10:30:00.000Z",
+      "validTo": "2025-12-19T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2971/25",
+      "icaoCode": "LLLL",
+      "description": "E) MIL ATC PHONE NR CHG AS FLW PLUTO LOW-LEVEL 08-6502278/7. PLUTO MERHAVI 08-9969392. PLUTO FOR UAS/UAV 08-6586438 (ROKAK). PLUTO TFC MANAGER 076-8834345.)",
+      "validFrom": "2025-12-16T06:30:00.000Z",
+      "validTo": "2025-12-17T15:30:00.000Z",
+      "rawText": "E) MIL ATC PHONE NR CHG AS FLW PLUTO LOW-LEVEL 08-6502278/7. PLUTO MERHAVI 08-9969392. PLUTO FOR UAS/UAV 08-6586438 (ROKAK). PLUTO TFC MANAGER 076-8834345.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C2970/25",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE EMERG DRILL. AD NOT AVBL FOR EMERG. XNG CTR AVBL.)",
+      "validFrom": "2025-12-30T07:30:00.000Z",
+      "validTo": "2025-12-30T10:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE EMERG DRILL. AD NOT AVBL FOR EMERG. XNG CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 779,
-  "lastUpdated": "2025-12-15T02:45:15.769Z"
+  "totalCount": 783,
+  "lastUpdated": "2025-12-16T02:41:33.210Z"
 }
