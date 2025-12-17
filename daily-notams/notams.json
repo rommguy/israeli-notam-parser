@@ -10178,8 +10178,112 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C2981/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD BTN ARRAA-ZMGID. CVFR RTE CLSD AT 2,500FT AMSL, AVBL BIDIRECTIONAL AT 3,000FT AMSL EIRON-ZMGID.)",
+      "validFrom": "2025-12-17T05:30:00.000Z",
+      "validTo": "2025-12-17T13:00:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD BTN ARRAA-ZMGID. CVFR RTE CLSD AT 2,500FT AMSL, AVBL BIDIRECTIONAL AT 3,000FT AMSL EIRON-ZMGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.10",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2980/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.54NM RADIUS CENTERED ON PSN 323249N0351040E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-17T05:30:00.000Z",
+      "validTo": "2025-12-17T13:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.54NM RADIUS CENTERED ON PSN 323249N0351040E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.18",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C2978/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2025-12-18T04:30:00.000Z",
+      "validTo": "2025-12-18T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C2979/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2025-12-18T04:30:00.000Z",
+      "validTo": "2025-12-18T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2977/25",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WI LLHZ TRG AREA NR 12 PROHIBITED. DOM AIP, PART AD, PAGE LLHZ 14, PARA 24.D. REF.)",
+      "validFrom": "2025-12-16T10:50:00.000Z",
+      "validTo": "2028-12-17T02:40:02.474Z",
+      "rawText": "E) AEROBATICS FLT WI LLHZ TRG AREA NR 12 PROHIBITED. DOM AIP, PART AD, PAGE LLHZ 14, PARA 24.D. REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.88",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2975/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-12-16T12:05:00.000Z",
+      "validTo": "2025-12-17T13:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "A1077/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "validFrom": "2026-01-01T00:01:00.000Z",
+      "validTo": "2026-01-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A1076/25",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2026-01-01T00:01:00.000Z",
+      "validTo": "2026-01-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 783,
-  "lastUpdated": "2025-12-16T02:41:33.210Z"
+  "totalCount": 791,
+  "lastUpdated": "2025-12-17T02:40:04.760Z"
 }
