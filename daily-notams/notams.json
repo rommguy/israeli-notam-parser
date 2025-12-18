@@ -10282,8 +10282,242 @@
         "lat": 31.93,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C3007/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2025-12-22T08:00:00.000Z",
+      "validTo": "2025-12-22T17:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C3005/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-12-22T17:20:00.000Z",
+      "validTo": "2025-12-22T18:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C3006/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2025-12-23T09:50:00.000Z",
+      "validTo": "2025-12-23T10:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "A1081/25",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-24T07:00:00.000Z",
+      "validTo": "2025-12-24T12:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A1080/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2025-12-23T06:00:00.000Z",
+      "validTo": "2025-12-23T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A1079/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "validFrom": "2025-12-22T06:00:00.000Z",
+      "validTo": "2025-12-22T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C3004/25",
+      "icaoCode": "LLLL",
+      "description": "E) MIL ATC PHONE NR TEMPO CHG AS FLW HAGAV LOW-LEVEL 08-6502278/7. HAGAV MERHAVI 08-9969392. HAGAV FOR UAS/UAV 08-6586438 (ROKAK). HAGAV TFC MANAGER 076-8834345.)",
+      "validFrom": "2025-12-17T13:32:00.000Z",
+      "validTo": "2025-12-18T11:00:00.000Z",
+      "rawText": "E) MIL ATC PHONE NR TEMPO CHG AS FLW HAGAV LOW-LEVEL 08-6502278/7. HAGAV MERHAVI 08-9969392. HAGAV FOR UAS/UAV 08-6586438 (ROKAK). HAGAV TFC MANAGER 076-8834345.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,34.88",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C3002/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2025-12-25T11:55:00.000Z",
+      "validTo": "2025-12-26T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C3001/25",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2025-12-24T06:30:00.000Z",
+      "validTo": "2025-12-24T08:00:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C3000/25",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2025-12-21T06:00:00.000Z",
+      "validTo": "2025-12-25T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C2999/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT, DUE MIL FLYPAST 312247N0351753E 312357N0345329E 312623N0344607E 312935N0344137E 313030N0343509E 312656N0343035E 312312N0342701E 312115N0342543E 311741N0342552E 311405N0342502E 311103N0342632E 311222N0343228E 310552N0344001E 310402N0345035E 310400N0350023E 310211N0351219E. CNT ADZ.)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT, DUE MIL FLYPAST 312247N0351753E 312357N0345329E 312623N0344607E 312935N0344137E 313030N0343509E 312656N0343035E 312312N0342701E 312115N0342543E 311741N0342552E 311405N0342502E 311103N0342632E 311222N0343228E 310552N0344001E 310402N0345035E 310400N0350023E 310211N0351219E. CNT ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.87",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C2995/25",
+      "icaoCode": "LLGV",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC MEDEVAC HEL.)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC MEDEVAC HEL.)",
+      "mapLink": "https://www.google.com/maps?q=31.23,34.47",
+      "centerPos": {
+        "lat": 31.23,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C2997/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NASIH-MINGV-SOVAL-BKAMA. KUVSH-LLBS-NASIH. KUVSH-NCITY-OMMER-BKAMA. NCITY-ZGOAL. NEGEV-HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV-BKAMA. BKAMA-LAHAV-SOKET-MYTAR-TARAD-ARRAD-ZOHAR. MMORR-ARRAD-LLMZ. HOVAV-SOKET. ULTRALIGHT RTE CLSD LLBS-NASIH-MINGV-BKAMA. HEL RTE CLSD ZMGEN-URRIM-PATIS-GILAT-NASIH. GILAT-TIDHR-NTVOT-SDROT. LLBS-NASIH-MINGV-BKAMA. NEGEV-HOVAV-OHLIM. ZSARA-HTIVA-ZGOAL-ZLHAV-BKAMA. HTIVA-OMMER-SOKET. MINGV-GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HURRA-IRRAA-ZARAD-ARRAD. ZOHAR-HATRU-ARRAD-KANIM-ZFIRA.)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NASIH-MINGV-SOVAL-BKAMA. KUVSH-LLBS-NASIH. KUVSH-NCITY-OMMER-BKAMA. NCITY-ZGOAL. NEGEV-HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV-BKAMA. BKAMA-LAHAV-SOKET-MYTAR-TARAD-ARRAD-ZOHAR. MMORR-ARRAD-LLMZ. HOVAV-SOKET. ULTRALIGHT RTE CLSD LLBS-NASIH-MINGV-BKAMA. HEL RTE CLSD ZMGEN-URRIM-PATIS-GILAT-NASIH. GILAT-TIDHR-NTVOT-SDROT. LLBS-NASIH-MINGV-BKAMA. NEGEV-HOVAV-OHLIM. ZSARA-HTIVA-ZGOAL-ZLHAV-BKAMA. HTIVA-OMMER-SOKET. MINGV-GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HURRA-IRRAA-ZARAD-ARRAD. ZOHAR-HATRU-ARRAD-KANIM-ZFIRA.)",
+      "mapLink": "https://www.google.com/maps?q=31.20,34.88",
+      "centerPos": {
+        "lat": 31.2,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2994/25",
+      "icaoCode": "LLUR",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, DUE MIL FLYPAST.)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, DUE MIL FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.27,34.53",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 34.53
+      }
+    },
+    {
+      "id": "C2992/25",
+      "icaoCode": "LLBS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL OR AGRICULTURE FLT, DUE MIL FLYPAST.)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, INCLUDING HEL OR AGRICULTURE FLT, DUE MIL FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2993/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD, DUE MIL FLYPAST. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-12-21T11:00:00.000Z",
+      "validTo": "2025-12-24T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD, DUE MIL FLYPAST. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A1078/25",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320253.71N0345030.75E CLSD FM GND UP TO 80M 262FT AGL, 132M 433FT AMSL. CTN ADZ.)",
+      "validFrom": "2025-12-28T04:00:00.000Z",
+      "validTo": "2025-12-29T21:59:00.000Z",
+      "rawText": "E) CRANE ERECTED AT TEL-HASHOMER/SHIBA HOSPITAL, DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320253.71N0345030.75E CLSD FM GND UP TO 80M 262FT AGL, 132M 433FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2983/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2025-12-17T15:30:00.000Z",
+      "validTo": "2025-12-18T10:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
     }
   ],
-  "totalCount": 791,
-  "lastUpdated": "2025-12-17T02:40:04.760Z"
+  "totalCount": 809,
+  "lastUpdated": "2025-12-18T02:40:02.379Z"
 }
