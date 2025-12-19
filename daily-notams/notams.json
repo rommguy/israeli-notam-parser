@@ -10516,8 +10516,203 @@
         "lat": 32.7,
         "lon": 35.35
       }
+    },
+    {
+      "id": "C3021/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST YRUHM-DIMON-EFFAE. DIMON-ETZEM-SECHR.)",
+      "validFrom": "2025-12-19T08:15:00.000Z",
+      "validTo": "2025-12-19T09:45:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST YRUHM-DIMON-EFFAE. DIMON-ETZEM-SECHR.)",
+      "mapLink": "https://www.google.com/maps?q=31.13,35.02",
+      "centerPos": {
+        "lat": 31.13,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C3020/25",
+      "icaoCode": "LLLL",
+      "description": "E) DIMONA AIRSTRIP CLSD WI 3KM TO ALL FLT, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST.)",
+      "validFrom": "2025-12-19T08:15:00.000Z",
+      "validTo": "2025-12-19T09:45:00.000Z",
+      "rawText": "E) DIMONA AIRSTRIP CLSD WI 3KM TO ALL FLT, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.07,35.00",
+      "centerPos": {
+        "lat": 31.07,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C3019/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND NITZANIM (BNZNI) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2025-12-19T10:15:00.000Z",
+      "validTo": "2025-12-19T11:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND NITZANIM (BNZNI) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.70",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C3018/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE BEER-SHEVA (BSHEV) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2025-12-19T06:45:00.000Z",
+      "validTo": "2025-12-19T11:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE BEER-SHEVA (BSHEV) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.25,34.80",
+      "centerPos": {
+        "lat": 31.25,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C3017/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2025-12-19T06:45:00.000Z",
+      "validTo": "2025-12-19T11:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE LEHAVIM (BLHAV) CLSD, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.50,34.90",
+      "centerPos": {
+        "lat": 31.5,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C3016/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST GOVRIN-NORTH (BGOVN). GOVRIN-SOUTH (BGOVS).)",
+      "validFrom": "2025-12-19T06:45:00.000Z",
+      "validTo": "2025-12-19T08:15:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST GOVRIN-NORTH (BGOVN). GOVRIN-SOUTH (BGOVS).)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C3015/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST MACHZ-ZPLGT-ZBRCH-NIZNM-ZASHD-SOREK-MEHOL-LLRS.)",
+      "validFrom": "2025-12-19T10:15:00.000Z",
+      "validTo": "2025-12-19T11:45:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST MACHZ-ZPLGT-ZBRCH-NIZNM-ZASHD-SOREK-MEHOL-LLRS.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,34.88",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C3014/25",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST SOREK-MEHOL. LLRS-SOREK-BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. NTAIM-MNSZN. NTAIM-SIRNI-NSHRM-NCSHN-BSEMS. BSEMS-ZHRYA-GEFFN-NAHEM-NAHLA-MKGAT-MACHZ-BKAMA. ZHRYA-GOVRN-MKGAT. BKAMA-ZLHAV-ZGOAL-HTIVA-ZSARA-OHLIM-HOVAV. HOVAV-NEGEV-YRUHM-DIMON.)",
+      "validFrom": "2025-12-19T06:45:00.000Z",
+      "validTo": "2025-12-19T11:45:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ULTRALIGHT IN FLY-PAST SOREK-MEHOL. LLRS-SOREK-BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. NTAIM-MNSZN. NTAIM-SIRNI-NSHRM-NCSHN-BSEMS. BSEMS-ZHRYA-GEFFN-NAHEM-NAHLA-MKGAT-MACHZ-BKAMA. ZHRYA-GOVRN-MKGAT. BKAMA-ZLHAV-ZGOAL-HTIVA-ZSARA-OHLIM-HOVAV. HOVAV-NEGEV-YRUHM-DIMON.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,34.88",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C3013/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2025-12-24T08:30:00.000Z",
+      "validTo": "2025-12-24T10:15:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C3012/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2025-12-24T16:15:00.000Z",
+      "validTo": "2025-12-24T17:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C3011/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2025-12-24T08:00:00.000Z",
+      "validTo": "2025-12-24T17:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C3010/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2025-12-24T16:15:00.000Z",
+      "validTo": "2025-12-24T17:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.27",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A1082/25",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE CRANE.)",
+      "validFrom": "2025-12-24T15:00:00.000Z",
+      "validTo": "2025-12-26T03:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C3009/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BINYAMINA WI 0.55NM CENTERED ON PSN 323004N0345748E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-21T04:00:00.000Z",
+      "validTo": "2025-12-25T04:15:00.000Z",
+      "rawText": "E) AN AREA AT BINYAMINA WI 0.55NM CENTERED ON PSN 323004N0345748E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.97",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C3008/25",
+      "icaoCode": "LLFK",
+      "description": "E) AIRSTRIP OPR CHG TO HAREL ZEIRA 050-9254449. DOM AIP, PART AIRSTRIP, PAGE LLFK-1, PARA 4.B. REF.)",
+      "validFrom": "2025-12-18T11:23:00.000Z",
+      "validTo": "2028-12-19T02:41:38.529Z",
+      "rawText": "E) AIRSTRIP OPR CHG TO HAREL ZEIRA 050-9254449. DOM AIP, PART AIRSTRIP, PAGE LLFK-1, PARA 4.B. REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.72",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.72
+      }
     }
   ],
-  "totalCount": 809,
-  "lastUpdated": "2025-12-18T02:40:02.379Z"
+  "totalCount": 824,
+  "lastUpdated": "2025-12-19T02:41:38.531Z"
 }
