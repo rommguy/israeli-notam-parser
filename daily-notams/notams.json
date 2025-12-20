@@ -10711,8 +10711,21 @@
         "lat": 32.78,
         "lon": 35.72
       }
+    },
+    {
+      "id": "A1086/25",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME ZFR FREQ 115.600MHZ CH103X U/S.)",
+      "validFrom": "2025-12-19T19:50:00.000Z",
+      "validTo": "2025-12-20T19:00:00.000Z",
+      "rawText": "E) VOR/DME ZFR FREQ 115.600MHZ CH103X U/S.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.17",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 824,
-  "lastUpdated": "2025-12-19T02:41:38.531Z"
+  "totalCount": 825,
+  "lastUpdated": "2025-12-20T02:38:06.240Z"
 }
