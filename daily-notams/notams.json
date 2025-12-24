@@ -10893,8 +10893,99 @@
         "lat": 31.23,
         "lon": 34.47
       }
+    },
+    {
+      "id": "C3054/25",
+      "icaoCode": "LLLL",
+      "description": "E) LLIB TRG AREA NR A CLSD. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC.)",
+      "validFrom": "2025-12-24T09:00:00.000Z",
+      "validTo": "2025-12-24T14:00:00.000Z",
+      "rawText": "E) LLIB TRG AREA NR A CLSD. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=33.18,35.60",
+      "centerPos": {
+        "lat": 33.18,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C3053/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HULAT-BASAN-LLKS. ULTRALIGHT AND HEL RTE CLSD ZBTMS-BASAN-HGSRM-LLKS.)",
+      "validFrom": "2025-12-24T09:00:00.000Z",
+      "validTo": "2025-12-24T14:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HULAT-BASAN-LLKS. ULTRALIGHT AND HEL RTE CLSD ZBTMS-BASAN-HGSRM-LLKS.)",
+      "mapLink": "https://www.google.com/maps?q=33.13,35.63",
+      "centerPos": {
+        "lat": 33.13,
+        "lon": 35.63
+      }
+    },
+    {
+      "id": "C3052/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HAREL-HNINA-ANATA-DUMIM. DUMIM-MIHMS-ANATA. HEL RTE CLSD HAREL-HNINA-DUMIM. FLT ALONG RTE AVBL WITH 15MIN PPR FM ATC.)",
+      "validFrom": "2025-12-24T08:00:00.000Z",
+      "validTo": "2025-12-24T12:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HAREL-HNINA-ANATA-DUMIM. DUMIM-MIHMS-ANATA. HEL RTE CLSD HAREL-HNINA-DUMIM. FLT ALONG RTE AVBL WITH 15MIN PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=31.83,35.23",
+      "centerPos": {
+        "lat": 31.83,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C3051/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2025-12-26T06:00:00.000Z",
+      "validTo": "2025-12-26T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A1087/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 22 JAN 2026.)",
+      "validFrom": "2026-01-22T00:01:00.000Z",
+      "validTo": "2026-02-04T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 22 JAN 2026.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C3050/25",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 22 JAN 2026.)",
+      "validFrom": "2026-01-22T00:01:00.000Z",
+      "validTo": "2026-02-04T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 22 JAN 2026.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C3049/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2025-12-24T08:00:00.000Z",
+      "validTo": "2025-12-24T19:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
     }
   ],
-  "totalCount": 838,
-  "lastUpdated": "2025-12-23T02:42:57.635Z"
+  "totalCount": 845,
+  "lastUpdated": "2025-12-24T02:41:06.989Z"
 }
