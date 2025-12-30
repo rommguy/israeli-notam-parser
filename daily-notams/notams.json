@@ -11270,8 +11270,21 @@
         "lat": 32.57,
         "lon": 35.45
       }
+    },
+    {
+      "id": "A1090/25",
+      "icaoCode": "LLLL",
+      "description": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2025-12-29T11:06:00.000Z",
+      "validTo": "2025-12-30T10:00:00.000Z",
+      "rawText": "E) DME OF VOR BTM /BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.03",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.03
+      }
     }
   ],
-  "totalCount": 867,
-  "lastUpdated": "2025-12-26T02:42:14.448Z"
+  "totalCount": 868,
+  "lastUpdated": "2025-12-30T02:43:37.731Z"
 }
