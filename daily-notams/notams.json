@@ -11283,8 +11283,112 @@
         "lat": 31.8,
         "lon": 35.03
       }
+    },
+    {
+      "id": "C3091/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-01-08T10:25:00.000Z",
+      "validTo": "2026-01-09T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C3090/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-02T11:00:00.000Z",
+      "validTo": "2026-01-02T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C3089/25",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC. XNG CTR AVBL.)",
+      "validFrom": "2026-01-04T07:30:00.000Z",
+      "validTo": "2026-01-04T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC. XNG CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C3088/25",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-01-02T06:00:00.000Z",
+      "validTo": "2026-01-02T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C3086/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AFULA-EITAN. TFC WILL BE DIVERTED VIA DESHE.)",
+      "validFrom": "2026-01-05T06:00:00.000Z",
+      "validTo": "2026-01-05T10:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AFULA-EITAN. TFC WILL BE DIVERTED VIA DESHE.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.40",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C3085/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GAN NER WI 3NM RADIUS CENTERED ON PSN 323142N0352138E CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, DUE FIREFIGHTING ACT. CTN ADZ.)",
+      "validFrom": "2026-01-05T06:00:00.000Z",
+      "validTo": "2026-01-05T10:30:00.000Z",
+      "rawText": "E) AN AREA AT GAN NER WI 3NM RADIUS CENTERED ON PSN 323142N0352138E CLSD TO ALL FLT FM GND UP TO 5,000FT AMSL, DUE FIREFIGHTING ACT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.35",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C3084/25",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2026-01-03T04:30:00.000Z",
+      "validTo": "2026-01-03T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C3083/25",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2026-01-03T04:30:00.000Z",
+      "validTo": "2026-01-03T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
     }
   ],
-  "totalCount": 868,
-  "lastUpdated": "2025-12-30T02:43:37.731Z"
+  "totalCount": 876,
+  "lastUpdated": "2025-12-31T02:43:13.841Z"
 }
