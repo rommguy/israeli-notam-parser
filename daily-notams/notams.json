@@ -12362,8 +12362,86 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C0078/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-06T08:00:00.000Z",
+      "validTo": "2026-01-06T13:30:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0077/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-01-06T16:30:00.000Z",
+      "validTo": "2026-01-06T23:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0076/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-01-11T04:15:00.000Z",
+      "validTo": "2026-01-15T16:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0073/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLER TRG AREA HAR BERECH CLSD TO ALL FLT.)",
+      "validFrom": "2026-01-05T07:30:00.000Z",
+      "validTo": "2026-03-31T20:59:00.000Z",
+      "rawText": "E) LLER TRG AREA HAR BERECH CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=29.77,34.92",
+      "centerPos": {
+        "lat": 29.77,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "A0014/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY08 C/S BC FREQ 110.900MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-01-07T07:00:00.000Z",
+      "validTo": "2026-01-07T14:00:00.000Z",
+      "rawText": "E) ILS RWY08 C/S BC FREQ 110.900MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0013/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-01-06T07:00:00.000Z",
+      "validTo": "2026-01-06T10:30:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 951,
-  "lastUpdated": "2026-01-05T02:53:40.263Z"
+  "totalCount": 957,
+  "lastUpdated": "2026-01-06T02:44:44.907Z"
 }
