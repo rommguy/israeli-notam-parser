@@ -12505,8 +12505,151 @@
         "lat": 29.75,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C0090/26",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF UAS WI TRG AREA/UAS BUBBLE OR WI CLOSURE DESIGNATED AS LOCAL FLIGHT AND EXEMPTED OF SUBMISSION FPL. OPR OF UAS SHALL GET APPROVAL FM ATC BFR TKOF. DOM AIP, PART A-11, PAGE 2, PARA 2.F. AND PART B-09, PAGE 6, PARA 6.D. REF.)",
+      "validFrom": "2026-01-07T16:05:00.000Z",
+      "validTo": "2029-01-08T02:44:27.025Z",
+      "rawText": "E) OPS OF UAS WI TRG AREA/UAS BUBBLE OR WI CLOSURE DESIGNATED AS LOCAL FLIGHT AND EXEMPTED OF SUBMISSION FPL. OPR OF UAS SHALL GET APPROVAL FM ATC BFR TKOF. DOM AIP, PART A-11, PAGE 2, PARA 2.F. AND PART B-09, PAGE 6, PARA 6.D. REF.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0020/26",
+      "icaoCode": "LLBG",
+      "description": "E) NEW PSN FOR ACFT STAND ON APN B B8 320022.08N0345217.10E B9 320022.39N0345218.88E)",
+      "validFrom": "2026-01-07T14:49:00.000Z",
+      "validTo": "2026-03-31T23:59:00.000Z",
+      "rawText": "E) NEW PSN FOR ACFT STAND ON APN B B8 320022.08N0345217.10E B9 320022.39N0345218.88E)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0089/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT ISRAEL-VALLY, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 323100N0352910E 323200N0352530E 323204N0352418E 323310N0352152E 323349N0352001E CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-01-15T07:00:00.000Z",
+      "validTo": "2026-01-15T10:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT ISRAEL-VALLY, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 323100N0352910E 323200N0352530E 323204N0352418E 323310N0352152E 323349N0352001E CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.42",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0088/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-08T08:00:00.000Z",
+      "validTo": "2026-01-08T15:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0087/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-08T08:00:00.000Z",
+      "validTo": "2026-01-08T15:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0086/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-01-15T11:30:00.000Z",
+      "validTo": "2026-01-16T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0085/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR. SIZFN-YAHEL. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-OVDAT-BOKER. BOKER-YRUHM-NEGEV. YRUHM-DIMON. BOKER-TLLIM-NEGEV-HOVAV. HEL RTE CLSD KTORA-SIZFN-SITIM-ZZHOR. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-KNFHA-RAMLY-MIDRS. MIDRS-HAGAY-TLLIM-NEGEV-HOVAV. MIDRS-YRUHM-NEGEV. YRUHM-DIMON-ETZEM-SECHR-NEGEV-ZSARA. DIMON-ZAFIT-ARAVA. LLEY-NNAHS-MIDRS. RAMLY-NNAHS-AVNON-YRUHM. NIZNA-TLLIM-GSIRI.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T09:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR. SIZFN-YAHEL. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-OVDAT-BOKER. BOKER-YRUHM-NEGEV. YRUHM-DIMON. BOKER-TLLIM-NEGEV-HOVAV. HEL RTE CLSD KTORA-SIZFN-SITIM-ZZHOR. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-KNFHA-RAMLY-MIDRS. MIDRS-HAGAY-TLLIM-NEGEV-HOVAV. MIDRS-YRUHM-NEGEV. YRUHM-DIMON-ETZEM-SECHR-NEGEV-ZSARA. DIMON-ZAFIT-ARAVA. LLEY-NNAHS-MIDRS. RAMLY-NNAHS-AVNON-YRUHM. NIZNA-TLLIM-GSIRI.)",
+      "mapLink": "https://www.google.com/maps?q=30.60,34.95",
+      "centerPos": {
+        "lat": 30.6,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0084/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T09:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.20",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "A0019/26",
+      "icaoCode": "LLLL",
+      "description": "E) MNM ALT ALONG ATS RTE J10 BTN NURIT-SHANI 12,000FT.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T07:00:00.000Z",
+      "rawText": "E) MNM ALT ALONG ATS RTE J10 BTN NURIT-SHANI 12,000FT.)",
+      "mapLink": "https://www.google.com/maps?q=30.15,35.08",
+      "centerPos": {
+        "lat": 30.15,
+        "lon": 35.08
+      }
+    },
+    {
+      "id": "A0018/26",
+      "icaoCode": "LLLL",
+      "description": "E) MNM ALT ALONG ATS RTE J10 BTN SHANI-MALUQ 16,000FT.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T07:00:00.000Z",
+      "rawText": "E) MNM ALT ALONG ATS RTE J10 BTN SHANI-MALUQ 16,000FT.)",
+      "mapLink": "https://www.google.com/maps?q=30.70,35.23",
+      "centerPos": {
+        "lat": 30.7,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C0083/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-11T12:00:00.000Z",
+      "validTo": "2026-01-11T16:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
     }
   ],
-  "totalCount": 962,
-  "lastUpdated": "2026-01-07T02:45:39.626Z"
+  "totalCount": 973,
+  "lastUpdated": "2026-01-08T02:44:44.021Z"
 }
