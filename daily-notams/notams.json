@@ -13181,8 +13181,138 @@
         "lat": 30.62,
         "lon": 35
       }
+    },
+    {
+      "id": "C0150/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 4,000 FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T08:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 4,000 FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0148/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-12T04:30:00.000Z",
+      "validTo": "2026-01-12T08:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0146/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, NOT AVBL FOR EMERG, DUE WIP ON RWY LGT 15/33. XNG CTR AVBL WITH APPROVAL FM PLUTO CTL ONLY.)",
+      "validFrom": "2026-01-25T07:00:00.000Z",
+      "validTo": "2026-01-25T10:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, NOT AVBL FOR EMERG, DUE WIP ON RWY LGT 15/33. XNG CTR AVBL WITH APPROVAL FM PLUTO CTL ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C0145/26",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP OPR TEMPO CHG AS FLW URI AMITAY PHONE NR 054-7401306 TEMPO AIRSTRIP OPR. DAVID PERETZ PHONE NR 054-7508518 FOR HEL ONLY. RONI NOY PHONE NR 055-6868951 FOR MODEL ACFT.)",
+      "validFrom": "2026-01-12T00:01:00.000Z",
+      "validTo": "2026-01-28T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP OPR TEMPO CHG AS FLW URI AMITAY PHONE NR 054-7401306 TEMPO AIRSTRIP OPR. DAVID PERETZ PHONE NR 054-7508518 FOR HEL ONLY. RONI NOY PHONE NR 055-6868951 FOR MODEL ACFT.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0144/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-13T11:00:00.000Z",
+      "validTo": "2026-01-13T15:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0024/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-02-03T06:25:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0143/26",
+      "icaoCode": "LLYS",
+      "description": "E) HELIPAD CLSD, NOT AVBL FOR EMERG OR MEDEVAC FLT.)",
+      "validFrom": "2026-01-12T04:00:00.000Z",
+      "validTo": "2026-01-14T18:00:00.000Z",
+      "rawText": "E) HELIPAD CLSD, NOT AVBL FOR EMERG OR MEDEVAC FLT.)",
+      "mapLink": "https://www.google.com/maps?q=29.55,34.93",
+      "centerPos": {
+        "lat": 29.55,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0142/26",
+      "icaoCode": "LLKS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC PPR FLT FM ICAA.)",
+      "validFrom": "2026-01-11T09:00:00.000Z",
+      "validTo": "2026-01-31T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC PPR FLT FM ICAA.)",
+      "mapLink": "https://www.google.com/maps?q=33.22,35.60",
+      "centerPos": {
+        "lat": 33.22,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "A0023/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-01-14T09:00:00.000Z",
+      "validTo": "2026-01-14T12:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0022/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-01-12T07:00:00.000Z",
+      "validTo": "2026-01-12T11:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 1014,
-  "lastUpdated": "2026-01-09T02:47:10.475Z"
+  "totalCount": 1024,
+  "lastUpdated": "2026-01-12T02:51:17.270Z"
 }
