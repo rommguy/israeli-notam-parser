@@ -13311,8 +13311,73 @@
         "lat": 32,
         "lon": 34.9
       }
+    },
+    {
+      "id": "C0154/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-01-18T04:15:00.000Z",
+      "validTo": "2026-01-22T16:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0153/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-16T06:00:00.000Z",
+      "validTo": "2026-01-16T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0025/26",
+      "icaoCode": "LLBG",
+      "description": "E) SEVERE WX FORECAST, PILOT SHALL CONSIDER FUEL ON BOARD DUE HLDG OR DLA EXP.)",
+      "validFrom": "2026-01-12T18:00:00.000Z",
+      "validTo": "2026-01-13T18:00:00.000Z",
+      "rawText": "E) SEVERE WX FORECAST, PILOT SHALL CONSIDER FUEL ON BOARD DUE HLDG OR DLA EXP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0151/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-14T08:00:00.000Z",
+      "validTo": "2026-01-14T15:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0152/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-14T08:00:00.000Z",
+      "validTo": "2026-01-14T15:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
     }
   ],
-  "totalCount": 1024,
-  "lastUpdated": "2026-01-12T02:51:17.270Z"
+  "totalCount": 1029,
+  "lastUpdated": "2026-01-13T02:44:31.409Z"
 }
