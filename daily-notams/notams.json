@@ -13376,8 +13376,86 @@
         "lat": 32.73,
         "lon": 35.42
       }
+    },
+    {
+      "id": "A0026/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-01-14T10:00:00.000Z",
+      "validTo": "2026-01-14T19:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0158/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322025N0345939E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "validFrom": "2026-01-14T10:00:00.000Z",
+      "validTo": "2026-01-14T19:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322025N0345939E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,35.00",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0159/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD E OF NAT VOR AND 2NM FM NAT NB. CTN ADZ.)",
+      "validFrom": "2026-01-14T10:00:00.000Z",
+      "validTo": "2026-01-14T19:00:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD E OF NAT VOR AND 2NM FM NAT NB. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0156/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-19T08:30:00.000Z",
+      "validTo": "2026-01-21T15:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0157/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-19T08:30:00.000Z",
+      "validTo": "2026-01-21T15:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0155/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-18T11:00:00.000Z",
+      "validTo": "2026-01-20T18:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
     }
   ],
-  "totalCount": 1029,
-  "lastUpdated": "2026-01-13T02:44:31.409Z"
+  "totalCount": 1035,
+  "lastUpdated": "2026-01-14T02:49:41.699Z"
 }
