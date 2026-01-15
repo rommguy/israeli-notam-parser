@@ -13454,8 +13454,125 @@
         "lat": 32.58,
         "lon": 35.07
       }
+    },
+    {
+      "id": "A0030/26",
+      "icaoCode": "LLHA",
+      "description": "E) POSS DLA FOR FLTS, DUE GROUND INTERRUPTIONS WI LLHA AD.)",
+      "validFrom": "2026-01-15T06:00:00.000Z",
+      "validTo": "2026-01-15T15:00:00.000Z",
+      "rawText": "E) POSS DLA FOR FLTS, DUE GROUND INTERRUPTIONS WI LLHA AD.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0166/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KELAA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 331241N0354442E 331224N0353932E 330755N0353912E 330954N0354507E 331257N0354451E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-15T06:00:00.000Z",
+      "validTo": "2026-01-15T13:00:00.000Z",
+      "rawText": "E) AN AREA AT KELAA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 331241N0354442E 331224N0353932E 330755N0353912E 330954N0354507E 331257N0354451E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.17,35.70",
+      "centerPos": {
+        "lat": 33.17,
+        "lon": 35.7
+      }
+    },
+    {
+      "id": "C0165/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KEREN-NAFTALI BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 330316N0352326E 330218N0352323E 330146N0352041E 330243N0352016E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-15T06:00:00.000Z",
+      "validTo": "2026-01-15T13:00:00.000Z",
+      "rawText": "E) AN AREA AT KEREN-NAFTALI BTN FLW PSN CLSD FM GND UP TO 1,000FT AMSL 330316N0352326E 330218N0352323E 330146N0352041E 330243N0352016E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.05,35.37",
+      "centerPos": {
+        "lat": 33.05,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C0164/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAR-ADIR BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 330316N0352326E 330218N0352323E 330146N0352041E 330243N0352016E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-15T06:00:00.000Z",
+      "validTo": "2026-01-15T13:00:00.000Z",
+      "rawText": "E) AN AREA AT HAR-ADIR BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 330316N0352326E 330218N0352323E 330146N0352041E 330243N0352016E OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.05,35.37",
+      "centerPos": {
+        "lat": 33.05,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C0162/26",
+      "icaoCode": "LLLL",
+      "description": "E) MIL ATC PHONE NR TEMPO CHG AS FLW HAGAV LOW-LEVEL 08-6502307. HAGAV FOR UAS/UAV 08-6502308 (ROKAK).)",
+      "validFrom": "2026-01-14T13:07:00.000Z",
+      "validTo": "2029-01-15T02:45:38.297Z",
+      "rawText": "E) MIL ATC PHONE NR TEMPO CHG AS FLW HAGAV LOW-LEVEL 08-6502307. HAGAV FOR UAS/UAV 08-6502308 (ROKAK).)",
+      "mapLink": "https://www.google.com/maps?q=30.80,34.47",
+      "centerPos": {
+        "lat": 30.8,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "A0029/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-01-21T07:00:00.000Z",
+      "validTo": "2026-01-21T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0028/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-01-20T06:00:00.000Z",
+      "validTo": "2026-01-20T11:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0027/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "validFrom": "2026-01-19T07:00:00.000Z",
+      "validTo": "2026-01-19T11:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT 08/12 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0160/26",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2026-01-20T06:30:00.000Z",
+      "validTo": "2026-01-21T08:00:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 1035,
-  "lastUpdated": "2026-01-14T02:49:41.699Z"
+  "totalCount": 1044,
+  "lastUpdated": "2026-01-15T02:45:41.321Z"
 }
