@@ -13831,8 +13831,21 @@
         "lat": 31.98,
         "lon": 34.55
       }
+    },
+    {
+      "id": "C0188/26",
+      "icaoCode": "LLLL",
+      "description": "E) DOM FLT FM 10,000FT UPWARDS WI AREA FM S LINE OF TMA TO SB PROHIBITED, EXC PPR FLT FM HAGAV ATC. NO RESTRICTIONS ON IFR FLT.)",
+      "validFrom": "2026-01-17T13:00:00.000Z",
+      "validTo": "2026-01-18T06:00:00.000Z",
+      "rawText": "E) DOM FLT FM 10,000FT UPWARDS WI AREA FM S LINE OF TMA TO SB PROHIBITED, EXC PPR FLT FM HAGAV ATC. NO RESTRICTIONS ON IFR FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.80,34.47",
+      "centerPos": {
+        "lat": 30.8,
+        "lon": 34.47
+      }
     }
   ],
-  "totalCount": 1064,
-  "lastUpdated": "2026-01-16T02:46:12.474Z"
+  "totalCount": 1065,
+  "lastUpdated": "2026-01-17T02:39:52.816Z"
 }
