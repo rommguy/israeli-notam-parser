@@ -13844,8 +13844,125 @@
         "lat": 30.8,
         "lon": 34.47
       }
+    },
+    {
+      "id": "C0202/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "validFrom": "2026-01-19T07:00:00.000Z",
+      "validTo": "2026-01-19T11:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,35.38",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0201/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KELAA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 331241N0354442E 331224N0354030E 330841N0354037E 330954N0354507E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-01-19T06:00:00.000Z",
+      "validTo": "2026-01-19T09:00:00.000Z",
+      "rawText": "E) AN AREA AT KELAA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL 331241N0354442E 331224N0354030E 330841N0354037E 330954N0354507E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.18,35.72",
+      "centerPos": {
+        "lat": 33.18,
+        "lon": 35.72
+      }
+    },
+    {
+      "id": "C0200/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2026-01-22T07:00:00.000Z",
+      "validTo": "2026-01-22T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0199/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD.)",
+      "validFrom": "2026-01-21T07:00:00.000Z",
+      "validTo": "2026-01-21T12:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.55",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C0198/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-01-21T17:00:00.000Z",
+      "validTo": "2026-01-21T23:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0197/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO.)",
+      "validFrom": "2026-01-22T07:00:00.000Z",
+      "validTo": "2026-01-22T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.13",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C0196/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-01-21T08:40:00.000Z",
+      "validTo": "2026-01-21T16:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C0194/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-21T08:00:00.000Z",
+      "validTo": "2026-01-21T15:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0195/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-21T08:00:00.000Z",
+      "validTo": "2026-01-21T15:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
     }
   ],
-  "totalCount": 1065,
-  "lastUpdated": "2026-01-17T02:39:52.816Z"
+  "totalCount": 1074,
+  "lastUpdated": "2026-01-19T02:51:18.312Z"
 }
