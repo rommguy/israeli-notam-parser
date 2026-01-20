@@ -13961,8 +13961,138 @@
         "lat": 32.73,
         "lon": 35.42
       }
+    },
+    {
+      "id": "C0217/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZUKIM-ALMOG-NAAMA-FAZEL-ARGMN-TIRAT-EITAN-KOYAR-ALUMT. ALMOG-YRIHO-MIHMS-SHAHR-ALLON-FAZEL.)",
+      "validFrom": "2026-01-20T18:00:00.000Z",
+      "validTo": "2026-01-20T20:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZUKIM-ALMOG-NAAMA-FAZEL-ARGMN-TIRAT-EITAN-KOYAR-ALUMT. ALMOG-YRIHO-MIHMS-SHAHR-ALLON-FAZEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.22,35.50",
+      "centerPos": {
+        "lat": 32.22,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C0216/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-01-24T16:00:00.000Z",
+      "validTo": "2026-01-24T18:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.72,34.83",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0213/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-01-25T04:15:00.000Z",
+      "validTo": "2026-01-29T16:30:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0212/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2026-01-24T04:30:00.000Z",
+      "validTo": "2026-01-25T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C0211/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2026-01-24T04:30:00.000Z",
+      "validTo": "2026-01-25T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C0210/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-23T06:00:00.000Z",
+      "validTo": "2026-01-23T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0209/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR ULTRALIGHT AND HEL RTE CLSD KTORA-YAHEL-BMNUH.)",
+      "validFrom": "2026-01-20T04:15:00.000Z",
+      "validTo": "2026-01-21T16:00:00.000Z",
+      "rawText": "E) CVFR ULTRALIGHT AND HEL RTE CLSD KTORA-YAHEL-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.15,35.10",
+      "centerPos": {
+        "lat": 30.15,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "A0038/26",
+      "icaoCode": "LLLL",
+      "description": "E) MAX ALT ALONG ATS RTE J10 BTN NALSO-SHAYO 18,000FT AMSL.)",
+      "validFrom": "2026-01-20T04:15:00.000Z",
+      "validTo": "2026-01-21T16:00:00.000Z",
+      "rawText": "E) MAX ALT ALONG ATS RTE J10 BTN NALSO-SHAYO 18,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=29.93,35.00",
+      "centerPos": {
+        "lat": 29.93,
+        "lon": 35
+      }
+    },
+    {
+      "id": "A0037/26",
+      "icaoCode": "LLER",
+      "description": "E) CTR/CTA CLSD TO ALL FLT, EXC SKED COMMERCIAL FLT, TLV OR MEDEVAC HEL. CTN ADZ.)",
+      "validFrom": "2026-01-20T04:15:00.000Z",
+      "validTo": "2026-01-21T16:00:00.000Z",
+      "rawText": "E) CTR/CTA CLSD TO ALL FLT, EXC SKED COMMERCIAL FLT, TLV OR MEDEVAC HEL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,34.97",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0208/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, EXC TLV OR MEDEVAC HEL, FM GND UP TO 40,000FT AMSL 294708N0345649E 294633N0345753E 293914N0345300E 293949N0345157E. CTN ADZ.)",
+      "validFrom": "2026-01-20T04:15:00.000Z",
+      "validTo": "2026-01-21T16:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, EXC TLV OR MEDEVAC HEL, FM GND UP TO 40,000FT AMSL 294708N0345649E 294633N0345753E 293914N0345300E 293949N0345157E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,34.92",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 34.92
+      }
     }
   ],
-  "totalCount": 1074,
-  "lastUpdated": "2026-01-19T02:51:18.312Z"
+  "totalCount": 1084,
+  "lastUpdated": "2026-01-20T02:47:10.270Z"
 }
