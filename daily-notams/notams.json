@@ -14091,8 +14091,86 @@
         "lat": 29.72,
         "lon": 34.92
       }
+    },
+    {
+      "id": "A0039/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-01-21T10:00:00.000Z",
+      "validTo": "2026-01-21T18:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0225/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 1NM RADIUS CENTERED ON PSN 322017N0345921E CLSD FM GND UP TO 500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "validFrom": "2026-01-21T10:00:00.000Z",
+      "validTo": "2026-01-21T18:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 1NM RADIUS CENTERED ON PSN 322017N0345921E CLSD FM GND UP TO 500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0223/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "validFrom": "2026-02-01T00:01:00.000Z",
+      "validTo": "2026-02-28T21:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 840FT AMSL 323239N0351648E 323024N0351638E 323039N0352004E 323241N0351955E. CTN ADZ. F) GND G) 840FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.30",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C0222/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 3KM RADIUS CENTERED ON PSN 324957N0352029E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ)",
+      "validFrom": "2026-01-21T04:15:00.000Z",
+      "validTo": "2026-01-21T07:00:00.000Z",
+      "rawText": "E) AN AREA WI 3KM RADIUS CENTERED ON PSN 324957N0352029E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ)",
+      "mapLink": "https://www.google.com/maps?q=32.83,35.33",
+      "centerPos": {
+        "lat": 32.83,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C0221/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KTZIOTH BTN FLW PSN CLSD FM GND UP TO 6,000FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 305709N0342210E 305919N0343021E 304656N0343407E 304417N0342739E. CTN ADZ.)",
+      "validFrom": "2026-01-21T07:15:00.000Z",
+      "validTo": "2026-01-21T10:30:00.000Z",
+      "rawText": "E) AN AREA AT KTZIOTH BTN FLW PSN CLSD FM GND UP TO 6,000FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 305709N0342210E 305919N0343021E 304656N0343407E 304417N0342739E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=30.87,34.48",
+      "centerPos": {
+        "lat": 30.87,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C0218/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2026-01-21T05:00:00.000Z",
+      "validTo": "2026-01-21T19:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 1084,
-  "lastUpdated": "2026-01-20T02:47:10.270Z"
+  "totalCount": 1090,
+  "lastUpdated": "2026-01-21T02:45:53.250Z"
 }
