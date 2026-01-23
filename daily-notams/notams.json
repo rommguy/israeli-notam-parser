@@ -14637,8 +14637,99 @@
         "lat": 31.98,
         "lon": 34.55
       }
+    },
+    {
+      "id": "C0267/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD KKANA-ZGLNI.)",
+      "validFrom": "2026-01-23T11:00:00.000Z",
+      "validTo": "2026-01-23T18:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD KKANA-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.38",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0266/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-23T11:00:00.000Z",
+      "validTo": "2026-01-23T18:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0265/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-01-23T11:00:00.000Z",
+      "validTo": "2026-01-23T18:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0264/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, AREA WI 1NM RADIUS CENTERED ON PSN 324536N0352311E CLSD FM 1,500FT UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-23T11:00:00.000Z",
+      "validTo": "2026-01-23T18:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, AREA WI 1NM RADIUS CENTERED ON PSN 324536N0352311E CLSD FM 1,500FT UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.40",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0261/26",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2026-02-01T06:00:00.000Z",
+      "validTo": "2026-02-26T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0260/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-01-30T06:00:00.000Z",
+      "validTo": "2026-01-30T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0052/26",
+      "icaoCode": "LLHA",
+      "description": "E) S WDI CONE U/S.)",
+      "validFrom": "2026-01-22T06:35:00.000Z",
+      "validTo": "2026-01-31T21:59:00.000Z",
+      "rawText": "E) S WDI CONE U/S.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 1126,
-  "lastUpdated": "2026-01-22T02:52:23.404Z"
+  "totalCount": 1133,
+  "lastUpdated": "2026-01-23T02:46:25.261Z"
 }
