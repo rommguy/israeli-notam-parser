@@ -14728,8 +14728,60 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C0271/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-01-24T07:00:00.000Z",
+      "validTo": "2026-01-24T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0269/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-01-24T07:00:00.000Z",
+      "validTo": "2026-01-24T09:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0270/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD KKANA-ZGLNI.)",
+      "validFrom": "2026-01-24T07:00:00.000Z",
+      "validTo": "2026-01-24T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD KKANA-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.38",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0268/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, AREA WI 1NM RADIUS CENTERED ON PSN 324536N0352311E CLSD FM 1,500FT UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-01-24T07:00:00.000Z",
+      "validTo": "2026-01-24T09:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, AREA WI 1NM RADIUS CENTERED ON PSN 324536N0352311E CLSD FM 1,500FT UP TO 8,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.40",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.4
+      }
     }
   ],
-  "totalCount": 1133,
-  "lastUpdated": "2026-01-23T02:46:25.261Z"
+  "totalCount": 1137,
+  "lastUpdated": "2026-01-24T02:42:38.677Z"
 }
