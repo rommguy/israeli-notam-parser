@@ -15144,8 +15144,203 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0299/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZZHOR-MESAR.)",
+      "validFrom": "2026-01-27T07:50:00.000Z",
+      "validTo": "2026-01-27T10:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZZHOR-MESAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.38,34.98",
+      "centerPos": {
+        "lat": 30.38,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0298/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-02-01T04:10:00.000Z",
+      "validTo": "2026-02-05T16:30:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0296/26",
+      "icaoCode": "LLLL",
+      "description": "E) POWERED PARACHUTE WILL TAKE PLACE WI ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND SHDEROT SOUTH (BDRTS) UP TO 300FT AGL. CTN ADZ.)",
+      "validFrom": "2026-01-30T04:30:00.000Z",
+      "validTo": "2026-01-30T07:00:00.000Z",
+      "rawText": "E) POWERED PARACHUTE WILL TAKE PLACE WI ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND SHDEROT SOUTH (BDRTS) UP TO 300FT AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.52,34.60",
+      "centerPos": {
+        "lat": 31.52,
+        "lon": 34.6
+      }
+    },
+    {
+      "id": "C0295/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-30T06:00:00.000Z",
+      "validTo": "2026-01-30T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0294/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "validFrom": "2026-02-01T04:30:00.000Z",
+      "validTo": "2026-02-01T06:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AAKKO-SMRAT-SZION. ULTRALIGHT RTE CLSD AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.10",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C0293/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "validFrom": "2026-02-01T04:30:00.000Z",
+      "validTo": "2026-02-01T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 2KM RADIUS CENTERED ON PSN 325728N0350652E CLSD FM GND UP TO 11,000FT AMSL DUE TEST FLT. ULTRALIGHT BUBBLE ZVULUN N (BZVUE) CLSD. LLHA TRG AREA NR C CLSD. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "A0088/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-01-27T07:00:00.000Z",
+      "validTo": "2026-01-27T10:30:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0084/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2026-01-26T08:42:00.000Z",
+      "validTo": "2026-02-28T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0085/26",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2026-01-26T08:43:00.000Z",
+      "validTo": "2029-01-27T02:50:49.885Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0086/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "validFrom": "2026-01-26T08:43:00.000Z",
+      "validTo": "2029-01-27T02:50:50.771Z",
+      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0087/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "validFrom": "2026-01-26T08:44:00.000Z",
+      "validTo": "2029-01-27T02:50:51.623Z",
+      "rawText": "E) LLR01 ACTIVATED H24, XNG MERVA NOT AVBL EXC BY ATC. TFC TO/FM LLHA AVBL VIA MERVA BIDIRECTIONAL AT 5,000FT AMSL. ISRAEL AIP, PART ENR 5.1, PAGE ENR 5.1-3, PARA 2, CHART ENR 6-1 REF. F) 7000FT AMSL G) 40000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.78,34.68",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C0287/26",
+      "icaoCode": "LLER",
+      "description": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO DOM AIP COMPLETELY WITHDRAWN. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "validFrom": "2026-02-01T00:01:00.000Z",
+      "validTo": "2029-01-27T02:50:52.510Z",
+      "rawText": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO DOM AIP COMPLETELY WITHDRAWN. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0285/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-28T05:30:00.000Z",
+      "validTo": "2026-01-28T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0286/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-01-29T05:30:00.000Z",
+      "validTo": "2026-01-29T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0284/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-01-28T07:00:00.000Z",
+      "validTo": "2026-01-28T10:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
     }
   ],
-  "totalCount": 1165,
-  "lastUpdated": "2026-01-26T02:55:33.388Z"
+  "totalCount": 1180,
+  "lastUpdated": "2026-01-27T02:50:54.970Z"
 }
