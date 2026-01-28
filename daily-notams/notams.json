@@ -15339,8 +15339,86 @@
         "lat": 30.72,
         "lon": 34.97
       }
+    },
+    {
+      "id": "C0305/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "validFrom": "2026-01-28T07:00:00.000Z",
+      "validTo": "2026-01-28T10:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,35.38",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0304/26",
+      "icaoCode": "LLIC",
+      "description": "E) ICHILOV HELIPAD CLSD.)",
+      "validFrom": "2026-02-01T00:01:00.000Z",
+      "validTo": "2026-02-28T21:59:00.000Z",
+      "rawText": "E) ICHILOV HELIPAD CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.78",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "A0091/26",
+      "icaoCode": "LLER",
+      "description": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO DOM AIP COMPLETELY WITHDRAWN. ISRAEL AIP, PART GEN 3.1, PAGE 2, PARA 1.4.4, PAGE 5, PARA 5, PART GEN 3.4, PAGE 4 (TABLE COLUMN 2, LINE 4). PART AD-2-LLER, PAGE 1, PARA 2.3.4 (TABLE 4), PARA 2.2.6 (TABLE 6), PAGE 12, PARA 6.F.3. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "validFrom": "2026-02-01T00:01:00.000Z",
+      "validTo": "2029-01-28T02:48:08.253Z",
+      "rawText": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO DOM AIP COMPLETELY WITHDRAWN. ISRAEL AIP, PART GEN 3.1, PAGE 2, PARA 1.4.4, PAGE 5, PARA 5, PART GEN 3.4, PAGE 4 (TABLE COLUMN 2, LINE 4). PART AD-2-LLER, PAGE 1, PARA 2.3.4 (TABLE 4), PARA 2.2.6 (TABLE 6), PAGE 12, PARA 6.F.3. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0302/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT TEMPO-FACTORY, FM GND UP TO 70M AGL 300FT AMSL. AN AREA BTN FLW PSN CLSD FM GND UP TO 800FT AMSL 321643N0345108E 321626N0345102E 321616N0345106E 321607N0345122E 321609N0345136E 321627N0345151E 321642N0345148E 321650N0345123E. NO RESTRICTIONS FOR FLT WI LLHZ TRG AREA OR WI HASHARON-DAROM BUBBLE. CTN ADZ. F) GND G) 800FT AMSL)",
+      "validFrom": "2026-02-01T00:01:00.000Z",
+      "validTo": "2026-03-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT TEMPO-FACTORY, FM GND UP TO 70M AGL 300FT AMSL. AN AREA BTN FLW PSN CLSD FM GND UP TO 800FT AMSL 321643N0345108E 321626N0345102E 321616N0345106E 321607N0345122E 321609N0345136E 321627N0345151E 321642N0345148E 321650N0345123E. NO RESTRICTIONS FOR FLT WI LLHZ TRG AREA OR WI HASHARON-DAROM BUBBLE. CTN ADZ. F) GND G) 800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.27,34.85",
+      "centerPos": {
+        "lat": 32.27,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0090/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-04T08:00:00.000Z",
+      "validTo": "2026-02-04T11:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "A0089/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-01-28T06:00:00.000Z",
+      "validTo": "2026-01-28T15:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1180,
-  "lastUpdated": "2026-01-27T02:50:54.970Z"
+  "totalCount": 1186,
+  "lastUpdated": "2026-01-28T02:48:10.384Z"
 }
