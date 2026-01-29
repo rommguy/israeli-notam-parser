@@ -15417,8 +15417,164 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0317/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-01-29T15:30:00.000Z",
+      "validTo": "2026-01-29T20:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0316/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT. RUHOT-RAMLY-MIDRS.)",
+      "validFrom": "2026-01-29T10:40:00.000Z",
+      "validTo": "2026-01-29T12:40:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT. RUHOT-RAMLY-MIDRS.)",
+      "mapLink": "https://www.google.com/maps?q=30.67,34.98",
+      "centerPos": {
+        "lat": 30.67,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0315/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NMASD-SHORELINE-TYONA.)",
+      "validFrom": "2026-02-03T04:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NMASD-SHORELINE-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.68",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C0314/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KINFO. SFAIM-DAFNA. SFAIM-MERVA.)",
+      "validFrom": "2026-02-03T04:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KINFO. SFAIM-DAFNA. SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.40,34.38",
+      "centerPos": {
+        "lat": 32.4,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "C0313/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KINFO. GALIM-DAFNA. GALIM-MERVA.)",
+      "validFrom": "2026-02-03T04:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KINFO. GALIM-DAFNA. GALIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C0312/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD. ASKLN-MARIB.)",
+      "validFrom": "2026-02-03T04:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-LIAAD-MARIB. CLORE-LIAAD. ASKLN-MARIB.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.55",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C0311/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-03T05:30:00.000Z",
+      "validTo": "2026-02-03T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0309/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-01T05:30:00.000Z",
+      "validTo": "2026-02-01T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0310/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-02T05:30:00.000Z",
+      "validTo": "2026-02-02T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0308/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT JULIS WI 0.8NM CENTERED ON PSN 314131N0343940E CLSD FM GND UP TO 500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-02-01T07:00:00.000Z",
+      "validTo": "2026-02-01T14:00:00.000Z",
+      "rawText": "E) AN AREA AT JULIS WI 0.8NM CENTERED ON PSN 314131N0343940E CLSD FM GND UP TO 500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.67",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.67
+      }
+    },
+    {
+      "id": "C0307/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-02-01T10:00:00.000Z",
+      "validTo": "2026-02-04T15:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0306/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-02-05T09:00:00.000Z",
+      "validTo": "2026-02-06T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 1186,
-  "lastUpdated": "2026-01-28T02:48:10.384Z"
+  "totalCount": 1198,
+  "lastUpdated": "2026-01-29T03:01:26.092Z"
 }
