@@ -16275,8 +16275,151 @@
         "lat": 31.98,
         "lon": 34.55
       }
+    },
+    {
+      "id": "C0356/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-MEIR BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,500FT AMSL, DUE FIREFIGHTING ACT 314803N0350139E 314726N0350445E 314449N0350416E 314549N0350054E. CTN ADZ.)",
+      "validFrom": "2026-02-02T08:00:00.000Z",
+      "validTo": "2026-02-02T10:00:00.000Z",
+      "rawText": "E) AN AREA AT BET-MEIR BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,500FT AMSL, DUE FIREFIGHTING ACT 314803N0350139E 314726N0350445E 314449N0350416E 314549N0350054E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.77,35.05",
+      "centerPos": {
+        "lat": 31.77,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0355/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "validFrom": "2026-02-02T02:30:00.000Z",
+      "validTo": "2026-02-03T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.68,35.10",
+      "centerPos": {
+        "lat": 30.68,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C0354/26",
+      "icaoCode": "LLLL",
+      "description": "E) CHECKLIST YEAR=2025 3050 YEAR=2026 0003 0004 0005 0006 0007 0008 0009 0010 0013 0014 0015 0016 0017 0032 0034 0035 0037 0044 0073 0090 0162 0223 0229 0232 0261 0283 0298 0302 0304 0306 0307 0308 0309 0310 0311 0312 0313 0314 0315 0318 0319 0320 0321 0326 0327 0328 0333 0334 0338 0339 0340 0341 0342 0343 0344 0345 0346 0347 0348 0349 0350 0351 0352 0353 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 005/2025 EFFECTIVE DATE 25 DEC 25 AIC IFR A001/2025 EFFECTIVE DATE 23 JAN 25 AIC CHECKLIST AIP IFR A001/2025 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "validFrom": "2026-02-01T06:30:00.000Z",
+      "validTo": "2026-03-01T06:30:00.000Z",
+      "rawText": "E) CHECKLIST YEAR=2025 3050 YEAR=2026 0003 0004 0005 0006 0007 0008 0009 0010 0013 0014 0015 0016 0017 0032 0034 0035 0037 0044 0073 0090 0162 0223 0229 0232 0261 0283 0298 0302 0304 0306 0307 0308 0309 0310 0311 0312 0313 0314 0315 0318 0319 0320 0321 0326 0327 0328 0333 0334 0338 0339 0340 0341 0342 0343 0344 0345 0346 0347 0348 0349 0350 0351 0352 0353 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 005/2025 EFFECTIVE DATE 25 DEC 25 AIC IFR A001/2025 EFFECTIVE DATE 23 JAN 25 AIC CHECKLIST AIP IFR A001/2025 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "A0125/26",
+      "icaoCode": "LLLL",
+      "description": "E) CHECKLIST YEAR=2025 0448 0449 0886 1087 YEAR=2026 0001 0002 0003 0021 0024 0036 0040 0041 0056 0063 0073 0090 0091 0092 0093 0094 0095 0096 0097 0098 0099 0100 0105 0106 0107 0108 0109 0110 0111 0112 0113 0114 0115 0116 0117 0118 0119 0120 0121 0122 0123 0124 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 005/2025 EFFECTIVE DATE 25 DEC 25 AIC IFR A001/2025 EFFECTIVE DATE 23 JAN 25 AIC CHECKLIST AIP IFR A001/2025 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "validFrom": "2026-02-01T06:29:00.000Z",
+      "validTo": "2026-03-01T06:29:00.000Z",
+      "rawText": "E) CHECKLIST YEAR=2025 0448 0449 0886 1087 YEAR=2026 0001 0002 0003 0021 0024 0036 0040 0041 0056 0063 0073 0090 0091 0092 0093 0094 0095 0096 0097 0098 0099 0100 0105 0106 0107 0108 0109 0110 0111 0112 0113 0114 0115 0116 0117 0118 0119 0120 0121 0122 0123 0124 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 005/2025 EFFECTIVE DATE 25 DEC 25 AIC IFR A001/2025 EFFECTIVE DATE 23 JAN 25 AIC CHECKLIST AIP IFR A001/2025 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "A0124/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 AND 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-02-05T06:00:00.000Z",
+      "validTo": "2026-02-05T07:00:00.000Z",
+      "rawText": "E) RWY 03/21 AND 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0123/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-04T07:00:00.000Z",
+      "validTo": "2026-02-04T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0122/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY Q1 AND Q2 CLSD DUE WIP.)",
+      "validFrom": "2026-02-03T06:00:00.000Z",
+      "validTo": "2026-02-03T08:00:00.000Z",
+      "rawText": "E) TWY Q1 AND Q2 CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0121/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-03T07:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0120/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-02-03T07:00:00.000Z",
+      "validTo": "2026-02-03T11:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0119/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-02T07:00:00.000Z",
+      "validTo": "2026-02-02T10:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0118/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD BTN R-W4 DUE WIP.)",
+      "validFrom": "2026-02-02T06:00:00.000Z",
+      "validTo": "2026-02-02T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD BTN R-W4 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1252,
-  "lastUpdated": "2026-01-30T03:03:10.235Z"
+  "totalCount": 1263,
+  "lastUpdated": "2026-02-02T03:09:35.927Z"
 }
