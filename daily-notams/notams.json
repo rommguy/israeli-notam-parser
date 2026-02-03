@@ -16418,8 +16418,99 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0365/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC FOR MEDEVAC HEL KTORA-YAHEL-BMNUH-ZOFAR.)",
+      "validFrom": "2026-02-03T04:00:00.000Z",
+      "validTo": "2026-02-05T08:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC FOR MEDEVAC HEL KTORA-YAHEL-BMNUH-ZOFAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.27,35.13",
+      "centerPos": {
+        "lat": 30.27,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C0362/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAVAT-HASHIKMIM/SHDEROT-DAROM ULTRALGHT BUBBLE WI 1NM RADIUS CENTERED ON PSN 313040N0343759E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-02-13T07:00:00.000Z",
+      "validTo": "2026-02-13T09:00:00.000Z",
+      "rawText": "E) AN AREA AT HAVAT-HASHIKMIM/SHDEROT-DAROM ULTRALGHT BUBBLE WI 1NM RADIUS CENTERED ON PSN 313040N0343759E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.52,34.63",
+      "centerPos": {
+        "lat": 31.52,
+        "lon": 34.63
+      }
+    },
+    {
+      "id": "A0127/26",
+      "icaoCode": "LLER",
+      "description": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO AIP COMPLETELY WITHDRAWN. ISRAEL AIP, PART GEN 3.1, PAGE 2, PARA 1.4.4, PAGE 5, PARA 5, PART GEN 3.4, PAGE 4 (TABLE COLUMN 2, LINE 4). PART AD-2-LLER, PAGE 1, PARA 2.3.4 (TABLE 4), PARA 2.2.6 (TABLE 6), PAGE 12, PARA 6.D, PARA 6.F.3. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "validFrom": "2026-02-02T11:22:00.000Z",
+      "validTo": "2029-02-03T03:05:58.557Z",
+      "rawText": "E) LLER AIS/ARO UNIT PERM CLSD, WEF 01 FEB 2026. ALL AIS SER WILL BE PROVIDED BY LLBG AIS. THE FLW INFO INTO AIP COMPLETELY WITHDRAWN. ISRAEL AIP, PART GEN 3.1, PAGE 2, PARA 1.4.4, PAGE 5, PARA 5, PART GEN 3.4, PAGE 4 (TABLE COLUMN 2, LINE 4). PART AD-2-LLER, PAGE 1, PARA 2.3.4 (TABLE 4), PARA 2.2.6 (TABLE 6), PAGE 12, PARA 6.D, PARA 6.F.3. DOM AIP, PART A-11, PAGE 1, PARA 1.A, PAGE 3, PARA 3.B.D), PART A-12, PAGE 1, PARA 2, PART B-06, PAGE 6, PARA 4.E.2) REF.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0361/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-08T15:00:00.000Z",
+      "validTo": "2026-02-11T15:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0360/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-08T15:00:00.000Z",
+      "validTo": "2026-02-11T15:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0359/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-08T15:00:00.000Z",
+      "validTo": "2026-02-11T15:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0358/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2026-02-03T08:45:00.000Z",
+      "validTo": "2026-02-03T09:05:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
     }
   ],
-  "totalCount": 1263,
-  "lastUpdated": "2026-02-02T03:09:35.927Z"
+  "totalCount": 1270,
+  "lastUpdated": "2026-02-03T03:06:15.752Z"
 }
