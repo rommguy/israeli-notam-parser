@@ -16509,8 +16509,99 @@
         "lat": 31.22,
         "lon": 34.82
       }
+    },
+    {
+      "id": "C0377/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-04T10:00:00.000Z",
+      "validTo": "2026-02-04T20:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0376/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT CARMEI-YOSEF BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL, DUE FIREFIGHTING ACT 315240N0345517E 315014N0345752E 314942N0345539E 315217N0345420E. CTN ADZ.)",
+      "validFrom": "2026-02-04T08:00:00.000Z",
+      "validTo": "2026-02-04T09:00:00.000Z",
+      "rawText": "E) AN AREA AT CARMEI-YOSEF BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL, DUE FIREFIGHTING ACT 315240N0345517E 315014N0345752E 314942N0345539E 315217N0345420E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.85,34.93",
+      "centerPos": {
+        "lat": 31.85,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0375/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.)",
+      "validFrom": "2026-02-04T04:00:00.000Z",
+      "validTo": "2026-02-06T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.40,34.38",
+      "centerPos": {
+        "lat": 32.4,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "C0374/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "validFrom": "2026-02-04T04:00:00.000Z",
+      "validTo": "2026-02-06T11:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C0366/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 321648N0345554E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL, DUE HEL TEST FLT. EXER CTN.)",
+      "validFrom": "2026-02-10T09:00:00.000Z",
+      "validTo": "2026-02-10T14:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 321648N0345554E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL, DUE HEL TEST FLT. EXER CTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.93",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0367/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE HASHARON DAROM E OF ROAD NR 4, S OF NAT VOR AND LLHZ TRG AREA NR 9 CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL, DUE HEL TEST FLT. EXER CTN.)",
+      "validFrom": "2026-02-10T09:00:00.000Z",
+      "validTo": "2026-02-10T14:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE HASHARON DAROM E OF ROAD NR 4, S OF NAT VOR AND LLHZ TRG AREA NR 9 CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL, DUE HEL TEST FLT. EXER CTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.27,34.93",
+      "centerPos": {
+        "lat": 32.27,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "A0128/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-16T09:00:00.000Z",
+      "validTo": "2026-02-16T13:00:00.000Z",
+      "rawText": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 1270,
-  "lastUpdated": "2026-02-03T03:06:15.752Z"
+  "totalCount": 1277,
+  "lastUpdated": "2026-02-04T03:03:48.756Z"
 }
