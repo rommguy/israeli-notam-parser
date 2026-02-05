@@ -16600,8 +16600,242 @@
         "lat": 29.75,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C0394/26",
+      "icaoCode": "LLLL",
+      "description": "E) ZVULUN ULTRALIGHT BUBBLE NORTH (BZVUL) AND SOUTH (BZVUE) CLSD TO ALL FLT.)",
+      "validFrom": "2026-02-10T09:30:00.000Z",
+      "validTo": "2026-02-10T13:30:00.000Z",
+      "rawText": "E) ZVULUN ULTRALIGHT BUBBLE NORTH (BZVUL) AND SOUTH (BZVUE) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.90,35.12",
+      "centerPos": {
+        "lat": 32.9,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C0393/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2026-02-10T09:30:00.000Z",
+      "validTo": "2026-02-10T13:30:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0392/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-02-10T19:15:00.000Z",
+      "validTo": "2026-02-10T21:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0390/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-02-10T09:30:00.000Z",
+      "validTo": "2026-02-10T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C0391/26",
+      "icaoCode": "LLSO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-02-10T09:30:00.000Z",
+      "validTo": "2026-02-10T13:30:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.10",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C0388/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-09T08:00:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0389/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-09T08:00:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0387/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-09T08:00:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0384/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-08T05:30:00.000Z",
+      "validTo": "2026-02-08T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0385/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-09T05:30:00.000Z",
+      "validTo": "2026-02-09T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0386/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-10T05:30:00.000Z",
+      "validTo": "2026-02-10T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0383/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "validFrom": "2026-02-08T10:50:00.000Z",
+      "validTo": "2026-02-08T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, TFC WILL BE DIVERTED VIA BKAMA-SOKET-ARRAD-ZOHAR HOVAV-OHLIM-OMMER-ZGOAL. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. HOVAV-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.82",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C0382/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD ASKLN-MARIB.)",
+      "validFrom": "2026-02-08T16:00:00.000Z",
+      "validTo": "2026-02-08T21:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD ASKLN-MARIB.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.42",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.42
+      }
+    },
+    {
+      "id": "C0381/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT BEER-SHEVA TERNER-STADIUM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 311627N0344637E CLSD FM GND UP TO 50M AGL 1,200FT AMSL. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "validFrom": "2026-02-09T16:45:00.000Z",
+      "validTo": "2026-02-09T18:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT BEER-SHEVA TERNER-STADIUM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 311627N0344637E CLSD FM GND UP TO 50M AGL 1,200FT AMSL. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.27,34.78",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "A0132/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-18T08:00:00.000Z",
+      "validTo": "2026-02-18T11:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0380/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-02-06T06:00:00.000Z",
+      "validTo": "2026-02-06T07:30:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.72,34.83",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0379/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-02-08T04:00:00.000Z",
+      "validTo": "2026-02-12T16:30:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,800FT AMSL 305824N0345537E 305808N0345634E 305756N0345648E 305700N0345626E 305709N0345456E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0378/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-06T06:00:00.000Z",
+      "validTo": "2026-02-06T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 1277,
-  "lastUpdated": "2026-02-04T03:03:48.756Z"
+  "totalCount": 1295,
+  "lastUpdated": "2026-02-05T03:05:04.767Z"
 }
