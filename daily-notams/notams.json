@@ -17042,8 +17042,177 @@
         "lat": 31.92,
         "lon": 34.92
       }
+    },
+    {
+      "id": "C0425/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAR-MEIRON WI 1.3NM RADIUS CENTERED ON PSN 330032N0352455E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-09T05:30:00.000Z",
+      "validTo": "2026-02-09T08:00:00.000Z",
+      "rawText": "E) AN AREA AT HAR-MEIRON WI 1.3NM RADIUS CENTERED ON PSN 330032N0352455E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.42",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0422/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-09T08:30:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0423/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-09T08:30:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0424/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-09T08:30:00.000Z",
+      "validTo": "2026-02-09T16:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0418/26",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2026-02-16T06:30:00.000Z",
+      "validTo": "2026-02-16T08:00:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0417/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAR-MEIRON BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 4,500FT AMSL, DUE FIREFIGHTING ACT 330008N0352142E 330002N0352614E 325722N0352726E 325721N0352107E. CTN ADZ.)",
+      "validFrom": "2026-02-09T10:00:00.000Z",
+      "validTo": "2026-02-09T12:00:00.000Z",
+      "rawText": "E) AN AREA AT HAR-MEIRON BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 4,500FT AMSL, DUE FIREFIGHTING ACT 330008N0352142E 330002N0352614E 325722N0352726E 325721N0352107E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.97,35.40",
+      "centerPos": {
+        "lat": 32.97,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0416/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "validFrom": "2026-02-11T09:00:00.000Z",
+      "validTo": "2026-02-11T16:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C0414/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-11T05:30:00.000Z",
+      "validTo": "2026-02-11T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0415/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-12T05:30:00.000Z",
+      "validTo": "2026-02-12T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0413/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-02-11T19:00:00.000Z",
+      "validTo": "2026-02-12T04:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0412/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "validFrom": "2026-02-11T09:00:00.000Z",
+      "validTo": "2026-02-11T16:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.68",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C0407/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 19 MAR 2026.)",
+      "validFrom": "2026-03-19T00:01:00.000Z",
+      "validTo": "2026-04-01T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 19 MAR 2026.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0158/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 19 MAR 2026.)",
+      "validFrom": "2026-03-19T00:01:00.000Z",
+      "validTo": "2026-04-01T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 19 MAR 2026.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
     }
   ],
-  "totalCount": 1311,
-  "lastUpdated": "2026-02-06T03:03:48.564Z"
+  "totalCount": 1324,
+  "lastUpdated": "2026-02-09T03:08:40.469Z"
 }
