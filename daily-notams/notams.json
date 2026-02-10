@@ -17211,8 +17211,21 @@
         "lat": 31.38,
         "lon": 35.25
       }
+    },
+    {
+      "id": "A0159/26",
+      "icaoCode": "LLER",
+      "description": "E) PAPI RWY 19 EAST U/S.)",
+      "validFrom": "2026-02-09T17:27:00.000Z",
+      "validTo": "2026-02-15T21:59:00.000Z",
+      "rawText": "E) PAPI RWY 19 EAST U/S.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 1324,
-  "lastUpdated": "2026-02-09T03:08:40.469Z"
+  "totalCount": 1325,
+  "lastUpdated": "2026-02-10T03:08:51.543Z"
 }
