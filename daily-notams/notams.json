@@ -17224,8 +17224,60 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C0427/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.4NM RADIUS CENTERED ON PSN 314754N0344622E CLSD FM GND UP TO 1,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-10T14:00:00.000Z",
+      "validTo": "2026-02-13T04:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.4NM RADIUS CENTERED ON PSN 314754N0344622E CLSD FM GND UP TO 1,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,34.77",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "A0161/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN ABIMI-SUVAS WILL BE CLSD IN REAL TIME, OVERFLIGHT MAY EXP TACTICAL RE-ROUTING OR RADAR VECTORS VIA GOBRI-NAT-MERVA.)",
+      "validFrom": "2026-02-12T00:01:00.000Z",
+      "validTo": "2026-02-12T03:00:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN ABIMI-SUVAS WILL BE CLSD IN REAL TIME, OVERFLIGHT MAY EXP TACTICAL RE-ROUTING OR RADAR VECTORS VIA GOBRI-NAT-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.03,34.62",
+      "centerPos": {
+        "lat": 32.03,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "A0160/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLR01 DEACTIVATED IN REAL TIME, XNG MERVA AVBL. F) 7000FT AMSL G) 40000FT AMSL)",
+      "validFrom": "2026-02-12T00:01:00.000Z",
+      "validTo": "2026-02-12T03:00:00.000Z",
+      "rawText": "E) LLR01 DEACTIVATED IN REAL TIME, XNG MERVA AVBL. F) 7000FT AMSL G) 40000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.78,34.68",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C0426/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT NEVE-SHALOM BTN FLW PSN CLSD FM GND UP TO 2,500FT AMSL 314920N0345722E 314943N0345824E 314819N0345840E 314846N0345654E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-02-11T07:00:00.000Z",
+      "validTo": "2026-02-11T15:00:00.000Z",
+      "rawText": "E) AN AREA AT NEVE-SHALOM BTN FLW PSN CLSD FM GND UP TO 2,500FT AMSL 314920N0345722E 314943N0345824E 314819N0345840E 314846N0345654E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.82,34.97",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 34.97
+      }
     }
   ],
-  "totalCount": 1325,
-  "lastUpdated": "2026-02-10T03:08:51.543Z"
+  "totalCount": 1329,
+  "lastUpdated": "2026-02-11T03:08:57.047Z"
 }
