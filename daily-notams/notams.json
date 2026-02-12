@@ -17276,8 +17276,177 @@
         "lat": 31.82,
         "lon": 34.97
       }
+    },
+    {
+      "id": "C0441/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-16T11:00:00.000Z",
+      "validTo": "2026-02-16T18:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0442/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-16T11:00:00.000Z",
+      "validTo": "2026-02-16T18:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0443/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-16T11:00:00.000Z",
+      "validTo": "2026-02-16T18:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0440/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT REVIVIM BTN THE FLW PSN CLSD FM GND UP TO 2,500FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310326N0344251E 310319N0344042E 310149N0344037E 310043N0344141E 310014N0344457E 310109N0344533E 310218N0344454E. CTN ADZ.)",
+      "validFrom": "2026-02-15T04:00:00.000Z",
+      "validTo": "2026-02-15T17:00:00.000Z",
+      "rawText": "E) AN AREA AT REVIVIM BTN THE FLW PSN CLSD FM GND UP TO 2,500FT AMSL, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310326N0344251E 310319N0344042E 310149N0344037E 310043N0344141E 310014N0344457E 310109N0344533E 310218N0344454E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.03,34.72",
+      "centerPos": {
+        "lat": 31.03,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0439/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-02-15T04:00:00.000Z",
+      "validTo": "2026-02-22T04:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.38,34.77",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C0438/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322924N0352538E 323040N0352816E 323025N0353056E 322622N0352841E 322526N0352655E 322550N0352527E. CTN ADZ.)",
+      "validFrom": "2026-02-18T04:00:00.000Z",
+      "validTo": "2026-02-18T23:59:00.000Z",
+      "rawText": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322924N0352538E 323040N0352816E 323025N0353056E 322622N0352841E 322526N0352655E 322550N0352527E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.47",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.47
+      }
+    },
+    {
+      "id": "C0437/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E. CTN ADZ. F) GND G) 5600FT AMSL)",
+      "validFrom": "2026-02-15T04:00:00.000Z",
+      "validTo": "2026-02-18T20:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E. CTN ADZ. F) GND G) 5600FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0436/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-02-12T10:00:00.000Z",
+      "validTo": "2026-02-13T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0435/26",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, DUE WIP.)",
+      "validFrom": "2026-02-11T13:32:00.000Z",
+      "validTo": "2026-02-16T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "A0162/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT, DUE EMERG DRILL. MEDEVAC HEL NOT AVBL.)",
+      "validFrom": "2026-02-25T06:45:00.000Z",
+      "validTo": "2026-02-25T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE EMERG DRILL. MEDEVAC HEL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0434/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322923N0352542E 322915N0352909E 322816N0352916E 322536N0352830E 322535N0352532E. CTN ADZ.)",
+      "validFrom": "2026-02-17T15:00:00.000Z",
+      "validTo": "2026-02-18T04:00:00.000Z",
+      "rawText": "E) AN AREA AT BET-SHEAAN BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322923N0352542E 322915N0352909E 322816N0352916E 322536N0352830E 322535N0352532E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.45,35.45",
+      "centerPos": {
+        "lat": 32.45,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C0433/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT TIRAT-TZVI BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322347N0352810E 322213N0352810E 322323N0352926E 322336N0352832E. CTN ADZ.)",
+      "validFrom": "2026-02-16T14:00:00.000Z",
+      "validTo": "2026-02-16T23:59:00.000Z",
+      "rawText": "E) AN AREA AT TIRAT-TZVI BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 322347N0352810E 322213N0352810E 322323N0352926E 322336N0352832E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,35.48",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 35.48
+      }
+    },
+    {
+      "id": "C0431/26",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF UAS/UAV OR MODEL ACFT WI 500M RADIUS CENTERED ON PSN 320418N0344709.6E FM GND UP TO 300FT AMSL PROHIBITED. DOM AIP, PART A-17, PAGE 5, PARA 1A.C. AND NISPACH C. REF. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-02-11T11:25:00.000Z",
+      "validTo": "2029-02-12T03:08:32.524Z",
+      "rawText": "E) OPS OF UAS/UAV OR MODEL ACFT WI 500M RADIUS CENTERED ON PSN 320418N0344709.6E FM GND UP TO 300FT AMSL PROHIBITED. DOM AIP, PART A-17, PAGE 5, PARA 1A.C. AND NISPACH C. REF. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.07,34.78",
+      "centerPos": {
+        "lat": 32.07,
+        "lon": 34.78
+      }
     }
   ],
-  "totalCount": 1329,
-  "lastUpdated": "2026-02-11T03:08:57.047Z"
+  "totalCount": 1342,
+  "lastUpdated": "2026-02-12T03:08:32.527Z"
 }
