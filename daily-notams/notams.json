@@ -17653,8 +17653,60 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0457/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BHROD BTN FLW PSN CLSD FM 3,000FT UP TO 7,000FT AMSL 323311N0350350E 323312N0351326E 322945N0351219E 322828N0350330E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-02-14T10:00:00.000Z",
+      "validTo": "2026-02-14T23:59:00.000Z",
+      "rawText": "E) AN AREA BHROD BTN FLW PSN CLSD FM 3,000FT UP TO 7,000FT AMSL 323311N0350350E 323312N0351326E 322945N0351219E 322828N0350330E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0171/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "validFrom": "2026-02-14T10:00:00.000Z",
+      "validTo": "2026-02-14T23:59:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.30",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C0456/26",
+      "icaoCode": "LLLL",
+      "description": "E) THE FLW ULTRALIGHT RTE CLSD MRHVA-NIRYA-ZMGID. THE FLW CVFR RTE CLSD EIRON-ZMGID CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-14T10:00:00.000Z",
+      "validTo": "2026-02-14T23:59:00.000Z",
+      "rawText": "E) THE FLW ULTRALIGHT RTE CLSD MRHVA-NIRYA-ZMGID. THE FLW CVFR RTE CLSD EIRON-ZMGID CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0455/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-14T10:00:00.000Z",
+      "validTo": "2026-02-15T00:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 1358,
-  "lastUpdated": "2026-02-13T03:09:50.543Z"
+  "totalCount": 1362,
+  "lastUpdated": "2026-02-14T03:02:25.485Z"
 }
