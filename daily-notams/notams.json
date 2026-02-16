@@ -17705,8 +17705,125 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C0471/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2026-02-16T05:30:00.000Z",
+      "validTo": "2026-02-16T07:45:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0470/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-02-15T15:31:00.000Z",
+      "validTo": "2026-02-28T21:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.30",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C0468/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-20T06:00:00.000Z",
+      "validTo": "2026-02-20T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0467/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-02-17T04:00:00.000Z",
+      "validTo": "2026-02-17T07:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0466/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC. XNG CTR AVBL.)",
+      "validFrom": "2026-02-18T07:30:00.000Z",
+      "validTo": "2026-02-18T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE WIP ON RWY 15/33, EXC PPR HEL FLT FM ATC. IN CASE OF EMERG AVBL WI 15MIN PPR FM ATC. XNG CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0173/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD P68 BTN GALIM-MERVA. Q17 BTN ATLIT-ZAHAV.)",
+      "validFrom": "2026-02-16T20:00:00.000Z",
+      "validTo": "2026-02-19T04:45:00.000Z",
+      "rawText": "E) ATS RTE CLSD P68 BTN GALIM-MERVA. Q17 BTN ATLIT-ZAHAV.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,34.75",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0464/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT HERZELIA/KFAR-SABA E OF LLHZ CTR, BTN FLW PSN FM GND UP TO 120M AGL, 650FT AMSL, OPS WI LLHZ TRG AREA NR 3 AVBL UP TO 500FT AMSL 321247N0345305E 321002N0345332E 320955N0345433E 320914N0345615E 320934N0345642E 320953N0345636E 321008N0345604E 321035N0345725E 321109N0345744E 321141N0345728E 321155N0345600E 321132N0345536E 321202N0345447E 321147N0345421E 321207N0345405E. CTN ADZ. F) GND G) 650FT AMSL)",
+      "validFrom": "2026-02-16T07:00:00.000Z",
+      "validTo": "2026-02-19T15:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT HERZELIA/KFAR-SABA E OF LLHZ CTR, BTN FLW PSN FM GND UP TO 120M AGL, 650FT AMSL, OPS WI LLHZ TRG AREA NR 3 AVBL UP TO 500FT AMSL 321247N0345305E 321002N0345332E 320955N0345433E 320914N0345615E 320934N0345642E 320953N0345636E 321008N0345604E 321035N0345725E 321109N0345744E 321141N0345728E 321155N0345600E 321132N0345536E 321202N0345447E 321147N0345421E 321207N0345405E. CTN ADZ. F) GND G) 650FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.92",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C0458/26",
+      "icaoCode": "LLIB",
+      "description": "E) OBST ERECTED WI LLIB AD PSN 325906.20N0353406.67E HGT 10M AGL, 50.5M FM CL, 167M SW OF THR RWY 15. LIT AND DAY MARKED. AND 2 OBST PSN 325907.85N0353409.91E HGT 2M AGL AND 1M AGL. CTN ADZ.)",
+      "validFrom": "2026-02-15T10:07:00.000Z",
+      "validTo": "2029-02-16T03:08:36.609Z",
+      "rawText": "E) OBST ERECTED WI LLIB AD PSN 325906.20N0353406.67E HGT 10M AGL, 50.5M FM CL, 167M SW OF THR RWY 15. LIT AND DAY MARKED. AND 2 OBST PSN 325907.85N0353409.91E HGT 2M AGL AND 1M AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0172/26",
+      "icaoCode": "LLER",
+      "description": "E) PAPI RWY 19 EAST U/S.)",
+      "validFrom": "2026-02-15T08:50:00.000Z",
+      "validTo": "2026-03-31T21:59:00.000Z",
+      "rawText": "E) PAPI RWY 19 EAST U/S.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 1362,
-  "lastUpdated": "2026-02-14T03:02:25.485Z"
+  "totalCount": 1371,
+  "lastUpdated": "2026-02-16T03:08:37.224Z"
 }
