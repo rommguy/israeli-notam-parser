@@ -17822,8 +17822,34 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C0473/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-02-17T07:00:00.000Z",
+      "validTo": "2026-02-17T17:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0175/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320143.39N0345330.20E CLSD FM GND UP TO 90M 295FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-02-19T07:00:00.000Z",
+      "validTo": "2026-02-19T15:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AN AREA WI 0.3NM RADIUS CENTERED ON PSN 320143.39N0345330.20E CLSD FM GND UP TO 90M 295FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1371,
-  "lastUpdated": "2026-02-16T03:08:37.224Z"
+  "totalCount": 1373,
+  "lastUpdated": "2026-02-17T03:05:59.344Z"
 }
