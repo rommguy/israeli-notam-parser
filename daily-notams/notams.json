@@ -17848,8 +17848,177 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0487/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-18T04:00:00.000Z",
+      "validTo": "2026-02-18T08:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0484/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-18T04:00:00.000Z",
+      "validTo": "2026-02-18T08:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0485/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-18T04:00:00.000Z",
+      "validTo": "2026-02-18T08:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0482/26",
+      "icaoCode": "LLLL",
+      "description": "E) CARMEL UAS BUBBLE CLSD, DUE FIREFIGHTING ACT.)",
+      "validFrom": "2026-02-18T08:00:00.000Z",
+      "validTo": "2026-02-18T09:30:00.000Z",
+      "rawText": "E) CARMEL UAS BUBBLE CLSD, DUE FIREFIGHTING ACT.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,34.98",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0481/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ZICHRON-YAAKOV. AN AREA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,500FT AMSL 323450N0345830E 323450N0350200E 323050N0350200E 323050N0345830E. CTN ADZ.)",
+      "validFrom": "2026-02-18T08:00:00.000Z",
+      "validTo": "2026-02-18T09:30:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ZICHRON-YAAKOV. AN AREA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,500FT AMSL 323450N0345830E 323450N0350200E 323050N0350200E 323050N0345830E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.00",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0479/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "validFrom": "2026-02-23T08:00:00.000Z",
+      "validTo": "2026-02-23T16:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0480/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-02-23T08:00:00.000Z",
+      "validTo": "2026-02-23T16:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0478/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-23T08:00:00.000Z",
+      "validTo": "2026-02-23T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352428E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0477/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-02-22T11:00:00.000Z",
+      "validTo": "2026-02-22T17:00:00.000Z",
+      "rawText": "E) AN AREA AT DALIA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0476/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ELYAKIM WI 0.75NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-22T11:30:00.000Z",
+      "validTo": "2026-02-24T14:00:00.000Z",
+      "rawText": "E) AN AREA AT ELYAKIM WI 0.75NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.07",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0475/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 305856N0344552E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,000FT AMSL.)",
+      "validFrom": "2026-02-18T13:30:00.000Z",
+      "validTo": "2026-02-18T15:00:00.000Z",
+      "rawText": "E) AN AREA WI 2NM RADIUS CENTERED ON PSN 305856N0344552E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=30.98,34.77",
+      "centerPos": {
+        "lat": 30.98,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C0474/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344542E CLSD FM GND UP TO 1,700FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-02-22T04:00:00.000Z",
+      "validTo": "2026-02-26T03:50:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344542E CLSD FM GND UP TO 1,700FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.38,34.77",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "A0176/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 5MIN.)",
+      "validFrom": "2026-02-23T16:40:00.000Z",
+      "validTo": "2026-02-25T19:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 5MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 1373,
-  "lastUpdated": "2026-02-17T03:05:59.344Z"
+  "totalCount": 1386,
+  "lastUpdated": "2026-02-18T03:07:58.748Z"
 }
