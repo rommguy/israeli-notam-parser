@@ -18017,8 +18017,73 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C0493/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT DUE SAFETY REASON, EXC IN CASE OF EMERG OR MEDEVAC HEL. XNG CTR AVBL.)",
+      "validFrom": "2026-02-19T05:00:00.000Z",
+      "validTo": "2026-02-19T16:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT DUE SAFETY REASON, EXC IN CASE OF EMERG OR MEDEVAC HEL. XNG CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C0492/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-02-24T05:15:00.000Z",
+      "validTo": "2026-02-24T07:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0491/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-02-22T17:00:00.000Z",
+      "validTo": "2026-02-22T23:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0490/26",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2026-03-01T06:00:00.000Z",
+      "validTo": "2026-03-31T16:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0489/26",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2026-02-23T06:30:00.000Z",
+      "validTo": "2026-02-24T08:00:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 1386,
-  "lastUpdated": "2026-02-18T03:07:58.748Z"
+  "totalCount": 1391,
+  "lastUpdated": "2026-02-19T03:06:52.736Z"
 }
