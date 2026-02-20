@@ -18082,8 +18082,99 @@
         "lat": 32.55,
         "lon": 35.28
       }
+    },
+    {
+      "id": "C0500/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 3,200FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E. CTN ADZ. F) GND G) 3200FT AMSL)",
+      "validFrom": "2026-02-23T12:30:00.000Z",
+      "validTo": "2026-02-26T17:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 3,200FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E. CTN ADZ. F) GND G) 3200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0497/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-02-25T05:15:00.000Z",
+      "validTo": "2026-02-25T23:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0498/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-02-26T10:20:00.000Z",
+      "validTo": "2026-02-26T23:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.97",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "A0180/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-02-24T06:00:00.000Z",
+      "validTo": "2026-02-25T14:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0179/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-02-25T07:00:00.000Z",
+      "validTo": "2026-02-25T11:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0178/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-02-24T07:00:00.000Z",
+      "validTo": "2026-02-24T11:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0177/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-02-23T07:00:00.000Z",
+      "validTo": "2026-02-23T11:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1391,
-  "lastUpdated": "2026-02-19T03:06:52.736Z"
+  "totalCount": 1398,
+  "lastUpdated": "2026-02-20T03:04:28.827Z"
 }
