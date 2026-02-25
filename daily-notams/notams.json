@@ -18186,8 +18186,86 @@
         "lat": 31.48,
         "lon": 34.92
       }
+    },
+    {
+      "id": "C0521/26",
+      "icaoCode": "LLIC",
+      "description": "E) ICHILOV HELIPAD AVBL FOR MEDEVAC FLT ONLY.)",
+      "validFrom": "2026-02-24T14:56:00.000Z",
+      "validTo": "2026-05-31T21:59:00.000Z",
+      "rawText": "E) ICHILOV HELIPAD AVBL FOR MEDEVAC FLT ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.78",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C0518/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, DUE FIREFIGHTING ACT ENGEV-ZBTZD-DESHE.)",
+      "validFrom": "2026-03-04T08:00:00.000Z",
+      "validTo": "2026-03-04T10:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, DUE FIREFIGHTING ACT ENGEV-ZBTZD-DESHE.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.60",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C0517/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAD-NESS WI2.5NM RADIUS CENTERED ON PSN 325540N0353829E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL, DUE FIREFIGHTING ACT.)",
+      "validFrom": "2026-03-04T08:00:00.000Z",
+      "validTo": "2026-03-04T10:00:00.000Z",
+      "rawText": "E) AN AREA AT HAD-NESS WI2.5NM RADIUS CENTERED ON PSN 325540N0353829E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL, DUE FIREFIGHTING ACT.)",
+      "mapLink": "https://www.google.com/maps?q=32.93,35.63",
+      "centerPos": {
+        "lat": 32.93,
+        "lon": 35.63
+      }
+    },
+    {
+      "id": "C0516/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-02-27T06:00:00.000Z",
+      "validTo": "2026-02-27T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0514/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-03-01T00:01:00.000Z",
+      "validTo": "2026-03-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.30",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C0508/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BELINSON-HOSPITAL, FM GND UP TO 300FT AMSL. AN AREA BTN FLW PSN CLSD FM GND UP TO 800FT AMSL 320545N0345149E 320536N0345134E 320507N0345130E 320458N0345138E 320453N0345206E 320459N0345220E 320529N0345227E 320542N0345218E. OPS OF HEL BY PPR FM HELIPAD OPR (LLBL). CTN ADZ. F) GND G) 800FT AMSL)",
+      "validFrom": "2026-03-01T00:01:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BELINSON-HOSPITAL, FM GND UP TO 300FT AMSL. AN AREA BTN FLW PSN CLSD FM GND UP TO 800FT AMSL 320545N0345149E 320536N0345134E 320507N0345130E 320458N0345138E 320453N0345206E 320459N0345220E 320529N0345227E 320542N0345218E. OPS OF HEL BY PPR FM HELIPAD OPR (LLBL). CTN ADZ. F) GND G) 800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.87",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.87
+      }
     }
   ],
-  "totalCount": 1399,
-  "lastUpdated": "2026-02-22T03:07:21.474Z"
+  "totalCount": 1405,
+  "lastUpdated": "2026-02-25T03:06:49.825Z"
 }
