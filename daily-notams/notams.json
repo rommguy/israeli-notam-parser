@@ -18264,8 +18264,177 @@
         "lat": 32.08,
         "lon": 34.87
       }
+    },
+    {
+      "id": "C0530/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "validFrom": "2026-03-04T09:20:00.000Z",
+      "validTo": "2026-03-04T13:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,35.38",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0529/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ELYAKIM WI 0.7NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-02-26T11:00:00.000Z",
+      "validTo": "2026-02-26T13:00:00.000Z",
+      "rawText": "E) AN AREA AT ELYAKIM WI 0.7NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.07",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0528/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "validFrom": "2026-02-26T07:00:00.000Z",
+      "validTo": "2026-02-26T09:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "mapLink": "https://www.google.com/maps?q=30.67,34.98",
+      "centerPos": {
+        "lat": 30.67,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0527/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "validFrom": "2026-03-03T07:00:00.000Z",
+      "validTo": "2026-03-03T14:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,35.38",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0526/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD LLBS-NASIH-MINGV. LLBS-KUVSH-NCITY.)",
+      "validFrom": "2026-03-02T15:15:00.000Z",
+      "validTo": "2026-03-02T21:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD LLBS-NASIH-MINGV. LLBS-KUVSH-NCITY.)",
+      "mapLink": "https://www.google.com/maps?q=31.32,34.73",
+      "centerPos": {
+        "lat": 31.32,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C0525/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-SEGEV-ZALMN.)",
+      "validFrom": "2026-03-02T16:00:00.000Z",
+      "validTo": "2026-03-02T17:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-SEGEV-ZALMN.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.28",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0524/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD BMNUH-ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "validFrom": "2026-03-01T16:00:00.000Z",
+      "validTo": "2026-03-01T19:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD BMNUH-ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.55,35.18",
+      "centerPos": {
+        "lat": 30.55,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C0523/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, NOT AVBL FOR EMERG, DUE WIP ON RWY LGT 15/33. XNG CTR AVBL WITH APPROVAL FM PLUTO CTL ONLY.)",
+      "validFrom": "2026-03-09T07:00:00.000Z",
+      "validTo": "2026-03-09T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, NOT AVBL FOR EMERG, DUE WIP ON RWY LGT 15/33. XNG CTR AVBL WITH APPROVAL FM PLUTO CTL ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0186/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "validFrom": "2026-02-25T11:03:00.000Z",
+      "validTo": "2026-05-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM NOT AVBL AT FL290 BTN AD WI LCCC/LGGG FIR AND AD WI OBBB/OMAE FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0187/26",
+      "icaoCode": "LLLL",
+      "description": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "validFrom": "2026-02-25T11:03:00.000Z",
+      "validTo": "2026-05-31T23:59:00.000Z",
+      "rawText": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0185/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "validFrom": "2026-02-25T11:02:00.000Z",
+      "validTo": "2026-05-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ NOT AVBL AT FL280 BTN AD WI OBBB/OMAE FIR AND AD WI LCCC/LGGG FIR EXC MIL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0522/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ELYAKIM WI 0.75NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-03-01T08:00:00.000Z",
+      "validTo": "2026-03-05T17:00:00.000Z",
+      "rawText": "E) AN AREA AT ELYAKIM WI 0.75NM RADIUS CENTERED ON PSN 323729N0350413E CLSD FM GND UP TO 5,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.07",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0184/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-03-10T06:25:00.000Z",
+      "validTo": "2026-03-10T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 1405,
-  "lastUpdated": "2026-02-25T03:06:49.825Z"
+  "totalCount": 1418,
+  "lastUpdated": "2026-02-26T03:03:59.887Z"
 }
