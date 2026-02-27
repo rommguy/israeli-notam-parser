@@ -18433,8 +18433,177 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C0538/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-03-05T05:30:00.000Z",
+      "validTo": "2026-03-05T13:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0537/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD LLBS-NASIH-MINGV. LLBS-KUVSH-NCITY.)",
+      "validFrom": "2026-03-05T14:00:00.000Z",
+      "validTo": "2026-03-05T21:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD LLBS-NASIH-MINGV. LLBS-KUVSH-NCITY.)",
+      "mapLink": "https://www.google.com/maps?q=31.32,34.73",
+      "centerPos": {
+        "lat": 31.32,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C0536/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD BMNUH-ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "validFrom": "2026-03-04T17:30:00.000Z",
+      "validTo": "2026-03-04T19:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD BMNUH-ZOFAR-HAZVA. ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.55,35.18",
+      "centerPos": {
+        "lat": 30.55,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C0535/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-SEGEV-ZALMN.)",
+      "validFrom": "2026-03-04T16:00:00.000Z",
+      "validTo": "2026-03-04T17:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-SEGEV-ZALMN.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.28",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0534/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS CARMEL BUBBLE EAST AND CENTER CLSD.)",
+      "validFrom": "2026-02-27T06:00:00.000Z",
+      "validTo": "2026-02-27T18:00:00.000Z",
+      "rawText": "E) MINI UAS CARMEL BUBBLE EAST AND CENTER CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.63,35.07",
+      "centerPos": {
+        "lat": 32.63,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C0533/26",
+      "icaoCode": "LLLL",
+      "description": "E) OREN ULTRALIGHT BUBBLE (BOORN) CLSD TO ALL FLT.)",
+      "validFrom": "2026-02-27T06:00:00.000Z",
+      "validTo": "2026-02-27T18:00:00.000Z",
+      "rawText": "E) OREN ULTRALIGHT BUBBLE (BOORN) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.02",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0532/26",
+      "icaoCode": "LLLL",
+      "description": "E) HASHARON NORTH ULTRALIGHT BUBBLE (BSARN) CLSD TO ALL FLT.)",
+      "validFrom": "2026-02-27T06:00:00.000Z",
+      "validTo": "2026-02-27T18:00:00.000Z",
+      "rawText": "E) HASHARON NORTH ULTRALIGHT BUBBLE (BSARN) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.98",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "A0192/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-03-04T07:00:00.000Z",
+      "validTo": "2026-03-04T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0191/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-03-03T07:00:00.000Z",
+      "validTo": "2026-03-03T11:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0190/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-03-02T07:00:00.000Z",
+      "validTo": "2026-03-02T12:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0531/26",
+      "icaoCode": "LLIC",
+      "description": "E) ICHILOV HELIPAD AVBL FOR MEDEVAC FLT ONLY, AND NOT AVBL WITHOUT FLW HR, EXC IN EMERG SUN-THU 0700-1800LMT. FRI 0700-1200LMT.)",
+      "validFrom": "2026-02-26T12:43:00.000Z",
+      "validTo": "2026-05-31T21:59:00.000Z",
+      "rawText": "E) ICHILOV HELIPAD AVBL FOR MEDEVAC FLT ONLY, AND NOT AVBL WITHOUT FLW HR, EXC IN EMERG SUN-THU 0700-1800LMT. FRI 0700-1200LMT.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.78",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "A0189/26",
+      "icaoCode": "LLHA",
+      "description": "E) SELF SER REFUEL FOR ACFT NOT AVBL. COOR WITH PAZ-AVIATION FOR REFUELING BY VEHICLE ONLY.)",
+      "validFrom": "2026-03-08T00:01:00.000Z",
+      "validTo": "2026-05-08T20:59:00.000Z",
+      "rawText": "E) SELF SER REFUEL FOR ACFT NOT AVBL. COOR WITH PAZ-AVIATION FOR REFUELING BY VEHICLE ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0188/26",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND A1 CLSD, DUE WIP.)",
+      "validFrom": "2026-03-08T00:01:00.000Z",
+      "validTo": "2026-05-08T20:59:00.000Z",
+      "rawText": "E) ACFT STAND A1 CLSD, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 1418,
-  "lastUpdated": "2026-02-26T03:03:59.887Z"
+  "totalCount": 1431,
+  "lastUpdated": "2026-02-27T03:03:25.780Z"
 }
