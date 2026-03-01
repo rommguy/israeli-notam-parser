@@ -18602,8 +18602,164 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C0540/26",
+      "icaoCode": "LLHZ",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-02-28T07:37:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0539/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-02-28T07:35:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0204/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "validFrom": "2026-02-28T07:18:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "mapLink": "https://www.google.com/maps?q=30.63,35.18",
+      "centerPos": {
+        "lat": 30.63,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "A0203/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "validFrom": "2026-02-28T07:17:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0202/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "validFrom": "2026-02-28T07:15:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0201/26",
+      "icaoCode": "LLBG",
+      "description": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "validFrom": "2026-02-28T07:13:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0200/26",
+      "icaoCode": "LLBG",
+      "description": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-02-28T07:11:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0199/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-02-28T07:09:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0198/26",
+      "icaoCode": "LLBG",
+      "description": "E) ARR PPR FLT AVBL VIA NICOSIA FIR ONLY. STAR AMMIT AND SALAM NOT AVBL.)",
+      "validFrom": "2026-02-28T07:04:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) ARR PPR FLT AVBL VIA NICOSIA FIR ONLY. STAR AMMIT AND SALAM NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0197/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT WB AVBL VIA SID SUVAS, NB VIA SID DAFNA ONLY. SID MERVA SALAM TOMAL NOT AVBL.)",
+      "validFrom": "2026-02-28T06:59:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) DEP PPR FLT WB AVBL VIA SID SUVAS, NB VIA SID DAFNA ONLY. SID MERVA SALAM TOMAL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0196/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE AD AND AD OPS CENTER.)",
+      "validFrom": "2026-02-28T06:57:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE AD AND AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0195/26",
+      "icaoCode": "LLLL",
+      "description": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM NOTAM OFFICE. MIL FLT WITH PPR FM IAF.)",
+      "validFrom": "2026-02-28T06:54:00.000Z",
+      "validTo": "2026-03-03T10:00:00.000Z",
+      "rawText": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM NOTAM OFFICE. MIL FLT WITH PPR FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
     }
   ],
-  "totalCount": 1431,
-  "lastUpdated": "2026-02-27T03:03:25.780Z"
+  "totalCount": 1443,
+  "lastUpdated": "2026-03-01T03:09:06.671Z"
 }
