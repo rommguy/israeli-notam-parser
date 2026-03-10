@@ -19369,8 +19369,60 @@
         "lat": 33.17,
         "lon": 35.42
       }
+    },
+    {
+      "id": "C0582/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 16 APR 2026.)",
+      "validFrom": "2026-04-16T00:01:00.000Z",
+      "validTo": "2026-04-29T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 16 APR 2026.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0242/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 16 APR 2026.)",
+      "validFrom": "2026-04-16T00:01:00.000Z",
+      "validTo": "2026-04-29T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 16 APR 2026.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0241/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "validFrom": "2026-03-09T12:22:00.000Z",
+      "validTo": "2026-03-16T10:00:00.000Z",
+      "rawText": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0238/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT AVBL VIA SID SUVAS ONLY. SID DAFNA MERVA SALAM TOMAL NOT AVBL.)",
+      "validFrom": "2026-03-09T12:19:00.000Z",
+      "validTo": "2026-03-16T10:00:00.000Z",
+      "rawText": "E) DEP PPR FLT AVBL VIA SID SUVAS ONLY. SID DAFNA MERVA SALAM TOMAL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1490,
-  "lastUpdated": "2026-03-09T03:07:23.938Z"
+  "totalCount": 1494,
+  "lastUpdated": "2026-03-10T03:02:08.569Z"
 }
