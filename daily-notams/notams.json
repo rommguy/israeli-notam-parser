@@ -19421,8 +19421,34 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "A0244/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-03-12T05:30:00.000Z",
+      "validTo": "2026-03-12T07:30:00.000Z",
+      "rawText": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0583/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLAC AT DALTON, AN AREA WI 0.6NM RADIUS CENTERED ON PSN 330119N0352742E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-03-11T06:44:00.000Z",
+      "validTo": "2026-03-24T21:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLAC AT DALTON, AN AREA WI 0.6NM RADIUS CENTERED ON PSN 330119N0352742E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.47",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.47
+      }
     }
   ],
-  "totalCount": 1494,
-  "lastUpdated": "2026-03-10T03:02:08.569Z"
+  "totalCount": 1496,
+  "lastUpdated": "2026-03-12T03:04:56.579Z"
 }
