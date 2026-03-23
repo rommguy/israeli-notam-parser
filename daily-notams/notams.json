@@ -19941,8 +19941,21 @@
         "lat": 33.03,
         "lon": 35.47
       }
+    },
+    {
+      "id": "A0269/26",
+      "icaoCode": "LLBG",
+      "description": "E) DIRECTION SIGN ON RWY 12/30 TO RAPID TWY Z U/S.)",
+      "validFrom": "2026-03-22T14:18:00.000Z",
+      "validTo": "2026-03-31T20:59:00.000Z",
+      "rawText": "E) DIRECTION SIGN ON RWY 12/30 TO RAPID TWY Z U/S.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1534,
-  "lastUpdated": "2026-03-19T03:09:09.202Z"
+  "totalCount": 1535,
+  "lastUpdated": "2026-03-23T03:10:13.181Z"
 }
