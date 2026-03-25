@@ -19954,8 +19954,34 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0604/26",
+      "icaoCode": "LLLL",
+      "description": "E) CARMEL UAS BUBBLE CLSD, DUE FIREFIGHTING ACT.)",
+      "validFrom": "2026-03-25T08:00:00.000Z",
+      "validTo": "2026-03-25T09:30:00.000Z",
+      "rawText": "E) CARMEL UAS BUBBLE CLSD, DUE FIREFIGHTING ACT.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,34.98",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0603/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ZICHRON-YAAKOV. AN AREA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,500FT AMSL 323450N0345830E 323450N0350200E 323050N0350200E 323050N0345830E. CTN ADZ.)",
+      "validFrom": "2026-03-25T08:00:00.000Z",
+      "validTo": "2026-03-25T09:30:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ZICHRON-YAAKOV. AN AREA BTN FLW PSN CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,500FT AMSL 323450N0345830E 323450N0350200E 323050N0350200E 323050N0345830E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.00",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35
+      }
     }
   ],
-  "totalCount": 1535,
-  "lastUpdated": "2026-03-23T03:10:13.181Z"
+  "totalCount": 1537,
+  "lastUpdated": "2026-03-25T03:08:02.459Z"
 }
