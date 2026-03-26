@@ -19980,8 +19980,268 @@
         "lat": 32.55,
         "lon": 35
       }
+    },
+    {
+      "id": "A0282/26",
+      "icaoCode": "LLBG",
+      "description": "E) DVOR BGN FREQ 113.500MHZ US.)",
+      "validFrom": "2026-03-25T22:33:00.000Z",
+      "validTo": "2026-03-26T18:00:00.000Z",
+      "rawText": "E) DVOR BGN FREQ 113.500MHZ US.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0281/26",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND J10 CLSD.)",
+      "validFrom": "2026-03-25T11:46:00.000Z",
+      "validTo": "2029-03-26T03:10:07.371Z",
+      "rawText": "E) ACFT STAND J10 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0614/26",
+      "icaoCode": "LLBO",
+      "description": "E) PJE AND ACT WI ATZ AVBL BY PPR FM IAF, PILOT SHALL SUBMIT SPECIAL FLT TO AIS OFFICE.)",
+      "validFrom": "2026-03-26T00:01:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) PJE AND ACT WI ATZ AVBL BY PPR FM IAF, PILOT SHALL SUBMIT SPECIAL FLT TO AIS OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,34.93",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0609/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM LEBANON BOUNDRAY TO 8KM SB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-03-25T09:15:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AN AREA FM LEBANON BOUNDRAY TO 8KM SB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=33.17,35.42",
+      "centerPos": {
+        "lat": 33.17,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0610/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM SYRIA BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-03-25T09:15:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AN AREA FM SYRIA BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=33.03,35.78",
+      "centerPos": {
+        "lat": 33.03,
+        "lon": 35.78
+      }
+    },
+    {
+      "id": "C0611/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM JORDAN BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-03-25T09:16:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AN AREA FM JORDAN BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.40",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0612/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM EGYPT BOUNDRAY TO 3KM EB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-03-25T09:16:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AN AREA FM EGYPT BOUNDRAY TO 3KM EB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=30.48,34.58",
+      "centerPos": {
+        "lat": 30.48,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "A0279/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "validFrom": "2026-03-25T09:12:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "mapLink": "https://www.google.com/maps?q=30.63,35.18",
+      "centerPos": {
+        "lat": 30.63,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "A0280/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "validFrom": "2026-03-25T09:13:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "C0606/26",
+      "icaoCode": "LLHZ",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-03-25T09:14:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0607/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-03-25T09:14:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0273/26",
+      "icaoCode": "LLBG",
+      "description": "E) ARR PPR FLT AVBL VIA NICOSIA FIR ONLY. STAR AMMIT AND SALAM NOT AVBL.)",
+      "validFrom": "2026-03-25T09:10:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) ARR PPR FLT AVBL VIA NICOSIA FIR ONLY. STAR AMMIT AND SALAM NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0274/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-03-25T09:11:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0275/26",
+      "icaoCode": "LLBG",
+      "description": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-03-25T09:11:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0276/26",
+      "icaoCode": "LLBG",
+      "description": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "validFrom": "2026-03-25T09:11:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0277/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "validFrom": "2026-03-25T09:12:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0278/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "validFrom": "2026-03-25T09:12:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0270/26",
+      "icaoCode": "LLLL",
+      "description": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, MIL FLT WITH PPR FM IAF.)",
+      "validFrom": "2026-03-25T09:09:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, MIL FLT WITH PPR FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0271/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM AD OPS CENTER.)",
+      "validFrom": "2026-03-25T09:10:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0272/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT AVBL VIA SID SUVAS ONLY. SID DAFNA MERVA SALAM TOMAL NOT AVBL.)",
+      "validFrom": "2026-03-25T09:10:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) DEP PPR FLT AVBL VIA SID SUVAS ONLY. SID DAFNA MERVA SALAM TOMAL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1537,
-  "lastUpdated": "2026-03-25T03:08:02.459Z"
+  "totalCount": 1557,
+  "lastUpdated": "2026-03-26T03:10:27.033Z"
 }
