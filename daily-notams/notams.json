@@ -20240,8 +20240,21 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0615/26",
+      "icaoCode": "LLBS",
+      "description": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "validFrom": "2026-03-27T00:01:00.000Z",
+      "validTo": "2026-04-16T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 1557,
-  "lastUpdated": "2026-03-26T03:10:27.033Z"
+  "totalCount": 1558,
+  "lastUpdated": "2026-03-27T03:10:32.436Z"
 }
