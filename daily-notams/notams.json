@@ -20253,8 +20253,47 @@
         "lat": 31.28,
         "lon": 34.72
       }
+    },
+    {
+      "id": "A0285/26",
+      "icaoCode": "LLLL",
+      "description": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, DOM CIV FLT/ACT AND MIL FLT WITH PPR FM IAF.)",
+      "validFrom": "2026-03-30T12:10:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, DOM CIV FLT/ACT AND MIL FLT WITH PPR FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C0617/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-03-31T05:00:00.000Z",
+      "validTo": "2026-03-31T10:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 314246N0345031E AT TZAFIT POWER PLANT, CLSD FM GND UP TO 2,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.72,34.83",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0616/26",
+      "icaoCode": "LLEY",
+      "description": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "validFrom": "2026-03-30T10:33:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
     }
   ],
-  "totalCount": 1558,
-  "lastUpdated": "2026-03-27T03:10:32.436Z"
+  "totalCount": 1561,
+  "lastUpdated": "2026-03-31T03:10:43.489Z"
 }
