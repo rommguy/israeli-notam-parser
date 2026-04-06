@@ -20383,8 +20383,34 @@
         "lat": 30.62,
         "lon": 35.2
       }
+    },
+    {
+      "id": "C0626/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT REIHAN. AN AREA WI 2.5NM RADIUS CENTERED ON PSN 322751N0350816E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "validFrom": "2026-04-06T05:30:00.000Z",
+      "validTo": "2026-04-06T08:00:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT REIHAN. AN AREA WI 2.5NM RADIUS CENTERED ON PSN 322751N0350816E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.13",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C0625/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1500FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-04-05T05:30:00.000Z",
+      "validTo": "2026-04-10T15:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1500FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.47",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.47
+      }
     }
   ],
-  "totalCount": 1568,
-  "lastUpdated": "2026-04-05T03:09:48.580Z"
+  "totalCount": 1570,
+  "lastUpdated": "2026-04-06T03:11:34.098Z"
 }
