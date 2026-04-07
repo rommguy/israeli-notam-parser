@@ -20409,8 +20409,34 @@
         "lat": 32.57,
         "lon": 35.47
       }
+    },
+    {
+      "id": "C0629/26",
+      "icaoCode": "LLIB",
+      "description": "E) ACFT APN A AND K CLSD DUE WIP.)",
+      "validFrom": "2026-04-12T04:00:00.000Z",
+      "validTo": "2026-07-12T15:30:00.000Z",
+      "rawText": "E) ACFT APN A AND K CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "A0288/26",
+      "icaoCode": "LLLL",
+      "description": "E) ENTRY/EXIT TEL-AVIV FIR TO/FM SOUTH VIA NALSO PROHIBITED, EXC PPR FT FM IAF.)",
+      "validFrom": "2026-04-06T11:20:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) ENTRY/EXIT TEL-AVIV FIR TO/FM SOUTH VIA NALSO PROHIBITED, EXC PPR FT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=29.57,34.93",
+      "centerPos": {
+        "lat": 29.57,
+        "lon": 34.93
+      }
     }
   ],
-  "totalCount": 1570,
-  "lastUpdated": "2026-04-06T03:11:34.098Z"
+  "totalCount": 1572,
+  "lastUpdated": "2026-04-07T03:10:20.095Z"
 }
