@@ -20435,8 +20435,21 @@
         "lat": 29.57,
         "lon": 34.93
       }
+    },
+    {
+      "id": "A0289/26",
+      "icaoCode": "LLLL",
+      "description": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, FLT TO/FM LLBG VIA NICOSIA FIR, DOM CIV FLT/ACT AND MIL FLT WITH PPR FM IAF.)",
+      "validFrom": "2026-04-08T13:27:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) TEL-AVIV FIR CLSD TO ALL FLT EXC FLW CIV ARR/DEP FLT TO/FM LLLL FIR WITH PPR FLT FM RELEVANT AD OPS CENTER, FLT TO/FM LLBG VIA NICOSIA FIR, DOM CIV FLT/ACT AND MIL FLT WITH PPR FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
     }
   ],
-  "totalCount": 1572,
-  "lastUpdated": "2026-04-07T03:10:20.095Z"
+  "totalCount": 1573,
+  "lastUpdated": "2026-04-09T03:10:09.267Z"
 }
