@@ -20448,8 +20448,307 @@
         "lat": 31.42,
         "lon": 35.35
       }
+    },
+    {
+      "id": "C0663/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-04-15T00:01:00.000Z",
+      "validTo": "2026-04-18T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.30",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C0662/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT LOD TRAIN, FM GND UP TO 40M AGL, BTN FLW PSN 315630N0345208E 315644N0345204E 315703N0345210E 315718N0345229E 315716N0345249E 315710N0345306E 315657N0345311E 315645N0345305E 315631N0345249E 315624N0345228E CTN ADZ. F) GND G) 330FT AMSL)",
+      "validFrom": "2026-04-12T00:01:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT LOD TRAIN, FM GND UP TO 40M AGL, BTN FLW PSN 315630N0345208E 315644N0345204E 315703N0345210E 315718N0345229E 315716N0345249E 315710N0345306E 315657N0345311E 315645N0345305E 315631N0345249E 315624N0345228E CTN ADZ. F) GND G) 330FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.95,34.88",
+      "centerPos": {
+        "lat": 31.95,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0660/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WI LLBS TRG AREA GIMEL1 GIMEL2 AVBL BY PPR FM IAF, IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) PJE WI LLBS TRG AREA GIMEL1 GIMEL2 AVBL BY PPR FM IAF, IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.35,34.80",
+      "centerPos": {
+        "lat": 31.35,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C0659/26",
+      "icaoCode": "LLMG",
+      "description": "E) CIRCUIT EXER AVBL WI CTR/ATZ BY PPR FM ATC. EXIT/ENTRY ATZ PROHIBITED, EXC AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL IN CASE OF EMERG OR PPR FLT FM IAF.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER AVBL WI CTR/ATZ BY PPR FM ATC. EXIT/ENTRY ATZ PROHIBITED, EXC AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL IN CASE OF EMERG OR PPR FLT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C0654/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM SYRIA BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-04-09T13:30:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM SYRIA BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=33.03,35.78",
+      "centerPos": {
+        "lat": 33.03,
+        "lon": 35.78
+      }
+    },
+    {
+      "id": "C0655/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM JORDAN BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-04-09T13:30:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM JORDAN BOUNDRAY TO 6KM WB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.40",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0656/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM EGYPT BOUNDRAY TO 3KM EB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-04-09T13:31:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM EGYPT BOUNDRAY TO 3KM EB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=30.48,34.58",
+      "centerPos": {
+        "lat": 30.48,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "C0651/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-09T13:28:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C0653/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM LEBANON BOUNDRAY TO 8KM SB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "validFrom": "2026-04-09T13:29:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM LEBANON BOUNDRAY TO 8KM SB CLSD TO ALL DOM FLT, EXC POLICE, FIREFIGHTING, MEDEVAC FLT OR UAS/UAV FLT FOR EMERG, SECURITY, MEDEVAC PURPOSES ONLY. ALL EMERG APPROVED FLT SHALL COORD WITH ATC AND MABBAH.)",
+      "mapLink": "https://www.google.com/maps?q=33.17,35.42",
+      "centerPos": {
+        "lat": 33.17,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0650/26",
+      "icaoCode": "LLBO",
+      "description": "E) PJE AND ACT WI ATZ AVBL BY PPR FM ATC.)",
+      "validFrom": "2026-04-09T11:40:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) PJE AND ACT WI ATZ AVBL BY PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,34.93",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0649/26",
+      "icaoCode": "LLBS",
+      "description": "E) CIRCUIT EXER AVBL WI CTR/ATZ BY PPR FROM KEDEM ATC. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "validFrom": "2026-04-09T09:56:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER AVBL WI CTR/ATZ BY PPR FROM KEDEM ATC. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM AIS OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0648/26",
+      "icaoCode": "LLKZ",
+      "description": "E) CTR AVBL FOR UAS/UAV FLT ONLY. EXIT/ENTRY CTR PROHIBITED, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CTR AVBL FOR UAS/UAV FLT ONLY. EXIT/ENTRY CTR PROHIBITED, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,34.45",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 34.45
+      }
+    },
+    {
+      "id": "C0647/26",
+      "icaoCode": "LLGV",
+      "description": "E) CTR AVBL FOR UAS/UAV OR AGRICULTURE FLT ONLY. EXIT/ENTRY CTR BY UAS/UAV PROHIBITED, EXC PPR FLT FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CTR AVBL FOR UAS/UAV OR AGRICULTURE FLT ONLY. EXIT/ENTRY CTR BY UAS/UAV PROHIBITED, EXC PPR FLT FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.47",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C0646/26",
+      "icaoCode": "LLEY",
+      "description": "E) ANY ACT WI CTR/ATZ AVBL. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-09T09:45:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ANY ACT WI CTR/ATZ AVBL. EXIT/ENTRY ATZ PROHIBITED, EXC PPR FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C0645/26",
+      "icaoCode": "LLLL",
+      "description": "E) KEREN-DAROM MINI UAS/UAV BUBBLE AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) KEREN-DAROM MINI UAS/UAV BUBBLE AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=30.93,34.52",
+      "centerPos": {
+        "lat": 30.93,
+        "lon": 34.52
+      }
+    },
+    {
+      "id": "C0644/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS/UAV BUBBLE ESHKOL AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) MINI UAS/UAV BUBBLE ESHKOL AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.18,34.33",
+      "centerPos": {
+        "lat": 31.18,
+        "lon": 34.33
+      }
+    },
+    {
+      "id": "C0642/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS/UAV BUBBLE CARMEL WEST EAST AND CENTER AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) MINI UAS/UAV BUBBLE CARMEL WEST EAST AND CENTER AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.02",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0643/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS/UAV BUBBLE ASHKELON AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) MINI UAS/UAV BUBBLE ASHKELON AVBL WITH COORD AND APPROVED BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.62,34.58",
+      "centerPos": {
+        "lat": 31.62,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "C0635/26",
+      "icaoCode": "LLES",
+      "description": "E) AIRSTRIP AND CTR AVBL FOR UAS/UAV ONLY. EXIT/ENTRY TO/FM UAS/UAV TRG AREA AVBL.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP AND CTR AVBL FOR UAS/UAV ONLY. EXIT/ENTRY TO/FM UAS/UAV TRG AREA AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.43,35.00",
+      "centerPos": {
+        "lat": 32.43,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0634/26",
+      "icaoCode": "LLLL",
+      "description": "E) HASHARON-DAROM ULTRALIGHT AND HEL BUBBLE AVBL, EXIT/ENTRY AVBL TO/FM LLHZ CTR ONLY, EXC PPR FLT FM IAF.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) HASHARON-DAROM ULTRALIGHT AND HEL BUBBLE AVBL, EXIT/ENTRY AVBL TO/FM LLHZ CTR ONLY, EXC PPR FLT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0633/26",
+      "icaoCode": "LLRS",
+      "description": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY AIRSTRIP PROHIBITED, EXC PPR FM IAF.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER AVBL WI CTR/ATZ ONLY. EXIT/ENTRY AIRSTRIP PROHIBITED, EXC PPR FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0632/26",
+      "icaoCode": "LLLL",
+      "description": "E) EXIT/ENTRY LLHZ TRG AREA NR 3, 8, 9, 12, 13 AVBL TO/FM LLHZ CTR ONLY.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) EXIT/ENTRY LLHZ TRG AREA NR 3, 8, 9, 12, 13 AVBL TO/FM LLHZ CTR ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.30,34.92",
+      "centerPos": {
+        "lat": 32.3,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C0631/26",
+      "icaoCode": "LLHZ",
+      "description": "E) EXIT/ENTRY CTR AVBL TO/FM LLHZ TRG AREA AND HASHARON-DAROM BUBBLE ONLY, EXC PPR FM IAF. CIRCUIT EXER WI CTR AVBL.)",
+      "validFrom": "2026-04-10T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) EXIT/ENTRY CTR AVBL TO/FM LLHZ TRG AREA AND HASHARON-DAROM BUBBLE ONLY, EXC PPR FM IAF. CIRCUIT EXER WI CTR AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
     }
   ],
-  "totalCount": 1573,
-  "lastUpdated": "2026-04-09T03:10:09.267Z"
+  "totalCount": 1596,
+  "lastUpdated": "2026-04-10T03:11:45.831Z"
 }
