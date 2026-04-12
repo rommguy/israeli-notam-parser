@@ -20747,8 +20747,21 @@
         "lat": 32.18,
         "lon": 34.83
       }
+    },
+    {
+      "id": "C0664/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-04-12T04:30:00.000Z",
+      "validTo": "2026-04-17T15:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.47",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.47
+      }
     }
   ],
-  "totalCount": 1596,
-  "lastUpdated": "2026-04-10T03:11:45.831Z"
+  "totalCount": 1597,
+  "lastUpdated": "2026-04-12T03:10:59.019Z"
 }
