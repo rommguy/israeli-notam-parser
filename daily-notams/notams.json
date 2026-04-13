@@ -20760,8 +20760,385 @@
         "lat": 32.57,
         "lon": 35.47
       }
+    },
+    {
+      "id": "C0699/26",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF FLT FM EGYPT BOUNDRAY TO 6KM WB REQUIRES TRANSPONDER OPERATING DRG ALL THE FLT AND MAINTANING TWO WAY RADIO COM WITH ATC.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) OPS OF FLT FM EGYPT BOUNDRAY TO 6KM WB REQUIRES TRANSPONDER OPERATING DRG ALL THE FLT AND MAINTANING TWO WAY RADIO COM WITH ATC.)",
+      "mapLink": "https://www.google.com/maps?q=30.48,34.58",
+      "centerPos": {
+        "lat": 30.48,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "C0695/26",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF FLT FM JORDAN BOUNDRAY TO 6KM WB REQUIRES TRANSPONDER OPERATING DRG ALL THE FLT AND MAINTANING TWO WAY RADIO COM WITH ATC.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) OPS OF FLT FM JORDAN BOUNDRAY TO 6KM WB REQUIRES TRANSPONDER OPERATING DRG ALL THE FLT AND MAINTANING TWO WAY RADIO COM WITH ATC.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.40",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0693/26",
+      "icaoCode": "LLBO",
+      "description": "E) AIRSTRIP/ATZ AVBL FOR PJE ONLY.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP/ATZ AVBL FOR PJE ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,34.93",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0691/26",
+      "icaoCode": "LLMG",
+      "description": "E) CIRCUIT EXER OR GLD ACT AVBL WI CTR/ATZ ONLY EXIT/ENTRY ATZ PROHIBITED, EXC PPR FLT FM IAF. RESTRICTIONS ARE NOT IMPLEMENTED ON AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER OR GLD ACT AVBL WI CTR/ATZ ONLY EXIT/ENTRY ATZ PROHIBITED, EXC PPR FLT FM IAF. RESTRICTIONS ARE NOT IMPLEMENTED ON AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C0689/26",
+      "icaoCode": "LLBS",
+      "description": "E) GLD ACT AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL WI CTR/ATZ ONLY. EXIT/ENTRY ATZ PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0686/26",
+      "icaoCode": "LLGV",
+      "description": "E) CTR AVBL FOR UAS/UAV OR AGRICULTURE FLT ONLY.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) CTR AVBL FOR UAS/UAV OR AGRICULTURE FLT ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.22,34.47",
+      "centerPos": {
+        "lat": 31.22,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C0680/26",
+      "icaoCode": "LLES",
+      "description": "E) AIRSTRIP AND CTR AVBL FOR UAS/UAV ONLY. EXIT TO UAS/UAV TRG AREA PROHIBITED.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP AND CTR AVBL FOR UAS/UAV ONLY. EXIT TO UAS/UAV TRG AREA PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=32.43,35.00",
+      "centerPos": {
+        "lat": 32.43,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C0674/26",
+      "icaoCode": "LLLL",
+      "description": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB. RETURN TO ULTRALIGHT FREQ AVBL AFTER REC READ-BACK FM PLUTO CTL.)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) TFC ALONG ULTRLIGHT RTE LLRS-TYONA-SHORELINE-SHFAM-HASHARON DAROM BUBBLE, PILOT SHALL CONTACT PLUTO CTL FOR IDENT AT TYONA WHEN FLYING NB, AND AT SHFAM WHEN FLYING SB. RETURN TO ULTRALIGHT FREQ AVBL AFTER REC READ-BACK FM PLUTO CTL.)",
+      "mapLink": "https://www.google.com/maps?q=32.10,34.77",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C0673/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD ZVULUN-TZAFON (BZVUE), ZVULUN-DAROM (BZVUL).)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD ZVULUN-TZAFON (BZVUE), ZVULUN-DAROM (BZVUL).)",
+      "mapLink": "https://www.google.com/maps?q=32.90,35.12",
+      "centerPos": {
+        "lat": 32.9,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C0672/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD MEGIDO-A-WEST (BMGWA), MEGIDO-B-WEST (BMGWB).)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD MEGIDO-A-WEST (BMGWA), MEGIDO-B-WEST (BMGWB).)",
+      "mapLink": "https://www.google.com/maps?q=32.67,35.40",
+      "centerPos": {
+        "lat": 32.67,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0671/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD YERUHAM (BYERU), FARAN (BFRAN), CHARIF (BHARF), TZNIFIM (BZNIF), SHITIM (BSTIM), ZOHAR (BZHAR), SHIVTA (BSVTA), KTZIOTH (BKZOT).)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD YERUHAM (BYERU), FARAN (BFRAN), CHARIF (BHARF), TZNIFIM (BZNIF), SHITIM (BSTIM), ZOHAR (BZHAR), SHIVTA (BSVTA), KTZIOTH (BKZOT).)",
+      "mapLink": "https://www.google.com/maps?q=30.65,34.80",
+      "centerPos": {
+        "lat": 30.65,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C0670/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI), GOVRIN-TZAFON (BGOVN), GOVRIN-DAROM (BGOVS), NITZANIM (BNZNI), SHDROT-TZAFON (BDRTN), SHDROT-DAROM (BDRTS), LEHAVIM (BLHAV), BEER-SHEVA (BSHEV), MEYTAR (BMTAR).)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI), GOVRIN-TZAFON (BGOVN), GOVRIN-DAROM (BGOVS), NITZANIM (BNZNI), SHDROT-TZAFON (BDRTN), SHDROT-DAROM (BDRTS), LEHAVIM (BLHAV), BEER-SHEVA (BSHEV), MEYTAR (BMTAR).)",
+      "mapLink": "https://www.google.com/maps?q=31.73,35.15",
+      "centerPos": {
+        "lat": 31.73,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C0669/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA), MEGIDO-B-EAST (BMGEB).)",
+      "validFrom": "2026-04-13T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA), MEGIDO-B-EAST (BMGEB).)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.32",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "A0314/26",
+      "icaoCode": "LLLL",
+      "description": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "validFrom": "2026-04-13T04:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=30.88,35.27",
+      "centerPos": {
+        "lat": 30.88,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A0313/26",
+      "icaoCode": "LLER",
+      "description": "E) OPS OF COMMERCIAL AND MIL FLT WITH PPR FM AD OPS CENTER.)",
+      "validFrom": "2026-04-13T04:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) OPS OF COMMERCIAL AND MIL FLT WITH PPR FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0311/26",
+      "icaoCode": "LLLL",
+      "description": "E) ENTRY/EXIT TEL-AVIV FIR TO/FM SOUTH VIA NALSO PROHIBITED, EXC PPR FT FM IAF.)",
+      "validFrom": "2026-04-12T12:15:00.000Z",
+      "validTo": "2026-04-13T03:59:00.000Z",
+      "rawText": "E) ENTRY/EXIT TEL-AVIV FIR TO/FM SOUTH VIA NALSO PROHIBITED, EXC PPR FT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=29.57,34.93",
+      "centerPos": {
+        "lat": 29.57,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "A0312/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT AVBL VIA SID SUVAS SALAM OR TOMAL ONLY. SID DAFNA MERVA NOT AVBL.)",
+      "validFrom": "2026-04-13T04:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) DEP PPR FLT AVBL VIA SID SUVAS SALAM OR TOMAL ONLY. SID DAFNA MERVA NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0307/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT AVBL VIA SID SUVAS OR SALAM ONLY. SID DAFNA MERVA TOMAL NOT AVBL.)",
+      "validFrom": "2026-04-12T12:12:00.000Z",
+      "validTo": "2026-04-13T03:59:00.000Z",
+      "rawText": "E) DEP PPR FLT AVBL VIA SID SUVAS OR SALAM ONLY. SID DAFNA MERVA TOMAL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0308/26",
+      "icaoCode": "LLBG",
+      "description": "E) ARR PPR FLT AVBL VIA NICOSIA FIR OR STAR SALAM ONLY. STAR AMMIT NOT AVBL.)",
+      "validFrom": "2026-04-12T12:13:00.000Z",
+      "validTo": "2026-04-13T03:59:00.000Z",
+      "rawText": "E) ARR PPR FLT AVBL VIA NICOSIA FIR OR STAR SALAM ONLY. STAR AMMIT NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0309/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "validFrom": "2026-04-12T12:14:00.000Z",
+      "validTo": "2026-04-13T03:59:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC MEDEVAC FLT OR PPR FLT FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0310/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "validFrom": "2026-04-12T12:14:00.000Z",
+      "validTo": "2026-04-13T03:59:00.000Z",
+      "rawText": "E) ATS RTE J10 CLSD BTN NALSO-TOMAL.)",
+      "mapLink": "https://www.google.com/maps?q=30.63,35.18",
+      "centerPos": {
+        "lat": 30.63,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "A0306/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J14 BTN NAT-BARZI. J15 BTN NAT-ATLIT. P68 BTN GALIM-MERVA. Q17 BTN ZACCI-ZAHAV. Q28 BTN ATLIT-GALIM.)",
+      "validFrom": "2026-04-12T12:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE CLSD J14 BTN NAT-BARZI. J15 BTN NAT-ATLIT. P68 BTN GALIM-MERVA. Q17 BTN ZACCI-ZAHAV. Q28 BTN ATLIT-GALIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.75,35.05",
+      "centerPos": {
+        "lat": 32.75,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0305/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-04-12T12:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.83",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0300/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-04-12T07:12:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0301/26",
+      "icaoCode": "LLBG",
+      "description": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-04-12T07:12:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) NIGHT RESTRICTIONS BTN 0140-0530LMT (2340-0330UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0302/26",
+      "icaoCode": "LLBG",
+      "description": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "validFrom": "2026-04-12T07:13:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0303/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-12T07:13:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0295/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-16T07:00:00.000Z",
+      "validTo": "2026-04-16T10:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C0665/26",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2026-04-12T05:00:00.000Z",
+      "validTo": "2026-04-30T15:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 1597,
-  "lastUpdated": "2026-04-12T03:10:59.019Z"
+  "totalCount": 1626,
+  "lastUpdated": "2026-04-13T03:13:08.024Z"
 }
