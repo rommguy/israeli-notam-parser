@@ -21137,8 +21137,164 @@
         "lat": 31.08,
         "lon": 34.9
       }
+    },
+    {
+      "id": "C0709/26",
+      "icaoCode": "LLLL",
+      "description": "E) GAS EMISSION WILL TAKE PLACE AT ENERGY-JUNCTION POWER PLANT. AN AREA WI 1KM RADIUS CENTERED ON PSN 313745.3N0344433.7E CLSD FM GND UP TO 1,000FT AMSL. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-04-19T04:00:00.000Z",
+      "validTo": "2026-04-19T09:00:00.000Z",
+      "rawText": "E) GAS EMISSION WILL TAKE PLACE AT ENERGY-JUNCTION POWER PLANT. AN AREA WI 1KM RADIUS CENTERED ON PSN 313745.3N0344433.7E CLSD FM GND UP TO 1,000FT AMSL. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.75",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0708/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GAZA-STRIP BTN FLW PSN CLSD TO ALL FLT, EXC PPR FLT FM IAF OR AGRICULTURE FLT, EMERG, MEDEVAC HEL 310714N0341759E 310818N0343709E 310550N0344003E 310818N0344800E 311316N0344737E 311900N0344023E 312552N0344447E 313452N0344528E 313649N0344411E 313923N0343600E 314259N0343316E 315055N0343648E 315113N0343244E 315551N0343443E 315601N0340959E 315145N0340414E 314613N0340054E 311927N0341305E. OPS FLT FM GAZA-STRIP BOUNDRAY TO 6KM OUTWARD CLSD TO ALL FLT, EXC FLT WITH PPR FM IAF AND CAAI AND ENTRY APPROVAL FM IDF BY PHONE NR 08-9115730. CTN ADZ.)",
+      "validFrom": "2026-04-13T14:53:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA AT GAZA-STRIP BTN FLW PSN CLSD TO ALL FLT, EXC PPR FLT FM IAF OR AGRICULTURE FLT, EMERG, MEDEVAC HEL 310714N0341759E 310818N0343709E 310550N0344003E 310818N0344800E 311316N0344737E 311900N0344023E 312552N0344447E 313452N0344528E 313649N0344411E 313923N0343600E 314259N0343316E 315055N0343648E 315113N0343244E 315551N0343443E 315601N0340959E 315145N0340414E 314613N0340054E 311927N0341305E. OPS FLT FM GAZA-STRIP BOUNDRAY TO 6KM OUTWARD CLSD TO ALL FLT, EXC FLT WITH PPR FM IAF AND CAAI AND ENTRY APPROVAL FM IDF BY PHONE NR 08-9115730. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.53,34.48",
+      "centerPos": {
+        "lat": 31.53,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "A0320/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-15T06:00:00.000Z",
+      "validTo": "2026-04-15T09:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0319/26",
+      "icaoCode": "LLBG",
+      "description": "E) LOC RWY 08 C/S BC FREQ 110.900MHZ WITHDRAWN DUE WIP.)",
+      "validFrom": "2026-04-15T05:00:00.000Z",
+      "validTo": "2026-04-15T09:00:00.000Z",
+      "rawText": "E) LOC RWY 08 C/S BC FREQ 110.900MHZ WITHDRAWN DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0318/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-14T06:00:00.000Z",
+      "validTo": "2026-04-14T10:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0317/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-04-14T06:00:00.000Z",
+      "validTo": "2026-04-14T08:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0707/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-04-19T04:30:00.000Z",
+      "validTo": "2026-04-24T15:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.47",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.47
+      }
+    },
+    {
+      "id": "C0706/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA CLSD. NO RESTRICTIONS FOR OPS FLT WI LLMZ AIRSTRIP. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-04-13T12:02:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA CLSD. NO RESTRICTIONS FOR OPS FLT WI LLMZ AIRSTRIP. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0704/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD KTORA-SIZFN-ZZHOR. BSVTA-AMIOZ. ZELIM-NBSOR-NASIH. NEGEV-YRUHM-DIMON-HATRU. DIMON-ETZEM.)",
+      "validFrom": "2026-04-13T08:17:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD KTORA-SIZFN-ZZHOR. BSVTA-AMIOZ. ZELIM-NBSOR-NASIH. NEGEV-YRUHM-DIMON-HATRU. DIMON-ETZEM.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.82",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.82
+      }
+    },
+    {
+      "id": "C0703/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD LLMZ-ZUKIM-ALMOG-DUMIM-ALLON-FAZEL-TIRAT-MRHVA. MACHZ-ZPLGT-NITZA-ZASHD-LLRS. LLRS-TYONA-SHFAM-DOORS. TYONA-SHEFC-SOREK-MEHOL. FRDIS-CNHRL. FRDIS-BTSLM-ELYKM. NCSHN-NSHRM. ZPLGT-GOVRN-ZHRYA.)",
+      "validFrom": "2026-04-13T07:52:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD LLMZ-ZUKIM-ALMOG-DUMIM-ALLON-FAZEL-TIRAT-MRHVA. MACHZ-ZPLGT-NITZA-ZASHD-LLRS. LLRS-TYONA-SHFAM-DOORS. TYONA-SHEFC-SOREK-MEHOL. FRDIS-CNHRL. FRDIS-BTSLM-ELYKM. NCSHN-NSHRM. ZPLGT-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.18",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C0701/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. HADRA-EIRON-ZMGID-TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "validFrom": "2026-04-13T07:20:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. HADRA-EIRON-ZMGID-TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.33",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C0700/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC EMERG FLT, OIL RIG FLT, MEDEVAC HEL, OR PPR FLT FM IAF.)",
+      "validFrom": "2026-04-13T05:17:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC EMERG FLT, OIL RIG FLT, MEDEVAC HEL, OR PPR FLT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,34.98",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 34.98
+      }
     }
   ],
-  "totalCount": 1626,
-  "lastUpdated": "2026-04-13T03:13:08.024Z"
+  "totalCount": 1638,
+  "lastUpdated": "2026-04-14T03:11:04.742Z"
 }
