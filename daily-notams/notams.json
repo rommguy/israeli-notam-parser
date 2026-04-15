@@ -21293,8 +21293,99 @@
         "lat": 32.92,
         "lon": 34.98
       }
+    },
+    {
+      "id": "A0326/26",
+      "icaoCode": "LLNV",
+      "description": "E) TWY Z LOCATED S OF RWY 07/25, MARKED AND LIT AS RWY, AVBL FOR TWY, LDG/TKOFF ON TWY Z AVBL BY ATC ONLY. DIRECTIONS 06/24. CTN ADZ.)",
+      "validFrom": "2026-04-14T14:50:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) TWY Z LOCATED S OF RWY 07/25, MARKED AND LIT AS RWY, AVBL FOR TWY, LDG/TKOFF ON TWY Z AVBL BY ATC ONLY. DIRECTIONS 06/24. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.20,35.03",
+      "centerPos": {
+        "lat": 31.2,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C0710/26",
+      "icaoCode": "LLLL",
+      "description": "E) CRANE ERECTED AT DEAD-SEA FACTORIES, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 310228N0352228E CLSD FM GND UP TO 132M AGL, 10FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-04-14T14:36:00.000Z",
+      "validTo": "2026-04-25T20:59:00.000Z",
+      "rawText": "E) CRANE ERECTED AT DEAD-SEA FACTORIES, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 310228N0352228E CLSD FM GND UP TO 132M AGL, 10FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.03,35.37",
+      "centerPos": {
+        "lat": 31.03,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "A0325/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-04-14T11:30:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.83",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0324/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "validFrom": "2026-04-15T07:00:00.000Z",
+      "validTo": "2029-04-15T03:10:59.000Z",
+      "rawText": "E) ATS RTE W13 AVBL H24 BTN TAPUZ-JILET-DAFNA BTN 12,000FT-FL325. AND BTN TAPUZ-JILET-DAFNA CDR1 BTN FL330-FL600, AS FLW SUN 2100(2000) - MON 0500(0400) MON 2100(2000) - TUE 0500(0400) TUE 2100(2000) - WED 0500(0400) WED 2100(2000) - THU 0500(0400) THU 1500(1400) - SUN 0600(0500) HOL-1 1500(1400) - HOL+1 0600(0500) TIME IN BRACKETS ARE SUMMER SAVING, ALL TIMES UTC. ISRAEL AIP, PART ENR 3.1, PAGE ENR 3.1-30, CHART ENR 6-1 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "A0323/26",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2026-04-15T07:00:00.000Z",
+      "validTo": "2029-04-15T03:10:59.849Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB VIA SID DAFNA, WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0321/26",
+      "icaoCode": "LLBG",
+      "description": "E) DEP PPR FLT AVBL VIA SID SUVAS SALAM OR TOMAL ONLY. SID DAFNA MERVA NOT AVBL.)",
+      "validFrom": "2026-04-14T11:23:00.000Z",
+      "validTo": "2026-04-15T07:00:00.000Z",
+      "rawText": "E) DEP PPR FLT AVBL VIA SID SUVAS SALAM OR TOMAL ONLY. SID DAFNA MERVA NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0322/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "validFrom": "2026-04-14T11:23:00.000Z",
+      "validTo": "2026-04-15T07:00:00.000Z",
+      "rawText": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
     }
   ],
-  "totalCount": 1638,
-  "lastUpdated": "2026-04-14T03:11:04.742Z"
+  "totalCount": 1645,
+  "lastUpdated": "2026-04-15T03:11:01.481Z"
 }
