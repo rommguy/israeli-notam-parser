@@ -21384,8 +21384,255 @@
         "lat": 32.28,
         "lon": 34.38
       }
+    },
+    {
+      "id": "C0731/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC LLMG, LLMG SOUTH TRG AREA, MOLEDETH AREA, RTE BTN HADRA-LLMG, CVFR RTE EITAN-AFULA, EMERG FLT, OIL RIG FLT, MEDEVAC HEL OR PPR FM IAF AND CAAI FOR FLT N OF LINE HOTRM-HASID-MOVIL-ALUMT, AND PPR FLT FM IAF FOR FLT S OF THE LINE. CTN ADZ.)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC LLMG, LLMG SOUTH TRG AREA, MOLEDETH AREA, RTE BTN HADRA-LLMG, CVFR RTE EITAN-AFULA, EMERG FLT, OIL RIG FLT, MEDEVAC HEL OR PPR FM IAF AND CAAI FOR FLT N OF LINE HOTRM-HASID-MOVIL-ALUMT, AND PPR FLT FM IAF FOR FLT S OF THE LINE. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,34.98",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0730/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC EMERG FLT, OIL RIG FLT, MEDEVAC HEL, OR PPR FLT FM IAF.)",
+      "validFrom": "2026-04-15T14:51:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) AN AREA FM HADERA-LINE NB CLSD TO ALL DOM FLT, EXC EMERG FLT, OIL RIG FLT, MEDEVAC HEL, OR PPR FLT FM IAF.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,34.98",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0729/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WI METZADA AIRSPACE AVBL BY PPR FM SOUTH-ACC AND IAF. OPS OF PJE WITH PPR FM ATC BFR TKOF AND BFR START JUMPING. POSS RESTRICTION IN REAL TIME. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) PJE WI METZADA AIRSPACE AVBL BY PPR FM SOUTH-ACC AND IAF. OPS OF PJE WITH PPR FM ATC BFR TKOF AND BFR START JUMPING. POSS RESTRICTION IN REAL TIME. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0728/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA CLSD. NO RESTRICTIONS FOR OPS FLT WI LLMZ AIRSTRIP. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-04-15T14:27:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA CLSD. NO RESTRICTIONS FOR OPS FLT WI LLMZ AIRSTRIP. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0727/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) A-EAST (BMGEA) CLSD.)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) A-EAST (BMGEA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.42",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0726/26",
+      "icaoCode": "LLMG",
+      "description": "E) GLD ACT AVBL WI CTR/ATZ ONLY.)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL WI CTR/ATZ ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C0725/26",
+      "icaoCode": "LLMG",
+      "description": "E) CIRCUIT EXER OR GLD ACT AVBL WI CTR/ATZ ONLY EXIT/ENTRY ATZ PROHIBITED, EXC PPR FLT FM IAF. RESTRICTIONS ARE NOT IMPLEMENTED ON AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL.)",
+      "validFrom": "2026-04-15T14:05:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) CIRCUIT EXER OR GLD ACT AVBL WI CTR/ATZ ONLY EXIT/ENTRY ATZ PROHIBITED, EXC PPR FLT FM IAF. RESTRICTIONS ARE NOT IMPLEMENTED ON AGRICULTURE FLT, FIREFIGHTING ACFT OR MEDEVAC HEL.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C0724/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AVBL UP TO 1,000FT AMSL, SHDEROT SOUTH (BDRTS) AVBL E OF ROAD NR 34 AND NE OF ROAD NR 25 UP TO 1,000FT AMSL AND CLSD W OF ROAD NR 34 AND SW OF ROAD NR 25. CTN ADZ.)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AVBL UP TO 1,000FT AMSL, SHDEROT SOUTH (BDRTS) AVBL E OF ROAD NR 34 AND NE OF ROAD NR 25 UP TO 1,000FT AMSL AND CLSD W OF ROAD NR 34 AND SW OF ROAD NR 25. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.52,34.60",
+      "centerPos": {
+        "lat": 31.52,
+        "lon": 34.6
+      }
+    },
+    {
+      "id": "C0721/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD CHARIF (BHARF), TZNIFIM (BZNIF).)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD CHARIF (BHARF), TZNIFIM (BZNIF).)",
+      "mapLink": "https://www.google.com/maps?q=30.33,34.83",
+      "centerPos": {
+        "lat": 30.33,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0720/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD YERUHAM (BYERU), FARAN (BFRAN), CHARIF (BHARF), TZNIFIM (BZNIF), SHITIM (BSTIM), ZOHAR (BZHAR), SHIVTA (BSVTA), KTZIOTH (BKZOT).)",
+      "validFrom": "2026-04-15T13:22:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD YERUHAM (BYERU), FARAN (BFRAN), CHARIF (BHARF), TZNIFIM (BZNIF), SHITIM (BSTIM), ZOHAR (BZHAR), SHIVTA (BSVTA), KTZIOTH (BKZOT).)",
+      "mapLink": "https://www.google.com/maps?q=30.65,34.80",
+      "centerPos": {
+        "lat": 30.65,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C0719/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), NITZANIM (BNZNI), LEHAVIM (BLHAV).)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), NITZANIM (BNZNI), LEHAVIM (BLHAV).)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.17",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C0718/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI), GOVRIN-TZAFON (BGOVN), GOVRIN-DAROM (BGOVS), NITZANIM (BNZNI), SHDROT-TZAFON (BDRTN), SHDROT-DAROM (BDRTS), LEHAVIM (BLHAV), BEER-SHEVA (BSHEV), MEYTAR (BMTAR).)",
+      "validFrom": "2026-04-15T13:01:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD NAAMA (BNAMM), ALMOG (BLMOG), SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI), GOVRIN-TZAFON (BGOVN), GOVRIN-DAROM (BGOVS), NITZANIM (BNZNI), SHDROT-TZAFON (BDRTN), SHDROT-DAROM (BDRTS), LEHAVIM (BLHAV), BEER-SHEVA (BSHEV), MEYTAR (BMTAR).)",
+      "mapLink": "https://www.google.com/maps?q=31.73,35.15",
+      "centerPos": {
+        "lat": 31.73,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C0716/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD MEGIDO-A-WEST (BMGWA), MEGIDO-B-WEST (BMGWB).)",
+      "validFrom": "2026-04-15T12:52:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD MEGIDO-A-WEST (BMGWA), MEGIDO-B-WEST (BMGWB).)",
+      "mapLink": "https://www.google.com/maps?q=32.67,35.40",
+      "centerPos": {
+        "lat": 32.67,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0715/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA).)",
+      "validFrom": "2026-04-16T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA).)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.32",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C0714/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA), MEGIDO-B-EAST (BMGEB).)",
+      "validFrom": "2026-04-15T12:44:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), BET-OREN (BOORN), HASHARON-TZAFON (BSARN), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA), MEGIDO-B-EAST (BMGEB).)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.32",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C0713/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "validFrom": "2026-04-17T03:00:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.33",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C0712/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. HADRA-EIRON-ZMGID-TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "validFrom": "2026-04-15T12:02:00.000Z",
+      "validTo": "2026-04-15T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD HADRA-BOREN-DARON. HADRA-EIRON-ZMGID-TAVOR-ZGLNI. AHIUD-EVLYM-MOVIL-MIGDL-DESHE-ZAMID. GILAM-EVLYM. ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS. ULTRALIGHT WEEKEND RTE CLSD BOREN-HASID. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.33",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "A0327/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 14 MAY 2026.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 14 MAY 2026.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C0711/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 14 MAY 2026.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 14 MAY 2026.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
     }
   ],
-  "totalCount": 1645,
-  "lastUpdated": "2026-04-15T03:11:01.481Z"
+  "totalCount": 1664,
+  "lastUpdated": "2026-04-16T03:11:42.738Z"
 }
