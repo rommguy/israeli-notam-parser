@@ -21631,8 +21631,73 @@
         "lat": 32.18,
         "lon": 35.25
       }
+    },
+    {
+      "id": "C0737/26",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC HEL. OPS OF HEL BY PPR FM AIRSTRIP OPR ONLY.)",
+      "validFrom": "2026-04-22T02:40:00.000Z",
+      "validTo": "2026-04-22T16:40:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC HEL. OPS OF HEL BY PPR FM AIRSTRIP OPR ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0736/26",
+      "icaoCode": "LLHZ",
+      "description": "E) TRIGGER NOTAM - DOM AIP SUP 01/26 WEF 14 MAY 2026. NEW AD HOTSPOT CHART.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - DOM AIP SUP 01/26 WEF 14 MAY 2026. NEW AD HOTSPOT CHART.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0330/26",
+      "icaoCode": "LLHA",
+      "description": "E) TRIGGER NOTAM - AIP SUP 02/26 WEF 14 MAY 2026. OPS OF APN N FOR SKED COMMERCIAL FLT.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIP SUP 02/26 WEF 14 MAY 2026. OPS OF APN N FOR SKED COMMERCIAL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0329/26",
+      "icaoCode": "LLER",
+      "description": "E) TRIGGER NOTAM - AIP SUP 03/26 WEF 14 MAY 2026. NEW ADDITIONAL MARKING ADDED AT ACFT STAND U1A, U4A.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIP SUP 03/26 WEF 14 MAY 2026. NEW ADDITIONAL MARKING ADDED AT ACFT STAND U1A, U4A.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0328/26",
+      "icaoCode": "LLBG",
+      "description": "E) TRIGGER NOTAM - AIP SUP 04/26 WEF 14 MAY 2026. NEW PSN FOR ACFT STAND ON TERMINAL 3 APN B.)",
+      "validFrom": "2026-05-14T00:01:00.000Z",
+      "validTo": "2026-05-27T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIP SUP 04/26 WEF 14 MAY 2026. NEW PSN FOR ACFT STAND ON TERMINAL 3 APN B.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1664,
-  "lastUpdated": "2026-04-16T03:11:42.738Z"
+  "totalCount": 1669,
+  "lastUpdated": "2026-04-17T03:11:20.213Z"
 }
