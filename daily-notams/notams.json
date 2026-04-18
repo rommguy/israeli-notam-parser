@@ -21696,8 +21696,99 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C0746/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD BET-GOVRIN NORTH (BGOVN), BET-GOVRIN SOUTH (BGOVS).)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD BET-GOVRIN NORTH (BGOVN), BET-GOVRIN SOUTH (BGOVS).)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0745/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD ZHRYA-BSEMS-ESTOL-SHARG. MKGAT-NAHLA-NAHEM-GEFFN-MICHA-ZHRYA. NAHEM-MICHA. NCSHN-LTRUN.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD ZHRYA-BSEMS-ESTOL-SHARG. MKGAT-NAHLA-NAHEM-GEFFN-MICHA-ZHRYA. NAHEM-MICHA. NCSHN-LTRUN.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0744/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD NOAAM-GOVRN-ZHRYA-BSEMS-ESTOL-SHARG. MKGAT-NAHLA-NAHEM-GEFFN-ZHRYA. SORES-ESTOL-LTRUN. BSEMS-NCSHN-LTRUN.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD NOAAM-GOVRN-ZHRYA-BSEMS-ESTOL-SHARG. MKGAT-NAHLA-NAHEM-GEFFN-ZHRYA. SORES-ESTOL-LTRUN. BSEMS-NCSHN-LTRUN.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0743/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA-BSEMS-ESTOL-SORES. ESTOL-LTRUN. BSEMS-LTRUN.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA-BSEMS-ESTOL-SORES. ESTOL-LTRUN. BSEMS-LTRUN.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.93",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0740/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-MEYAL. HEL RTE CLSD SHARG-HORON-MACAB.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-MEYAL. HEL RTE CLSD SHARG-HORON-MACAB.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.98",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0739/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES. SORES-HAREL-HNINA-ANATA-DUMIM. ANATA-MIHMS. HEL RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES. SORES-HAREL-HNINA-DUMIM. ULTRALIGHT RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG. SHARG-SORES-TZUBA-KENED-HOMMA-DUMIM. HOMMA-MRSBA. BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM. NTAIM-MNSZN. NSHRM-SHLVM-REUTE.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES. SORES-HAREL-HNINA-ANATA-DUMIM. ANATA-MIHMS. HEL RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES. SORES-HAREL-HNINA-DUMIM. ULTRALIGHT RTE CLSD NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG. SHARG-SORES-TZUBA-KENED-HOMMA-DUMIM. HOMMA-MRSBA. BOVED-IANES-SIRNI. SIRNI-MNSZN-RSNIM. NTAIM-MNSZN. NSHRM-SHLVM-REUTE.)",
+      "mapLink": "https://www.google.com/maps?q=31.87,35.05",
+      "centerPos": {
+        "lat": 31.87,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0738/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN FM GND UP TO 6,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 315400N0345600E 315400N0351000E 313000N0351300E 313800N0345200E. CTN ADZ.)",
+      "validFrom": "2026-04-19T06:30:00.000Z",
+      "validTo": "2026-04-19T07:30:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN FM GND UP TO 6,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 315400N0345600E 315400N0351000E 313000N0351300E 313800N0345200E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,35.08",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 35.08
+      }
     }
   ],
-  "totalCount": 1669,
-  "lastUpdated": "2026-04-17T03:11:20.213Z"
+  "totalCount": 1676,
+  "lastUpdated": "2026-04-18T03:09:42.449Z"
 }
