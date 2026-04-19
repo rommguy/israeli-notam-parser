@@ -21787,8 +21787,47 @@
         "lat": 31.7,
         "lon": 35.08
       }
+    },
+    {
+      "id": "A0332/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD AVBL FOR ACFT WHOSE HOME BASE IS LLHA ONLY, BY PPR FM AD OPS CENTER. EXIT/ENTRY AVBL VIA CVFR RTE GALIM-DAROM ONLY.)",
+      "validFrom": "2026-04-19T05:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) AD AVBL FOR ACFT WHOSE HOME BASE IS LLHA ONLY, BY PPR FM AD OPS CENTER. EXIT/ENTRY AVBL VIA CVFR RTE GALIM-DAROM ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0331/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "validFrom": "2026-04-18T17:51:00.000Z",
+      "validTo": "2026-04-19T04:59:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXC PPR FM NOTAM OFFICE.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C0747/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD LLMZ-ZUKIM-ALMOG-DUMIM-ALLON-FAZEL-TIRAT-MRHVA. MACHZ-ZPLGT-NITZA-ZASHD-LLRS. TYONA-SHFAM-DOORS. TYONA-SHEFC-SOREK-MEHOL. FRDIS-CNHRL. FRDIS-BTSLM-ELYKM. NCSHN-NSHRM. ZPLGT-GOVRN-ZHRYA.)",
+      "validFrom": "2026-04-18T06:56:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD LLMZ-ZUKIM-ALMOG-DUMIM-ALLON-FAZEL-TIRAT-MRHVA. MACHZ-ZPLGT-NITZA-ZASHD-LLRS. TYONA-SHFAM-DOORS. TYONA-SHEFC-SOREK-MEHOL. FRDIS-CNHRL. FRDIS-BTSLM-ELYKM. NCSHN-NSHRM. ZPLGT-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.18",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.18
+      }
     }
   ],
-  "totalCount": 1676,
-  "lastUpdated": "2026-04-18T03:09:42.449Z"
+  "totalCount": 1679,
+  "lastUpdated": "2026-04-19T03:11:07.858Z"
 }
