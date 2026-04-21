@@ -22164,8 +22164,281 @@
         "lat": 32.65,
         "lon": 34.95
       }
+    },
+    {
+      "id": "C0802/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-MEYAL.)",
+      "validFrom": "2026-04-22T05:00:00.000Z",
+      "validTo": "2026-04-22T05:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SHARG-HORON-REUTE-LAPID-MCZVA-SSOMR-YARHV-MEYAL.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.98",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0801/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SHFAM-SHORELINE-TYONA. HEL RTE CLSD VINGT-SFAIM-SHORELINE-RIDNG-TYONA. RIDNG-EGLIL. CLORE-LIAAD-SFAIM. SUVAS-SFAIM-KONFO. DAFNA-SFAIM-MERVA.)",
+      "validFrom": "2026-04-22T03:15:00.000Z",
+      "validTo": "2026-04-22T05:15:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SHFAM-SHORELINE-TYONA. HEL RTE CLSD VINGT-SFAIM-SHORELINE-RIDNG-TYONA. RIDNG-EGLIL. CLORE-LIAAD-SFAIM. SUVAS-SFAIM-KONFO. DAFNA-SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.78",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C0800/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLYPAST HASHARON-DAROM (BSARS). CTN ADZ.)",
+      "validFrom": "2026-04-22T03:15:00.000Z",
+      "validTo": "2026-04-22T09:45:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLYPAST HASHARON-DAROM (BSARS). CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0799/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST RIDNG-ROKCH-PARDS-GNYAM. HEL RTE CLSD RIDNG-ROKCH-PARDS-MORSA. RIDNG-EGLIL-MORSA-YARKN-KESEM. YARKN-RAMTN.)",
+      "validFrom": "2026-04-22T03:15:00.000Z",
+      "validTo": "2026-04-22T09:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST RIDNG-ROKCH-PARDS-GNYAM. HEL RTE CLSD RIDNG-ROKCH-PARDS-MORSA. RIDNG-EGLIL-MORSA-YARKN-KESEM. YARKN-RAMTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.12,34.83",
+      "centerPos": {
+        "lat": 32.12,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0798/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST TYONA-SHORELINE-CLORE-RIDNG-HTZUK. ROKCH-RIDNG. ULTRALIGHT RTE CLSD SHFAM-TYONA-SUPER. HEL RTE CLSD TYONA-SHORELINE-RIDNG-HTZUK. RIDNG-EGLIL. CLORE-LIAAD.)",
+      "validFrom": "2026-04-22T08:45:00.000Z",
+      "validTo": "2026-04-22T09:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST TYONA-SHORELINE-CLORE-RIDNG-HTZUK. ROKCH-RIDNG. ULTRALIGHT RTE CLSD SHFAM-TYONA-SUPER. HEL RTE CLSD TYONA-SHORELINE-RIDNG-HTZUK. RIDNG-EGLIL. CLORE-LIAAD.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.75",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0797/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SORES-SHARG-AYLON-NSHRM-NTAIM-SUPER-TYONA-CLORE. SOREST-ESTOL. BOVED-NTAIM-MRISN. ULTRALIGHT RTE CLSD SHARG-AYLON-NSHRM-SIRNI-MNSZN-RSNIM-IKKEA-SUPER-TYONA. LLRS-SOREK-BOVED-IANES-SIRNI. NTAIM-MNSZN. NSHRM-SHLVM. ESTOL-SHARG-HORON. NCSHN-LTRUN. HEL RTE CLSD SHARG-AYLON-NSHRM-SIRNI-NTAIM-SUPER-TYONA-CLORE. BOVED-NTAIM. NTAIM-MNSZN. ESTOL-SHARG-HORON. NCSHN-LTRUN.)",
+      "validFrom": "2026-04-22T08:30:00.000Z",
+      "validTo": "2026-04-22T09:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST SORES-SHARG-AYLON-NSHRM-NTAIM-SUPER-TYONA-CLORE. SOREST-ESTOL. BOVED-NTAIM-MRISN. ULTRALIGHT RTE CLSD SHARG-AYLON-NSHRM-SIRNI-MNSZN-RSNIM-IKKEA-SUPER-TYONA. LLRS-SOREK-BOVED-IANES-SIRNI. NTAIM-MNSZN. NSHRM-SHLVM. ESTOL-SHARG-HORON. NCSHN-LTRUN. HEL RTE CLSD SHARG-AYLON-NSHRM-SIRNI-NTAIM-SUPER-TYONA-CLORE. BOVED-NTAIM. NTAIM-MNSZN. ESTOL-SHARG-HORON. NCSHN-LTRUN.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.90",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0796/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST YRIHO-DUMIM-ANATA-HNINA-HAREL-SORES-SHARG. DUMIM-MIHMS-ANATA. SORES-ESTOL. HEL RTE CLSD ALMOG-DUMIM-HNINA-HAREL-SORES-SHARG. DUMIM-SHAHR. SORES-ESTOL.)",
+      "validFrom": "2026-04-22T08:20:00.000Z",
+      "validTo": "2026-04-22T09:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST YRIHO-DUMIM-ANATA-HNINA-HAREL-SORES-SHARG. DUMIM-MIHMS-ANATA. SORES-ESTOL. HEL RTE CLSD ALMOG-DUMIM-HNINA-HAREL-SORES-SHARG. DUMIM-SHAHR. SORES-ESTOL.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.20",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C0795/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLYPAST BET-GOVRIN NORTH (BGOVN), BET-GOVRIN SOUTH (BGOVS). CTN ADZ.)",
+      "validFrom": "2026-04-22T08:05:00.000Z",
+      "validTo": "2026-04-22T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLYPAST BET-GOVRIN NORTH (BGOVN), BET-GOVRIN SOUTH (BGOVS). CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "A0342/26",
+      "icaoCode": "LLER",
+      "description": "E) GP RWY 19 C/S RB FREQ 110.500MHZ CH42X WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-29T11:00:00.000Z",
+      "validTo": "2026-04-29T14:00:00.000Z",
+      "rawText": "E) GP RWY 19 C/S RB FREQ 110.500MHZ CH42X WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0794/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE BEER-SHAVA (BSHEV) CLSD, EXC PARTICIPATING ACFT IN FLYPAST. CTN ADZ.)",
+      "validFrom": "2026-04-22T06:20:00.000Z",
+      "validTo": "2026-04-22T08:40:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE BEER-SHAVA (BSHEV) CLSD, EXC PARTICIPATING ACFT IN FLYPAST. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.25,34.80",
+      "centerPos": {
+        "lat": 31.25,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C0793/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST KUVSH-NCITY-ZGOAL-BKAMA-NOAAM-GOVRN-ZHRYA-BSEMS. NCITY-OMMER-ZGOAL. LAHAV-BKAMA-SOVAL. NOAAM-REVAH. ULTRALIGHT RTE CLSD NASIH-BKAMA-MACHZ-MKGAT-NAHLA GEFFN-ZHRYA-BSEMS. HEL RTE CLSD HTNGV-ZGOAL-ZLHAV-BKAMA-MACHZ-MKGAT-NAHLA. MACHZ-ZLPGT. MICHA-ZHRYA-BSEMS.)",
+      "validFrom": "2026-04-22T07:35:00.000Z",
+      "validTo": "2026-04-22T08:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST KUVSH-NCITY-ZGOAL-BKAMA-NOAAM-GOVRN-ZHRYA-BSEMS. NCITY-OMMER-ZGOAL. LAHAV-BKAMA-SOVAL. NOAAM-REVAH. ULTRALIGHT RTE CLSD NASIH-BKAMA-MACHZ-MKGAT-NAHLA GEFFN-ZHRYA-BSEMS. HEL RTE CLSD HTNGV-ZGOAL-ZLHAV-BKAMA-MACHZ-MKGAT-NAHLA. MACHZ-ZLPGT. MICHA-ZHRYA-BSEMS.)",
+      "mapLink": "https://www.google.com/maps?q=31.52,34.87",
+      "centerPos": {
+        "lat": 31.52,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C0792/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND SHDEROT SOUTH (BDRTS) CLSD, EXC PARTICIPATING ACFT IN FLYPAST. CTN ADZ.)",
+      "validFrom": "2026-04-22T06:20:00.000Z",
+      "validTo": "2026-04-22T07:20:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE SHDEROT NORTH (BDRTN) AND SHDEROT SOUTH (BDRTS) CLSD, EXC PARTICIPATING ACFT IN FLYPAST. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.52,34.60",
+      "centerPos": {
+        "lat": 31.52,
+        "lon": 34.6
+      }
+    },
+    {
+      "id": "C0791/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST NITZA-REVAH-NOAAM-BKAMA-SOVAL-NASIH. ULTRALIGHT RTE CLSD NAHLA-MKGAT-MACHZ-BKAMA-NASIH. HEL RTE CLSD NITZA-ZBRCH-ZPLGT-MACHZ-BKAMA-NASIH. NAHLA-MKGAT-MACHZ. BKAMA-ZLHAV. MINGV-GVAOT. GILAT-NASIH.)",
+      "validFrom": "2026-04-22T06:20:00.000Z",
+      "validTo": "2026-04-22T07:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST NITZA-REVAH-NOAAM-BKAMA-SOVAL-NASIH. ULTRALIGHT RTE CLSD NAHLA-MKGAT-MACHZ-BKAMA-NASIH. HEL RTE CLSD NITZA-ZBRCH-ZPLGT-MACHZ-BKAMA-NASIH. NAHLA-MKGAT-MACHZ. BKAMA-ZLHAV. MINGV-GVAOT. GILAT-NASIH.)",
+      "mapLink": "https://www.google.com/maps?q=31.53,34.65",
+      "centerPos": {
+        "lat": 31.53,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "C0790/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST VINGT-SFAIM-RIDNG-TYONA-SHORELINE-NMASD-NITZA. KNTRY-HTZUK. ROKCH-RIDNG. SUPER-TYONA. ZASHD-NMASD. ULTRALIGHT RTE CLSD SHFAM-TYONA-SUPER. HEL RTE CLSD VINGT-SFAIM-RIDNG-TYONA-SHORELINE-NMASD-NITZA. KNTRY-HTZUK. ROKCH-RIDNG-EGLIL. SUPER-TYONA. ZASHD-NMASD. CLORE-LIAAD-SFAIM. SUVAS-SFAIM-KONFO. DAFNA-SFAIM-MERVA.)",
+      "validFrom": "2026-04-22T06:00:00.000Z",
+      "validTo": "2026-04-22T06:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLYPAST VINGT-SFAIM-RIDNG-TYONA-SHORELINE-NMASD-NITZA. KNTRY-HTZUK. ROKCH-RIDNG. SUPER-TYONA. ZASHD-NMASD. ULTRALIGHT RTE CLSD SHFAM-TYONA-SUPER. HEL RTE CLSD VINGT-SFAIM-RIDNG-TYONA-SHORELINE-NMASD-NITZA. KNTRY-HTZUK. ROKCH-RIDNG-EGLIL. SUPER-TYONA. ZASHD-NMASD. CLORE-LIAAD-SFAIM. SUVAS-SFAIM-KONFO. DAFNA-SFAIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.70",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "A0341/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-30T06:00:00.000Z",
+      "validTo": "2026-04-30T09:00:00.000Z",
+      "rawText": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C0789/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 8 CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLYPAST OR BY ATC ONLY.)",
+      "validFrom": "2026-04-22T06:00:00.000Z",
+      "validTo": "2026-04-22T09:45:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 8 CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLYPAST OR BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.87",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C0788/26",
+      "icaoCode": "LLHZ",
+      "description": "E) CTR CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLYPAST OR BY ATC ONLY.)",
+      "validFrom": "2026-04-22T06:00:00.000Z",
+      "validTo": "2026-04-22T09:45:00.000Z",
+      "rawText": "E) CTR CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLYPAST OR BY ATC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.85",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0340/26",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND N33 CLSD, DUE WIP.)",
+      "validFrom": "2026-04-20T10:47:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) ACFT STAND N33 CLSD, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0338/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-04-24T15:00:00.000Z",
+      "validTo": "2026-04-24T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0339/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-05-29T15:00:00.000Z",
+      "validTo": "2026-05-29T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0337/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-04-21T06:00:00.000Z",
+      "validTo": "2026-04-21T07:15:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1705,
-  "lastUpdated": "2026-04-20T03:12:31.053Z"
+  "totalCount": 1726,
+  "lastUpdated": "2026-04-21T03:11:28.815Z"
 }
