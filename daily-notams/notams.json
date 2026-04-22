@@ -22437,8 +22437,151 @@
         "lat": 32,
         "lon": 34.88
       }
+    },
+    {
+      "id": "A0347/26",
+      "icaoCode": "LLBG",
+      "description": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB AND WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA AND SID DAFNA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "validFrom": "2026-04-21T12:09:00.000Z",
+      "validTo": "2026-04-26T14:00:00.000Z",
+      "rawText": "E) PREFERENTIAL DEP PROC AVBL H24, FLT NB AND WB AVBL VIA SID SUVAS. SB AVBL VIA TOMAL, EB AVBL VIA SALAM, SID MERVA AND SID DAFNA NOT AVBL EXC BY ATC. ISRAEL AIP, PART AD, PAGE AD-2-LLBG 20, PARA 2.22 REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0348/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "validFrom": "2026-04-21T12:09:00.000Z",
+      "validTo": "2026-04-26T14:00:00.000Z",
+      "rawText": "E) ATS RTE W13 CLSD TAPUZ-JILET-DAFNA.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.38",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.38
+      }
+    },
+    {
+      "id": "C0810/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT REIHAN. AN AREA WI 1.5NM RADIUS CENTERED ON PSN 322751N0350816E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "validFrom": "2026-04-29T06:00:00.000Z",
+      "validTo": "2026-04-29T09:00:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT REIHAN. AN AREA WI 1.5NM RADIUS CENTERED ON PSN 322751N0350816E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.13",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C0809/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-04-26T04:30:00.000Z",
+      "validTo": "2026-05-01T15:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1700FT AMSL N323343E0352803 N323451E0352825 N323509E0352700 N323411E0352659. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.47",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.47
+      }
+    },
+    {
+      "id": "C0808/26",
+      "icaoCode": "LLLL",
+      "description": "E) GLD ACT AVBL WI CTR/ATZ AND LLBS TRG AREA GIMEL1 GIMEL2 ONLY.)",
+      "validFrom": "2026-04-21T10:44:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL WI CTR/ATZ AND LLBS TRG AREA GIMEL1 GIMEL2 ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,34.78",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C0806/26",
+      "icaoCode": "LLMG",
+      "description": "E) GLD ACT AVBL WI CTR/ATZ OR LLMG TRG AREA NR B-WEST, B-EAST ONLY.)",
+      "validFrom": "2026-04-21T09:11:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL WI CTR/ATZ OR LLMG TRG AREA NR B-WEST, B-EAST ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.40",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0804/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA).)",
+      "validFrom": "2026-04-21T08:52:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT), ARRA (BARRA), HARROD (BHROD), MEGIDO-A-EAST (BMGEA).)",
+      "mapLink": "https://www.google.com/maps?q=32.83,35.40",
+      "centerPos": {
+        "lat": 32.83,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0346/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J14 BTN ZACCI-BARZI. Q17 BTN ZACCI-ATLIT.)",
+      "validFrom": "2026-04-23T05:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE CLSD J14 BTN ZACCI-BARZI. Q17 BTN ZACCI-ATLIT.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,35.27",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A0345/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J14 BTN NAT-BARZI. J15 BTN NAT-ATLIT. P68 BTN GALIM-MERVA. Q17 BTN ZACCI-ZAHAV. Q28 BTN ATLIT-GALIM.)",
+      "validFrom": "2026-04-21T08:08:00.000Z",
+      "validTo": "2026-04-23T04:59:00.000Z",
+      "rawText": "E) ATS RTE CLSD J14 BTN NAT-BARZI. J15 BTN NAT-ATLIT. P68 BTN GALIM-MERVA. Q17 BTN ZACCI-ZAHAV. Q28 BTN ATLIT-GALIM.)",
+      "mapLink": "https://www.google.com/maps?q=32.75,35.05",
+      "centerPos": {
+        "lat": 32.75,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0344/26",
+      "icaoCode": "LLHA",
+      "description": "E) OPS OF FLT AVBL BY PPR FM AD OPS CENTER.)",
+      "validFrom": "2026-04-23T05:00:00.000Z",
+      "validTo": "2026-04-30T23:59:00.000Z",
+      "rawText": "E) OPS OF FLT AVBL BY PPR FM AD OPS CENTER.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0343/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD AVBL FOR ACFT WHOSE HOME BASE IS LLHA ONLY, BY PPR FM AD OPS CENTER. EXIT/ENTRY AVBL VIA CVFR RTE GALIM-DAROM ONLY.)",
+      "validFrom": "2026-04-21T08:06:00.000Z",
+      "validTo": "2026-04-23T04:59:00.000Z",
+      "rawText": "E) AD AVBL FOR ACFT WHOSE HOME BASE IS LLHA ONLY, BY PPR FM AD OPS CENTER. EXIT/ENTRY AVBL VIA CVFR RTE GALIM-DAROM ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 1726,
-  "lastUpdated": "2026-04-21T03:11:28.815Z"
+  "totalCount": 1737,
+  "lastUpdated": "2026-04-22T03:11:38.175Z"
 }
