@@ -22580,8 +22580,21 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C0813/26",
+      "icaoCode": "LLHZ",
+      "description": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)",
+      "validFrom": "2026-04-22T13:49:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) TWR FREQ TEMPO CHG TO 125.600MHZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
     }
   ],
-  "totalCount": 1737,
-  "lastUpdated": "2026-04-22T03:11:38.175Z"
+  "totalCount": 1738,
+  "lastUpdated": "2026-04-23T03:11:25.519Z"
 }
