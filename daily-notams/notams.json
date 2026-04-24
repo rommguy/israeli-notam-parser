@@ -22593,8 +22593,242 @@
         "lat": 32.18,
         "lon": 34.83
       }
+    },
+    {
+      "id": "C0849/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,700FT AMSL 305840N0345643E 305840N0345629E 305820N0345629E 305820N0345643E. CTN ADZ. F) GND G) 2700FT AMSL)",
+      "validFrom": "2026-04-26T06:00:00.000Z",
+      "validTo": "2026-04-27T14:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,700FT AMSL 305840N0345643E 305840N0345629E 305820N0345629E 305820N0345643E. CTN ADZ. F) GND G) 2700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.98,34.95",
+      "centerPos": {
+        "lat": 30.98,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "A0356/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-07-24T15:00:00.000Z",
+      "validTo": "2026-07-24T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0848/26",
+      "icaoCode": "LLMG",
+      "description": "E) GLD ACT AVBL S OF LLRD OR WI LLMG TRG AREA NR B-WEST, B-EAST ONLY, EXIT LLMG CTR/ATZ WITH MAX 10 GLIDERS, GLD AT MAX 8,000FT AMSL.)",
+      "validFrom": "2026-04-23T18:35:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL S OF LLRD OR WI LLMG TRG AREA NR B-WEST, B-EAST ONLY, EXIT LLMG CTR/ATZ WITH MAX 10 GLIDERS, GLD AT MAX 8,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.40",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C0846/26",
+      "icaoCode": "LLLL",
+      "description": "E) FLT SHALL FLY AT MNM 500FT AGL WI ULTRALIGHT BUBBLE, TKOF/LDG AVBL HARROD (BHROD), NAAMA (BNAMM), ALMOG (BLMOG).)",
+      "validFrom": "2026-04-23T17:59:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) FLT SHALL FLY AT MNM 500FT AGL WI ULTRALIGHT BUBBLE, TKOF/LDG AVBL HARROD (BHROD), NAAMA (BNAMM), ALMOG (BLMOG).)",
+      "mapLink": "https://www.google.com/maps?q=32.15,35.37",
+      "centerPos": {
+        "lat": 32.15,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C0841/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD NITZANIM (BNZNI), LEHAVIM (BLHAV).)",
+      "validFrom": "2026-04-23T17:34:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD NITZANIM (BNZNI), LEHAVIM (BLHAV).)",
+      "mapLink": "https://www.google.com/maps?q=31.60,34.75",
+      "centerPos": {
+        "lat": 31.6,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0839/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT).)",
+      "validFrom": "2026-04-23T17:27:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), RAMAT HAGOLAN (BRGOL), KARMIEL (BKRML), NETOFA (BNTOF), KINNERET (BKNRT).)",
+      "mapLink": "https://www.google.com/maps?q=33.00,35.42",
+      "centerPos": {
+        "lat": 33,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0838/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD ZBTMS-NAFCH-AVITL-BNTAL-ZMSDA-SNNIR-HGSRM. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "validFrom": "2026-04-23T17:09:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD ZBTMS-NAFCH-AVITL-BNTAL-ZMSDA-SNNIR-HGSRM. ZKADR-ZAMID. BKRML-ZETIM.)",
+      "mapLink": "https://www.google.com/maps?q=33.07,35.62",
+      "centerPos": {
+        "lat": 33.07,
+        "lon": 35.62
+      }
+    },
+    {
+      "id": "C0835/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI. EVLYM-MOVIL-ZGLNI-MIGDL-DESHE-ZAMID. GILAM-EVLYM-AHIUD-AAKKO-SMRAT. TAVOR-KKAMA-ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS.)",
+      "validFrom": "2026-04-23T16:56:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI. EVLYM-MOVIL-ZGLNI-MIGDL-DESHE-ZAMID. GILAM-EVLYM-AHIUD-AAKKO-SMRAT. TAVOR-KKAMA-ZEMAH-MIGDL. ZEMAH-HAONN-ENGEV-ZBTZD-DESHE. HAONN-LLFK. ZBTMS-BASAN-HGSRM-LLKS. SELZR-GOMME-LLKS.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.42",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0830/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD BSVTA-AMIOZ-NBSOR-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
+      "validFrom": "2026-04-23T16:01:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD BSVTA-AMIOZ-NBSOR-OFKIM-GILAT-NASIH. ZELIM-NBSOR.)",
+      "mapLink": "https://www.google.com/maps?q=31.30,34.55",
+      "centerPos": {
+        "lat": 31.3,
+        "lon": 34.55
+      }
+    },
+    {
+      "id": "C0829/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD ZBRCH-NIZNM-ZASHD.)",
+      "validFrom": "2026-04-23T15:42:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD ZBRCH-NIZNM-ZASHD.)",
+      "mapLink": "https://www.google.com/maps?q=31.75,34.65",
+      "centerPos": {
+        "lat": 31.75,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "A0353/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-09-04T15:00:00.000Z",
+      "validTo": "2026-09-04T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0354/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-10-16T15:00:00.000Z",
+      "validTo": "2026-10-16T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0351/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-06-26T15:00:00.000Z",
+      "validTo": "2026-06-26T19:55:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0823/26",
+      "icaoCode": "LLRS",
+      "description": "E) FLT DEPARTING AIRSTRIP NB VIA TYONA PILOT SHALL CONTACT PLUTO CTL FOR IDENT OVER TYONA.)",
+      "validFrom": "2026-04-23T14:07:00.000Z",
+      "validTo": "2026-04-30T20:59:00.000Z",
+      "rawText": "E) FLT DEPARTING AIRSTRIP NB VIA TYONA PILOT SHALL CONTACT PLUTO CTL FOR IDENT OVER TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0820/26",
+      "icaoCode": "LLLL",
+      "description": "E) KTZIOTH ULTRALIGHT BUBBLE (BKZOT) CLSD.)",
+      "validFrom": "2026-04-24T05:00:00.000Z",
+      "validTo": "2026-04-24T15:00:00.000Z",
+      "rawText": "E) KTZIOTH ULTRALIGHT BUBBLE (BKZOT) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=30.70,34.58",
+      "centerPos": {
+        "lat": 30.7,
+        "lon": 34.58
+      }
+    },
+    {
+      "id": "C0818/26",
+      "icaoCode": "LLLL",
+      "description": "E) OREN ULTRALIGHT BUBBLE (BOORN) CLSD TO ALL FLT.)",
+      "validFrom": "2026-04-24T09:00:00.000Z",
+      "validTo": "2026-04-24T11:00:00.000Z",
+      "rawText": "E) OREN ULTRALIGHT BUBBLE (BOORN) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.02",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0350/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL. PSN 320329.08N0344705.00E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.49N0344703.40E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.33N0344704.43E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320329.89N0344703.85E FM GND UP TO 90.62M AGL, 360FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-04-23T11:38:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) CRANES ERECTED AT TEL-AVIV VITANYA PROJECT, LIT AND DAY MARKED. AN AREA WI 0.3NM RADIUS CLSD AS FLW PSN 320329.96N0344705.72E FM GND UP TO 172.7M AGL, 630FT AMSL. PSN 320329.08N0344705.00E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.49N0344703.40E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320328.33N0344704.43E FM GND UP TO 191.5M AGL, 690FT AMSL. PSN 320329.89N0344703.85E FM GND UP TO 90.62M AGL, 360FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C0815/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-04-23T08:00:00.000Z",
+      "validTo": "2026-04-24T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 1738,
-  "lastUpdated": "2026-04-23T03:11:25.519Z"
+  "totalCount": 1756,
+  "lastUpdated": "2026-04-24T03:12:01.031Z"
 }
