@@ -23022,8 +23022,60 @@
         "lat": 30.83,
         "lon": 34.83
       }
+    },
+    {
+      "id": "A0363/26",
+      "icaoCode": "LLHA",
+      "description": "E) CTR CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-04-29T06:15:00.000Z",
+      "validTo": "2026-04-29T07:30:00.000Z",
+      "rawText": "E) CTR CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0362/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-04-29T06:15:00.000Z",
+      "validTo": "2026-04-29T07:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0361/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-04-29T05:00:00.000Z",
+      "validTo": "2026-04-29T13:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0360/26",
+      "icaoCode": "LLNV",
+      "description": "E) RADAR SER NOT AVBL.)",
+      "validFrom": "2026-04-27T08:13:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) RADAR SER NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=31.20,35.03",
+      "centerPos": {
+        "lat": 31.2,
+        "lon": 35.03
+      }
     }
   ],
-  "totalCount": 1771,
-  "lastUpdated": "2026-04-27T03:13:41.822Z"
+  "totalCount": 1775,
+  "lastUpdated": "2026-04-28T03:13:27.663Z"
 }
