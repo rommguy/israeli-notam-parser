@@ -23074,8 +23074,125 @@
         "lat": 31.2,
         "lon": 35.03
       }
+    },
+    {
+      "id": "C0870/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. LAHAV-SOKET-MYTAR-TARAD. HEL RTE CLSD HOVAV-OHLIM-ZSARA-ZGOAL-ZLHAV. HTNGV-OMMER-SOKET. GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HORRA-IRRAA-ZARAD. ULTRALIGH RTE CLSD HOVAV-OHLIM-ZSARA-HTNGV-ZGOAL-ZLHAV. KUVSH-NCITY-OMMER-SOKET. ZLHAV-SOKET-MYTAR-TARAD.)",
+      "validFrom": "2026-04-29T08:50:00.000Z",
+      "validTo": "2026-04-29T09:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV. KUVSH-NCITY-OMMER-SOKET. NCITY-ZGOAL. LAHAV-SOKET-MYTAR-TARAD. HEL RTE CLSD HOVAV-OHLIM-ZSARA-ZGOAL-ZLHAV. HTNGV-OMMER-SOKET. GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HORRA-IRRAA-ZARAD. ULTRALIGH RTE CLSD HOVAV-OHLIM-ZSARA-HTNGV-ZGOAL-ZLHAV. KUVSH-NCITY-OMMER-SOKET. ZLHAV-SOKET-MYTAR-TARAD.)",
+      "mapLink": "https://www.google.com/maps?q=31.27,34.93",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0869/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD, EXC TEST FLT.)",
+      "validFrom": "2026-05-03T11:00:00.000Z",
+      "validTo": "2026-05-03T13:00:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD, EXC TEST FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0868/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-04-30T12:00:00.000Z",
+      "validTo": "2026-05-01T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0375/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD J14 BTN ZACCI-BARZI. Q17 BTN ZACCI-ATLIT.)",
+      "validFrom": "2026-04-28T12:34:00.000Z",
+      "validTo": "2026-05-18T23:59:00.000Z",
+      "rawText": "E) ATS RTE CLSD J14 BTN ZACCI-BARZI. Q17 BTN ZACCI-ATLIT.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,35.27",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A0374/26",
+      "icaoCode": "LLLL",
+      "description": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "validFrom": "2026-04-28T12:34:00.000Z",
+      "validTo": "2026-05-18T23:59:00.000Z",
+      "rawText": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=30.88,35.27",
+      "centerPos": {
+        "lat": 30.88,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "A0371/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-04-28T12:24:00.000Z",
+      "validTo": "2026-05-18T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.83",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0372/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-04-28T12:25:00.000Z",
+      "validTo": "2026-05-18T23:59:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0367/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR OIL RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-04-29T06:15:00.000Z",
+      "validTo": "2026-04-29T07:33:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR OIL RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0368/26",
+      "icaoCode": "LLHA",
+      "description": "E) CTR CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR OIL RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-04-29T06:15:00.000Z",
+      "validTo": "2026-04-29T07:30:00.000Z",
+      "rawText": "E) CTR CLSD TO ALL FLT, EXP SKED COMMERCIAL FLT OR OIL RIG ACT, DUE FIREFIGHTING ACT. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 1775,
-  "lastUpdated": "2026-04-28T03:13:27.663Z"
+  "totalCount": 1784,
+  "lastUpdated": "2026-04-29T03:13:08.117Z"
 }
