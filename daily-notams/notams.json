@@ -23594,8 +23594,372 @@
         "lat": 33,
         "lon": 35.42
       }
+    },
+    {
+      "id": "C0944/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-05-02T16:50:00.000Z",
+      "validTo": "2026-05-06T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,34.98",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0943/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR-MESAR-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-02T16:50:00.000Z",
+      "validTo": "2026-05-06T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR-MESAR-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.95",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0942/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR.)",
+      "validFrom": "2026-05-02T16:50:00.000Z",
+      "validTo": "2026-05-06T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.27,35.13",
+      "centerPos": {
+        "lat": 30.27,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "A0385/26",
+      "icaoCode": "LLLL",
+      "description": "E) CHECKLIST YEAR=2025 0886 YEAR=2026 0001 0021 0056 0116 0117 0127 0156 0187 0188 0189 0281 0286 0324 0326 0327 0328 0329 0330 0339 0340 0350 0351 0353 0354 0356 0357 0358 0359 0360 0371 0372 0374 0376 0379 0381 0382 0383 0384 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 001/2026 EFFECTIVE DATE 219 MAR 26 AIC IFR A001/2026 EFFECTIVE DATE 05 FEB 26 AIC CHECKLIST AIP IFR A001/2026 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 001/2026 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "validFrom": "2026-04-30T13:48:00.000Z",
+      "validTo": "2026-05-30T13:48:00.000Z",
+      "rawText": "E) CHECKLIST YEAR=2025 0886 YEAR=2026 0001 0021 0056 0116 0117 0127 0156 0187 0188 0189 0281 0286 0324 0326 0327 0328 0329 0330 0339 0340 0350 0351 0353 0354 0356 0357 0358 0359 0360 0371 0372 0374 0376 0379 0381 0382 0383 0384 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 001/2026 EFFECTIVE DATE 219 MAR 26 AIC IFR A001/2026 EFFECTIVE DATE 05 FEB 26 AIC CHECKLIST AIP IFR A001/2026 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 001/2026 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C0941/26",
+      "icaoCode": "LLLL",
+      "description": "E) CHECKLIST YEAR=2026 0003 0004 0005 0006 0008 0009 0010 0013 0014 0017 0032 0035 0037 0090 0162 0232 0352 0431 0458 0508 0531 0629 0652 0662 0665 0711 0736 0787 0809 0813 0856 0858 0859 0860 0861 0868 0871 0872 0874 0882 0883 0884 0885 0886 0887 0889 0890 0892 0893 0894 0895 0897 0904 0905 0910 0911 0912 0913 0914 0915 0916 0917 0919 0920 0921 0922 0923 0924 0925 0927 0928 0930 0931 0932 0933 0934 0935 0936 0937 0938 0939 0940 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 001/2026 EFFECTIVE DATE 219 MAR 26 AIC IFR A001/2026 EFFECTIVE DATE 05 FEB 26 AIC CHECKLIST AIP IFR A001/2026 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 001/2026 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "validFrom": "2026-04-30T13:47:00.000Z",
+      "validTo": "2026-05-30T13:47:00.000Z",
+      "rawText": "E) CHECKLIST YEAR=2026 0003 0004 0005 0006 0008 0009 0010 0013 0014 0017 0032 0035 0037 0090 0162 0232 0352 0431 0458 0508 0531 0629 0652 0662 0665 0711 0736 0787 0809 0813 0856 0858 0859 0860 0861 0868 0871 0872 0874 0882 0883 0884 0885 0886 0887 0889 0890 0892 0893 0894 0895 0897 0904 0905 0910 0911 0912 0913 0914 0915 0916 0917 0919 0920 0921 0922 0923 0924 0925 0927 0928 0930 0931 0932 0933 0934 0935 0936 0937 0938 0939 0940 LATEST PUBLICATIONS AIP AIRAC AMDT IFR 002/2025 EFFECTIVE DATE 02 OCT 25 AIP AIRAC SUP IFR 001/2026 EFFECTIVE DATE 219 MAR 26 AIC IFR A001/2026 EFFECTIVE DATE 05 FEB 26 AIC CHECKLIST AIP IFR A001/2026 AIP VFR 016/2024 001/2025 004/2025 006/2025 AIP MIL NIL SUP CHECKLIST AIP IFR 004/2025 005/2025 001/2026 AIP VFR 004/2025 005/2025 AIP MIL NIL)",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C0940/26",
+      "icaoCode": "LLIB",
+      "description": "E) TRIGGER NOTAM - DOM AIP SUP 03/26 WEF 11 JUN 2026. REESTABLISHED APN A AND APN K.)",
+      "validFrom": "2026-06-11T00:01:00.000Z",
+      "validTo": "2026-06-24T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - DOM AIP SUP 03/26 WEF 11 JUN 2026. REESTABLISHED APN A AND APN K.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C0939/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-08T04:30:00.000Z",
+      "validTo": "2026-05-08T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0938/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-07T10:00:00.000Z",
+      "validTo": "2026-05-07T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C0936/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-04T07:20:00.000Z",
+      "validTo": "2026-05-04T11:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C0937/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-06T10:50:00.000Z",
+      "validTo": "2026-05-06T11:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C0935/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-03T12:30:00.000Z",
+      "validTo": "2026-05-03T13:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C0934/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "validFrom": "2026-05-06T19:00:00.000Z",
+      "validTo": "2026-05-07T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0933/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-05-06T19:00:00.000Z",
+      "validTo": "2026-05-10T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,34.98",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0932/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-01T05:00:00.000Z",
+      "validTo": "2026-05-01T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C0931/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR-MESAR-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-06T19:00:00.000Z",
+      "validTo": "2026-05-10T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR-MESAR-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.95",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0930/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR.)",
+      "validFrom": "2026-05-06T19:00:00.000Z",
+      "validTo": "2026-05-10T02:25:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.27,35.13",
+      "centerPos": {
+        "lat": 30.27,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C0928/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT PARK-REEM. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 314633N0344520E CLSD FM GND UP TO 25M AGL 295FT AMSL. CTN ADZ. F) GND G) 295FT AMSL)",
+      "validFrom": "2026-05-03T00:01:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT PARK-REEM. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 314633N0344520E CLSD FM GND UP TO 25M AGL 295FT AMSL. CTN ADZ. F) GND G) 295FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.77,34.75",
+      "centerPos": {
+        "lat": 31.77,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C0927/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA, AN AREA WI 0.8NM RADIUS CENTERED ON PSN 322942N0345439E CLSD FM GND UP TO 500FT AMSL. CTN ADZ. F) GND G) 500FT AMSL)",
+      "validFrom": "2026-05-03T19:00:00.000Z",
+      "validTo": "2026-05-31T02:10:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA, AN AREA WI 0.8NM RADIUS CENTERED ON PSN 322942N0345439E CLSD FM GND UP TO 500FT AMSL. CTN ADZ. F) GND G) 500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.48,34.90",
+      "centerPos": {
+        "lat": 32.48,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C0925/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-07T08:00:00.000Z",
+      "validTo": "2026-05-08T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0924/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 400M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "validFrom": "2026-05-11T02:20:00.000Z",
+      "validTo": "2026-05-14T19:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 400M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C0923/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-ALFA BTN FLW PSN CLSD FM GND UP TO 1,650FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323101N0352315E 323212N0352318E 323101N0352751E 322957N0352638E. CTN ADZ.)",
+      "validFrom": "2026-05-03T11:00:00.000Z",
+      "validTo": "2026-05-05T11:00:00.000Z",
+      "rawText": "E) AN AREA AT BET-ALFA BTN FLW PSN CLSD FM GND UP TO 1,650FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323101N0352315E 323212N0352318E 323101N0352751E 322957N0352638E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.43",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.43
+      }
+    },
+    {
+      "id": "C0922/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-05-05T12:30:00.000Z",
+      "validTo": "2026-05-05T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,34.98",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0920/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-05-04T06:00:00.000Z",
+      "validTo": "2026-05-04T14:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,34.98",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C0921/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "validFrom": "2026-05-05T12:30:00.000Z",
+      "validTo": "2026-05-05T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C0919/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "validFrom": "2026-05-04T06:00:00.000Z",
+      "validTo": "2026-05-04T14:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-OVDAT-BOKER-TLLIM. BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.83",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0384/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-06T06:00:00.000Z",
+      "validTo": "2026-05-06T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0383/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-05-04T06:00:00.000Z",
+      "validTo": "2026-05-04T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0382/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-04T06:00:00.000Z",
+      "validTo": "2026-05-04T09:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 1815,
-  "lastUpdated": "2026-04-30T03:13:54.736Z"
+  "totalCount": 1843,
+  "lastUpdated": "2026-05-01T03:13:40.338Z"
 }
