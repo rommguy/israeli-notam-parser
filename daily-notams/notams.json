@@ -23958,8 +23958,34 @@
         "lat": 32,
         "lon": 34.9
       }
+    },
+    {
+      "id": "C0946/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 325058N0351056E CLSD FM GND UP TO 2,550FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2550FT AMSL)",
+      "validFrom": "2026-05-02T13:15:00.000Z",
+      "validTo": "2026-05-08T02:30:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 325058N0351056E CLSD FM GND UP TO 2,550FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2550FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.18",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C0945/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,550FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2550FT AMSL)",
+      "validFrom": "2026-05-02T12:22:00.000Z",
+      "validTo": "2026-05-08T02:30:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,550FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2550FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 1843,
-  "lastUpdated": "2026-05-01T03:13:40.338Z"
+  "totalCount": 1845,
+  "lastUpdated": "2026-05-03T03:13:12.802Z"
 }
