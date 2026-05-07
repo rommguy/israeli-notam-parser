@@ -24322,8 +24322,294 @@
         "lat": 32.57,
         "lon": 35.47
       }
+    },
+    {
+      "id": "C1004/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR ROUTE CLSD TO ALL FLT BTN FRDIS - SDTYM)",
+      "validFrom": "2026-05-07T04:00:00.000Z",
+      "validTo": "2026-05-07T09:00:00.000Z",
+      "rawText": "E) CVFR ROUTE CLSD TO ALL FLT BTN FRDIS - SDTYM)",
+      "mapLink": "https://www.google.com/maps?q=32.55,34.92",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C1003/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 33232N03454E CLSD TO ALL FLT FM GND UP TO 1,000FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-05-07T04:00:00.000Z",
+      "validTo": "2026-05-07T09:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 33232N03454E CLSD TO ALL FLT FM GND UP TO 1,000FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,34.90",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1002/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-11T05:00:00.000Z",
+      "validTo": "2026-05-11T15:00:00.000Z",
+      "rawText": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.50",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "A0396/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-06-02T05:25:00.000Z",
+      "validTo": "2026-06-02T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0395/26",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND J9 CLSD, DUE WIP.)",
+      "validFrom": "2026-05-06T12:57:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) ACFT STAND J9 CLSD, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0392/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 11 JUN 2026.)",
+      "validFrom": "2026-06-11T00:01:00.000Z",
+      "validTo": "2026-06-24T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC AIP AMDT WEF 11 JUN 2026.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1001/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 11 JUN 2026.)",
+      "validFrom": "2026-06-11T00:01:00.000Z",
+      "validTo": "2026-06-24T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - NIL AIRAC DOM AIP AMDT WEF 11 JUN 2026.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1000/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-07T15:00:00.000Z",
+      "validTo": "2026-05-07T23:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C0999/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA N OF ROAD NR 85 AND ROAD NR 91 CLSD TO ALL DOM FLT, EXC ULTRALIGHT BUBBLE BZVUE, EMERG, OIL RIG FLT, MEDEVAC HEL OR PPR FLT FM IAF. CTN ADZ.)",
+      "validFrom": "2026-05-06T12:24:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) AN AREA N OF ROAD NR 85 AND ROAD NR 91 CLSD TO ALL DOM FLT, EXC ULTRALIGHT BUBBLE BZVUE, EMERG, OIL RIG FLT, MEDEVAC HEL OR PPR FLT FM IAF. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.10,35.42",
+      "centerPos": {
+        "lat": 33.1,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C0998/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA W OF LLFK BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 2,500 FT AMSL 324711N0354346E 324241N0353654E 324515N0353605E 325046N0354048E 325201N0354524E 325053N0354705E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-07T08:50:00.000Z",
+      "validTo": "2026-05-07T10:00:00.000Z",
+      "rawText": "E) AN AREA W OF LLFK BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 2,500 FT AMSL 324711N0354346E 324241N0353654E 324515N0353605E 325046N0354048E 325201N0354524E 325053N0354705E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.70",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.7
+      }
+    },
+    {
+      "id": "C0997/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-08T05:00:00.000Z",
+      "validTo": "2026-05-08T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0995/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-05-11T02:30:00.000Z",
+      "validTo": "2026-05-14T11:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C0994/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2026-05-14T04:30:00.000Z",
+      "validTo": "2026-05-14T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C0992/26",
+      "icaoCode": "LLLL",
+      "description": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "validFrom": "2026-05-12T05:00:00.000Z",
+      "validTo": "2026-05-12T06:30:00.000Z",
+      "rawText": "E) AEROBATICS FLT WILL TAKE PLACE AT TAANACHIM, BTN 500-4,000FT AMSL, WI THE FLW PSN, ACFT TYPE/DR107, REG/4X-OMR 323334N0351615E 323155N0351609E 323156N0351804E 323334N0351807E. CTN ADZ. F) 500FT AMSL G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0391/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE Q30 CLSD BTN BEXOM-NURIT.)",
+      "validFrom": "2026-05-06T08:31:00.000Z",
+      "validTo": "2026-05-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE Q30 CLSD BTN BEXOM-NURIT.)",
+      "mapLink": "https://www.google.com/maps?q=30.93,35.03",
+      "centerPos": {
+        "lat": 30.93,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C0990/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE RAMAT HAGOLAN (BRGOL) CLSD N OF ROAD NR 91.)",
+      "validFrom": "2026-05-06T08:09:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE RAMAT HAGOLAN (BRGOL) CLSD N OF ROAD NR 91.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.70",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.7
+      }
+    },
+    {
+      "id": "C0989/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), KARMIEL (BKRML).)",
+      "validFrom": "2026-05-06T08:08:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HAHULA (BHULA), KARMIEL (BKRML).)",
+      "mapLink": "https://www.google.com/maps?q=33.07,35.38",
+      "centerPos": {
+        "lat": 33.07,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0986/26",
+      "icaoCode": "LLMG",
+      "description": "E) GLD ACT AVBL S OF ROAD NR 85 AND ROAD NR 91, MAX 10 GLIDERS AIRBORNE APPROVED. PILOT SHALL MAKE TWO WAY RADIO COMM WITH ATC AND OPR TRANSPONDER.)",
+      "validFrom": "2026-05-06T08:03:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) GLD ACT AVBL S OF ROAD NR 85 AND ROAD NR 91, MAX 10 GLIDERS AIRBORNE APPROVED. PILOT SHALL MAKE TWO WAY RADIO COMM WITH ATC AND OPR TRANSPONDER.)",
+      "mapLink": "https://www.google.com/maps?q=32.63,35.40",
+      "centerPos": {
+        "lat": 32.63,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0390/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN BARZI-ROP.)",
+      "validFrom": "2026-05-06T07:50:00.000Z",
+      "validTo": "2026-05-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN BARZI-ROP.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.55",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.55
+      }
+    },
+    {
+      "id": "C0982/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-14T09:05:00.000Z",
+      "validTo": "2026-05-15T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C0981/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD BSEMS-NCSHN.)",
+      "validFrom": "2026-05-10T10:20:00.000Z",
+      "validTo": "2026-05-10T11:15:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD BSEMS-NCSHN.)",
+      "mapLink": "https://www.google.com/maps?q=31.78,34.95",
+      "centerPos": {
+        "lat": 31.78,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C0980/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HAREL BTN FLW PSN CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, DUE POLICE ACT 314940N0345813E 314721N0345439E 314711N0345534E 314635N0345607E 314537N0345737E 314554N0345846E 314651N0350017E 314818N0350046E. CTN ADZ.)",
+      "validFrom": "2026-05-10T10:20:00.000Z",
+      "validTo": "2026-05-10T11:15:00.000Z",
+      "rawText": "E) AN AREA AT HAREL BTN FLW PSN CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, DUE POLICE ACT 314940N0345813E 314721N0345439E 314711N0345534E 314635N0345607E 314537N0345737E 314554N0345846E 314651N0350017E 314818N0350046E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,34.97",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 34.97
+      }
     }
   ],
-  "totalCount": 1871,
-  "lastUpdated": "2026-05-06T03:13:44.377Z"
+  "totalCount": 1893,
+  "lastUpdated": "2026-05-07T03:14:56.660Z"
 }
