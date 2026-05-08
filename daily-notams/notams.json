@@ -24608,8 +24608,229 @@
         "lat": 31.8,
         "lon": 34.97
       }
+    },
+    {
+      "id": "A0403/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY N CLSD BTN E-R.)",
+      "validFrom": "2026-05-08T13:00:00.000Z",
+      "validTo": "2026-05-10T03:00:00.000Z",
+      "rawText": "E) TWY N CLSD BTN E-R.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1016/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ. ZOFAR-RUHOT. RUHOT-ZZHOR-SIZFN.)",
+      "validFrom": "2026-05-08T18:00:00.000Z",
+      "validTo": "2026-05-08T23:59:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ. ZOFAR-RUHOT. RUHOT-ZZHOR-SIZFN.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.22",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1014/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLANI-INTERCHANGE WI 2NM RADIUS CENTRED ON PSN 324600N0352527E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,000FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-05-07T12:44:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) AN AREA AT GOLANI-INTERCHANGE WI 2NM RADIUS CENTRED ON PSN 324600N0352527E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 2,000FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.43",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.43
+      }
+    },
+    {
+      "id": "C1015/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI. KKANA-ZGLNI-MIGDL.)",
+      "validFrom": "2026-05-07T12:44:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD TAVOR-ZGLNI. KKANA-ZGLNI-MIGDL.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.45",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C1013/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID)",
+      "validFrom": "2026-05-14T06:45:00.000Z",
+      "validTo": "2026-05-14T10:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1012/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-05-14T06:45:00.000Z",
+      "validTo": "2026-05-14T10:45:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "A0402/26",
+      "icaoCode": "LLNV",
+      "description": "E) NEW INSTR PROC AND AD CHART ESTABLISHED, FOR MIL OPR ONLY. DOM AIP, ADDITIONAL AVIATION INFO REF.)",
+      "validFrom": "2026-05-07T10:08:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) NEW INSTR PROC AND AD CHART ESTABLISHED, FOR MIL OPR ONLY. DOM AIP, ADDITIONAL AVIATION INFO REF.)",
+      "mapLink": "https://www.google.com/maps?q=31.20,35.03",
+      "centerPos": {
+        "lat": 31.2,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "A0401/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-13T06:00:00.000Z",
+      "validTo": "2026-05-13T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0400/26",
+      "icaoCode": "LLBG",
+      "description": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-11T06:00:00.000Z",
+      "validTo": "2026-05-11T16:00:00.000Z",
+      "rawText": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0398/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-05-12T05:00:00.000Z",
+      "validTo": "2026-05-12T07:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0399/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-05-12T23:00:00.000Z",
+      "validTo": "2026-05-13T02:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0397/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-05-10T23:00:00.000Z",
+      "validTo": "2026-05-11T02:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1011/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-12T04:30:00.000Z",
+      "validTo": "2026-05-12T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1010/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-11T04:30:00.000Z",
+      "validTo": "2026-05-11T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1009/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YRUHM-DIMON.)",
+      "validFrom": "2026-05-11T09:30:00.000Z",
+      "validTo": "2026-05-11T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YRUHM-DIMON.)",
+      "mapLink": "https://www.google.com/maps?q=31.03,34.95",
+      "centerPos": {
+        "lat": 31.03,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1008/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-10T12:30:00.000Z",
+      "validTo": "2026-05-10T13:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C1007/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-10T17:00:00.000Z",
+      "validTo": "2026-05-17T02:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.93",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.93
+      }
     }
   ],
-  "totalCount": 1893,
-  "lastUpdated": "2026-05-07T03:14:56.660Z"
+  "totalCount": 1910,
+  "lastUpdated": "2026-05-08T03:11:52.425Z"
 }
