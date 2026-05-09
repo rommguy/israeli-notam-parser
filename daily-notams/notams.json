@@ -24829,8 +24829,21 @@
         "lat": 30.32,
         "lon": 34.93
       }
+    },
+    {
+      "id": "A0405/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY N CLSD BTN E-R.)",
+      "validFrom": "2026-05-08T13:00:00.000Z",
+      "validTo": "2026-05-10T09:30:00.000Z",
+      "rawText": "E) TWY N CLSD BTN E-R.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1910,
-  "lastUpdated": "2026-05-08T03:11:52.425Z"
+  "totalCount": 1911,
+  "lastUpdated": "2026-05-09T03:13:20.718Z"
 }
