@@ -24842,8 +24842,21 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1017/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT MZD-EIN TAMAR BTN FLW PSN CLSD TO ALL FLT, FM 4000FT UP TO 5,000FT AMSL 311506N0352338E 311504N0352115E 305632N0351959E 305638N0352248E OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-14T09:00:00.000Z",
+      "validTo": "2026-05-14T12:00:00.000Z",
+      "rawText": "E) AN AREA AT MZD-EIN TAMAR BTN FLW PSN CLSD TO ALL FLT, FM 4000FT UP TO 5,000FT AMSL 311506N0352338E 311504N0352115E 305632N0351959E 305638N0352248E OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.10,35.37",
+      "centerPos": {
+        "lat": 31.1,
+        "lon": 35.37
+      }
     }
   ],
-  "totalCount": 1911,
-  "lastUpdated": "2026-05-09T03:13:20.718Z"
+  "totalCount": 1912,
+  "lastUpdated": "2026-05-11T03:16:15.147Z"
 }
