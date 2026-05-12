@@ -24855,8 +24855,164 @@
         "lat": 31.1,
         "lon": 35.37
       }
+    },
+    {
+      "id": "C1029/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 3NM RADIUS CENTERED ON PSN 312934N0345557E CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-13T02:20:00.000Z",
+      "validTo": "2026-05-13T04:00:00.000Z",
+      "rawText": "E) AN AREA WI 3NM RADIUS CENTERED ON PSN 312934N0345557E CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.50,34.93",
+      "centerPos": {
+        "lat": 31.5,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1028/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 4,000FT AMSL. CTN ADZ. F) GND G) 4000FT AMSL)",
+      "validFrom": "2026-05-17T06:00:00.000Z",
+      "validTo": "2026-05-21T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 4,000FT AMSL. CTN ADZ. F) GND G) 4000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1027/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.07NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-12T05:00:00.000Z",
+      "validTo": "2026-05-14T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.07NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.07",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1026/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KESHET/GOLAN-HEIGHTS BTN FLW PSN CLSD FM GND UP TO 10,000FT AMSL, TO ALL FLT 330646N0354854E 330602N0355053E 325814N0355221E 325640N0355332E 325617N0354526E 330315N0354355E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-13T07:00:00.000Z",
+      "validTo": "2026-05-13T14:30:00.000Z",
+      "rawText": "E) AN AREA AT KESHET/GOLAN-HEIGHTS BTN FLW PSN CLSD FM GND UP TO 10,000FT AMSL, TO ALL FLT 330646N0354854E 330602N0355053E 325814N0355221E 325640N0355332E 325617N0354526E 330315N0354355E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.82",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.82
+      }
+    },
+    {
+      "id": "C1025/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-12T04:40:00.000Z",
+      "validTo": "2026-05-12T16:30:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0408/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "validFrom": "2026-05-12T04:40:00.000Z",
+      "validTo": "2026-05-14T15:45:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.40",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1023/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-05-12T04:40:00.000Z",
+      "validTo": "2026-05-12T16:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1021/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-12T05:00:00.000Z",
+      "validTo": "2026-05-14T15:00:00.000Z",
+      "rawText": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.50",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C1019/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT NATANYA, WI LLHZ TRG AREA NR 8. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 321736N0345041E CLSD FM GND UP TO 50M AGL 260FT AMSL. CTN ADZ. F) GND G) 260FT AMSL)",
+      "validFrom": "2026-05-14T17:00:00.000Z",
+      "validTo": "2026-05-14T19:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT NATANYA, WI LLHZ TRG AREA NR 8. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 321736N0345041E CLSD FM GND UP TO 50M AGL 260FT AMSL. CTN ADZ. F) GND G) 260FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.30,34.85",
+      "centerPos": {
+        "lat": 32.3,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C1020/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 8 CLSD TO ALL FLT DUE UAS ACT. CTN ADZ.)",
+      "validFrom": "2026-05-14T17:00:00.000Z",
+      "validTo": "2026-05-14T19:00:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 8 CLSD TO ALL FLT DUE UAS ACT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.28,34.87",
+      "centerPos": {
+        "lat": 32.28,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C1018/26",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2026-05-12T05:00:00.000Z",
+      "validTo": "2026-05-31T15:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0407/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-19T06:00:00.000Z",
+      "validTo": "2026-05-19T12:00:00.000Z",
+      "rawText": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,35.02",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 1912,
-  "lastUpdated": "2026-05-11T03:16:15.147Z"
+  "totalCount": 1924,
+  "lastUpdated": "2026-05-12T03:14:13.107Z"
 }
