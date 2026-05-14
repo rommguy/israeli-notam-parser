@@ -25063,8 +25063,164 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C1044/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "validFrom": "2026-05-19T02:00:00.000Z",
+      "validTo": "2026-05-19T05:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.80,34.92",
+      "centerPos": {
+        "lat": 30.8,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C1043/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID)",
+      "validFrom": "2026-05-19T16:00:00.000Z",
+      "validTo": "2026-05-19T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1042/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-05-19T16:00:00.000Z",
+      "validTo": "2026-05-19T16:45:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C1041/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-05-19T17:30:00.000Z",
+      "validTo": "2026-05-19T17:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C1039/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-05-18T08:00:00.000Z",
+      "validTo": "2026-05-18T12:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1040/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-05-19T07:00:00.000Z",
+      "validTo": "2026-05-19T07:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1038/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-05-17T12:00:00.000Z",
+      "validTo": "2026-05-17T12:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1037/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-17T18:15:00.000Z",
+      "validTo": "2026-05-20T02:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.93",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1036/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "validFrom": "2026-05-17T13:00:00.000Z",
+      "validTo": "2026-05-19T12:00:00.000Z",
+      "rawText": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1035/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-15T05:00:00.000Z",
+      "validTo": "2026-05-15T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1033/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "validFrom": "2026-05-18T02:15:00.000Z",
+      "validTo": "2026-05-20T19:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1032/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA LAKE, FM GND UP TO 400M AGL. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330622N0353454E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-05-17T05:00:00.000Z",
+      "validTo": "2026-05-22T02:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA LAKE, FM GND UP TO 400M AGL. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330622N0353454E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.10,35.58",
+      "centerPos": {
+        "lat": 33.1,
+        "lon": 35.58
+      }
     }
   ],
-  "totalCount": 1928,
-  "lastUpdated": "2026-05-13T03:14:42.121Z"
+  "totalCount": 1940,
+  "lastUpdated": "2026-05-14T03:13:46.669Z"
 }
