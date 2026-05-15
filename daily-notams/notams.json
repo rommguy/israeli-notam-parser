@@ -25219,8 +25219,216 @@
         "lat": 33.1,
         "lon": 35.58
       }
+    },
+    {
+      "id": "C1060/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLANI-INTERCHANGE WI 0.6NM RADIUS CENTRED ON PSN 324600N0352530E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-05-14T13:33:00.000Z",
+      "validTo": "2026-05-31T20:59:00.000Z",
+      "rawText": "E) AN AREA AT GOLANI-INTERCHANGE WI 0.6NM RADIUS CENTRED ON PSN 324600N0352530E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 1,500FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.42",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C1059/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT LEV-HANEGEV WI LLUR BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 1,000FT AMSL 311630N0343234E 311534N0343235E 311535N0343157E 311545N0343146E 311551N0343156E 311630N0343205E 311630N0343234E. CTN ADZ.)",
+      "validFrom": "2026-05-15T03:00:00.000Z",
+      "validTo": "2026-05-15T09:00:00.000Z",
+      "rawText": "E) AN AREA AT LEV-HANEGEV WI LLUR BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 1,000FT AMSL 311630N0343234E 311534N0343235E 311535N0343157E 311545N0343146E 311551N0343156E 311630N0343205E 311630N0343234E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.27,34.53",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 34.53
+      }
+    },
+    {
+      "id": "C1058/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "validFrom": "2026-05-20T02:00:00.000Z",
+      "validTo": "2026-05-20T05:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.77,35.03",
+      "centerPos": {
+        "lat": 30.77,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1057/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-20T17:00:00.000Z",
+      "validTo": "2026-05-22T02:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.93",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1056/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR. LLMZ-ARRAD.)",
+      "validFrom": "2026-05-20T05:00:00.000Z",
+      "validTo": "2026-05-20T07:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR. LLMZ-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=31.25,35.17",
+      "centerPos": {
+        "lat": 31.25,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "A0412/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-05-17T03:30:00.000Z",
+      "validTo": "2026-05-20T13:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1055/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD BTN 1,500-2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 324701N0352345E 324616N0352137E 324113N0352351E 324227N0352603E. CTN ADZ.)",
+      "validFrom": "2026-05-17T12:00:00.000Z",
+      "validTo": "2026-05-18T08:30:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD BTN 1,500-2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 324701N0352345E 324616N0352137E 324113N0352351E 324227N0352603E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.40",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1054/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324550N0352304E CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-17T12:00:00.000Z",
+      "validTo": "2026-05-18T08:30:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324550N0352304E CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.38",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1053/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310455N0343656E 310713N0344548E 310343N0344743E 310023N0344412E 305922N0343806E. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-05-17T13:00:00.000Z",
+      "validTo": "2026-05-17T14:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 310455N0343656E 310713N0344548E 310343N0344743E 310023N0344412E 305922N0343806E. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1052/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "validFrom": "2026-05-17T09:00:00.000Z",
+      "validTo": "2026-05-17T09:40:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT AMSL, AVBL BIDIRECTIONAL AT 800FT AMSL ZASHD-YAVNE-NAGID-BOVED-NTAIM-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.90,34.72",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1051/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "validFrom": "2026-05-17T13:00:00.000Z",
+      "validTo": "2026-05-19T12:00:00.000Z",
+      "rawText": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1049/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR.)",
+      "validFrom": "2026-05-15T02:20:00.000Z",
+      "validTo": "2026-05-15T10:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=31.25,35.17",
+      "centerPos": {
+        "lat": 31.25,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1048/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZOFAR-HAZVA-ARAVA-ZOHAR-LLMZ-ZUKIM.)",
+      "validFrom": "2026-05-15T02:20:00.000Z",
+      "validTo": "2026-05-15T10:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZOFAR-HAZVA-ARAVA-ZOHAR-LLMZ-ZUKIM.)",
+      "mapLink": "https://www.google.com/maps?q=31.13,35.32",
+      "centerPos": {
+        "lat": 31.13,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C1046/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD SHALEM (BSHLM), YAM-HAMELCH (BYMLH) EIN-GEDI (BNGDI), ZOHAR (BZHAR), YERUHAM (BYERU).)",
+      "validFrom": "2026-05-15T02:20:00.000Z",
+      "validTo": "2026-05-15T10:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD SHALEM (BSHLM), YAM-HAMELCH (BYMLH) EIN-GEDI (BNGDI), ZOHAR (BZHAR), YERUHAM (BYERU).)",
+      "mapLink": "https://www.google.com/maps?q=31.17,35.17",
+      "centerPos": {
+        "lat": 31.17,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "A0411/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-05-31T07:00:00.000Z",
+      "validTo": "2026-05-31T09:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C1045/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-17T12:00:00.000Z",
+      "validTo": "2026-05-18T12:30:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
     }
   ],
-  "totalCount": 1940,
-  "lastUpdated": "2026-05-14T03:13:46.669Z"
+  "totalCount": 1956,
+  "lastUpdated": "2026-05-15T03:15:21.467Z"
 }
