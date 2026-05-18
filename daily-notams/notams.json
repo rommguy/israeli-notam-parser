@@ -25427,8 +25427,125 @@
         "lat": 32.72,
         "lon": 35.4
       }
+    },
+    {
+      "id": "C1067/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "validFrom": "2026-05-18T05:45:00.000Z",
+      "validTo": "2026-05-20T19:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 500M AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 5,600FT AMSL 305601N0345345E 305639N0345421E 305835N0345532E 305830N0345551E 305823N0345645E 305636N0345624E 305641N0345601E 305507N0345517E CTN ADZ. F) GND G) 5600FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1065/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZZHOR-MESAR-RUHOT.)",
+      "validFrom": "2026-05-18T02:00:00.000Z",
+      "validTo": "2026-05-18T05:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZZHOR-MESAR-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.48,34.93",
+      "centerPos": {
+        "lat": 30.48,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1064/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "validFrom": "2026-05-18T02:00:00.000Z",
+      "validTo": "2026-05-18T05:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER-YRUHM.)",
+      "mapLink": "https://www.google.com/maps?q=30.77,35.03",
+      "centerPos": {
+        "lat": 30.77,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1063/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-18T05:00:00.000Z",
+      "validTo": "2026-05-18T15:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C1062/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD BTN GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 312146N0345424E 312113N0345729E 311954N0345652E 312019N0345339E. CTN ADZ.)",
+      "validFrom": "2026-05-20T14:00:00.000Z",
+      "validTo": "2026-05-21T04:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD BTN GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 312146N0345424E 312113N0345729E 311954N0345652E 312019N0345339E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.35,34.93",
+      "centerPos": {
+        "lat": 31.35,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1061/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-22T05:00:00.000Z",
+      "validTo": "2026-05-22T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0413/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-05-17T09:52:00.000Z",
+      "validTo": "2026-06-30T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.83",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0414/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-05-17T09:53:00.000Z",
+      "validTo": "2026-06-30T23:59:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2300-2359UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0415/26",
+      "icaoCode": "LLLL",
+      "description": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "validFrom": "2026-05-17T09:53:00.000Z",
+      "validTo": "2026-06-30T23:59:00.000Z",
+      "rawText": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=30.88,35.27",
+      "centerPos": {
+        "lat": 30.88,
+        "lon": 35.27
+      }
     }
   ],
-  "totalCount": 1956,
-  "lastUpdated": "2026-05-15T03:15:21.467Z"
+  "totalCount": 1965,
+  "lastUpdated": "2026-05-18T03:16:29.838Z"
 }
