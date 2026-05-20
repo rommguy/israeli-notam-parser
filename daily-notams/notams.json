@@ -25648,8 +25648,73 @@
         "lat": 32.55,
         "lon": 35.07
       }
+    },
+    {
+      "id": "C1087/26",
+      "icaoCode": "LLLL",
+      "description": "E) CTA CLSD AN AREA AT NEGBA BTN FLW PSN CLSD TO ALL FLT INC AGRICULTURE FLT, FM GND UP TO 1,000FT AMSL 314109N0344231E 314112N0344147E 314011N0344120E 313954N0344210E CTN ADZ.)",
+      "validFrom": "2026-05-20T07:00:00.000Z",
+      "validTo": "2026-05-20T19:00:00.000Z",
+      "rawText": "E) CTA CLSD AN AREA AT NEGBA BTN FLW PSN CLSD TO ALL FLT INC AGRICULTURE FLT, FM GND UP TO 1,000FT AMSL 314109N0344231E 314112N0344147E 314011N0344120E 313954N0344210E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.70",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "A0419/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "validFrom": "2026-05-20T04:30:00.000Z",
+      "validTo": "2026-05-20T16:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.40",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1086/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-20T04:00:00.000Z",
+      "validTo": "2026-05-20T15:00:00.000Z",
+      "rawText": "E) AN AREA AT YAVNIEL BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 6,000FT AMSL 324124N0353055E 324124N0352818E 324005N0352720E 323828N0352822E 323512N0352748E 323352N0352647E 323317N0353041E 324113N0353104E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.50",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C1085/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR OF AGRICULTURE FLT WITH 15MN PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-28T08:00:00.000Z",
+      "validTo": "2026-05-29T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR OF AGRICULTURE FLT WITH 15MN PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1084/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR OF AGRICULTURE FLT WITH 15MN PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-21T06:00:00.000Z",
+      "validTo": "2026-05-21T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR OF AGRICULTURE FLT WITH 15MN PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 1973,
-  "lastUpdated": "2026-05-19T03:15:20.215Z"
+  "totalCount": 1978,
+  "lastUpdated": "2026-05-20T03:15:06.741Z"
 }
