@@ -25713,8 +25713,242 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "A0422/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY T4 CLSD.)",
+      "validFrom": "2026-05-20T18:38:00.000Z",
+      "validTo": "2026-05-21T05:00:00.000Z",
+      "rawText": "E) TWY T4 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1105/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT LLMG TRG AREA NR B-WEST WI 2KM RADIUS CENTERED ON PSN 323530N0352120E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 11,000FT DUE POWERED PARACHUTE AND JET WING SUIT TEST FLT. CTN ADZ.)",
+      "validFrom": "2026-05-23T03:30:00.000Z",
+      "validTo": "2026-05-23T05:00:00.000Z",
+      "rawText": "E) AN AREA AT LLMG TRG AREA NR B-WEST WI 2KM RADIUS CENTERED ON PSN 323530N0352120E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 11,000FT DUE POWERED PARACHUTE AND JET WING SUIT TEST FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1103/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD BTN 1,500-2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 324701N0352345E 324616N0352137E 324113N0352351E 324227N0352603E. CTN ADZ.)",
+      "validFrom": "2026-05-26T08:30:00.000Z",
+      "validTo": "2026-05-27T02:10:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD BTN 1,500-2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 324701N0352345E 324616N0352137E 324113N0352351E 324227N0352603E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.40",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1104/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR. LLMZ-ARRAD.)",
+      "validFrom": "2026-05-27T05:00:00.000Z",
+      "validTo": "2026-05-27T08:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU-ZOHAR. LLMZ-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=31.25,35.17",
+      "centerPos": {
+        "lat": 31.25,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1102/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324550N0352304E CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-05-26T08:00:00.000Z",
+      "validTo": "2026-05-27T01:30:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 324550N0352304E CLSD FM GND UP TO 10,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.38",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1101/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-05-25T04:30:00.000Z",
+      "validTo": "2026-05-28T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1100/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YRUHM-DIMON.)",
+      "validFrom": "2026-05-25T10:00:00.000Z",
+      "validTo": "2026-05-25T12:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YRUHM-DIMON.)",
+      "mapLink": "https://www.google.com/maps?q=31.03,34.95",
+      "centerPos": {
+        "lat": 31.03,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1099/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-05-26T17:00:00.000Z",
+      "validTo": "2026-05-26T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.77,35.03",
+      "centerPos": {
+        "lat": 30.77,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1098/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "validFrom": "2026-05-25T17:00:00.000Z",
+      "validTo": "2026-05-25T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "mapLink": "https://www.google.com/maps?q=30.68,35.00",
+      "centerPos": {
+        "lat": 30.68,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1097/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AT 1,200FT, AVBL AT 800FT ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "validFrom": "2026-05-24T14:30:00.000Z",
+      "validTo": "2026-05-26T15:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AT 1,200FT, AVBL AT 800FT ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.77",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1096/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "validFrom": "2026-05-24T17:05:00.000Z",
+      "validTo": "2026-05-29T02:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR. SIZFN-SITIM-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT. SIZFN-YAHEL. ZZHOR-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.32,34.93",
+      "centerPos": {
+        "lat": 30.32,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1095/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RISHON LEZION AMPHITHEATRE LIVE PARK. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 315839N0344427E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-05-25T18:30:00.000Z",
+      "validTo": "2026-05-25T20:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RISHON LEZION AMPHITHEATRE LIVE PARK. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 315839N0344427E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.73",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C1094/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 323647N0350403E 323647N0350436E 323229N0350340E 323215N0350303E. CTN ADZ.)",
+      "validFrom": "2026-05-24T05:00:00.000Z",
+      "validTo": "2026-05-28T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. 323647N0350403E 323647N0350436E 323229N0350340E 323215N0350303E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1093/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 322811N0350124E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-24T05:00:00.000Z",
+      "validTo": "2026-05-28T19:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.5NM RADIUS CENTERED ON PSN 322811N0350124E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.02",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1092/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-05-24T03:00:00.000Z",
+      "validTo": "2026-05-28T11:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "A0421/26",
+      "icaoCode": "LLBG",
+      "description": "E) NIGHT RESTRICTIONS BTN 0140-0500LMT (2240-0200UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-05-20T07:30:00.000Z",
+      "validTo": "2026-06-30T23:59:00.000Z",
+      "rawText": "E) NIGHT RESTRICTIONS BTN 0140-0500LMT (2240-0200UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1091/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-28T08:00:00.000Z",
+      "validTo": "2026-05-29T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1090/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-05-21T06:00:00.000Z",
+      "validTo": "2026-05-21T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 1978,
-  "lastUpdated": "2026-05-20T03:15:06.741Z"
+  "totalCount": 1996,
+  "lastUpdated": "2026-05-21T03:16:15.346Z"
 }
