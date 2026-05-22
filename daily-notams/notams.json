@@ -25947,8 +25947,34 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C1107/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "validFrom": "2026-05-24T11:00:00.000Z",
+      "validTo": "2026-05-24T20:00:00.000Z",
+      "rawText": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0424/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY T4 CLSD.)",
+      "validFrom": "2026-05-21T07:39:00.000Z",
+      "validTo": "2026-05-24T10:00:00.000Z",
+      "rawText": "E) TWY T4 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1996,
-  "lastUpdated": "2026-05-21T03:16:15.346Z"
+  "totalCount": 1998,
+  "lastUpdated": "2026-05-22T03:15:36.580Z"
 }
