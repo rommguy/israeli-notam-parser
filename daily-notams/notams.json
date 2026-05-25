@@ -25973,8 +25973,73 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1110/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 311131N0350300E 310136N0350259E 310924N0345239E. CTN ADZ.)",
+      "validFrom": "2026-05-25T10:00:00.000Z",
+      "validTo": "2026-05-25T12:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 5,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 311131N0350300E 310136N0350259E 310924N0345239E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.12,34.98",
+      "centerPos": {
+        "lat": 31.12,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C1109/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-25T05:00:00.000Z",
+      "validTo": "2026-05-28T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.07",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1108/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-25T06:00:00.000Z",
+      "validTo": "2026-05-25T19:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0426/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY T4 CLSD.)",
+      "validFrom": "2026-05-24T08:43:00.000Z",
+      "validTo": "2026-05-31T14:00:00.000Z",
+      "rawText": "E) TWY T4 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0425/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "validFrom": "2026-05-24T06:00:00.000Z",
+      "validTo": "2026-05-28T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 1998,
-  "lastUpdated": "2026-05-22T03:15:36.580Z"
+  "totalCount": 2003,
+  "lastUpdated": "2026-05-25T03:17:21.748Z"
 }
