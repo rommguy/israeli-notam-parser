@@ -26779,8 +26779,34 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "A0446/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "validFrom": "2026-05-31T14:30:00.000Z",
+      "validTo": "2026-05-31T23:30:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.25",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1174/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-05-31T14:30:00.000Z",
+      "validTo": "2026-05-31T23:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 2060,
-  "lastUpdated": "2026-05-29T03:18:15.148Z"
+  "totalCount": 2062,
+  "lastUpdated": "2026-05-31T03:16:33.710Z"
 }
