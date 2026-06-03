@@ -26961,8 +26961,60 @@
         "lat": 31.48,
         "lon": 34.83
       }
+    },
+    {
+      "id": "A0452/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "validFrom": "2026-06-03T05:00:00.000Z",
+      "validTo": "2026-06-03T14:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.17",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1202/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY 323430N0351505E 323110N0352825E 322717N0352712E 323134N0351417E. CTN ADZ.)",
+      "validFrom": "2026-06-03T05:00:00.000Z",
+      "validTo": "2026-06-03T14:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY 323430N0351505E 323110N0352825E 322717N0352712E 323134N0351417E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.35",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0451/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-07-07T05:25:00.000Z",
+      "validTo": "2026-07-07T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C1201/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-06-04T11:30:00.000Z",
+      "validTo": "2026-06-05T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 2074,
-  "lastUpdated": "2026-06-02T03:18:30.360Z"
+  "totalCount": 2078,
+  "lastUpdated": "2026-06-03T03:17:52.441Z"
 }
