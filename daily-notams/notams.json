@@ -27013,8 +27013,164 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "A0454/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN GIMIK-BARZI.)",
+      "validFrom": "2026-06-04T04:30:00.000Z",
+      "validTo": "2026-06-04T12:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN GIMIK-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.55",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.55
+      }
+    },
+    {
+      "id": "C1212/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD BTN DESHE-ZAMID.)",
+      "validFrom": "2026-06-04T04:30:00.000Z",
+      "validTo": "2026-06-04T12:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD BTN DESHE-ZAMID.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.53",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.53
+      }
+    },
+    {
+      "id": "C1211/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT AMIAD BTN FLW PSN CLSD FM GND UP TO 8,200FT AMSL TO ALL FLT 325401N0352953E 325611N0352952E 325611N0353237E 325359N0353238E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ.)",
+      "validFrom": "2026-06-04T04:30:00.000Z",
+      "validTo": "2026-06-04T12:00:00.000Z",
+      "rawText": "E) AN AREA AT AMIAD BTN FLW PSN CLSD FM GND UP TO 8,200FT AMSL TO ALL FLT 325401N0352953E 325611N0352952E 325611N0353237E 325359N0353238E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.52",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.52
+      }
+    },
+    {
+      "id": "C1210/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE BSEMS-NAHEM-MKGAT CLSD.)",
+      "validFrom": "2026-06-04T09:30:00.000Z",
+      "validTo": "2026-06-04T11:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE BSEMS-NAHEM-MKGAT CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.90",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1209/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323931N0350044E CLSD FM GND UP TO 1,640FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-06-04T04:00:00.000Z",
+      "validTo": "2026-06-04T20:59:00.000Z",
+      "rawText": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323931N0350044E CLSD FM GND UP TO 1,640FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,35.00",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1208/26",
+      "icaoCode": "LLHD",
+      "description": "E) ROOF HELIPAD TEMPO CLSD. GROUND HELIPAD AVBL.)",
+      "validFrom": "2026-06-03T12:29:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) ROOF HELIPAD TEMPO CLSD. GROUND HELIPAD AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=31.77,35.15",
+      "centerPos": {
+        "lat": 31.77,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C1207/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-06-05T05:00:00.000Z",
+      "validTo": "2026-06-05T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0453/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-06-14T06:00:00.000Z",
+      "validTo": "2026-06-14T11:00:00.000Z",
+      "rawText": "E) VOR/DME BSA FREQ 114.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1206/26",
+      "icaoCode": "LLLL",
+      "description": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "validFrom": "2026-06-03T10:42:00.000Z",
+      "validTo": "2026-06-30T15:00:00.000Z",
+      "rawText": "E) FRNG WILL TAKE PLACE AT RAMAT-BEKA WI LLP14. AN AREA BTN THE FLW PSN 310542N0345314E 310541N0345352E 310509N0345351E 310453N0345313E CLSD FM GND UP TO 12,000FT AMSL. CTN ADZ. F) GND G) 12000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.08,34.90",
+      "centerPos": {
+        "lat": 31.08,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1205/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 1,200FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310350N0344739E 310712N0344550. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "validFrom": "2026-06-10T06:00:00.000Z",
+      "validTo": "2026-06-10T07:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 1,200FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310350N0344739E 310712N0344550. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1204/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324910N0351137E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-06-07T02:10:00.000Z",
+      "validTo": "2026-06-08T02:10:00.000Z",
+      "rawText": "E) AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324910N0351137E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.18",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C1203/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-06-07T02:10:00.000Z",
+      "validTo": "2026-06-08T02:10:00.000Z",
+      "rawText": "E) AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.17",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 2078,
-  "lastUpdated": "2026-06-03T03:17:52.441Z"
+  "totalCount": 2090,
+  "lastUpdated": "2026-06-04T03:18:27.044Z"
 }
