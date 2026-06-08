@@ -27312,8 +27312,60 @@
         "lat": 30.97,
         "lon": 34.93
       }
+    },
+    {
+      "id": "C1228/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 5,000FT AMSL 315215N0345324E 314846N0345400E 314535N0345810E 314910N0345806E. CTN ADZ.)",
+      "validFrom": "2026-06-10T09:40:00.000Z",
+      "validTo": "2026-06-10T10:20:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 5,000FT AMSL 315215N0345324E 314846N0345400E 314535N0345810E 314910N0345806E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.82,34.93",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1227/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 5,000FT AMSL 311154N0342400E 310534N0341857E 310312N0341958E 305607N0343713E 305738N0344049E 310103N0344047E. CTN ADZ.)",
+      "validFrom": "2026-06-09T02:10:00.000Z",
+      "validTo": "2026-06-10T06:10:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT FM GND UP TO 5,000FT AMSL 311154N0342400E 310534N0341857E 310312N0341958E 305607N0343713E 305738N0344049E 310103N0344047E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.52",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.52
+      }
+    },
+    {
+      "id": "C1226/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352425E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-06-08T08:00:00.000Z",
+      "validTo": "2026-06-09T18:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.1NM RADIUS CENTERED ON PSN 324241N0352425E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0456/26",
+      "icaoCode": "LLLL",
+      "description": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "validFrom": "2026-06-07T08:06:00.000Z",
+      "validTo": "2026-06-30T23:59:00.000Z",
+      "rawText": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
     }
   ],
-  "totalCount": 2101,
-  "lastUpdated": "2026-06-05T03:17:05.167Z"
+  "totalCount": 2105,
+  "lastUpdated": "2026-06-08T03:18:02.220Z"
 }
