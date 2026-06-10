@@ -27481,8 +27481,86 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "A0466/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "validFrom": "2026-06-10T05:00:00.000Z",
+      "validTo": "2026-06-10T14:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.17",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1243/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT 323032N0351819E 323005N0351949E 323016N0352040E 323150N0352040E 323147N0351905E CTN ADZ.)",
+      "validFrom": "2026-06-10T05:00:00.000Z",
+      "validTo": "2026-06-10T14:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT 323032N0351819E 323005N0351949E 323016N0352040E 323150N0352040E 323147N0351905E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.33",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C1242/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323343N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-06-14T02:30:00.000Z",
+      "validTo": "2026-06-18T10:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323343N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C1241/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 1700 AMSL 311202N0342326E 311131N0342309E 310944N0343145E 311035N0343201E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-06-10T05:00:00.000Z",
+      "validTo": "2026-06-10T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 1700 AMSL 311202N0342326E 311131N0342309E 310944N0343145E 311035N0343201E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.18,34.47",
+      "centerPos": {
+        "lat": 31.18,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "A0465/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE CRANE.)",
+      "validFrom": "2026-06-09T16:00:00.000Z",
+      "validTo": "2026-06-11T02:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1240/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 1,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY 322859N0350205E 322852N0350131E 322811N0350113E 322700N0350111E 322606N0350138E 322648N0350212E 322729N0350212E 322755N0350203E 322824N0350214E 322826N0350212E. CTN ADZ.)",
+      "validFrom": "2026-06-14T11:00:00.000Z",
+      "validTo": "2026-06-19T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 1,000FT AMSL, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY 322859N0350205E 322852N0350131E 322811N0350113E 322700N0350111E 322606N0350138E 322648N0350212E 322729N0350212E 322755N0350203E 322824N0350214E 322826N0350212E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.03",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.03
+      }
     }
   ],
-  "totalCount": 2114,
-  "lastUpdated": "2026-06-09T03:15:17.877Z"
+  "totalCount": 2120,
+  "lastUpdated": "2026-06-10T03:15:36.766Z"
 }
