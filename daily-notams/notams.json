@@ -27559,8 +27559,112 @@
         "lat": 32.47,
         "lon": 35.03
       }
+    },
+    {
+      "id": "C1252/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 1,700FT AMSL 311202N0342326E 311131N0342309E 310944N0343145E 311035N0343201E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-06-11T05:00:00.000Z",
+      "validTo": "2026-06-11T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 1,700FT AMSL 311202N0342326E 311131N0342309E 310944N0343145E 311035N0343201E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.18,34.47",
+      "centerPos": {
+        "lat": 31.18,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C1251/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-06-12T10:00:00.000Z",
+      "validTo": "2026-06-12T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1250/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-06-11T10:45:00.000Z",
+      "validTo": "2026-06-12T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1249/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT HAVAT-RONIT. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 321349N0345018E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-06-15T18:00:00.000Z",
+      "validTo": "2026-06-15T20:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT HAVAT-RONIT. AN AREA WI 0.3KM RADIUS CENTERED ON PSN 321349N0345018E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.23,34.83",
+      "centerPos": {
+        "lat": 32.23,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C1246/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT ZIV-HOSPITAL/TZFAT. WI 0.4KM RADIUS CENTERED ON PSN 325715N0352934E FM GND UP TO 30M AGL, 2,200FT AMSL. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-06-10T10:24:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT ZIV-HOSPITAL/TZFAT. WI 0.4KM RADIUS CENTERED ON PSN 325715N0352934E FM GND UP TO 30M AGL, 2,200FT AMSL. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.50",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "A0468/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 30 CHG TO 500(370) FOR ALL CAT.)",
+      "validFrom": "2026-06-10T06:47:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 30 CHG TO 500(370) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.87",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "A0467/26",
+      "icaoCode": "LLER",
+      "description": "E) PAPI RWY 19 EAST U/S.)",
+      "validFrom": "2026-06-10T05:37:00.000Z",
+      "validTo": "2026-09-10T23:59:00.000Z",
+      "rawText": "E) PAPI RWY 19 EAST U/S.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1244/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLER TRG AREA HAR BERECH CLSD TO ALL FLT.)",
+      "validFrom": "2026-06-10T05:37:00.000Z",
+      "validTo": "2026-09-10T23:59:00.000Z",
+      "rawText": "E) LLER TRG AREA HAR BERECH CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=29.77,34.92",
+      "centerPos": {
+        "lat": 29.77,
+        "lon": 34.92
+      }
     }
   ],
-  "totalCount": 2120,
-  "lastUpdated": "2026-06-10T03:15:36.766Z"
+  "totalCount": 2128,
+  "lastUpdated": "2026-06-11T03:14:13.053Z"
 }
