@@ -27897,8 +27897,112 @@
         "lat": 33.08,
         "lon": 35.78
       }
+    },
+    {
+      "id": "A0474/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "validFrom": "2026-06-15T05:00:00.000Z",
+      "validTo": "2026-06-15T14:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.17",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1280/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 323032N0351819E 323005N0351949E 323016N0352040E 323150N0352040E 323147N0351905E. CTN ADZ.)",
+      "validFrom": "2026-06-15T05:00:00.000Z",
+      "validTo": "2026-06-15T14:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 323032N0351819E 323005N0351949E 323016N0352040E 323150N0352040E 323147N0351905E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.33",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C1279/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT KFAR-KANA WI LLMG TRG AREA NR A-WEST (BMGWA). AN AREA WI 1NM RADIUS CENTERED ON PSN 324409N0352050E CLSD FM GND UP TO 2,100FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2100FT AMSL)",
+      "validFrom": "2026-06-14T12:45:00.000Z",
+      "validTo": "2026-06-19T23:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT KFAR-KANA WI LLMG TRG AREA NR A-WEST (BMGWA). AN AREA WI 1NM RADIUS CENTERED ON PSN 324409N0352050E CLSD FM GND UP TO 2,100FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2100FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.35",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1278/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT EITANIM-HOSPITAL. AN AREA WI 500M RADIUS CENTERED ON PSN 314643N0350539E FM GND UP TO 100M AGL, 2,800FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. XNG CLOSURE BY PPR FM FLW ALON KLOSS 052-9459432, HATEM SAAD 052-5582412. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-06-15T07:00:00.000Z",
+      "validTo": "2026-07-31T15:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT EITANIM-HOSPITAL. AN AREA WI 500M RADIUS CENTERED ON PSN 314643N0350539E FM GND UP TO 100M AGL, 2,800FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. XNG CLOSURE BY PPR FM FLW ALON KLOSS 052-9459432, HATEM SAAD 052-5582412. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.78,35.10",
+      "centerPos": {
+        "lat": 31.78,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "A0473/26",
+      "icaoCode": "LLER",
+      "description": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-06-18T06:00:00.000Z",
+      "validTo": "2026-06-18T08:00:00.000Z",
+      "rawText": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1275/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "validFrom": "2026-06-18T03:00:00.000Z",
+      "validTo": "2026-06-18T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN FM GND UP TO 5,500FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C1274/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "validFrom": "2026-06-15T07:00:00.000Z",
+      "validTo": "2026-06-17T13:30:00.000Z",
+      "rawText": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "A0472/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD INCLUDING RWY INT DUE WIP.)",
+      "validFrom": "2026-06-15T06:00:00.000Z",
+      "validTo": "2026-06-15T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD INCLUDING RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2146,
-  "lastUpdated": "2026-06-14T03:17:27.438Z"
+  "totalCount": 2154,
+  "lastUpdated": "2026-06-15T03:18:27.387Z"
 }
