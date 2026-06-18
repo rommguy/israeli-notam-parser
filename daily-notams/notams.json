@@ -28261,8 +28261,138 @@
         "lat": 32.92,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C1317/26",
+      "icaoCode": "LLIB",
+      "description": "E) DEP/ARR AVBL VIA SOUTH ENTRY/EXIT ONLY. OPS OF ACFT AVBL WITH MAX 10 PAX ON BOARD. PJE PROHIBITED.)",
+      "validFrom": "2026-06-19T04:00:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) DEP/ARR AVBL VIA SOUTH ENTRY/EXIT ONLY. OPS OF ACFT AVBL WITH MAX 10 PAX ON BOARD. PJE PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1316/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "validFrom": "2026-06-17T16:03:00.000Z",
+      "validTo": "2026-06-30T20:59:00.000Z",
+      "rawText": "E) LLIB TRG AREA NR A AND B CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=33.13,35.60",
+      "centerPos": {
+        "lat": 33.13,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "A0479/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN BARZI-ROP.)",
+      "validFrom": "2026-06-17T15:11:00.000Z",
+      "validTo": "2026-06-18T20:59:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN BARZI-ROP.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.55",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.55
+      }
+    },
+    {
+      "id": "C1314/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 325903N0353013E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-06-18T05:30:00.000Z",
+      "validTo": "2026-06-18T17:00:00.000Z",
+      "rawText": "E) AN AREA WI 1NM RADIUS CENTERED ON PSN 325903N0353013E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.50",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C1313/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT EITANIM-HOSPITAL. AN AREA WI 500M RADIUS CENTERED ON PSN 314643N0350539E FM GND UP TO 100M AGL, 2,800FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. XNG CLOSURE BY PPR FM FLW ALON KLOSS 052-9459432, HATEM SAAD 052-5582412, 04-9523999. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-06-17T12:35:00.000Z",
+      "validTo": "2026-07-31T15:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT EITANIM-HOSPITAL. AN AREA WI 500M RADIUS CENTERED ON PSN 314643N0350539E FM GND UP TO 100M AGL, 2,800FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. XNG CLOSURE BY PPR FM FLW ALON KLOSS 052-9459432, HATEM SAAD 052-5582412, 04-9523999. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.78,35.10",
+      "centerPos": {
+        "lat": 31.78,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C1311/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH.)",
+      "validFrom": "2026-06-22T17:50:00.000Z",
+      "validTo": "2026-06-22T18:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH.)",
+      "mapLink": "https://www.google.com/maps?q=30.15,35.10",
+      "centerPos": {
+        "lat": 30.15,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C1307/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 331548N0354443E CLSD FM GND UP TO 6,000 FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-06-18T09:00:00.000Z",
+      "validTo": "2026-06-18T19:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 331548N0354443E CLSD FM GND UP TO 6,000 FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.27,35.75",
+      "centerPos": {
+        "lat": 33.27,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "A0478/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-06-29T07:00:00.000Z",
+      "validTo": "2026-06-29T12:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C1306/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-06-23T05:30:00.000Z",
+      "validTo": "2026-06-23T22:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1305/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "validFrom": "2026-06-23T10:00:00.000Z",
+      "validTo": "2026-06-23T12:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT-OVDAT.)",
+      "mapLink": "https://www.google.com/maps?q=30.68,35.00",
+      "centerPos": {
+        "lat": 30.68,
+        "lon": 35
+      }
     }
   ],
-  "totalCount": 2174,
-  "lastUpdated": "2026-06-17T03:16:21.274Z"
+  "totalCount": 2184,
+  "lastUpdated": "2026-06-18T03:15:45.177Z"
 }
