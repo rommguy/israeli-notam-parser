@@ -28469,8 +28469,34 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C1329/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.7NM RADIUS CENTERED ON PSN 325903N0353013E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-06-21T05:00:00.000Z",
+      "validTo": "2026-06-25T17:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.7NM RADIUS CENTERED ON PSN 325903N0353013E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.50",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C1328/26",
+      "icaoCode": "LLIB",
+      "description": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)",
+      "validFrom": "2026-06-20T07:05:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) REFUELING ALL TYP OF AIRCRAFT/HEL NOT AVBL.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2190,
-  "lastUpdated": "2026-06-19T03:17:12.315Z"
+  "totalCount": 2192,
+  "lastUpdated": "2026-06-21T03:17:28.483Z"
 }
