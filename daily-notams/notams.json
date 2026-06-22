@@ -28495,8 +28495,99 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "A0482/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-MEGID.)",
+      "validFrom": "2026-06-22T06:00:00.000Z",
+      "validTo": "2026-06-22T13:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-MEGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.45,35.12",
+      "centerPos": {
+        "lat": 32.45,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1334/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT CARMEL-TZAFON. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 324048N0350226E 324031N0350305E 323627N0345931E 323656N0345854E. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-06-22T05:00:00.000Z",
+      "validTo": "2026-06-22T17:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT CARMEL-TZAFON. AN AREA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC 324048N0350226E 324031N0350305E 323627N0345931E 323656N0345854E. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.65,35.02",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1333/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-06-25T09:30:00.000Z",
+      "validTo": "2026-06-26T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1332/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-06-28T03:00:00.000Z",
+      "validTo": "2026-07-02T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1331/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-06-22T02:30:00.000Z",
+      "validTo": "2026-06-24T09:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "A0481/26",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT OR FM ATC. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2026-07-02T15:30:00.000Z",
+      "validTo": "2026-07-02T17:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT OR FM ATC. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0480/26",
+      "icaoCode": "LLER",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "validFrom": "2026-06-29T15:40:00.000Z",
+      "validTo": "2026-06-29T18:10:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 2192,
-  "lastUpdated": "2026-06-21T03:17:28.483Z"
+  "totalCount": 2199,
+  "lastUpdated": "2026-06-22T03:18:12.649Z"
 }
