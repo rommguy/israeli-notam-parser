@@ -28586,8 +28586,60 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C1342/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT JULIS BTN FLW PSN CLSD FM GND UP TO 800FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 313748N0343932E 313954N0343934E 313843N0344220E 313747N0344220E CTN ADZ.)",
+      "validFrom": "2026-06-23T07:00:00.000Z",
+      "validTo": "2026-06-23T19:30:00.000Z",
+      "rawText": "E) AN AREA AT JULIS BTN FLW PSN CLSD FM GND UP TO 800FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC 313748N0343932E 313954N0343934E 313843N0344220E 313747N0344220E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.68",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "A0483/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "validFrom": "2026-06-23T06:00:00.000Z",
+      "validTo": "2026-06-23T13:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-MEGID.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.17",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1338/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR HEL AND ULTRALIGHT RTE CLSD LLRS-SUPER-TYONA.)",
+      "validFrom": "2026-06-23T09:00:00.000Z",
+      "validTo": "2026-06-23T16:45:00.000Z",
+      "rawText": "E) CVFR HEL AND ULTRALIGHT RTE CLSD LLRS-SUPER-TYONA.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.75",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C1337/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT RISHON LE-ZION WI LLRS/LLPL CTR BTN FLW PSN CLSD FM GND UP TO 700FT AMSL, TO ALL FLT DUE FIREFIGHTING ACT 320047N0344208E 315913N0344529E 315839N0344521E 315957N0344139E CTN ADZ.)",
+      "validFrom": "2026-06-23T09:00:00.000Z",
+      "validTo": "2026-06-23T16:45:00.000Z",
+      "rawText": "E) AN AREA AT RISHON LE-ZION WI LLRS/LLPL CTR BTN FLW PSN CLSD FM GND UP TO 700FT AMSL, TO ALL FLT DUE FIREFIGHTING ACT 320047N0344208E 315913N0344529E 315839N0344521E 315957N0344139E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.73",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.73
+      }
     }
   ],
-  "totalCount": 2199,
-  "lastUpdated": "2026-06-22T03:18:12.649Z"
+  "totalCount": 2203,
+  "lastUpdated": "2026-06-23T03:14:28.389Z"
 }
