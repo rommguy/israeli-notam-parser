@@ -28638,8 +28638,86 @@
         "lat": 32,
         "lon": 34.73
       }
+    },
+    {
+      "id": "A0487/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 26 CHG TO 500(376) FOR ALL CAT.)",
+      "validFrom": "2026-06-23T14:20:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 26 CHG TO 500(376) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0486/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 21 CHG TO 500(366) FOR ALL CAT.)",
+      "validFrom": "2026-06-23T14:18:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 21 CHG TO 500(366) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0485/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 12 CHG TO 500(397) FOR ALL CAT.)",
+      "validFrom": "2026-06-23T14:12:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 12 CHG TO 500(397) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0484/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "validFrom": "2026-06-23T14:03:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1347/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310350N0344739E 310712N0344550. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-06-24T07:00:00.000Z",
+      "validTo": "2026-06-25T07:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310350N0344739E 310712N0344550. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1345/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT SEGULA JUNCTION, WI 0.65NM RADIUS CENTERED ON PSN 320612N0345420E FM GND UP TO 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-07-01T00:01:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT SEGULA JUNCTION, WI 0.65NM RADIUS CENTERED ON PSN 320612N0345420E FM GND UP TO 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.10,34.90",
+      "centerPos": {
+        "lat": 32.1,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 2203,
-  "lastUpdated": "2026-06-23T03:14:28.389Z"
+  "totalCount": 2209,
+  "lastUpdated": "2026-06-24T03:14:49.421Z"
 }
