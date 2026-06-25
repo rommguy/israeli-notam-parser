@@ -28716,8 +28716,203 @@
         "lat": 32.1,
         "lon": 34.9
       }
+    },
+    {
+      "id": "C1356/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT DALIA/TZAFIT, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,400FT AMSL 314353N0345038E 314339N0345010E 314221N0344925E 314150N0345023E 314222N0345118E 314323N0345123E. CTN ADZ. F) GND G) 1400FT AMSL)",
+      "validFrom": "2026-06-24T17:09:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT DALIA/TZAFIT, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,400FT AMSL 314353N0345038E 314339N0345010E 314221N0344925E 314150N0345023E 314222N0345118E 314323N0345123E. CTN ADZ. F) GND G) 1400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.72,34.83",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0500/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 26 CHG TO 500(376) FOR ALL CAT.)",
+      "validFrom": "2026-06-24T16:41:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 26 CHG TO 500(376) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0501/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 30 CHG TO 500(370) FOR ALL CAT.)",
+      "validFrom": "2026-06-24T16:42:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 30 CHG TO 500(370) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.87",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "A0497/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "validFrom": "2026-06-24T16:39:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0498/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 12 CHG TO 500(397) FOR ALL CAT.)",
+      "validFrom": "2026-06-24T16:40:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 12 CHG TO 500(397) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0499/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 21 CHG TO 500(366) FOR ALL CAT.)",
+      "validFrom": "2026-06-24T16:40:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 21 CHG TO 500(366) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1355/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD NSHRM-SHLVM.)",
+      "validFrom": "2026-06-25T13:00:00.000Z",
+      "validTo": "2026-06-25T23:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD NSHRM-SHLVM.)",
+      "mapLink": "https://www.google.com/maps?q=31.88,34.93",
+      "centerPos": {
+        "lat": 31.88,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1354/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT MODIIN WI 0.5NM RADIUS CENTERED ON PSN 315305N0345732 CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-06-25T13:00:00.000Z",
+      "validTo": "2026-06-25T23:00:00.000Z",
+      "rawText": "E) AN AREA AT MODIIN WI 0.5NM RADIUS CENTERED ON PSN 315305N0345732 CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.88,34.97",
+      "centerPos": {
+        "lat": 31.88,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C1353/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 330403N0354328E 330344N0354250E 330322N0354258E 330259N0354301E 330314N0354356E. CTN ADZ.)",
+      "validFrom": "2026-06-24T15:28:00.000Z",
+      "validTo": "2026-06-25T07:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS BTN FLW PSN CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 330403N0354328E 330344N0354250E 330322N0354258E 330259N0354301E 330314N0354356E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.05,35.72",
+      "centerPos": {
+        "lat": 33.05,
+        "lon": 35.72
+      }
+    },
+    {
+      "id": "C1352/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD HOVAV-SOKET-OMMER. HEL RTE CLSD OMMER-SOKET.)",
+      "validFrom": "2026-06-24T17:00:00.000Z",
+      "validTo": "2026-06-25T05:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD HOVAV-SOKET-OMMER. HEL RTE CLSD OMMER-SOKET.)",
+      "mapLink": "https://www.google.com/maps?q=31.23,34.85",
+      "centerPos": {
+        "lat": 31.23,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C1351/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OMMER BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 311705N0345112E 311558N0345111E 311559N0345320E 311649N0345344E 311707N0345300E. CTN ADZ.)",
+      "validFrom": "2026-06-24T17:00:00.000Z",
+      "validTo": "2026-06-25T05:00:00.000Z",
+      "rawText": "E) AN AREA AT OMMER BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 311705N0345112E 311558N0345111E 311559N0345320E 311649N0345344E 311707N0345300E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.87",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C1350/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-06-28T14:00:00.000Z",
+      "validTo": "2026-06-30T03:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0490/26",
+      "icaoCode": "LLER",
+      "description": "E) GP RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-06-28T07:30:00.000Z",
+      "validTo": "2026-06-28T09:00:00.000Z",
+      "rawText": "E) GP RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0488/26",
+      "icaoCode": "LLER",
+      "description": "E) GP RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-06-28T06:00:00.000Z",
+      "validTo": "2026-06-28T07:30:00.000Z",
+      "rawText": "E) GP RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,35.02",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1348/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-07-01T00:01:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.30",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.3
+      }
     }
   ],
-  "totalCount": 2209,
-  "lastUpdated": "2026-06-24T03:14:49.421Z"
+  "totalCount": 2224,
+  "lastUpdated": "2026-06-25T03:15:03.965Z"
 }
