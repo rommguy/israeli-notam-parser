@@ -29080,8 +29080,34 @@
         "lat": 31.72,
         "lon": 34.83
       }
+    },
+    {
+      "id": "C1374/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA CENCTERED AT 314042N0345936E, WITHIN ULTRALIGHT BUBBLE GOVRIN SOUTH (BGOVS) CLSD TO ALL FLTS UP TO 4,500FT AMSL. OPS OF AGRICULTURE FLTS BY 15 MIN PPR FROM ACC CTN ADZ.)",
+      "validFrom": "2026-06-27T11:00:00.000Z",
+      "validTo": "2026-06-28T21:01:00.000Z",
+      "rawText": "E) AN AREA CENCTERED AT 314042N0345936E, WITHIN ULTRALIGHT BUBBLE GOVRIN SOUTH (BGOVS) CLSD TO ALL FLTS UP TO 4,500FT AMSL. OPS OF AGRICULTURE FLTS BY 15 MIN PPR FROM ACC CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.98",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "A0502/26",
+      "icaoCode": "LLBG",
+      "description": "E) TWY N CLSD BTN E-R.)",
+      "validFrom": "2026-06-26T11:00:00.000Z",
+      "validTo": "2026-06-28T08:00:00.000Z",
+      "rawText": "E) TWY N CLSD BTN E-R.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2237,
-  "lastUpdated": "2026-06-26T03:16:02.201Z"
+  "totalCount": 2239,
+  "lastUpdated": "2026-06-27T03:13:44.801Z"
 }
