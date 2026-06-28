@@ -29106,8 +29106,34 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1381/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 2,000FT AMSL. 322335N0345742E 322333N0345719E 322257N0345645E 322301N0345755E. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-06-28T12:00:00.000Z",
+      "validTo": "2026-06-28T20:59:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 2,000FT AMSL. 322335N0345742E 322333N0345719E 322257N0345645E 322301N0345755E. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1380/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 8,000FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-06-28T04:00:00.000Z",
+      "validTo": "2026-07-02T20:59:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 8,000FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.48,34.83",
+      "centerPos": {
+        "lat": 31.48,
+        "lon": 34.83
+      }
     }
   ],
-  "totalCount": 2239,
-  "lastUpdated": "2026-06-27T03:13:44.801Z"
+  "totalCount": 2241,
+  "lastUpdated": "2026-06-28T03:15:54.332Z"
 }
