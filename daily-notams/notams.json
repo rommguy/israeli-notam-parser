@@ -29652,8 +29652,190 @@
         "lat": 32.5,
         "lon": 34.92
       }
+    },
+    {
+      "id": "C1434/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT KFAR-HAMACABIYA WI LLBG CTR, FM GND UP TO 100M AGL, BTN FLW PSN 320311N0344907E 320325N0344914E 320339N0344932E 320337N0344953E 320328N0345004E 320315N0345005E 320303N0344959E 320255N0344950E 320253N0344937E 320258N0344917E CTN ADZ. F) GND G) 830FT AMSL)",
+      "validFrom": "2026-07-01T00:01:00.000Z",
+      "validTo": "2026-07-24T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT KFAR-HAMACABIYA WI LLBG CTR, FM GND UP TO 100M AGL, BTN FLW PSN 320311N0344907E 320325N0344914E 320339N0344932E 320337N0344953E 320328N0345004E 320315N0345005E 320303N0344959E 320255N0344950E 320253N0344937E 320258N0344917E CTN ADZ. F) GND G) 830FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.05,34.83",
+      "centerPos": {
+        "lat": 32.05,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0513/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-07-01T07:30:00.000Z",
+      "validTo": "2026-07-02T11:30:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1432/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 2,800FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-07-07T06:00:00.000Z",
+      "validTo": "2026-07-08T09:30:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 2,800FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.50",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.5
+      }
+    },
+    {
+      "id": "C1431/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "validFrom": "2026-07-01T07:30:00.000Z",
+      "validTo": "2026-07-02T11:30:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1430/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI HASSHRON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321645N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTNA ADZ.)",
+      "validFrom": "2026-07-01T07:30:00.000Z",
+      "validTo": "2026-07-02T11:30:00.000Z",
+      "rawText": "E) AN AREA WI HASSHRON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321645N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTNA ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.32,34.98",
+      "centerPos": {
+        "lat": 32.32,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C1428/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT MAAGAN-MICHAEL. AN AREA CLSD FM GND UP TO 500FT AMSL BTN FLW PSN 323417N0345438E 323224N0345407E 323251N0345340E 323422N0345420E. AN AREA CLSD FM GND UP TO 1,000FT AMSL BTN FLW PSN 323307N0345328E 323429N0345352E 323422N0345420E 323251N0345340E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-07-05T05:00:00.000Z",
+      "validTo": "2026-07-06T14:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT MAAGAN-MICHAEL. AN AREA CLSD FM GND UP TO 500FT AMSL BTN FLW PSN 323417N0345438E 323224N0345407E 323251N0345340E 323422N0345420E. AN AREA CLSD FM GND UP TO 1,000FT AMSL BTN FLW PSN 323307N0345328E 323429N0345352E 323422N0345420E 323251N0345340E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,34.90",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1427/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT MAAGAN-MICHAEL. AN AREA CLSD FM GND UP TO 500FT AMSL BTN FLW PSN 323417N0345438E 323224N0345407E 323251N0345340E 323422N0345420E. AN AREA CLSD FM GND UP TO 1,000FT AMSL BTN FLW PSN 323307N0345328E 323429N0345352E 323422N0345420E 323251N0345340E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-07-01T05:00:00.000Z",
+      "validTo": "2026-07-01T13:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT MAAGAN-MICHAEL. AN AREA CLSD FM GND UP TO 500FT AMSL BTN FLW PSN 323417N0345438E 323224N0345407E 323251N0345340E 323422N0345420E. AN AREA CLSD FM GND UP TO 1,000FT AMSL BTN FLW PSN 323307N0345328E 323429N0345352E 323422N0345420E 323251N0345340E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,34.90",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1426/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS BUBBLE ESHKOL-EAST AND WEST CLSD DUE FLYPAST.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) MINI UAS BUBBLE ESHKOL-EAST AND WEST CLSD DUE FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.18,34.33",
+      "centerPos": {
+        "lat": 31.18,
+        "lon": 34.33
+      }
+    },
+    {
+      "id": "C1425/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS BUBBLE KEREN-TZAFON AND DAROM CLSD DUE FLYPAST.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) MINI UAS BUBBLE KEREN-TZAFON AND DAROM CLSD DUE FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.52",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.52
+      }
+    },
+    {
+      "id": "C1423/26",
+      "icaoCode": "LLGV",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT INCLUDING AGRICULTURE FLT DUE FLYPAST.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT INCLUDING AGRICULTURE FLT DUE FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.23,34.47",
+      "centerPos": {
+        "lat": 31.23,
+        "lon": 34.47
+      }
+    },
+    {
+      "id": "C1424/26",
+      "icaoCode": "LLUR",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT INCLUDING AGRICULTURE FLT DUE FLYPAST.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT INCLUDING AGRICULTURE FLT DUE FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.27,34.53",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 34.53
+      }
+    },
+    {
+      "id": "C1422/26",
+      "icaoCode": "LLBS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT DUE FLYPAST.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT DUE FLYPAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1421/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD DUE FLYPAST. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD DUE FLYPAST. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1420/26",
+      "icaoCode": "LLLL",
+      "description": "E) DUE FLYPAST, CVFR RTE CLSD NASIH-MINGV-SOVAL-BKAMA. KUVSH-LLBS-NASIH. KUVSH-NCITY-OMMER-BKAMA. NCITY-ZGOAL. TLLIM-NEGEV-HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV-BKAMA. BKAMA-LAHAV-SOKET-MYTAR-TARAD-ARRAD-ZOHAR. MMORR-ARRAD-LLMZ. HOVAV-SOKET. ULTRALIGHT RTE CLSD LLBS-NASIH-MINGV-BKAMA. HEL RTE CLSD MAONN-URRIM-PATIS-GILAT-NASIH. GILAT-TIDHR-NTVOT-SDROT. LLBS-NASIH-MINGV-BKAMA. TLLIM-NEGEV-HOVAV-OHLIM-ZSARA. ZSARA-OMMER-ZGOAL-ZLHAV-BKAMA. OMMER-SOKET-MYTAR-YAARN-MZDOT. MINGV-GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HURRA-IRRAA-ZARAD-ARRAD. ZOHAR-HATRU-ARRAD-KIDOD-ZFIRA. YRUHM-NEGEV-SECHR-ETZEM-DIMON-YERUHM. DIMON-ZAFIT-ROTMM-HATRU. ZTARD-MZDOT.)",
+      "validFrom": "2026-07-06T14:00:00.000Z",
+      "validTo": "2026-07-09T16:00:00.000Z",
+      "rawText": "E) DUE FLYPAST, CVFR RTE CLSD NASIH-MINGV-SOVAL-BKAMA. KUVSH-LLBS-NASIH. KUVSH-NCITY-OMMER-BKAMA. NCITY-ZGOAL. TLLIM-NEGEV-HOVAV-OHLIM-OMMER-ZGOAL-ZLHAV-BKAMA. BKAMA-LAHAV-SOKET-MYTAR-TARAD-ARRAD-ZOHAR. MMORR-ARRAD-LLMZ. HOVAV-SOKET. ULTRALIGHT RTE CLSD LLBS-NASIH-MINGV-BKAMA. HEL RTE CLSD MAONN-URRIM-PATIS-GILAT-NASIH. GILAT-TIDHR-NTVOT-SDROT. LLBS-NASIH-MINGV-BKAMA. TLLIM-NEGEV-HOVAV-OHLIM-ZSARA. ZSARA-OMMER-ZGOAL-ZLHAV-BKAMA. OMMER-SOKET-MYTAR-YAARN-MZDOT. MINGV-GVAOT-FAHER-LKIYA. ZLHAV-LKIYA-SOKET-HURRA-IRRAA-ZARAD-ARRAD. ZOHAR-HATRU-ARRAD-KIDOD-ZFIRA. YRUHM-NEGEV-SECHR-ETZEM-DIMON-YERUHM. DIMON-ZAFIT-ROTMM-HATRU. ZTARD-MZDOT.)",
+      "mapLink": "https://www.google.com/maps?q=31.20,34.88",
+      "centerPos": {
+        "lat": 31.2,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2281,
-  "lastUpdated": "2026-06-30T03:14:53.586Z"
+  "totalCount": 2295,
+  "lastUpdated": "2026-07-01T03:16:14.108Z"
 }
