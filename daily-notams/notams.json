@@ -29834,8 +29834,164 @@
         "lat": 31.2,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1448/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHA TRG AREA NR A,B AND ZVULUN ULTRALIGHT BUBBLE(BZVUL) AND AN AREA BTN FLW PSN 325135N350622E 325250N350622E 325249N350817E 325019N350815E CLSD FM GND UP TO 2000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC.)",
+      "validFrom": "2026-07-02T00:41:00.000Z",
+      "validTo": "2026-07-02T05:00:00.000Z",
+      "rawText": "E) LLHA TRG AREA NR A,B AND ZVULUN ULTRALIGHT BUBBLE(BZVUL) AND AN AREA BTN FLW PSN 325135N350622E 325250N350622E 325249N350817E 325019N350815E CLSD FM GND UP TO 2000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC.)",
+      "mapLink": "https://www.google.com/maps?q=32.87,35.12",
+      "centerPos": {
+        "lat": 32.87,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1447/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-07-07T06:00:00.000Z",
+      "validTo": "2026-07-07T08:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1446/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD EXC SKED COMMERCIAL FLT GALIM-MERVA.)",
+      "validFrom": "2026-07-07T14:00:00.000Z",
+      "validTo": "2026-07-07T17:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD EXC SKED COMMERCIAL FLT GALIM-MERVA.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,34.77",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1445/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD EXC SKED COMMERCIAL FLT SFAIM-LIAAD-MARIB.)",
+      "validFrom": "2026-07-07T06:00:00.000Z",
+      "validTo": "2026-07-07T08:00:00.000Z",
+      "rawText": "E) HEL RTE CLSD EXC SKED COMMERCIAL FLT SFAIM-LIAAD-MARIB.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.53",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.53
+      }
+    },
+    {
+      "id": "C1444/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-07-06T13:30:00.000Z",
+      "validTo": "2026-07-06T23:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1443/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-07-06T17:45:00.000Z",
+      "validTo": "2026-07-06T18:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD REVAH-NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.65,34.85",
+      "centerPos": {
+        "lat": 31.65,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0515/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-07T06:00:00.000Z",
+      "validTo": "2026-07-07T10:00:00.000Z",
+      "rawText": "E) ILS RWY 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0514/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-06T06:00:00.000Z",
+      "validTo": "2026-07-06T10:00:00.000Z",
+      "rawText": "E) ILS RWY 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.87",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C1441/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BARTAAH FM GND UP TO 3,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, DUE FIREFIGHTING ACT, WI 2.5NM RADIUS CENTERED ON PSN 322615N0350647E. CTN ADZ.)",
+      "validFrom": "2026-07-08T08:30:00.000Z",
+      "validTo": "2026-07-08T10:00:00.000Z",
+      "rawText": "E) AN AREA AT BARTAAH FM GND UP TO 3,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, DUE FIREFIGHTING ACT, WI 2.5NM RADIUS CENTERED ON PSN 322615N0350647E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.43,35.12",
+      "centerPos": {
+        "lat": 32.43,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1440/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-07-03T05:00:00.000Z",
+      "validTo": "2026-07-03T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1439/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-02T11:30:00.000Z",
+      "validTo": "2026-07-03T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1438/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI HASSHRON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTNA ADZ.)",
+      "validFrom": "2026-07-01T07:30:00.000Z",
+      "validTo": "2026-07-02T11:30:00.000Z",
+      "rawText": "E) AN AREA WI HASSHRON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTNA ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.32,34.98",
+      "centerPos": {
+        "lat": 32.32,
+        "lon": 34.98
+      }
     }
   ],
-  "totalCount": 2295,
-  "lastUpdated": "2026-07-01T03:16:14.108Z"
+  "totalCount": 2307,
+  "lastUpdated": "2026-07-02T03:13:18.518Z"
 }
