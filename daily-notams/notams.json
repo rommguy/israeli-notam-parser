@@ -29990,8 +29990,229 @@
         "lat": 32.32,
         "lon": 34.98
       }
+    },
+    {
+      "id": "A0531/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-08-16T04:00:00.000Z",
+      "validTo": "2026-08-18T08:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0529/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-07-19T04:00:00.000Z",
+      "validTo": "2026-07-23T08:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0530/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-08-02T04:00:00.000Z",
+      "validTo": "2026-08-05T08:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0528/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-07-08T04:00:00.000Z",
+      "validTo": "2026-07-08T09:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0526/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "validFrom": "2026-08-02T04:00:00.000Z",
+      "validTo": "2026-08-05T08:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0527/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "validFrom": "2026-08-16T04:00:00.000Z",
+      "validTo": "2026-08-18T08:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0524/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "validFrom": "2026-07-08T04:00:00.000Z",
+      "validTo": "2026-07-08T09:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0525/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "validFrom": "2026-07-19T04:00:00.000Z",
+      "validTo": "2026-07-23T08:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0520/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "validFrom": "2026-07-08T06:30:00.000Z",
+      "validTo": "2026-07-08T07:40:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-BARZI.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.25",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1455/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE ZVULUN-DAROM (BZVUL) CLSD.)",
+      "validFrom": "2026-07-08T06:30:00.000Z",
+      "validTo": "2026-07-08T10:50:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE ZVULUN-DAROM (BZVUL) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.87,35.13",
+      "centerPos": {
+        "lat": 32.87,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C1454/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-07-08T07:00:00.000Z",
+      "validTo": "2026-07-08T11:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1453/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-07-08T06:30:00.000Z",
+      "validTo": "2026-07-08T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1452/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE HARROD (BHROD) CLSD.)",
+      "validFrom": "2026-07-03T02:10:00.000Z",
+      "validTo": "2026-07-03T06:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE HARROD (BHROD) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.47,35.38",
+      "centerPos": {
+        "lat": 32.47,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1451/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT, AVBL BIDIRECTIONAL AT 800FT AMSL ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "validFrom": "2026-07-08T04:00:00.000Z",
+      "validTo": "2026-07-08T19:30:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT, AVBL BIDIRECTIONAL AT 800FT AMSL ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.77",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1450/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD, DUE UAS ACT MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "validFrom": "2026-07-07T09:00:00.000Z",
+      "validTo": "2026-07-08T11:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD, DUE UAS ACT MMORR-LLMZ-ENGDI. ARRAD-LLMZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.37,35.30",
+      "centerPos": {
+        "lat": 31.37,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C1449/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BET-SHEAAN WI 0.8NM RADIUS CENTERED ON PSN 323030N0352655E CLSD FM GND UP TO 400FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-07-03T02:10:00.000Z",
+      "validTo": "2026-07-03T06:00:00.000Z",
+      "rawText": "E) AN AREA AT BET-SHEAAN WI 0.8NM RADIUS CENTERED ON PSN 323030N0352655E CLSD FM GND UP TO 400FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.45",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "A0516/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-07-06T05:00:00.000Z",
+      "validTo": "2026-07-06T12:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2307,
-  "lastUpdated": "2026-07-02T03:13:18.518Z"
+  "totalCount": 2324,
+  "lastUpdated": "2026-07-03T03:10:45.323Z"
 }
