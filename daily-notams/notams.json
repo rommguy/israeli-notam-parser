@@ -30211,8 +30211,21 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1456/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT UMM-EL-FAHEM WI 1NM RADIUS CENTERED ON PSN 323045N0350943E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT. CTN ADZ.)",
+      "validFrom": "2026-07-04T12:00:00.000Z",
+      "validTo": "2026-07-04T19:00:00.000Z",
+      "rawText": "E) AN AREA AT UMM-EL-FAHEM WI 1NM RADIUS CENTERED ON PSN 323045N0350943E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.17",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 2324,
-  "lastUpdated": "2026-07-03T03:10:45.323Z"
+  "totalCount": 2325,
+  "lastUpdated": "2026-07-04T03:09:31.475Z"
 }
