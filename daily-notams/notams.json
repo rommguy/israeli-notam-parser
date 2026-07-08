@@ -30640,8 +30640,60 @@
         "lat": 32.85,
         "lon": 35.18
       }
+    },
+    {
+      "id": "C1481/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 8,000FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-08T16:30:00.000Z",
+      "validTo": "2026-07-08T20:59:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA BTN FLW PSN CLSD TO ALL FLT FM GND UP TO 8,000FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.48,34.83",
+      "centerPos": {
+        "lat": 31.48,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0548/26",
+      "icaoCode": "LLBG",
+      "description": "E) CONSTRUCTION OF CRANE AT YEHUD WI LLBG CTR. AN AREA WI 0.3NM RADIUS CENTRED ON PSN 320156N0345353E CLSD FM GND UP TO 103M 338FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-07-08T04:00:00.000Z",
+      "validTo": "2026-07-08T16:00:00.000Z",
+      "rawText": "E) CONSTRUCTION OF CRANE AT YEHUD WI LLBG CTR. AN AREA WI 0.3NM RADIUS CENTRED ON PSN 320156N0345353E CLSD FM GND UP TO 103M 338FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.03,34.90",
+      "centerPos": {
+        "lat": 32.03,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1480/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS FM GND UP TO 5,500FT AMSL BTN FLW PSN 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-07-08T03:00:00.000Z",
+      "validTo": "2026-07-08T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS FM GND UP TO 5,500FT AMSL BTN FLW PSN 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "A0547/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-07-09T04:00:00.000Z",
+      "validTo": "2026-07-09T08:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2357,
-  "lastUpdated": "2026-07-07T03:11:37.758Z"
+  "totalCount": 2361,
+  "lastUpdated": "2026-07-08T03:08:34.204Z"
 }
