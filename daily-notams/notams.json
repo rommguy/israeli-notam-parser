@@ -30692,8 +30692,86 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1485/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-ZOHARIM WI 0.6NM CENTERED ON PSN 313717N0345524E,CLSD TO ALL FLTS FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-07-09T00:45:00.000Z",
+      "validTo": "2026-07-09T06:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-ZOHARIM WI 0.6NM CENTERED ON PSN 313717N0345524E,CLSD TO ALL FLTS FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.62,34.92",
+      "centerPos": {
+        "lat": 31.62,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "A0550/26",
+      "icaoCode": "LLER",
+      "description": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-20T07:00:00.000Z",
+      "validTo": "2026-07-20T09:00:00.000Z",
+      "rawText": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0549/26",
+      "icaoCode": "LLER",
+      "description": "E) DME OF ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-20T09:00:00.000Z",
+      "validTo": "2026-07-20T12:00:00.000Z",
+      "rawText": "E) DME OF ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1484/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-07-12T14:00:00.000Z",
+      "validTo": "2026-07-15T14:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1483/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-07-12T14:00:00.000Z",
+      "validTo": "2026-07-15T14:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1482/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-09T09:30:00.000Z",
+      "validTo": "2026-07-10T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 2361,
-  "lastUpdated": "2026-07-08T03:08:34.204Z"
+  "totalCount": 2367,
+  "lastUpdated": "2026-07-09T03:10:52.356Z"
 }
