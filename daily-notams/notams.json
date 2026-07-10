@@ -30770,8 +30770,86 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C1491/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAYIBE. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 321457N0345933E CLSD FM GND UP TO 1,500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-07-09T12:48:00.000Z",
+      "validTo": "2026-07-21T20:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAYIBE. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 321457N0345933E CLSD FM GND UP TO 1,500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.25,35.00",
+      "centerPos": {
+        "lat": 32.25,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1490/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,900FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1900FT AMSL)",
+      "validFrom": "2026-07-09T12:43:00.000Z",
+      "validTo": "2026-07-19T20:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,900FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1900FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C1489/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZMGID-DALIA.)",
+      "validFrom": "2026-07-10T03:00:00.000Z",
+      "validTo": "2026-07-10T08:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZMGID-DALIA.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.13",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.13
+      }
+    },
+    {
+      "id": "C1488/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT GILAD WI ARRAH ULTRALIGHT BUBBLE. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 323410N0350720E CLSD TO ALL FLT FM GND UP TO 1,300FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1300FT AMSL)",
+      "validFrom": "2026-07-10T03:00:00.000Z",
+      "validTo": "2026-07-10T08:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT GILAD WI ARRAH ULTRALIGHT BUBBLE. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 323410N0350720E CLSD TO ALL FLT FM GND UP TO 1,300FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.12",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1487/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT TALMEI-BILU. AN AREA FM GND UP TO 150M, 1,000FT AMSL CLSD BTN FLW PSN 312543N0343847E 312544N0343910E 312334N0343920E 312334N0343857E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-07-14T02:20:00.000Z",
+      "validTo": "2026-07-16T16:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT TALMEI-BILU. AN AREA FM GND UP TO 150M, 1,000FT AMSL CLSD BTN FLW PSN 312543N0343847E 312544N0343910E 312334N0343920E 312334N0343857E. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.42,34.65",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "C1486/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-16T11:00:00.000Z",
+      "validTo": "2026-07-17T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 2367,
-  "lastUpdated": "2026-07-09T03:10:52.356Z"
+  "totalCount": 2373,
+  "lastUpdated": "2026-07-10T03:11:07.454Z"
 }
