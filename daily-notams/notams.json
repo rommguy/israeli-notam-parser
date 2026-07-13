@@ -30861,8 +30861,60 @@
         "lat": 31.75,
         "lon": 34.98
       }
+    },
+    {
+      "id": "A0551/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-07-13T07:00:00.000Z",
+      "validTo": "2026-07-13T12:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1497/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI HASHARON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTN ADZ.)",
+      "validFrom": "2026-07-13T07:00:00.000Z",
+      "validTo": "2026-07-13T11:15:00.000Z",
+      "rawText": "E) AN AREA WI HASHARON-SOUTH BUBBLE CLSD FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C1495/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "validFrom": "2026-07-13T07:00:00.000Z",
+      "validTo": "2026-07-13T11:15:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1493/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 15MIN.)",
+      "validFrom": "2026-07-19T06:00:00.000Z",
+      "validTo": "2026-07-19T09:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 15MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2374,
-  "lastUpdated": "2026-07-11T03:08:02.304Z"
+  "totalCount": 2378,
+  "lastUpdated": "2026-07-13T03:10:02.079Z"
 }
