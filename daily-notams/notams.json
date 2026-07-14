@@ -30913,8 +30913,60 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "A0554/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-07-14T07:00:00.000Z",
+      "validTo": "2026-07-14T11:15:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1500/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI HASHARON-SOUTH BUBBLE CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTN ADZ.)",
+      "validFrom": "2026-07-14T07:00:00.000Z",
+      "validTo": "2026-07-14T11:15:00.000Z",
+      "rawText": "E) AN AREA WI HASHARON-SOUTH BUBBLE CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 1,500FT AMSL BTN FLW PSN 321945N0345710E 322136N0345736E 322107N0345856E 322019N0350115E 321821N0350039E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C1499/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "validFrom": "2026-07-14T07:00:00.000Z",
+      "validTo": "2026-07-14T11:15:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 13 CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.95",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "A0553/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-14T07:00:00.000Z",
+      "validTo": "2026-07-14T10:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
     }
   ],
-  "totalCount": 2378,
-  "lastUpdated": "2026-07-13T03:10:02.079Z"
+  "totalCount": 2382,
+  "lastUpdated": "2026-07-14T03:07:32.126Z"
 }
