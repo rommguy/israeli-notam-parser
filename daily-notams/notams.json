@@ -31095,8 +31095,125 @@
         "lat": 31.92,
         "lon": 34.77
       }
+    },
+    {
+      "id": "C1519/26",
+      "icaoCode": "LLEY",
+      "description": "E) UAS ACT WILL TAKE PLACE WI AIRSTRIP, FM GND UP TO 3,000FT AMSL. OPS WILL BE COORD AND APPROVED BY ATC. CTN ADZ.)",
+      "validFrom": "2026-07-21T03:00:00.000Z",
+      "validTo": "2026-07-22T04:25:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE WI AIRSTRIP, FM GND UP TO 3,000FT AMSL. OPS WILL BE COORD AND APPROVED BY ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C1518/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD BMNUH-YAHEL)",
+      "validFrom": "2026-07-20T15:15:00.000Z",
+      "validTo": "2026-07-20T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD BMNUH-YAHEL)",
+      "mapLink": "https://www.google.com/maps?q=30.20,35.12",
+      "centerPos": {
+        "lat": 30.2,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1517/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-07-21T02:20:00.000Z",
+      "validTo": "2026-07-21T13:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1516/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-07-20T02:20:00.000Z",
+      "validTo": "2026-07-20T13:20:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1515/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-07-19T07:40:00.000Z",
+      "validTo": "2026-07-19T14:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1514/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-23T09:30:00.000Z",
+      "validTo": "2026-07-24T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1513/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-07-19T10:00:00.000Z",
+      "validTo": "2026-07-22T13:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1512/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM/GADISH. AN AREA WI 400M RADIUS CENTERED ON PSN 323309N0351447E FM GND UP TO 100M AGL, 560FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 560FT AMSL)",
+      "validFrom": "2026-07-15T10:42:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM/GADISH. AN AREA WI 400M RADIUS CENTERED ON PSN 323309N0351447E FM GND UP TO 100M AGL, 560FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 560FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.25",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1511/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM. AN AREA BTN FLW PSN CLSD FM GND UP TO 100M AGL 560FT AMSL 323333N0351719E 323219N0351747E 323221N0351759E 323207N0351803E 323201N0351722E 323254N0351640E 323313N0351637E 323317N0351558E 323335N0351558E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 560FT AMSL)",
+      "validFrom": "2026-07-15T10:18:00.000Z",
+      "validTo": "2026-07-31T20:59:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM. AN AREA BTN FLW PSN CLSD FM GND UP TO 100M AGL 560FT AMSL 323333N0351719E 323219N0351747E 323221N0351759E 323207N0351803E 323201N0351722E 323254N0351640E 323313N0351637E 323317N0351558E 323335N0351558E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 560FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
     }
   ],
-  "totalCount": 2392,
-  "lastUpdated": "2026-07-15T03:07:55.713Z"
+  "totalCount": 2401,
+  "lastUpdated": "2026-07-16T03:08:03.758Z"
 }
