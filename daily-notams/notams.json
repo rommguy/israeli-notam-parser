@@ -31381,8 +31381,60 @@
         "lat": 32,
         "lon": 34.9
       }
+    },
+    {
+      "id": "A0576/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "validFrom": "2026-07-20T17:30:00.000Z",
+      "validTo": "2026-07-21T01:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "A0575/26",
+      "icaoCode": "LLER",
+      "description": "E) OCA(H) FOR ILS RWY 19 CHG TO 500(228) FOR ALL CAT.)",
+      "validFrom": "2026-07-19T11:45:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 19 CHG TO 500(228) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0572/26",
+      "icaoCode": "LLER",
+      "description": "E) OCA(H) FOR ILS RWY 01 CHG TO 500(248) FOR ALL CAT.)",
+      "validFrom": "2026-07-19T11:37:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 01 CHG TO 500(248) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1529/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-08-01T00:01:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MAGEN-SHAUL, UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,500FT AMSL 323145N0351642E 323024N0351638E 323039N0352004E 323139N0351954E 323153N0351930E 323159N0351907E CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.30",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.3
+      }
     }
   ],
-  "totalCount": 2414,
-  "lastUpdated": "2026-07-17T03:08:14.475Z"
+  "totalCount": 2418,
+  "lastUpdated": "2026-07-20T03:09:57.768Z"
 }
