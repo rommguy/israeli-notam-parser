@@ -31433,8 +31433,47 @@
         "lat": 32.52,
         "lon": 35.3
       }
+    },
+    {
+      "id": "C1533/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA FM GND UP TO 3,000FT AMSL CLSD BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E. CTN ADZ. F) GND G) 3000FT AMSL)",
+      "validFrom": "2026-07-26T02:30:00.000Z",
+      "validTo": "2026-07-30T16:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA FM GND UP TO 3,000FT AMSL CLSD BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E. CTN ADZ. F) GND G) 3000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1532/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-07-26T03:00:00.000Z",
+      "validTo": "2026-07-30T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1531/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, DUE WIP. AD NOT AVBL FOR EMERG.)",
+      "validFrom": "2026-07-21T03:00:00.000Z",
+      "validTo": "2026-07-22T10:30:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE WIP. AD NOT AVBL FOR EMERG.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2418,
-  "lastUpdated": "2026-07-20T03:09:57.768Z"
+  "totalCount": 2421,
+  "lastUpdated": "2026-07-21T03:08:16.398Z"
 }
