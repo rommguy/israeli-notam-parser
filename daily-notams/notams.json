@@ -31472,8 +31472,151 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C1545/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.62NM RADIUS CENTERED ON PSN 313809N0343107E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-07-22T06:00:00.000Z",
+      "validTo": "2026-07-22T09:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.62NM RADIUS CENTERED ON PSN 313809N0343107E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.63,34.52",
+      "centerPos": {
+        "lat": 31.63,
+        "lon": 34.52
+      }
+    },
+    {
+      "id": "C1544/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "validFrom": "2026-07-22T14:30:00.000Z",
+      "validTo": "2026-07-23T04:30:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "A0579/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "validFrom": "2026-07-22T14:30:00.000Z",
+      "validTo": "2026-07-23T04:30:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN ZACCI-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.30",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C1541/26",
+      "icaoCode": "LLHZ",
+      "description": "E) THE FLW ELEMENTS PENETRATING RWY STRIP TWY PENETRATING S OF RWY 10. FENCE PENETRATING NW OF RWY 10. POLES HEIGHT 1.20M AGL E OF RWY 28. CTN ADZ.)",
+      "validFrom": "2026-07-21T12:44:00.000Z",
+      "validTo": "2029-07-22T03:08:35.264Z",
+      "rawText": "E) THE FLW ELEMENTS PENETRATING RWY STRIP TWY PENETRATING S OF RWY 10. FENCE PENETRATING NW OF RWY 10. POLES HEIGHT 1.20M AGL E OF RWY 28. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C1540/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL ACT WILL TAKE PLACE AT KARMEL WI OREN ULTRALIGHT BUBBLE (BOORN) FM GND UP TO 500FT AGL, 2,500FT AMSL BTN FLW PSN 324538N0345920E 324440N0350146E 324421N0350433E 323950N0350520E 323903N0350027E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC CTN ADZ.)",
+      "validFrom": "2026-07-24T06:00:00.000Z",
+      "validTo": "2026-07-24T09:00:00.000Z",
+      "rawText": "E) HEL ACT WILL TAKE PLACE AT KARMEL WI OREN ULTRALIGHT BUBBLE (BOORN) FM GND UP TO 500FT AGL, 2,500FT AMSL BTN FLW PSN 324538N0345920E 324440N0350146E 324421N0350433E 323950N0350520E 323903N0350027E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.03",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1539/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS/UAV BUBBLE CARMEL EAST AND NORTH CLSD.)",
+      "validFrom": "2026-07-24T06:00:00.000Z",
+      "validTo": "2026-07-24T09:00:00.000Z",
+      "rawText": "E) MINI UAS/UAV BUBBLE CARMEL EAST AND NORTH CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.02",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1538/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-30T09:30:00.000Z",
+      "validTo": "2026-07-31T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1537/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ASHALIM WI 0.8NM RADIUS CENTERED ON PSN 305808N0344215E CLSD TO ALL FLT FM GND UP TO 3,500FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-07-22T07:00:00.000Z",
+      "validTo": "2026-07-22T12:00:00.000Z",
+      "rawText": "E) AN AREA AT ASHALIM WI 0.8NM RADIUS CENTERED ON PSN 305808N0344215E CLSD TO ALL FLT FM GND UP TO 3,500FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.70",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1536/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT RETAMIM WI 0.8NM RADIUS CENTERED ON PSN 310313N0344118E CLSD TO ALL FLT FM GND UP TO 3,300FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-07-22T09:40:00.000Z",
+      "validTo": "2026-07-22T12:00:00.000Z",
+      "rawText": "E) AN AREA AT RETAMIM WI 0.8NM RADIUS CENTERED ON PSN 310313N0344118E CLSD TO ALL FLT FM GND UP TO 3,300FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.68",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C1535/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAYIBE. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 321457N0345933E CLSD FM GND UP TO 1,500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-07-26T02:20:00.000Z",
+      "validTo": "2026-07-27T02:20:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAYIBE. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 321457N0345933E CLSD FM GND UP TO 1,500FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.25,35.00",
+      "centerPos": {
+        "lat": 32.25,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1534/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-07-26T02:20:00.000Z",
+      "validTo": "2026-07-27T02:20:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 2421,
-  "lastUpdated": "2026-07-21T03:08:16.398Z"
+  "totalCount": 2432,
+  "lastUpdated": "2026-07-22T03:08:44.432Z"
 }
