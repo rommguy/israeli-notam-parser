@@ -31615,8 +31615,112 @@
         "lat": 32.82,
         "lon": 35.17
       }
+    },
+    {
+      "id": "C1552/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT. AD NOT AVBL FOR EMERG.)",
+      "validFrom": "2026-07-23T14:00:00.000Z",
+      "validTo": "2026-07-23T15:50:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT. AD NOT AVBL FOR EMERG.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1551/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL ACT WILL TAKE PLACE WI NITZANIM ULTRALIGHT BUBBLE (BNZNI) FM GND UP TO 1,000FT AMSL BTN FLW PSN 314603N0343639E 314506N0343903E 314131N0343643E 314237N0343425E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC CTN ADZ.)",
+      "validFrom": "2026-07-24T12:00:00.000Z",
+      "validTo": "2026-07-24T14:00:00.000Z",
+      "rawText": "E) HEL ACT WILL TAKE PLACE WI NITZANIM ULTRALIGHT BUBBLE (BNZNI) FM GND UP TO 1,000FT AMSL BTN FLW PSN 314603N0343639E 314506N0343903E 314131N0343643E 314237N0343425E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.73,34.62",
+      "centerPos": {
+        "lat": 31.73,
+        "lon": 34.62
+      }
+    },
+    {
+      "id": "C1550/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE NITZANIM (BNZNI) CLSD.)",
+      "validFrom": "2026-07-24T12:00:00.000Z",
+      "validTo": "2026-07-24T14:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE NITZANIM (BNZNI) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=31.75,34.65",
+      "centerPos": {
+        "lat": 31.75,
+        "lon": 34.65
+      }
+    },
+    {
+      "id": "C1549/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA FM GND UP 2,400FT AMSL CLSD BTN FLW PSN 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-07-27T06:00:00.000Z",
+      "validTo": "2026-07-28T18:50:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA FM GND UP 2,400FT AMSL CLSD BTN FLW PSN 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1547/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-07-26T05:00:00.000Z",
+      "validTo": "2026-07-30T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.8NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.52,35.05",
+      "centerPos": {
+        "lat": 32.52,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C1546/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-07-27T02:20:00.000Z",
+      "validTo": "2026-08-01T02:20:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT SHFARAAM. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 2,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "A0581/26",
+      "icaoCode": "LLER",
+      "description": "E) DME OF ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-28T07:00:00.000Z",
+      "validTo": "2026-07-28T11:00:00.000Z",
+      "rawText": "E) DME OF ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,35.02",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0580/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-07-27T11:00:00.000Z",
+      "validTo": "2026-07-27T14:00:00.000Z",
+      "rawText": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 2432,
-  "lastUpdated": "2026-07-22T03:08:44.432Z"
+  "totalCount": 2440,
+  "lastUpdated": "2026-07-23T03:08:11.969Z"
 }
