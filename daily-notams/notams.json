@@ -31836,8 +31836,34 @@
         "lat": 32.02,
         "lon": 34.88
       }
+    },
+    {
+      "id": "C1566/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, INCLUDING HEL OR POLICE FLT. NOT AVBL FOR EMERG, MEDEVAC FLT OR AS ALTN.)",
+      "validFrom": "2026-07-25T12:00:00.000Z",
+      "validTo": "2026-07-25T16:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, INCLUDING HEL OR POLICE FLT. NOT AVBL FOR EMERG, MEDEVAC FLT OR AS ALTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1565/26",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-07-24T05:42:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 2449,
-  "lastUpdated": "2026-07-24T03:08:39.767Z"
+  "totalCount": 2451,
+  "lastUpdated": "2026-07-25T03:07:24.298Z"
 }
