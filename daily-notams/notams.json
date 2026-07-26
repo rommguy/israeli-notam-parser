@@ -31862,8 +31862,21 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C1572/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 1NM RADIUS CENTERED ON PSN 322030N0345914E CLSD FM GND UP TO 3000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. CTN ADZ.)",
+      "validFrom": "2026-07-26T01:00:00.000Z",
+      "validTo": "2026-07-26T20:59:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 1NM RADIUS CENTERED ON PSN 322030N0345914E CLSD FM GND UP TO 3000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
     }
   ],
-  "totalCount": 2451,
-  "lastUpdated": "2026-07-25T03:07:24.298Z"
+  "totalCount": 2452,
+  "lastUpdated": "2026-07-26T03:08:42.886Z"
 }
