@@ -32278,8 +32278,164 @@
         "lat": 32.5,
         "lon": 35.15
       }
+    },
+    {
+      "id": "C1611/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 314042N0345936E CLSD FM GND UP TO 4,500 FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-07-29T06:30:00.000Z",
+      "validTo": "2026-07-29T16:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 314042N0345936E CLSD FM GND UP TO 4,500 FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.68,35.00",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1610/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-07-30T09:30:00.000Z",
+      "validTo": "2026-07-31T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0599/26",
+      "icaoCode": "LLBG",
+      "description": "E) NIGHT RESTRICTIONS BTN 0140-0500LMT (2240-0200UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-07-28T10:47:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) NIGHT RESTRICTIONS BTN 0140-0500LMT (2240-0200UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0600/26",
+      "icaoCode": "LLBG",
+      "description": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "validFrom": "2026-07-28T10:47:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) RESTRICTIONS OF LDG 4 ENGINE ACFT WI LLBG TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0596/26",
+      "icaoCode": "LLLL",
+      "description": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "validFrom": "2026-07-28T10:45:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) POSS INTRP TO AIRBORNE GNSS EQPT WI TEL-AVIV FIR.)",
+      "mapLink": "https://www.google.com/maps?q=31.42,35.35",
+      "centerPos": {
+        "lat": 31.42,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "A0598/26",
+      "icaoCode": "LLBG",
+      "description": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2200-2300UTC) TEMPO WITHDRAWN.)",
+      "validFrom": "2026-07-28T10:46:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) CLOSURE FOR LDG BTN 0100-0200LMT (2200-2300UTC) TEMPO WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0594/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-07-28T10:44:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AND N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR/DEP AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.08,34.83",
+      "centerPos": {
+        "lat": 32.08,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0595/26",
+      "icaoCode": "LLLL",
+      "description": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "validFrom": "2026-07-28T10:44:00.000Z",
+      "validTo": "2026-08-31T23:59:00.000Z",
+      "rawText": "E) MAX ALT ALONG ATS RTE J10 BTN NURIT-SIVAK 18,000FT AMSL.)",
+      "mapLink": "https://www.google.com/maps?q=30.88,35.27",
+      "centerPos": {
+        "lat": 30.88,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C1608/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT ZIV-HOSPITAL/TZFAT. WI 0.4KM RADIUS CENTERED ON PSN 325715N0352934E FM GND UP TO 30M AGL, 2,200FT AMSL. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-07-28T10:41:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT ZIV-HOSPITAL/TZFAT. WI 0.4KM RADIUS CENTERED ON PSN 325715N0352934E FM GND UP TO 30M AGL, 2,200FT AMSL. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.50",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C1606/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT AVITAL JUNCTION, WI 2.9NM RADIUS CENTERED ON PSN 330326N0354649E FM GND UP TO 8600FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 8600FT AMSL)",
+      "validFrom": "2026-07-29T14:00:00.000Z",
+      "validTo": "2026-07-30T02:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT AVITAL JUNCTION, WI 2.9NM RADIUS CENTERED ON PSN 330326N0354649E FM GND UP TO 8600FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 8600FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.05,35.77",
+      "centerPos": {
+        "lat": 33.05,
+        "lon": 35.77
+      }
+    },
+    {
+      "id": "C1603/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA FM GND UP 2,400FT AMSL CLSD BTN FLW PSN 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-08-03T05:30:00.000Z",
+      "validTo": "2026-08-03T19:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA FM GND UP 2,400FT AMSL CLSD BTN FLW PSN 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1602/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA FM GND UP TO 2,800FT AMSL CLSD BTN FLW PSN 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-08-03T06:00:00.000Z",
+      "validTo": "2026-08-03T07:30:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA FM GND UP TO 2,800FT AMSL CLSD BTN FLW PSN 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.50",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.5
+      }
     }
   ],
-  "totalCount": 2483,
-  "lastUpdated": "2026-07-28T03:08:26.710Z"
+  "totalCount": 2495,
+  "lastUpdated": "2026-07-29T03:07:38.921Z"
 }
