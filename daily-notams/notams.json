@@ -32434,8 +32434,242 @@
         "lat": 30.95,
         "lon": 34.5
       }
+    },
+    {
+      "id": "C1630/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM AND GADISH. AN AREA CLSD FM GND UP TO 100M AGL 560FT AMSL BTN FLW PSN 323333N0351719E 323219N0351747E 323221N0351759E 323207N0351803E 323201N0351722E 323254N0351640E 323313N0351637E 323317N0351558E 323335N0351558E. AN AREA WI 400M RADIUS CENTERED ON PSN 323309N0351447E CLSD FM GND UP TO 100M AGL, 560FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 560FT AMSL)",
+      "validFrom": "2026-08-01T00:01:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT TAANACHIM AND GADISH. AN AREA CLSD FM GND UP TO 100M AGL 560FT AMSL BTN FLW PSN 323333N0351719E 323219N0351747E 323221N0351759E 323207N0351803E 323201N0351722E 323254N0351640E 323313N0351637E 323317N0351558E 323335N0351558E. AN AREA WI 400M RADIUS CENTERED ON PSN 323309N0351447E CLSD FM GND UP TO 100M AGL, 560FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 560FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C1629/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DANGER AREA 618 CLSD FM BTN FM GND UP TO 1,700FT AMSL BTN FLW PSN 305659N0344200E 305632N0344144E 305619N0344234E 305644N0344253E. CTN ADZ.)",
+      "validFrom": "2026-08-02T04:30:00.000Z",
+      "validTo": "2026-08-06T16:30:00.000Z",
+      "rawText": "E) AN AREA AT DANGER AREA 618 CLSD FM BTN FM GND UP TO 1,700FT AMSL BTN FLW PSN 305659N0344200E 305632N0344144E 305619N0344234E 305644N0344253E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.70",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C1628/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH BTN 3,000-5,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT BTN FLW PSN 322029N0345958E 322036N0345938E 322019N0345918E 322000N0345939E CTN ADZ.)",
+      "validFrom": "2026-07-30T05:30:00.000Z",
+      "validTo": "2026-07-30T14:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH BTN 3,000-5,000FT AMSL CLSD TO ALL FLT INCLUDING AGRICULTURE FLT BTN FLW PSN 322029N0345958E 322036N0345938E 322019N0345918E 322000N0345939E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,35.00",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1627/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 0.4NM RADIUS CENTERED ON PSN 322030N0345914E CLSD FM GND UP TO 3,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. CTN ADZ.)",
+      "validFrom": "2026-07-30T05:30:00.000Z",
+      "validTo": "2026-07-30T14:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 0.4NM RADIUS CENTERED ON PSN 322030N0345914E CLSD FM GND UP TO 3,000FT AMSL, TO ALL FLT INCLUDING AGRICULTURE. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "A0601/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "validFrom": "2026-07-30T05:30:00.000Z",
+      "validTo": "2026-07-30T14:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN NAT-ZACCI.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.02",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1626/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT PARK-REEM. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 314633N0344520E CLSD FM GND UP TO 25M AGL 300FT AMSL. OPS AVBL WITH PPR FM ATC ONLY. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-08-01T00:01:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT PARK-REEM. AN AREA WI 0.5NM RADIUS CENTERED ON PSN 314633N0344520E CLSD FM GND UP TO 25M AGL 300FT AMSL. OPS AVBL WITH PPR FM ATC ONLY. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.77,34.75",
+      "centerPos": {
+        "lat": 31.77,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C1625/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2026-08-04T16:50:00.000Z",
+      "validTo": "2026-08-04T18:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1624/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD LIAAD-MARIB.)",
+      "validFrom": "2026-08-04T17:45:00.000Z",
+      "validTo": "2026-08-04T19:15:00.000Z",
+      "rawText": "E) HEL RTE CLSD LIAAD-MARIB.)",
+      "mapLink": "https://www.google.com/maps?q=31.85,34.40",
+      "centerPos": {
+        "lat": 31.85,
+        "lon": 34.4
+      }
+    },
+    {
+      "id": "C1623/26",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-08-04T16:50:00.000Z",
+      "validTo": "2026-08-04T18:10:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C1622/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLHZ TRG AREA NR 8, 9, 12, 13 CLSD.)",
+      "validFrom": "2026-08-04T19:00:00.000Z",
+      "validTo": "2026-08-05T02:30:00.000Z",
+      "rawText": "E) LLHZ TRG AREA NR 8, 9, 12, 13 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1621/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DEROR-SHARO-ZYAAR. PELEG-SHARO.)",
+      "validFrom": "2026-08-04T19:00:00.000Z",
+      "validTo": "2026-08-05T02:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DEROR-SHARO-ZYAAR. PELEG-SHARO.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.90",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1620/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2026-08-04T16:50:00.000Z",
+      "validTo": "2026-08-04T18:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.25",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1617/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "validFrom": "2026-08-02T08:50:00.000Z",
+      "validTo": "2026-08-02T12:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.78",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C1618/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "validFrom": "2026-08-03T07:10:00.000Z",
+      "validTo": "2026-08-03T07:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.78",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C1619/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "validFrom": "2026-08-04T17:30:00.000Z",
+      "validTo": "2026-08-04T18:15:00.000Z",
+      "rawText": "E) CVFR RTE CLSD OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.83,34.78",
+      "centerPos": {
+        "lat": 30.83,
+        "lon": 34.78
+      }
+    },
+    {
+      "id": "C1616/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA UP TO 100M AGL, AN AREA WI 0.8NM RADIUS CENTERED ON PSN 322941N0345439E CLSD FM GND UP TO 500FT AMSL. CTN ADZ. F) GND G) 500FT AMSL)",
+      "validFrom": "2026-08-01T19:00:00.000Z",
+      "validTo": "2026-08-31T02:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT KESARYA UP TO 100M AGL, AN AREA WI 0.8NM RADIUS CENTERED ON PSN 322941N0345439E CLSD FM GND UP TO 500FT AMSL. CTN ADZ. F) GND G) 500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.92",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C1614/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ARRAH WI 1.35NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-06T14:00:00.000Z",
+      "validTo": "2026-08-06T18:00:00.000Z",
+      "rawText": "E) AN AREA AT ARRAH WI 1.35NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.07",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1612/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT ADERET. AN AREA BTN FLW PSN FM GND UP TO 3,500FT AMSL CLSD TO ALL FLT 314107N0345919E 313846N0345857E 313824N0350011E 314028N0350307E 314131N0350134E. CTN ADZ. F) GND G) 3500FT AMSL)",
+      "validFrom": "2026-08-03T07:00:00.000Z",
+      "validTo": "2026-08-04T11:15:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT ADERET. AN AREA BTN FLW PSN FM GND UP TO 3,500FT AMSL CLSD TO ALL FLT 314107N0345919E 313846N0345857E 313824N0350011E 314028N0350307E 314131N0350134E. CTN ADZ. F) GND G) 3500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.67,35.02",
+      "centerPos": {
+        "lat": 31.67,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 2495,
-  "lastUpdated": "2026-07-29T03:07:38.921Z"
+  "totalCount": 2513,
+  "lastUpdated": "2026-07-30T03:08:17.523Z"
 }
