@@ -32798,8 +32798,21 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C1636/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, INCLUDING HEL OR POLICE FLT. NOT AVBL FOR EMERG, MEDEVAC FLT OR AS ALTN.)",
+      "validFrom": "2026-08-02T12:00:00.000Z",
+      "validTo": "2026-08-02T23:59:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, INCLUDING HEL OR POLICE FLT. NOT AVBL FOR EMERG, MEDEVAC FLT OR AS ALTN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2523,
-  "lastUpdated": "2026-07-31T03:09:08.445Z"
+  "totalCount": 2524,
+  "lastUpdated": "2026-08-02T03:08:34.052Z"
 }
