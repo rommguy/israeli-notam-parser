@@ -32811,8 +32811,86 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C1644/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD TYONA-SUPER.)",
+      "validFrom": "2026-08-04T18:30:00.000Z",
+      "validTo": "2026-08-04T20:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD TYONA-SUPER.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.73",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C1643/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RISHON LEZION. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 315950E0344404E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "validFrom": "2026-08-04T18:30:00.000Z",
+      "validTo": "2026-08-04T20:30:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT RISHON LEZION. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 315950E0344404E CLSD FM GND UP TO 50M AGL 300FT AMSL. CTN ADZ. F) GND G) 300FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.73",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.73
+      }
+    },
+    {
+      "id": "C1642/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-08-09T03:00:00.000Z",
+      "validTo": "2026-08-13T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1641/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-08-07T09:00:00.000Z",
+      "validTo": "2026-08-07T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1640/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-08-06T09:30:00.000Z",
+      "validTo": "2026-08-07T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1639/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-08-03T06:00:00.000Z",
+      "validTo": "2026-08-03T07:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2524,
-  "lastUpdated": "2026-08-02T03:08:34.052Z"
+  "totalCount": 2530,
+  "lastUpdated": "2026-08-03T03:09:46.813Z"
 }
