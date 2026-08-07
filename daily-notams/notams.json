@@ -33383,8 +33383,203 @@
         "lat": 31.18,
         "lon": 34.58
       }
+    },
+    {
+      "id": "C1704/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR AND HEL RTE CLSD AT 1,200FT, AVBL BIDIRECTIONAL AT 800FT AMSL ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "validFrom": "2026-08-12T09:00:00.000Z",
+      "validTo": "2026-08-12T19:00:00.000Z",
+      "rawText": "E) CVFR AND HEL RTE CLSD AT 1,200FT, AVBL BIDIRECTIONAL AT 800FT AMSL ONLY TYONA-SUPER-NTAIM-BOVED-NAGID-YAVNE-ZASHD.)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.77",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1703/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-08-12T06:00:00.000Z",
+      "validTo": "2026-08-12T10:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1702/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT TLALIM WI 0.3NM RADIUS CENTERED ON PSN 305843N0344525E CLSD TO ALL FLT FM GND UP TO 1,900FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-09T10:00:00.000Z",
+      "validTo": "2026-08-12T23:00:00.000Z",
+      "rawText": "E) AN AREA AT TLALIM WI 0.3NM RADIUS CENTERED ON PSN 305843N0344525E CLSD TO ALL FLT FM GND UP TO 1,900FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=30.98,34.75",
+      "centerPos": {
+        "lat": 30.98,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C1701/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-09T14:00:00.000Z",
+      "validTo": "2026-08-09T18:30:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0642/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-08-10T06:00:00.000Z",
+      "validTo": "2026-08-10T11:00:00.000Z",
+      "rawText": "E) ILS RWY 30 C/S BD FREQ 111.900MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.87",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "A0641/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-08-10T06:00:00.000Z",
+      "validTo": "2026-08-10T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0639/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT, RESA 03 DUE WIP.)",
+      "validFrom": "2026-08-11T06:00:00.000Z",
+      "validTo": "2026-08-11T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT, RESA 03 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1699/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-08-13T09:30:00.000Z",
+      "validTo": "2026-08-14T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1698/26",
+      "icaoCode": "LLIB",
+      "description": "E) 2 OBST PSN 325907.85N0353409.91E HGT 2M AGL AND 1M AGL. CTN ADZ.)",
+      "validFrom": "2026-08-06T06:45:00.000Z",
+      "validTo": "2029-08-07T04:27:51.474Z",
+      "rawText": "E) 2 OBST PSN 325907.85N0353409.91E HGT 2M AGL AND 1M AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1686/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2026-08-11T06:50:00.000Z",
+      "validTo": "2026-08-11T10:50:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1685/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2026-08-10T09:20:00.000Z",
+      "validTo": "2026-08-10T17:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1684/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "validFrom": "2026-08-09T10:00:00.000Z",
+      "validTo": "2026-08-09T14:10:00.000Z",
+      "rawText": "E) PJE AIRSPACE HOF-HATMARIM CLSD. F) GND G) 14000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.07",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1683/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-08-11T06:50:00.000Z",
+      "validTo": "2026-08-11T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1682/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-08-10T09:20:00.000Z",
+      "validTo": "2026-08-10T17:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1681/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-08-09T10:00:00.000Z",
+      "validTo": "2026-08-09T14:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
     }
   ],
-  "totalCount": 2568,
-  "lastUpdated": "2026-08-06T05:19:10.983Z"
+  "totalCount": 2583,
+  "lastUpdated": "2026-08-07T04:27:58.376Z"
 }
