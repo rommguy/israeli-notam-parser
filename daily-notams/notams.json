@@ -33578,8 +33578,86 @@
         "lat": 32.88,
         "lon": 35.12
       }
+    },
+    {
+      "id": "C1711/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "validFrom": "2026-08-10T13:50:00.000Z",
+      "validTo": "2026-08-10T14:20:00.000Z",
+      "rawText": "E) AN AREA AT DALYA BTN FLW PSN CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, INCLUDING AGRICULTURE FLT 323608N0350421E 323434N0350216E 323315N0350346E 323449N0350548E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.07",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1710/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GOLAN-HEIGHTS FM GND UP TO 5,500FT AMSL BTN FLW PSN 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "validFrom": "2026-08-13T03:00:00.000Z",
+      "validTo": "2026-08-13T13:00:00.000Z",
+      "rawText": "E) AN AREA AT GOLAN-HEIGHTS FM GND UP TO 5,500FT AMSL BTN FLW PSN 330145N0354147E 325853N0354305E 325955N0354755E 330328N0354602E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.02,35.75",
+      "centerPos": {
+        "lat": 33.02,
+        "lon": 35.75
+      }
+    },
+    {
+      "id": "C1709/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ISFIYAH. AN AREA WI 2NM RADIUS CENTERED ON PSN 324415N0350311E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,000FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-08-12T12:45:00.000Z",
+      "validTo": "2026-08-12T13:20:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT ISFIYAH. AN AREA WI 2NM RADIUS CENTERED ON PSN 324415N0350311E CLSD TO ALL FLT INCLUDING AGRICULTURE FLT, FM GND UP TO 3,000FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.05",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C1708/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT MEI-AMI. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 323015N0350902E CLSD FM GND UP TO 2,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-08-16T02:40:00.000Z",
+      "validTo": "2026-08-18T02:40:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT MEI-AMI. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 323015N0350902E CLSD FM GND UP TO 2,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.50,35.15",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C1706/26",
+      "icaoCode": "LLIB",
+      "description": "E) CIRCUIT EXER PROHIBITED, DUE FLYPAST WI CTR.)",
+      "validFrom": "2026-08-14T04:00:00.000Z",
+      "validTo": "2026-08-14T09:30:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, DUE FLYPAST WI CTR.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.57",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1705/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "validFrom": "2026-08-16T06:00:00.000Z",
+      "validTo": "2026-08-16T09:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2583,
-  "lastUpdated": "2026-08-07T04:27:58.376Z"
+  "totalCount": 2589,
+  "lastUpdated": "2026-08-10T03:58:50.480Z"
 }
