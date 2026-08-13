@@ -33903,8 +33903,73 @@
         "lat": 29.75,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C1732/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "validFrom": "2026-08-13T02:38:00.000Z",
+      "validTo": "2026-08-13T06:00:00.000Z",
+      "rawText": "E) AN AREA WI 1.5NM RADIUS CENTERED ON PSN 323256N0351645E CLSD FM GND UP TO 3,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC ONLY. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.55,35.28",
+      "centerPos": {
+        "lat": 32.55,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C1731/26",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP AVBL FOR PPR FLT FM AIRSTRIP OPR ONLY.)",
+      "validFrom": "2026-08-14T02:45:00.000Z",
+      "validTo": "2026-08-14T04:00:00.000Z",
+      "rawText": "E) AIRSTRIP AVBL FOR PPR FLT FM AIRSTRIP OPR ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C1730/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT ARRAH WI 1.5NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-16T05:00:00.000Z",
+      "validTo": "2026-08-20T16:00:00.000Z",
+      "rawText": "E) AN AREA AT ARRAH WI 1.5NM RADIUS CENTERED ON PSN 323131N0350343E CLSD FM GND UP TO 1,000FT AMSL TO ALL FLT. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.07",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1729/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN 305840N0345629E 305840N0345643E 305820N0345643E 305820N0345629E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2026-08-18T06:00:00.000Z",
+      "validTo": "2026-08-19T14:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 300M AGL. AN AREA BTN FLW PSN 305840N0345629E 305840N0345643E 305820N0345643E 305820N0345629E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.98,34.95",
+      "centerPos": {
+        "lat": 30.98,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C1727/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330646N0353414E CLSD FM GND UP TO 2,200FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-08-16T02:00:00.000Z",
+      "validTo": "2026-08-22T14:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330646N0353414E CLSD FM GND UP TO 2,200FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.57",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2608,
-  "lastUpdated": "2026-08-12T04:10:10.414Z"
+  "totalCount": 2613,
+  "lastUpdated": "2026-08-13T04:14:22.185Z"
 }
