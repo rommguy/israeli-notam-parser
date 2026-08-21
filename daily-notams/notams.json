@@ -34527,8 +34527,60 @@
         "lat": 32.82,
         "lon": 35.05
       }
+    },
+    {
+      "id": "C1780/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT, UP TO 1,700FT AMSL. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-08-23T02:45:00.000Z",
+      "validTo": "2026-08-31T20:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT, UP TO 1,700FT AMSL. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.38,34.77",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1779/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT PEKIIN. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 325918N0351858E CLSD FM GND UP TO 50M AGL 1,800FT AMSL. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "validFrom": "2026-08-22T17:30:00.000Z",
+      "validTo": "2026-08-22T20:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE AT PEKIIN. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 325918N0351858E CLSD FM GND UP TO 50M AGL 1,800FT AMSL. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.32",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C1777/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT JULIS. AN AREA FM GND UP TO 500FT AMSL CLSD TO ALL FLT BTN FLW PSN 314122N0344041E 314012N0344040E 314018N0343958E 314118N0344006E 314118N0344024E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 500FT AMSL)",
+      "validFrom": "2026-08-23T06:00:00.000Z",
+      "validTo": "2026-08-27T13:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT JULIS. AN AREA FM GND UP TO 500FT AMSL CLSD TO ALL FLT BTN FLW PSN 314122N0344041E 314012N0344040E 314018N0343958E 314118N0344006E 314118N0344024E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.68,34.67",
+      "centerPos": {
+        "lat": 31.68,
+        "lon": 34.67
+      }
+    },
+    {
+      "id": "C1775/26",
+      "icaoCode": "LLLL",
+      "description": "E) OBST ERECTED AT SHAVEI-ZION, WI ZVULUN-N (BZVUN) ULTRALIGHT BUBBLE. AN AREA WI 1.6NM RADIUS CENTERED ON PSN 325822N0350444E CLSD FM GND UP TO 600FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-08-20T05:00:00.000Z",
+      "validTo": "2026-08-23T16:45:00.000Z",
+      "rawText": "E) OBST ERECTED AT SHAVEI-ZION, WI ZVULUN-N (BZVUN) ULTRALIGHT BUBBLE. AN AREA WI 1.6NM RADIUS CENTERED ON PSN 325822N0350444E CLSD FM GND UP TO 600FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.97,35.08",
+      "centerPos": {
+        "lat": 32.97,
+        "lon": 35.08
+      }
     }
   ],
-  "totalCount": 2656,
-  "lastUpdated": "2026-08-20T02:58:35.157Z"
+  "totalCount": 2660,
+  "lastUpdated": "2026-08-21T03:04:47.453Z"
 }
