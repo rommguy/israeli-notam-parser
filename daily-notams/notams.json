@@ -34579,8 +34579,73 @@
         "lat": 32.97,
         "lon": 35.08
       }
+    },
+    {
+      "id": "C1785/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD KTORA-SIZFN-SITIM-ZZHOR. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-KNFHA-RAMLY-MIDRS. LLEY-NNAHS-MIDRS. NNAHS-RAMLY.)",
+      "validFrom": "2026-09-07T03:00:00.000Z",
+      "validTo": "2026-09-08T06:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD KTORA-SIZFN-SITIM-ZZHOR. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-KNFHA-RAMLY-MIDRS. LLEY-NNAHS-MIDRS. NNAHS-RAMLY.)",
+      "mapLink": "https://www.google.com/maps?q=30.42,34.92",
+      "centerPos": {
+        "lat": 30.42,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C1784/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR. SIZFN-YAHEL. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "validFrom": "2026-09-07T03:00:00.000Z",
+      "validTo": "2026-09-08T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD SIZFN-SITIM-ZZHOR. SIZFN-YAHEL. BMNUH-ZZHOR-MESAR-RUHOT. ZOFAR-HRGVS-RUHOT-OVDAT-BOKER.)",
+      "mapLink": "https://www.google.com/maps?q=30.47,34.90",
+      "centerPos": {
+        "lat": 30.47,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1783/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "validFrom": "2026-09-07T03:00:00.000Z",
+      "validTo": "2026-09-08T06:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.20",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C1782/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "validFrom": "2026-09-07T03:00:00.000Z",
+      "validTo": "2026-09-08T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-HAZVA-ARAVA-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.20",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C1781/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "validFrom": "2026-09-17T06:00:00.000Z",
+      "validTo": "2026-09-17T09:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 2660,
-  "lastUpdated": "2026-08-21T03:04:47.453Z"
+  "totalCount": 2665,
+  "lastUpdated": "2026-08-24T03:05:28.341Z"
 }
