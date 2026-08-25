@@ -34644,8 +34644,112 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C1793/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD TAVOR-ZGLNI .)",
+      "validFrom": "2026-08-25T04:00:00.000Z",
+      "validTo": "2026-08-25T06:00:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD TAVOR-ZGLNI .)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C1792/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-08-25T04:00:00.000Z",
+      "validTo": "2026-08-25T06:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1791/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.08NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-25T04:00:00.000Z",
+      "validTo": "2026-08-25T06:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.08NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 4,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1790/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-08-30T03:00:00.000Z",
+      "validTo": "2026-09-03T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1789/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT NESHER WI LLHA CTR FM GND UP TO 460M AGL 1,510FT AMSL, BTN FLW PSN 324637N0350134E 324629N0350037E 324552N0350043E 324514N0350131E 324513N0350243E 324559N0350245E 324617N0350207E. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-09-01T00:01:00.000Z",
+      "validTo": "2026-09-30T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT NESHER WI LLHA CTR FM GND UP TO 460M AGL 1,510FT AMSL, BTN FLW PSN 324637N0350134E 324629N0350037E 324552N0350043E 324514N0350131E 324513N0350243E 324559N0350245E 324617N0350207E. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.77,35.03",
+      "centerPos": {
+        "lat": 32.77,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1788/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT DALIA/TZAFIT, WI ULTRALIGHT BUBBLE GOVRIN SOUTH (BGOVS) UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,400FT AMSL 314353N0345038E 314339N0345010E 314221N0344925E 314150N0345023E 314222N0345118E 314323N0345123E. CTN ADZ. F) GND G) 1400FT AMSL)",
+      "validFrom": "2026-09-01T00:01:00.000Z",
+      "validTo": "2026-09-30T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT DALIA/TZAFIT, WI ULTRALIGHT BUBBLE GOVRIN SOUTH (BGOVS) UP TO 100M AGL. AN AREA BTN THE FLW PSN CLSD FM GND UP TO 1,400FT AMSL 314353N0345038E 314339N0345010E 314221N0344925E 314150N0345023E 314222N0345118E 314323N0345123E. CTN ADZ. F) GND G) 1400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.72,34.83",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C1787/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-08-27T09:30:00.000Z",
+      "validTo": "2026-08-28T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1786/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.6NM RADIUS CENTERED ON PSN 323704N0350226 AT HAGIT POWER PLANT, CLSD FM GND UP TO 1,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "validFrom": "2026-09-05T19:00:00.000Z",
+      "validTo": "2026-09-05T23:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.6NM RADIUS CENTERED ON PSN 323704N0350226 AT HAGIT POWER PLANT, CLSD FM GND UP TO 1,000FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.03",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.03
+      }
     }
   ],
-  "totalCount": 2665,
-  "lastUpdated": "2026-08-24T03:05:28.341Z"
+  "totalCount": 2673,
+  "lastUpdated": "2026-08-25T03:00:36.138Z"
 }
