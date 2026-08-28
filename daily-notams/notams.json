@@ -35177,8 +35177,73 @@
         "lat": 31.42,
         "lon": 35.35
       }
+    },
+    {
+      "id": "C1821/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT GEULIM WI 1.1NM RADIUS CENTERED ON PSN 321723N0345723E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT. LLHZ TRG AERA NR 9 CLSD ULTRALIGHT BUBBLE SHARON DAROM(BSARS) CLSD BTN ROAD NR 4 57 6 AND N OF TIRAH OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-08-30T10:00:00.000Z",
+      "validTo": "2026-08-30T12:00:00.000Z",
+      "rawText": "E) AN AREA AT GEULIM WI 1.1NM RADIUS CENTERED ON PSN 321723N0345723E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT. LLHZ TRG AERA NR 9 CLSD ULTRALIGHT BUBBLE SHARON DAROM(BSARS) CLSD BTN ROAD NR 4 57 6 AND N OF TIRAH OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.27,34.93",
+      "centerPos": {
+        "lat": 32.27,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "A0698/26",
+      "icaoCode": "LLHA",
+      "description": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT OR FM ATC. EXP DLA FOR DEP FLT.)",
+      "validFrom": "2026-09-10T15:15:00.000Z",
+      "validTo": "2026-09-10T17:00:00.000Z",
+      "rawText": "E) CIRCUIT EXER PROHIBITED, EXC ACFT ATR C/S HFA. LDG PROHIBITED EXC PPR FLT FM AD MANAGEMENT OR FM ATC. EXP DLA FOR DEP FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.05",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0697/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 315938.65N0345424.86E CLSD FM GND UP TO 91.80M 302FT AMSL. IN CASE OF EMERG LOWERED WI 5MIN. CTN ADZ.)",
+      "validFrom": "2026-08-31T20:00:00.000Z",
+      "validTo": "2026-09-01T01:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 315938.65N0345424.86E CLSD FM GND UP TO 91.80M 302FT AMSL. IN CASE OF EMERG LOWERED WI 5MIN. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0696/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "validFrom": "2026-09-02T04:00:00.000Z",
+      "validTo": "2026-09-15T08:00:00.000Z",
+      "rawText": "E) RWY 12 CLSD FOR TKOF ONLY, EXC RWY INT DUE CRANE.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0695/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "validFrom": "2026-09-02T04:00:00.000Z",
+      "validTo": "2026-09-15T08:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT EL-AL JUNCTION. AN AREA FM GND UP TO 100M 360FT AMSL CLSD BTN FLW PSN 315924N0345425E 315922N0345423E 315924N0345419E 315926N0345421E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.98,34.90",
+      "centerPos": {
+        "lat": 31.98,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 2706,
-  "lastUpdated": "2026-08-27T12:27:36.630Z"
+  "totalCount": 2711,
+  "lastUpdated": "2026-08-28T13:57:34.522Z"
 }
