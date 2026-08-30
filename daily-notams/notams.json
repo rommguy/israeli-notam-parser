@@ -35242,8 +35242,21 @@
         "lat": 31.98,
         "lon": 34.9
       }
+    },
+    {
+      "id": "A0699/26",
+      "icaoCode": "LLBG",
+      "description": "E) DUE CRANE AT EL-AL JUNCTION, RWY 12 CLSD FOR TKOF, RWY 30 CLSD FOR LDG.)",
+      "validFrom": "2026-08-31T20:00:00.000Z",
+      "validTo": "2026-09-01T01:00:00.000Z",
+      "rawText": "E) DUE CRANE AT EL-AL JUNCTION, RWY 12 CLSD FOR TKOF, RWY 30 CLSD FOR LDG.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2711,
-  "lastUpdated": "2026-08-28T13:57:34.522Z"
+  "totalCount": 2712,
+  "lastUpdated": "2026-08-30T08:01:13.005Z"
 }
