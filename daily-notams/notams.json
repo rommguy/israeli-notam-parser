@@ -35749,8 +35749,60 @@
         "lat": 29.73,
         "lon": 35.02
       }
+    },
+    {
+      "id": "A0717/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-09-02T06:40:00.000Z",
+      "validTo": "2026-09-02T10:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0715/26",
+      "icaoCode": "LLER",
+      "description": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-08T07:00:00.000Z",
+      "validTo": "2026-09-08T08:00:00.000Z",
+      "rawText": "E) VOR/DME RAM FREQ 113.850MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1851/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-09-03T02:30:00.000Z",
+      "validTo": "2026-09-03T10:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "C1850/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-02T06:30:00.000Z",
+      "validTo": "2026-09-02T14:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 2,000FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.40",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.4
+      }
     }
   ],
-  "totalCount": 2750,
-  "lastUpdated": "2026-09-01T07:26:25.396Z"
+  "totalCount": 2754,
+  "lastUpdated": "2026-09-02T06:54:49.808Z"
 }
