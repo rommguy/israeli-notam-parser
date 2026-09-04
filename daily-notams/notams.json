@@ -35905,8 +35905,255 @@
         "lat": 32.18,
         "lon": 35.25
       }
+    },
+    {
+      "id": "C1874/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330622N0353454E CLSD FM GND UP TO 2,000FT AMSL. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "validFrom": "2026-09-06T15:00:00.000Z",
+      "validTo": "2026-09-13T02:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330622N0353454E CLSD FM GND UP TO 2,000FT AMSL. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.10,35.58",
+      "centerPos": {
+        "lat": 33.1,
+        "lon": 35.58
+      }
+    },
+    {
+      "id": "C1873/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330646N0353414E CLSD FM GND UP TO 2,200FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-09-07T02:00:00.000Z",
+      "validTo": "2026-09-12T14:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT HACHULA-LAKE, FM GND UP TO 400M AGL. LIT AND DAY MARKED. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 330646N0353414E CLSD FM GND UP TO 2,200FT AMSL. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. IN CASE OF EMERG LOWERED WI 10MIN. CTN ADZ. F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.57",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C1872/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-07T06:30:00.000Z",
+      "validTo": "2026-09-07T13:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.40",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "A0725/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "validFrom": "2026-09-07T07:30:00.000Z",
+      "validTo": "2026-09-07T09:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD BTN MEGID-GIMIK.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.40",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1871/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD TAVOR-ZGLNI .)",
+      "validFrom": "2026-09-07T07:30:00.000Z",
+      "validTo": "2026-09-07T09:00:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD TAVOR-ZGLNI .)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.42",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.42
+      }
+    },
+    {
+      "id": "C1870/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR TAVOR CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT BTN FLW PSN 324355N0352454E 324150N0352458E 324157N0352129E 324400N0352124E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-07T07:30:00.000Z",
+      "validTo": "2026-09-07T09:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR TAVOR CLSD FM GND UP TO 7,000FT AMSL TO ALL FLT BTN FLW PSN 324355N0352454E 324150N0352458E 324157N0352129E 324400N0352124E. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.38",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1869/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT KELCH. AN AREA FM GND UP TO 2,500FT AMSL CLSD TO ALL FLT BTN FLW PSN 313226N0344801E 313225N0345409E 313144N0345409E 313129N0345246E 313129N0345126E 313125N0344843E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2026-09-06T05:00:00.000Z",
+      "validTo": "2026-09-09T15:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT KELCH. AN AREA FM GND UP TO 2,500FT AMSL CLSD TO ALL FLT BTN FLW PSN 313226N0344801E 313225N0345409E 313144N0345409E 313129N0345246E 313129N0345126E 313125N0344843E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.53,34.85",
+      "centerPos": {
+        "lat": 31.53,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0724/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30 DUE WIP.)",
+      "validFrom": "2026-09-08T05:00:00.000Z",
+      "validTo": "2026-09-08T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0723/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-08T06:00:00.000Z",
+      "validTo": "2026-09-08T10:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0722/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-09-07T05:00:00.000Z",
+      "validTo": "2026-09-07T13:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1868/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE A-WEST (BMGWA) CLSD.)",
+      "validFrom": "2026-09-07T06:30:00.000Z",
+      "validTo": "2026-09-07T13:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE A-WEST (BMGWA) CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.35",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.35
+      }
+    },
+    {
+      "id": "C1867/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-09-08T09:20:00.000Z",
+      "validTo": "2026-09-08T16:45:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1866/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-09-07T06:00:00.000Z",
+      "validTo": "2026-09-07T10:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1864/26",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-09-06T16:20:00.000Z",
+      "validTo": "2026-09-06T18:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C1865/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2026-09-06T16:20:00.000Z",
+      "validTo": "2026-09-06T18:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C1863/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "validFrom": "2026-09-06T16:20:00.000Z",
+      "validTo": "2026-09-06T18:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD KTORA-YAHEL-BMNUH-ZOFAR-ARAVA-ZOHAR-MMORR-LLMZ-ZUKIM. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR. TARAD-ARRAD.)",
+      "mapLink": "https://www.google.com/maps?q=30.85,35.25",
+      "centerPos": {
+        "lat": 30.85,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C1862/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT, UP TO 2,200FT AMSL. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ F) GND G) 2200FT AMSL)",
+      "validFrom": "2026-09-08T00:01:00.000Z",
+      "validTo": "2026-09-11T02:50:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT RAHAT, UP TO 2,200FT AMSL. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 312252N0344541E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ F) GND G) 2200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.38,34.77",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C1861/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT MISHMAR-DAVID. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 314901N0345351E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "validFrom": "2026-09-08T14:30:00.000Z",
+      "validTo": "2026-09-08T17:30:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT MISHMAR-DAVID. AN AREA WI 0.2NM RADIUS CENTERED ON PSN 314901N0345351E CLSD TO ALL FLT FM GND UP TO 1,500FT AMSL. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.82,34.90",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "C1860/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "validFrom": "2026-09-05T17:00:00.000Z",
+      "validTo": "2029-09-05T19:00:00.000Z",
+      "rawText": "E) AN AREA WI 1KM RADIUS CENTERED ON PSN 315455N0345500E AT GEZER POWER PLANT CLSD FM GND UP TO 1,200FT AMSL, DUE TO GAS EMISSION. CTN ADZ. F) GND G) 1200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.92,34.92",
+      "centerPos": {
+        "lat": 31.92,
+        "lon": 34.92
+      }
     }
   ],
-  "totalCount": 2762,
-  "lastUpdated": "2026-09-03T06:58:28.835Z"
+  "totalCount": 2781,
+  "lastUpdated": "2026-09-04T07:09:26.998Z"
 }
