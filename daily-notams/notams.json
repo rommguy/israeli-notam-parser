@@ -36152,8 +36152,21 @@
         "lat": 31.92,
         "lon": 34.92
       }
+    },
+    {
+      "id": "A0728/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-10-06T05:25:00.000Z",
+      "validTo": "2026-10-06T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 2781,
-  "lastUpdated": "2026-09-04T07:09:26.998Z"
+  "totalCount": 2782,
+  "lastUpdated": "2026-09-06T06:57:08.378Z"
 }
