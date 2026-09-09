@@ -36204,8 +36204,242 @@
         "lat": 31.67,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C1902/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT NAZARETH. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 324128N0351711E CLSD FM GND UP TO 2,400FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-09-13T03:00:00.000Z",
+      "validTo": "2026-09-19T03:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT NAZARETH. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 324128N0351711E CLSD FM GND UP TO 2,400FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.28",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.28
+      }
+    },
+    {
+      "id": "C1901/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-09T05:00:00.000Z",
+      "validTo": "2026-09-09T16:00:00.000Z",
+      "rawText": "E) AN AREA AT KFAR-TAVOR WI 1.1NM RADIUS CENTERED ON PSN 324241N0352429E CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,35.40",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 35.4
+      }
+    },
+    {
+      "id": "C1900/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT EXC ACFT WHOSE HOME BASE IS LLMG,DUE WIP. )",
+      "validFrom": "2026-09-09T02:00:00.000Z",
+      "validTo": "2026-09-09T17:20:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT EXC ACFT WHOSE HOME BASE IS LLMG,DUE WIP. )",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C1899/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-10T05:00:00.000Z",
+      "validTo": "2026-09-10T12:00:00.000Z",
+      "rawText": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.60",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C1858/26",
+      "icaoCode": "LLHZ",
+      "description": "E) TWR FREQ TEMPO CHG TO 125.600MHZ, CLEARANCE (CPT) FREQ CHG TO 118.550MHZ.)",
+      "validFrom": "2026-09-02T12:38:00.000Z",
+      "validTo": "2026-12-31T21:59:00.000Z",
+      "rawText": "E) TWR FREQ TEMPO CHG TO 125.600MHZ, CLEARANCE (CPT) FREQ CHG TO 118.550MHZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C1898/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT MAGAL FM GND UP TO 1,800FT AMSL CLSD TO ALL FLT BTN FLW PSN 322306N0350117E 322239N0350341E 322158N0350333E 322231N0350202E 322215N0350138E 322119N0350125E 322121N0350101E 322142N0350105E 322221N0350101E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-13T06:30:00.000Z",
+      "validTo": "2026-09-17T15:00:00.000Z",
+      "rawText": "E) AN AREA AT MAGAL FM GND UP TO 1,800FT AMSL CLSD TO ALL FLT BTN FLW PSN 322306N0350117E 322239N0350341E 322158N0350333E 322231N0350202E 322215N0350138E 322119N0350125E 322121N0350101E 322142N0350105E 322221N0350101E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.37,35.03",
+      "centerPos": {
+        "lat": 32.37,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "A0733/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-14T07:00:00.000Z",
+      "validTo": "2026-09-14T10:00:00.000Z",
+      "rawText": "E) VOR/DME NAT FREQ 112.400MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.97",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C1897/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-09-17T09:30:00.000Z",
+      "validTo": "2026-09-18T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1896/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-09-11T05:00:00.000Z",
+      "validTo": "2026-09-11T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1895/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 2,800FT AMSL. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-09-15T03:00:00.000Z",
+      "validTo": "2026-09-17T16:10:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 250M AGL. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 2,800FT AMSL. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1893/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-09-10T09:30:00.000Z",
+      "validTo": "2026-09-10T16:15:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1892/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-09-14T03:00:00.000Z",
+      "validTo": "2026-09-17T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C1889/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1890/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1888/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1887/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C1886/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-09-09T06:50:00.000Z",
+      "validTo": "2026-09-09T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C1884/26",
+      "icaoCode": "LLLL",
+      "description": "E) THE RESTRICTIONS OF OPR AEROBATICS FLT WI LLHZ TRG AREA NR 12 COMPLETELY WITHDRAW. DOM AIP, PART AD, PAGE LLHZ 14, PARA 24.D. REF.)",
+      "validFrom": "2026-09-07T07:27:00.000Z",
+      "validTo": "2029-09-09T07:10:42.687Z",
+      "rawText": "E) THE RESTRICTIONS OF OPR AEROBATICS FLT WI LLHZ TRG AREA NR 12 COMPLETELY WITHDRAW. DOM AIP, PART AD, PAGE LLHZ 14, PARA 24.D. REF.)",
+      "mapLink": "https://www.google.com/maps?q=32.38,34.88",
+      "centerPos": {
+        "lat": 32.38,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2785,
-  "lastUpdated": "2026-09-07T07:07:07.227Z"
+  "totalCount": 2803,
+  "lastUpdated": "2026-09-09T07:10:42.693Z"
 }
