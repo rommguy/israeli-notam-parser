@@ -36555,8 +36555,281 @@
         "lat": 32.58,
         "lon": 35.22
       }
+    },
+    {
+      "id": "C1925/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT CARMEL NORTH. AN AREA BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL 323834N0350201E 323903N0350118E 324021N0350218E 324017N0350325E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 3000FT AMSL)",
+      "validFrom": "2026-09-14T03:00:00.000Z",
+      "validTo": "2026-09-17T16:15:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT CARMEL NORTH. AN AREA BTN FLW PSN CLSD FM GND UP TO 3,000FT AMSL 323834N0350201E 323903N0350118E 324021N0350218E 324017N0350325E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 3000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.67,35.03",
+      "centerPos": {
+        "lat": 32.67,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "C1924/26",
+      "icaoCode": "LLLL",
+      "description": "E) MINI UAS/UAV BUBBLE CARMEL NORTH CLSD. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-14T03:00:00.000Z",
+      "validTo": "2026-09-17T16:15:00.000Z",
+      "rawText": "E) MINI UAS/UAV BUBBLE CARMEL NORTH CLSD. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.02",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C1923/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT NAZARETH. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 324212N0351902E CLSD FM GND UP TO 2,700FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2700FT AMSL)",
+      "validFrom": "2026-09-15T06:00:00.000Z",
+      "validTo": "2026-09-22T06:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT NAZARETH. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 324212N0351902E CLSD FM GND UP TO 2,700FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.70,35.32",
+      "centerPos": {
+        "lat": 32.7,
+        "lon": 35.32
+      }
+    },
+    {
+      "id": "C1921/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT MACCABIM, FM GND UP TO 50M AGL. AN AREA BTN FLW PSN 315351N0350218E 315311N0350222E 315311N0350220E 315320N0350216E 315319N0350210E 315323N0350207E 315328N0350208E 315329N0350202E 315336N0350201E 315336N0350210E 315346N0350213E 315348N0350211E 315353N0350212E CLSD FM GND UP TO 1,050FT AMSL. CTN ADZ. F) GND G) 1100FT AMSL)",
+      "validFrom": "2026-09-13T00:01:00.000Z",
+      "validTo": "2026-09-30T20:59:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT MACCABIM, FM GND UP TO 50M AGL. AN AREA BTN FLW PSN 315351N0350218E 315311N0350222E 315311N0350220E 315320N0350216E 315319N0350210E 315323N0350207E 315328N0350208E 315329N0350202E 315336N0350201E 315336N0350210E 315346N0350213E 315348N0350211E 315353N0350212E CLSD FM GND UP TO 1,050FT AMSL. CTN ADZ. F) GND G) 1100FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.90,35.03",
+      "centerPos": {
+        "lat": 31.9,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "A0749/26",
+      "icaoCode": "LLLL",
+      "description": "E) DME BTM/BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-04T04:00:00.000Z",
+      "validTo": "2026-10-04T14:00:00.000Z",
+      "rawText": "E) DME BTM/BET-MEIR FREQ 112.000MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=31.80,35.03",
+      "centerPos": {
+        "lat": 31.8,
+        "lon": 35.03
+      }
+    },
+    {
+      "id": "A0748/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT TERMINAL 1 ON PSN 315940.46N0345339.15E FM GND UP TO 67M 220FT AGL. CTN ADZ.)",
+      "validFrom": "2026-09-14T06:00:00.000Z",
+      "validTo": "2026-09-14T13:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT TERMINAL 1 ON PSN 315940.46N0345339.15E FM GND UP TO 67M 220FT AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0747/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-16T06:00:00.000Z",
+      "validTo": "2026-09-16T10:00:00.000Z",
+      "rawText": "E) ILS 21 C/S BN FREQ 109.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.88",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0746/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30 DUE WIP.)",
+      "validFrom": "2026-09-16T03:00:00.000Z",
+      "validTo": "2026-09-16T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30 DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0745/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-15T06:00:00.000Z",
+      "validTo": "2026-09-15T10:00:00.000Z",
+      "rawText": "E) ILS RWY 26 C/S BA FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.85",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "A0744/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-14T06:00:00.000Z",
+      "validTo": "2026-09-14T10:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0743/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-09-14T05:00:00.000Z",
+      "validTo": "2026-09-14T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C1920/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-09-15T04:35:00.000Z",
+      "validTo": "2026-09-15T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN CLSD. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C1917/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1915/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1913/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1911/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-09-14T09:45:00.000Z",
+      "validTo": "2026-09-15T10:50:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "A0742/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2027-03-12T16:00:00.000Z",
+      "validTo": "2027-03-12T21:00:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0739/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-12-18T16:00:00.000Z",
+      "validTo": "2026-12-18T21:00:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0740/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2027-01-15T16:00:00.000Z",
+      "validTo": "2027-01-15T21:00:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0741/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2027-02-12T16:00:00.000Z",
+      "validTo": "2027-02-12T21:00:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0738/26",
+      "icaoCode": "LLBG",
+      "description": "E) AD CLSD DUE WIP.)",
+      "validFrom": "2026-11-20T16:00:00.000Z",
+      "validTo": "2026-11-20T21:00:00.000Z",
+      "rawText": "E) AD CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
     }
   ],
-  "totalCount": 2812,
-  "lastUpdated": "2026-09-10T07:06:51.929Z"
+  "totalCount": 2833,
+  "lastUpdated": "2026-09-11T07:06:20.268Z"
 }
