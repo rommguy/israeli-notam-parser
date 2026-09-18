@@ -37400,8 +37400,242 @@
         "lat": 30.97,
         "lon": 34.93
       }
+    },
+    {
+      "id": "C1982/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA.)",
+      "validFrom": "2026-09-24T16:30:00.000Z",
+      "validTo": "2026-09-24T19:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD NOAAM-GOVRN-ZHRYA.)",
+      "mapLink": "https://www.google.com/maps?q=31.62,34.87",
+      "centerPos": {
+        "lat": 31.62,
+        "lon": 34.87
+      }
+    },
+    {
+      "id": "C1981/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-09-24T16:30:00.000Z",
+      "validTo": "2026-09-24T22:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C1979/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "validFrom": "2026-09-24T07:35:00.000Z",
+      "validTo": "2026-09-24T08:00:00.000Z",
+      "rawText": "E) ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR. TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1980/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "validFrom": "2026-09-24T07:35:00.000Z",
+      "validTo": "2026-09-24T08:00:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-WEST (BMGWB) LTD TO MAX 1,600FT AMSL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.38",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1978/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "validFrom": "2026-09-24T07:35:00.000Z",
+      "validTo": "2026-09-24T08:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C1977/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-09-24T07:35:00.000Z",
+      "validTo": "2026-09-24T08:00:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 400FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C1976/26",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, ON SEP 20 BTN 0600-1500LMT OPS OF HEL BY PPR FM AIRSTRIP OPR.)",
+      "validFrom": "2026-09-20T03:00:00.000Z",
+      "validTo": "2026-09-21T21:59:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, ON SEP 20 BTN 0600-1500LMT OPS OF HEL BY PPR FM AIRSTRIP OPR.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C1975/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD SHARG-HORON-REUTE-LAPID-MCZVA-YARHV-MEYAL.)",
+      "validFrom": "2026-09-20T10:00:00.000Z",
+      "validTo": "2026-09-20T12:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD SHARG-HORON-REUTE-LAPID-MCZVA-YARHV-MEYAL.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,35.02",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0768/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-09-23T05:00:00.000Z",
+      "validTo": "2026-09-23T10:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0767/26",
+      "icaoCode": "LLBG",
+      "description": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-23T06:00:00.000Z",
+      "validTo": "2026-09-23T10:00:00.000Z",
+      "rawText": "E) DVOR/DME BGN FREQ 113.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0766/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-09-22T05:00:00.000Z",
+      "validTo": "2026-09-22T10:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0765/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-09-22T06:00:00.000Z",
+      "validTo": "2026-09-22T09:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0764/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 CLSD BTN ABIMI-BGN. TFC WITH DEP FM AD WITHIN AMMAN FIR SHALL FILE H24 TALMI DCT TAPUZ BTN 11,000-16,000FT. TFC WITH DEP FM LLER, LLNV, LLOV AND LLRM ONLY SHALL FILE H24 GOBRI DCT TAPUZ BTN 11,000-16,000FT. MIL FLT OVERFLYING FM AMMAN FIR TO NICOSIA FIR SHALL FILE H24 TALMI DCT TAPUZ ABV 17,000FT. MIL FLT OVERFLYING FM LLER, LLNV, LLOV AND LLRM TO NICOSIA FIR SHALL FILE H24 GOBRI DCT TAPUZ ABV 17,000FT.)",
+      "validFrom": "2026-09-22T00:01:00.000Z",
+      "validTo": "2026-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 CLSD BTN ABIMI-BGN. TFC WITH DEP FM AD WITHIN AMMAN FIR SHALL FILE H24 TALMI DCT TAPUZ BTN 11,000-16,000FT. TFC WITH DEP FM LLER, LLNV, LLOV AND LLRM ONLY SHALL FILE H24 GOBRI DCT TAPUZ BTN 11,000-16,000FT. MIL FLT OVERFLYING FM AMMAN FIR TO NICOSIA FIR SHALL FILE H24 TALMI DCT TAPUZ ABV 17,000FT. MIL FLT OVERFLYING FM LLER, LLNV, LLOV AND LLRM TO NICOSIA FIR SHALL FILE H24 GOBRI DCT TAPUZ ABV 17,000FT.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0763/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE L53 BTN TALMI-TAPUZ AVBL H24 BTN 11,000-16,000FT FOR TFC WITH DEP FM AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-09-17T12:21:00.000Z",
+      "validTo": "2026-09-21T23:59:00.000Z",
+      "rawText": "E) ATS RTE L53 BTN TALMI-TAPUZ AVBL H24 BTN 11,000-16,000FT FOR TFC WITH DEP FM AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=31.93,35.02",
+      "centerPos": {
+        "lat": 31.93,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0762/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "validFrom": "2026-09-17T12:16:00.000Z",
+      "validTo": "2026-12-31T23:59:00.000Z",
+      "rawText": "E) ATS RTE N134 BTN VOLFO-SALAM AVBL H24 BTN 11,000-16,000FT FOR TFC WITH ARR AT AD WITHIN AMMAN FIR, LLER, LLNV, LLOV AND LLRM ONLY, AVBL H24 ABV 17,000FT FOR MIL TFC ONLY.)",
+      "mapLink": "https://www.google.com/maps?q=32.13,34.85",
+      "centerPos": {
+        "lat": 32.13,
+        "lon": 34.85
+      }
+    },
+    {
+      "id": "C1973/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-09-24T09:30:00.000Z",
+      "validTo": "2026-09-25T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C1971/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-09-22T05:00:00.000Z",
+      "validTo": "2026-09-24T12:00:00.000Z",
+      "rawText": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.60",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C1970/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 305832N0345546E AND PSN 305832N0345347E CLSD FM GND UP TO 1,700FT AMSL. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-09-24T05:00:00.000Z",
+      "validTo": "2026-09-24T14:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA WI 0.54NM RADIUS CENTERED ON PSN 305832N0345546E AND PSN 305832N0345347E CLSD FM GND UP TO 1,700FT AMSL. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.98,34.92",
+      "centerPos": {
+        "lat": 30.98,
+        "lon": 34.92
+      }
     }
   ],
-  "totalCount": 2877,
-  "lastUpdated": "2026-09-17T07:19:15.924Z"
+  "totalCount": 2895,
+  "lastUpdated": "2026-09-18T07:10:47.007Z"
 }
