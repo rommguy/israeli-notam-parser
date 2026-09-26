@@ -38362,8 +38362,34 @@
         "lat": 32.08,
         "lon": 34.78
       }
+    },
+    {
+      "id": "C2044/26",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLTS.)",
+      "validFrom": "2026-09-26T05:00:00.000Z",
+      "validTo": "2026-09-26T14:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLTS.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2043/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD TYONA-SHFAM. TYONA-SHEFC-SOREK.)",
+      "validFrom": "2026-09-27T03:00:00.000Z",
+      "validTo": "2026-09-28T15:50:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD TYONA-SHFAM. TYONA-SHEFC-SOREK.)",
+      "mapLink": "https://www.google.com/maps?q=32.07,34.75",
+      "centerPos": {
+        "lat": 32.07,
+        "lon": 34.75
+      }
     }
   ],
-  "totalCount": 2951,
-  "lastUpdated": "2026-09-25T07:18:24.423Z"
+  "totalCount": 2953,
+  "lastUpdated": "2026-09-26T07:12:35.271Z"
 }
