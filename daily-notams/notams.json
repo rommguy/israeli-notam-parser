@@ -38388,8 +38388,34 @@
         "lat": 32.07,
         "lon": 34.75
       }
+    },
+    {
+      "id": "C2046/26",
+      "icaoCode": "LLLL",
+      "description": "E) GLD S OF LLBG TMA PROHIBITED.)",
+      "validFrom": "2026-09-27T03:00:00.000Z",
+      "validTo": "2026-09-28T15:50:00.000Z",
+      "rawText": "E) GLD S OF LLBG TMA PROHIBITED.)",
+      "mapLink": "https://www.google.com/maps?q=30.72,34.52",
+      "centerPos": {
+        "lat": 30.72,
+        "lon": 34.52
+      }
+    },
+    {
+      "id": "C2045/26",
+      "icaoCode": "LLHD",
+      "description": "E) ROOF HELIPAD CLSD, HEL SHALL LAND ON GROUND HELIPAD ONLY.))",
+      "validFrom": "2026-09-27T05:00:00.000Z",
+      "validTo": "2026-09-30T13:00:00.000Z",
+      "rawText": "E) ROOF HELIPAD CLSD, HEL SHALL LAND ON GROUND HELIPAD ONLY.))",
+      "mapLink": "https://www.google.com/maps?q=31.77,35.15",
+      "centerPos": {
+        "lat": 31.77,
+        "lon": 35.15
+      }
     }
   ],
-  "totalCount": 2953,
-  "lastUpdated": "2026-09-26T07:12:35.271Z"
+  "totalCount": 2955,
+  "lastUpdated": "2026-09-27T07:45:01.242Z"
 }
