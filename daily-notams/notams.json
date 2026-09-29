@@ -38453,8 +38453,21 @@
         "lat": 31.67,
         "lon": 35.02
       }
+    },
+    {
+      "id": "C2054/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322017N0345921E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. LLHZ TRG AREA NR 13 CLSD E OF NAT VOR. CTN ADZ.)",
+      "validFrom": "2026-09-30T06:30:00.000Z",
+      "validTo": "2026-09-30T22:00:00.000Z",
+      "rawText": "E) AN AREA AT OLESH WI 1.5NM RADIUS CENTERED ON PSN 322017N0345921E CLSD FM GND UP TO 3,000FT AMSL TO ALL FLT. HASHARON-DAROM BUBBLE (BSARS) CLSD E OF NAT VOR. LLHZ TRG AREA NR 13 CLSD E OF NAT VOR. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.33,34.98",
+      "centerPos": {
+        "lat": 32.33,
+        "lon": 34.98
+      }
     }
   ],
-  "totalCount": 2958,
-  "lastUpdated": "2026-09-28T08:23:37.687Z"
+  "totalCount": 2959,
+  "lastUpdated": "2026-09-29T08:01:24.150Z"
 }
