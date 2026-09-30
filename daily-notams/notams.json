@@ -38466,8 +38466,34 @@
         "lat": 32.33,
         "lon": 34.98
       }
+    },
+    {
+      "id": "C2056/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-10-04T03:00:00.000Z",
+      "validTo": "2026-10-08T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2055/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "validFrom": "2026-10-03T21:00:00.000Z",
+      "validTo": "2026-10-11T20:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 2959,
-  "lastUpdated": "2026-09-29T08:01:24.150Z"
+  "totalCount": 2961,
+  "lastUpdated": "2026-09-30T08:09:43.142Z"
 }
