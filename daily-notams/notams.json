@@ -38492,8 +38492,60 @@
         "lat": 32.82,
         "lon": 35.17
       }
+    },
+    {
+      "id": "C2060/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA WI 0.7NM RADIUS CENTERED ON PSN 324332N0351933E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2026-10-01T09:00:00.000Z",
+      "validTo": "2026-10-01T11:00:00.000Z",
+      "rawText": "E) AN AREA WI 0.7NM RADIUS CENTERED ON PSN 324332N0351933E CLSD FM GND UP TO 2,500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.73,35.33",
+      "centerPos": {
+        "lat": 32.73,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "A0790/26",
+      "icaoCode": "LLER",
+      "description": "E) OCA(H) FOR ILS RWY 01 CHG TO 500(248) FOR ALL CAT.)",
+      "validFrom": "2026-10-01T06:21:00.000Z",
+      "validTo": "2026-10-15T20:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 01 CHG TO 500(248) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0791/26",
+      "icaoCode": "LLER",
+      "description": "E) OCA(H) FOR ILS RWY 19 CHG TO 500(228) FOR ALL CAT.)",
+      "validFrom": "2026-10-01T06:21:00.000Z",
+      "validTo": "2026-10-15T20:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 19 CHG TO 500(228) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0789/26",
+      "icaoCode": "LLBG",
+      "description": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "validFrom": "2026-10-01T06:20:00.000Z",
+      "validTo": "2026-10-15T20:59:00.000Z",
+      "rawText": "E) OCA(H) FOR ILS RWY 08 CHG TO 500(403) FOR ALL CAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
     }
   ],
-  "totalCount": 2961,
-  "lastUpdated": "2026-09-30T08:09:43.142Z"
+  "totalCount": 2965,
+  "lastUpdated": "2026-10-01T08:29:07.113Z"
 }
