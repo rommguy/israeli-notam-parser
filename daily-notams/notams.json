@@ -38544,8 +38544,34 @@
         "lat": 32.02,
         "lon": 34.9
       }
+    },
+    {
+      "id": "A0792/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR/DME ZFR/ZOFAR 115.600MHZ CH103X WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-02T08:00:00.000Z",
+      "validTo": "2026-10-03T09:00:00.000Z",
+      "rawText": "E) VOR/DME ZFR/ZOFAR 115.600MHZ CH103X WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.17",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C2061/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT KELCH/LACHISH. AN AREA FM GND UP TO 2,500FT AMSL CLSD TO ALL FLT BTN FLW PSN 313226N0344801E 313225N0345409E 313144N0345409E 313129N0345246E 313129N0345126E 313125N0344843E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2026-10-05T05:00:00.000Z",
+      "validTo": "2026-10-08T15:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT KELCH/LACHISH. AN AREA FM GND UP TO 2,500FT AMSL CLSD TO ALL FLT BTN FLW PSN 313226N0344801E 313225N0345409E 313144N0345409E 313129N0345246E 313129N0345126E 313125N0344843E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.53,34.85",
+      "centerPos": {
+        "lat": 31.53,
+        "lon": 34.85
+      }
     }
   ],
-  "totalCount": 2965,
-  "lastUpdated": "2026-10-01T08:29:07.113Z"
+  "totalCount": 2967,
+  "lastUpdated": "2026-10-02T08:05:08.711Z"
 }
