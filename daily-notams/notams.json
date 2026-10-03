@@ -38570,8 +38570,21 @@
         "lat": 31.53,
         "lon": 34.85
       }
+    },
+    {
+      "id": "A0794/26",
+      "icaoCode": "LLLL",
+      "description": "E) VOR ZFR/ZOFAR 115.600MHZ CH103X WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-03T05:44:00.000Z",
+      "validTo": "2026-10-04T08:00:00.000Z",
+      "rawText": "E) VOR ZFR/ZOFAR 115.600MHZ CH103X WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=30.57,35.17",
+      "centerPos": {
+        "lat": 30.57,
+        "lon": 35.17
+      }
     }
   ],
-  "totalCount": 2967,
-  "lastUpdated": "2026-10-02T08:05:08.711Z"
+  "totalCount": 2968,
+  "lastUpdated": "2026-10-03T07:45:06.614Z"
 }
