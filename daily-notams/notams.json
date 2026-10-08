@@ -39129,8 +39129,177 @@
         "lat": 32.98,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C2127/26",
+      "icaoCode": "LLLL",
+      "description": "E) ZVULUN ULTRALIGHT BUBBLE N (BZVUN) CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-11T05:50:00.000Z",
+      "validTo": "2026-10-11T06:40:00.000Z",
+      "rawText": "E) ZVULUN ULTRALIGHT BUBBLE N (BZVUN) CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.95,35.15",
+      "centerPos": {
+        "lat": 32.95,
+        "lon": 35.15
+      }
+    },
+    {
+      "id": "C2126/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-10-13T06:00:00.000Z",
+      "validTo": "2026-10-13T13:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2124/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-10-11T07:40:00.000Z",
+      "validTo": "2026-10-11T14:10:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2125/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "validFrom": "2026-10-12T06:00:00.000Z",
+      "validTo": "2026-10-12T13:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS-RUHOT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.00",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2123/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "validFrom": "2026-10-11T05:50:00.000Z",
+      "validTo": "2026-10-11T06:40:00.000Z",
+      "rawText": "E) CVFR RTE CLSD EVLYM-AHIUD-AAKKO-SMRAT.)",
+      "mapLink": "https://www.google.com/maps?q=32.88,35.12",
+      "centerPos": {
+        "lat": 32.88,
+        "lon": 35.12
+      }
+    },
+    {
+      "id": "C2108/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "validFrom": "2026-10-13T04:00:00.000Z",
+      "validTo": "2026-10-13T10:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT BET-HASHITA. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,700FT AMSL 323326N0352802E 323431N0352815E 323441N0352700E 323344N0352635E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 1700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.57,35.45",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 35.45
+      }
+    },
+    {
+      "id": "A0812/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-12T10:00:00.000Z",
+      "validTo": "2026-10-12T13:00:00.000Z",
+      "rawText": "E) ILS RWY 19 C/S RB FREQ 110.500MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.72,35.02",
+      "centerPos": {
+        "lat": 29.72,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "A0811/26",
+      "icaoCode": "LLER",
+      "description": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-12T06:00:00.000Z",
+      "validTo": "2026-10-12T09:00:00.000Z",
+      "rawText": "E) ILS RWY 01 C/S RC FREQ 108.700MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=29.75,35.02",
+      "centerPos": {
+        "lat": 29.75,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2107/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "validFrom": "2026-10-11T00:01:00.000Z",
+      "validTo": "2026-10-18T20:59:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 324850N0351002E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.17",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.17
+      }
+    },
+    {
+      "id": "C2106/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD HARIF (BHARF).)",
+      "validFrom": "2026-10-10T05:00:00.000Z",
+      "validTo": "2026-10-10T19:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD HARIF (BHARF).)",
+      "mapLink": "https://www.google.com/maps?q=30.40,34.77",
+      "centerPos": {
+        "lat": 30.4,
+        "lon": 34.77
+      }
+    },
+    {
+      "id": "C2105/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-10-11T03:00:00.000Z",
+      "validTo": "2026-10-15T14:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2104/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "validFrom": "2026-10-11T03:20:00.000Z",
+      "validTo": "2026-10-15T16:00:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 2,500FT AMSL. CTN ADZ. F) GND G) 2500FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2103/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE S OF LLMZ. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 311828N0352235E CLSD FM GND UP TO 50M AGL, (MINUS) -920FT AMSL. CTN ADZ. F) GND G) 100FT AMSL)",
+      "validFrom": "2026-10-10T18:00:00.000Z",
+      "validTo": "2026-10-11T20:00:00.000Z",
+      "rawText": "E) UAS/UAV AIR-SHOW WILL TAKE PLACE S OF LLMZ. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 311828N0352235E CLSD FM GND UP TO 50M AGL, (MINUS) -920FT AMSL. CTN ADZ. F) GND G) 100FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.30,35.38",
+      "centerPos": {
+        "lat": 31.3,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 3010,
-  "lastUpdated": "2026-10-07T08:16:35.083Z"
+  "totalCount": 3023,
+  "lastUpdated": "2026-10-08T08:34:04.098Z"
 }
