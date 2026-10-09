@@ -39298,8 +39298,47 @@
         "lat": 31.3,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C2130/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "validFrom": "2026-10-14T08:00:00.000Z",
+      "validTo": "2026-10-14T08:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD DUE ILS ACT WI LLRD EIRON-ZMGID-AFULA-TAVOR. AFULA-EITAN. ULTRALIGHT AND HEL RTE CLSD EIRON-ARRAA-ZMGID-NIRYA-MRHVA-TAVOR TFC WILL BE DIVERTED VIA FRDIS-HASID.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,35.22",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 35.22
+      }
+    },
+    {
+      "id": "C2129/26",
+      "icaoCode": "LLMG",
+      "description": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "validFrom": "2026-10-14T08:00:00.000Z",
+      "validTo": "2026-10-14T08:30:00.000Z",
+      "rawText": "E) AIRSTRIP LTD TO MAX 900FT AMSL DUE ILS ACT WI LLRD CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.23",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.23
+      }
+    },
+    {
+      "id": "C2128/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-10-15T09:30:00.000Z",
+      "validTo": "2026-10-16T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
     }
   ],
-  "totalCount": 3023,
-  "lastUpdated": "2026-10-08T08:34:04.098Z"
+  "totalCount": 3026,
+  "lastUpdated": "2026-10-09T08:36:50.614Z"
 }
