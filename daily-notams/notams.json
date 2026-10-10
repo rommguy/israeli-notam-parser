@@ -39337,8 +39337,21 @@
         "lat": 31.33,
         "lon": 35.38
       }
+    },
+    {
+      "id": "C2131/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT WEEKEND RTE CLSD TYONA-SHEFC-SOREK.)",
+      "validFrom": "2026-10-10T04:00:00.000Z",
+      "validTo": "2026-10-10T11:00:00.000Z",
+      "rawText": "E) ULTRALIGHT WEEKEND RTE CLSD TYONA-SHEFC-SOREK.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.73",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.73
+      }
     }
   ],
-  "totalCount": 3026,
-  "lastUpdated": "2026-10-09T08:36:50.614Z"
+  "totalCount": 3027,
+  "lastUpdated": "2026-10-10T08:12:47.325Z"
 }
