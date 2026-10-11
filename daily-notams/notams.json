@@ -39350,8 +39350,21 @@
         "lat": 31.97,
         "lon": 34.73
       }
+    },
+    {
+      "id": "A0819/26",
+      "icaoCode": "LLER",
+      "description": "E) LNAV/VNAV OCA(H) FOR RNP RWY 19 (MAP GRADIENT 2.5 PERCENTAGE) CHG TO 730(460) FOR ALL CAT. ISRAEL AIP, PART AD, CHART AD 2 LLER IAC-19RNP. REF.)",
+      "validFrom": "2026-10-11T06:23:00.000Z",
+      "validTo": "2026-12-31T23:59:00.000Z",
+      "rawText": "E) LNAV/VNAV OCA(H) FOR RNP RWY 19 (MAP GRADIENT 2.5 PERCENTAGE) CHG TO 730(460) FOR ALL CAT. ISRAEL AIP, PART AD, CHART AD 2 LLER IAC-19RNP. REF.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
     }
   ],
-  "totalCount": 3027,
-  "lastUpdated": "2026-10-10T08:12:47.325Z"
+  "totalCount": 3028,
+  "lastUpdated": "2026-10-11T08:25:33.889Z"
 }
