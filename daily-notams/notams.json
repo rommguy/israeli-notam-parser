@@ -39506,8 +39506,281 @@
         "lat": 33.12,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C2162/26",
+      "icaoCode": "LLEY",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-20T17:30:00.000Z",
+      "validTo": "2026-10-20T19:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "C2161/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "validFrom": "2026-10-20T17:30:00.000Z",
+      "validTo": "2026-10-20T19:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD ZOFAR-HRGVS.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,35.07",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 35.07
+      }
+    },
+    {
+      "id": "C2160/26",
+      "icaoCode": "LLLL",
+      "description": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-EAST (BMGEB) CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 3,000FT AMSL DUE FIREFIGHTING ACT. CTN ADZ.)",
+      "validFrom": "2026-10-18T09:30:00.000Z",
+      "validTo": "2026-10-18T12:30:00.000Z",
+      "rawText": "E) LLMG TRG AREA AND ULTRALIGHT BUBBLE NR B-EAST (BMGEB) CLSD TO ALL FLT INCLUDING AGRICULTURE FLT FM GND UP TO 3,000FT AMSL DUE FIREFIGHTING ACT. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,35.50",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 35.5
+      }
+    },
+    {
+      "id": "C2159/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-10-16T05:00:00.000Z",
+      "validTo": "2026-10-16T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "C2154/26",
+      "icaoCode": "LLRS",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 CHIMNEY S OF CIRCUIT PATTERN, WEEKDAY RTE ADDED, NISPACH UPDATED B, C, D, E.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 CHIMNEY S OF CIRCUIT PATTERN, WEEKDAY RTE ADDED, NISPACH UPDATED B, C, D, E.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C2152/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 MNM ACFT FOR FLYPAST, NISPACH A-11-C UPDATED, AIS PHONE NR UPDATED, NAURAH CLOSURE ADDED, P/R/D UPDATED, UAV PLUGOT AREA ADDED, NISPACH A-17-A UPDATED. PREFERENCE FLT ADDED, OPS HR OF SHDEROTH BUBBLE, PHONE NR UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 MNM ACFT FOR FLYPAST, NISPACH A-11-C UPDATED, AIS PHONE NR UPDATED, NAURAH CLOSURE ADDED, P/R/D UPDATED, UAV PLUGOT AREA ADDED, NISPACH A-17-A UPDATED. PREFERENCE FLT ADDED, OPS HR OF SHDEROTH BUBBLE, PHONE NR UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,35.25",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "A0829/26",
+      "icaoCode": "LLLL",
+      "description": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 DIFFERENCES UPDATED, SAR UPDATED, NOTE UPDATE FOR LLR01.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 DIFFERENCES UPDATED, SAR UPDATED, NOTE UPDATE FOR LLR01.)",
+      "mapLink": "https://www.google.com/maps?q=31.38,35.25",
+      "centerPos": {
+        "lat": 31.38,
+        "lon": 35.25
+      }
+    },
+    {
+      "id": "C2153/26",
+      "icaoCode": "LLMZ",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 AIRSTRIP OPS HR UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 AIRSTRIP OPS HR UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2149/26",
+      "icaoCode": "LLHZ",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 RESTRICTIONS OF OPR AEROBATIC FLT WI LLHZ TRG AREA NR 12 COMPLETELY WITHDRAWN.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 RESTRICTIONS OF OPR AEROBATIC FLT WI LLHZ TRG AREA NR 12 COMPLETELY WITHDRAWN.)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.83",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "C2150/26",
+      "icaoCode": "LLIB",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 COOR VOR PROC EXER, TWR PHONE NR UPDATED, PRKG OF GLD, RESPONSIBILITY OF PILOT/TWR, WING SPAN ON APN M, WINDSOCKS LOCATIONS UPDATED, CTR BOUNDARY UPDATED, NISPACH B UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T21:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 COOR VOR PROC EXER, TWR PHONE NR UPDATED, PRKG OF GLD, RESPONSIBILITY OF PILOT/TWR, WING SPAN ON APN M, WINDSOCKS LOCATIONS UPDATED, CTR BOUNDARY UPDATED, NISPACH B UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C2151/26",
+      "icaoCode": "LLKS",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 NISPACH A UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 NISPACH A UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=33.22,35.60",
+      "centerPos": {
+        "lat": 33.22,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C2146/26",
+      "icaoCode": "LLEY",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 AIRSTRIP OPS HR UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 AIRSTRIP OPS HR UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=30.62,35.20",
+      "centerPos": {
+        "lat": 30.62,
+        "lon": 35.2
+      }
+    },
+    {
+      "id": "A0828/26",
+      "icaoCode": "LLHA",
+      "description": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 AD OBST DATA LINK ADDED, J10 STAND WITHDRAWN, APN PCR UPDATED, TWY Z WIDTH UPDATED, CPT FREQ ADDED, DEP/ARR FLT PROC UPDATED, CHART UPDATED APDC, APDCN, APDCZ, VCC.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 AD OBST DATA LINK ADDED, J10 STAND WITHDRAWN, APN PCR UPDATED, TWY Z WIDTH UPDATED, CPT FREQ ADDED, DEP/ARR FLT PROC UPDATED, CHART UPDATED APDC, APDCN, APDCZ, VCC.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "C2147/26",
+      "icaoCode": "LLHA",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 OPS HR AD OPS CENTER UPDATED, FREQ UPDATED, MET DATA UPDATED, LIMITATIONS ON APN G ADDED, POWERED TAX WI APN UPDATED, REMOVAL OF MADATORY REP FORCE LDG EXER, CHART UPDATED B, B2, B3, G.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 OPS HR AD OPS CENTER UPDATED, FREQ UPDATED, MET DATA UPDATED, LIMITATIONS ON APN G ADDED, POWERED TAX WI APN UPDATED, REMOVAL OF MADATORY REP FORCE LDG EXER, CHART UPDATED B, B2, B3, G.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0826/26",
+      "icaoCode": "LLBG",
+      "description": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 OBST DATA LINK ON RWY ADDED, AD ADMIN DATA, PCR UPDATED, LGT AND SRY POWER SUPPLY DATA, TAX LIMITATIONS, FLT PROC UPDATED, CHARTS UPDATED ADC, SIDS.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 OBST DATA LINK ON RWY ADDED, AD ADMIN DATA, PCR UPDATED, LGT AND SRY POWER SUPPLY DATA, TAX LIMITATIONS, FLT PROC UPDATED, CHARTS UPDATED ADC, SIDS.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2145/26",
+      "icaoCode": "LLBS",
+      "description": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 NISPACH A UPDATED.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T21:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC DOM AIP AMDT 02/26 WEF 26 NOV 2026 NISPACH A UPDATED.)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
+    },
+    {
+      "id": "A0827/26",
+      "icaoCode": "LLER",
+      "description": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 AD OBST DATA LINK ADDED, CHART UPDATED ADC, ADCV.)",
+      "validFrom": "2026-11-26T00:01:00.000Z",
+      "validTo": "2026-12-09T23:59:00.000Z",
+      "rawText": "E) TRIGGER NOTAM - AIRAC AIP AMDT 02/26 WEF 26 NOV 2026 AD OBST DATA LINK ADDED, CHART UPDATED ADC, ADCV.)",
+      "mapLink": "https://www.google.com/maps?q=29.73,35.02",
+      "centerPos": {
+        "lat": 29.73,
+        "lon": 35.02
+      }
+    },
+    {
+      "id": "C2143/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "validFrom": "2026-10-19T06:00:00.000Z",
+      "validTo": "2026-10-21T14:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT REVIVIM. AN AREA BTN FLW PSN CLSD FM GND UP 2,400FT AMSL 310712N0344550E 310511N0343920E 310455N0343655E 305931N0343815E 310035N0344409E 310359N0344720E 310712N0344550E. OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC CTN ADZ. F) GND G) 2400FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.05,34.70",
+      "centerPos": {
+        "lat": 31.05,
+        "lon": 34.7
+      }
+    },
+    {
+      "id": "C2142/26",
+      "icaoCode": "LLLL",
+      "description": "E) FIREFIGHTING ACT WILL TAKE PLACE AT NACHSHON. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 314953N0345531E 315139N0345452E 315146N0345658E 315015N0345804E. CTN ADZ.)",
+      "validFrom": "2026-10-18T06:00:00.000Z",
+      "validTo": "2026-10-18T08:30:00.000Z",
+      "rawText": "E) FIREFIGHTING ACT WILL TAKE PLACE AT NACHSHON. AN AREA BTN FLW PSN CLSD FM GND UP TO 1,500FT AMSL TO ALL FLT INCLUDING AGRICULTURE FLT 314953N0345531E 315139N0345452E 315146N0345658E 315015N0345804E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.85,34.93",
+      "centerPos": {
+        "lat": 31.85,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "A0825/26",
+      "icaoCode": "LLHA",
+      "description": "E) ACFT STAND A2 CLSD DUE WIP.)",
+      "validFrom": "2026-11-23T00:01:00.000Z",
+      "validTo": "2026-12-31T21:59:00.000Z",
+      "rawText": "E) ACFT STAND A2 CLSD DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
+    },
+    {
+      "id": "A0824/26",
+      "icaoCode": "LLHA",
+      "description": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "validFrom": "2026-11-03T06:25:00.000Z",
+      "validTo": "2026-11-03T11:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT INCLUDING HEL, DUE WIP. IN CASE OF EMERG AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.82,35.05",
+      "centerPos": {
+        "lat": 32.82,
+        "lon": 35.05
+      }
     }
   ],
-  "totalCount": 3039,
-  "lastUpdated": "2026-10-13T09:05:01.827Z"
+  "totalCount": 3060,
+  "lastUpdated": "2026-10-15T07:06:57.593Z"
 }
