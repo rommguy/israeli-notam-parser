@@ -40325,8 +40325,203 @@
         "lat": 31.97,
         "lon": 34.75
       }
+    },
+    {
+      "id": "A0845/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "validFrom": "2026-10-28T06:00:00.000Z",
+      "validTo": "2026-10-28T12:00:00.000Z",
+      "rawText": "E) RWY 08/26 CLSD EXC RWY INT, DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0844/26",
+      "icaoCode": "LLBG",
+      "description": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "validFrom": "2026-10-26T07:00:00.000Z",
+      "validTo": "2026-10-26T11:00:00.000Z",
+      "rawText": "E) ILS RWY 12 C/S BG FREQ 110.300MHZ WITHDRAWN FOR MAINT.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.90",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0843/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "validFrom": "2026-10-26T06:00:00.000Z",
+      "validTo": "2026-10-26T11:00:00.000Z",
+      "rawText": "E) RWY 12/30 CLSD EXC RWY INT DUE WIP.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2222/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE BET-GOVRIN NORTH (BGOVN) AND SOUTH (BGOVS) CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2026-10-23T03:30:00.000Z",
+      "validTo": "2026-10-23T06:15:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE BET-GOVRIN NORTH (BGOVN) AND SOUTH (BGOVS) CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.95",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.95
+      }
+    },
+    {
+      "id": "C2221/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-10-22T10:00:00.000Z",
+      "validTo": "2026-10-23T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2219/26",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2026-10-23T04:15:00.000Z",
+      "validTo": "2026-10-23T13:10:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2218/26",
+      "icaoCode": "LLRS",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "validFrom": "2026-10-23T03:30:00.000Z",
+      "validTo": "2026-10-23T14:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT, EXC PARTICIPATING ACFT IN FLY-PAST.)",
+      "mapLink": "https://www.google.com/maps?q=31.97,34.75",
+      "centerPos": {
+        "lat": 31.97,
+        "lon": 34.75
+      }
+    },
+    {
+      "id": "C2216/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI).)",
+      "validFrom": "2026-10-23T03:45:00.000Z",
+      "validTo": "2026-10-23T14:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST SHALEM (BSHLM), YAM-HAMELCH (BYMLH), EIN-GEDI (BNGDI).)",
+      "mapLink": "https://www.google.com/maps?q=31.43,35.37",
+      "centerPos": {
+        "lat": 31.43,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C2214/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST LLRS-SOREK-BOVED-IANES-SIRNI-NSHRM-AYLON-LTRUN-SHARG- SORES-TZUBA-KENED-HOMMA-DUMIM-YREHO-ALMOG-ZUKIM- SHALM-ENGDE-LLMZ. NTAIM-MNSZN. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. HOMMA-MARSB. CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST LLRS-NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES-HAREL- HNINA-ANATA-DUMIM-UREHO-ALMOG-ZUKIM-SHALM-ENGDI-LLMZ. MIHMS-DUMIM. YRIHO-MIHMS-ANATA.)",
+      "validFrom": "2026-10-23T03:30:00.000Z",
+      "validTo": "2026-10-23T14:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST LLRS-SOREK-BOVED-IANES-SIRNI-NSHRM-AYLON-LTRUN-SHARG- SORES-TZUBA-KENED-HOMMA-DUMIM-YREHO-ALMOG-ZUKIM- SHALM-ENGDE-LLMZ. NTAIM-MNSZN. SIRNI-MNSZN-RSNIM-IKKEA-MEHOL-LLRS. HOMMA-MARSB. CVFR RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST LLRS-NTAIM-SIRNI-NSHRM-AYLON-LTRUN-SHARG-SORES-HAREL- HNINA-ANATA-DUMIM-UREHO-ALMOG-ZUKIM-SHALM-ENGDI-LLMZ. MIHMS-DUMIM. YRIHO-MIHMS-ANATA.)",
+      "mapLink": "https://www.google.com/maps?q=31.72,35.10",
+      "centerPos": {
+        "lat": 31.72,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2213/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST MEYAL-ELYAU-ZNYMN-YARHV-SSOMR-MCZVA-LAPID-REUTE- HORON-SHARG.)",
+      "validFrom": "2026-10-23T04:15:00.000Z",
+      "validTo": "2026-10-23T05:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD, EXC PARTICIPATING ACFT IN FLY-PAST MEYAL-ELYAU-ZNYMN-YARHV-SSOMR-MCZVA-LAPID-REUTE- HORON-SHARG.)",
+      "mapLink": "https://www.google.com/maps?q=32.00,34.98",
+      "centerPos": {
+        "lat": 32,
+        "lon": 34.98
+      }
+    },
+    {
+      "id": "C2212/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-10-29T12:00:00.000Z",
+      "validTo": "2026-10-30T12:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE METZADA ACT FM 8,000FT AMSL. OPR BY PPR FM ATC ONLY. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2211/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-10-26T09:00:00.000Z",
+      "validTo": "2026-10-27T13:00:00.000Z",
+      "rawText": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.60",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.6
+      }
+    },
+    {
+      "id": "C2210/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT KFAR-SABA WI LLHZ TRG AREA NR 3, FM GND UP TO 400FT AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 900FT AMSL 321038N0345552E 321015N0345531E 321023N0345500E 321100N0345511E 321112N0345414E 321144N0345442E 321143N0345448E 321141N0345447E 321132N0345511E 321126N0345509E 321122N0345510E 321114N0345542E 321045N0345541E. CTN ADZ. F) GND G) 900FT AMSL)",
+      "validFrom": "2026-10-21T08:37:00.000Z",
+      "validTo": "2026-12-31T21:59:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT KFAR-SABA WI LLHZ TRG AREA NR 3, FM GND UP TO 400FT AGL. AN AREA BTN FLW PSN CLSD FM GND UP TO 900FT AMSL 321038N0345552E 321015N0345531E 321023N0345500E 321100N0345511E 321112N0345414E 321144N0345442E 321143N0345448E 321141N0345447E 321132N0345511E 321126N0345509E 321122N0345510E 321114N0345542E 321045N0345541E. CTN ADZ. F) GND G) 900FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.18,34.92",
+      "centerPos": {
+        "lat": 32.18,
+        "lon": 34.92
+      }
+    },
+    {
+      "id": "C2209/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT GVARAM. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 313612N0343627E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "validFrom": "2026-10-29T06:00:00.000Z",
+      "validTo": "2026-10-29T13:00:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT GVARAM. AN AREA WI 0.4NM RADIUS CENTERED ON PSN 313612N0343627E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.60,34.60",
+      "centerPos": {
+        "lat": 31.6,
+        "lon": 34.6
+      }
+    },
+    {
+      "id": "C2208/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "validFrom": "2026-10-23T05:00:00.000Z",
+      "validTo": "2026-10-23T11:00:00.000Z",
+      "rawText": "E) PJE AIRSPACE TEIMAN ACT FM 11,000FT AMSL. IN CASE OF EMERG CLEAR THE AIRSPACE WI 5MIN. CTN ADZ. F) GND G) 11000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.28,34.72",
+      "centerPos": {
+        "lat": 31.28,
+        "lon": 34.72
+      }
     }
   ],
-  "totalCount": 3102,
-  "lastUpdated": "2026-10-21T07:13:47.279Z"
+  "totalCount": 3117,
+  "lastUpdated": "2026-10-22T07:19:52.062Z"
 }
