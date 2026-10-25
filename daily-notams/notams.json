@@ -40520,8 +40520,255 @@
         "lat": 31.28,
         "lon": 34.72
       }
+    },
+    {
+      "id": "A0848/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT Q APRON. ON PSN 320114.84N0345352.36E FM GND UP TO 81M 265FT AGL. CTN ADZ.)",
+      "validFrom": "2026-10-25T09:00:00.000Z",
+      "validTo": "2026-10-25T11:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT Q APRON. ON PSN 320114.84N0345352.36E FM GND UP TO 81M 265FT AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0847/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 21 CLSD FOR LDG, DUE CRANE ON FINAL 21. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "validFrom": "2026-10-25T09:00:00.000Z",
+      "validTo": "2026-10-25T11:00:00.000Z",
+      "rawText": "E) RWY 21 CLSD FOR LDG, DUE CRANE ON FINAL 21. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2256/26",
+      "icaoCode": "LLLL",
+      "description": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 325058N0351056E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "validFrom": "2026-10-25T03:20:00.000Z",
+      "validTo": "2026-10-29T03:20:00.000Z",
+      "rawText": "E) CAPTIVE BALLOON WILL TAKE PLACE AT TAMRAH. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 325058N0351056E CLSD FM GND UP TO 1,800FT AMSL, TO ALL FLT INCLUDING AGRICULTURE FLT. CTN ADZ. F) GND G) 1800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=32.85,35.18",
+      "centerPos": {
+        "lat": 32.85,
+        "lon": 35.18
+      }
+    },
+    {
+      "id": "C2253/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS.)",
+      "validFrom": "2026-10-26T11:15:00.000Z",
+      "validTo": "2026-10-26T12:25:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS.)",
+      "mapLink": "https://www.google.com/maps?q=32.50,34.48",
+      "centerPos": {
+        "lat": 32.5,
+        "lon": 34.48
+      }
+    },
+    {
+      "id": "C2252/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.))",
+      "validFrom": "2026-10-26T11:15:00.000Z",
+      "validTo": "2026-10-26T12:25:00.000Z",
+      "rawText": "E) HEL RTE CLSD SFAIM-SUVAS. SFAIM-KONFO. SFAIM-DAFNA.))",
+      "mapLink": "https://www.google.com/maps?q=32.23,34.40",
+      "centerPos": {
+        "lat": 32.23,
+        "lon": 34.4
+      }
+    },
+    {
+      "id": "C2250/26",
+      "icaoCode": "LLLL",
+      "description": "E) OPS OF FIBER OPTIC GUIDED UAS AND THE USE OF CELLULAR COMMUNICATIONS IN UAS OPS IS PROHIBIRED WITHIN TEL AVIV FIR. FOR FURTHER INFORMATION PLEASE REFER TO CAA SITE - HTTPS //WWW.GOV.IL/HE/PAGES/OPTICAL-FIBER-SIM-PROHUBITION.) F) GND G) UNL)",
+      "validFrom": "2026-10-22T11:55:00.000Z",
+      "validTo": "2027-01-31T23:59:00.000Z",
+      "rawText": "E) OPS OF FIBER OPTIC GUIDED UAS AND THE USE OF CELLULAR COMMUNICATIONS IN UAS OPS IS PROHIBIRED WITHIN TEL AVIV FIR. FOR FURTHER INFORMATION PLEASE REFER TO CAA SITE - HTTPS //WWW.GOV.IL/HE/PAGES/OPTICAL-FIBER-SIM-PROHUBITION.) F) GND G) UNL)",
+      "mapLink": "https://www.google.com/maps?q=31.40,35.33",
+      "centerPos": {
+        "lat": 31.4,
+        "lon": 35.33
+      }
+    },
+    {
+      "id": "C2251/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD TAVOR-DESHE.)",
+      "validFrom": "2026-10-25T23:00:00.000Z",
+      "validTo": "2026-10-27T03:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD TAVOR-DESHE.)",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.48",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.48
+      }
+    },
+    {
+      "id": "C2249/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU. LLMZ-ARRAD.))",
+      "validFrom": "2026-10-26T08:30:00.000Z",
+      "validTo": "2026-10-26T12:05:00.000Z",
+      "rawText": "E) CVFR RTE CLSD MYTAR-TARAD-ARRAD-HATRU. LLMZ-ARRAD.))",
+      "mapLink": "https://www.google.com/maps?q=31.27,35.10",
+      "centerPos": {
+        "lat": 31.27,
+        "lon": 35.1
+      }
+    },
+    {
+      "id": "C2248/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD RUHOT-MESAR.)",
+      "validFrom": "2026-10-26T04:00:00.000Z",
+      "validTo": "2026-10-26T06:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD RUHOT-MESAR.)",
+      "mapLink": "https://www.google.com/maps?q=30.58,34.88",
+      "centerPos": {
+        "lat": 30.58,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2238/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AFULA-EITAN-DESHE.)",
+      "validFrom": "2026-10-26T05:00:00.000Z",
+      "validTo": "2026-10-26T19:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AFULA-EITAN-DESHE.)",
+      "mapLink": "https://www.google.com/maps?q=32.68,35.48",
+      "centerPos": {
+        "lat": 32.68,
+        "lon": 35.48
+      }
+    },
+    {
+      "id": "C2235/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZBTZD-ENGEV-ZEMAH-MIGDL.)",
+      "validFrom": "2026-10-26T05:00:00.000Z",
+      "validTo": "2026-10-26T19:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZBTZD-ENGEV-ZEMAH-MIGDL.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.62",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.62
+      }
+    },
+    {
+      "id": "C2230/26",
+      "icaoCode": "LLHF",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.53,35.43",
+      "centerPos": {
+        "lat": 32.53,
+        "lon": 35.43
+      }
+    },
+    {
+      "id": "C2229/26",
+      "icaoCode": "LLFK",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-26T19:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.72",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.72
+      }
+    },
+    {
+      "id": "C2228/26",
+      "icaoCode": "LLMZ",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=31.33,35.38",
+      "centerPos": {
+        "lat": 31.33,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "A0846/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE J14 CLSD.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) ATS RTE J14 CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.67,35.27",
+      "centerPos": {
+        "lat": 32.67,
+        "lon": 35.27
+      }
+    },
+    {
+      "id": "C2227/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD AFULA-EITAN. DESHE-EITAN-FAZEL-NAAMA-HAZVA. FAZEL-MIHMS-ALMOG. DUMIN-MIHMS-ANATA. SORES-DUMIM-ALMOG. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) CVFR RTE CLSD AFULA-EITAN. DESHE-EITAN-FAZEL-NAAMA-HAZVA. FAZEL-MIHMS-ALMOG. DUMIN-MIHMS-ANATA. SORES-DUMIM-ALMOG. MMORR-ARRAD-LLMZ. ARRAD-HATRU-ZOHAR.)",
+      "mapLink": "https://www.google.com/maps?q=31.82,35.38",
+      "centerPos": {
+        "lat": 31.82,
+        "lon": 35.38
+      }
+    },
+    {
+      "id": "C2226/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD ZBTZD-ENGEV-ZEMAH-MIGDL.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD ZBTZD-ENGEV-ZEMAH-MIGDL.)",
+      "mapLink": "https://www.google.com/maps?q=32.80,35.62",
+      "centerPos": {
+        "lat": 32.8,
+        "lon": 35.62
+      }
+    },
+    {
+      "id": "C2225/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, EXC EMERG, MEDEVAC OR FIREFIGHTING FLT FM GND UP TO 5000FT AMSL 323119N0352440E 322858N0353425E 315958N0353144E 305534N0352425E 304910N0351954E 305045N0351616E 310238N0351945E 310549N0351344E 311359N0351524E 312129N0350558E 312508N0351146E 313411N0351212E 313851N0351757E 314905N0351943E 314859N0351537E 321349N0352654E. CTN ADZ.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-25T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, EXC EMERG, MEDEVAC OR FIREFIGHTING FLT FM GND UP TO 5000FT AMSL 323119N0352440E 322858N0353425E 315958N0353144E 305534N0352425E 304910N0351954E 305045N0351616E 310238N0351945E 310549N0351344E 311359N0351524E 312129N0350558E 312508N0351146E 313411N0351212E 313851N0351757E 314905N0351943E 314859N0351537E 321349N0352654E. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=31.67,35.37",
+      "centerPos": {
+        "lat": 31.67,
+        "lon": 35.37
+      }
+    },
+    {
+      "id": "C2224/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, EXC EMERG, MEDEVAC OR FIREFIGHTING FLT FM GND UP TO 5000FT AMSL 331904N0354558E 331357N0353432E 330412N0353402E 330338N0353920E 325237N0353841E 324002N0352615E 323833N0352708E 323118N0352141E 322901N0353430E 323856N0353411E 324501N0354547E 325618N0355331E CTN ADZ.)",
+      "validFrom": "2026-10-25T10:00:00.000Z",
+      "validTo": "2026-10-26T19:00:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, INCLUDING AGRICULTURE FLT, EXC EMERG, MEDEVAC OR FIREFIGHTING FLT FM GND UP TO 5000FT AMSL 331904N0354558E 331357N0353432E 330412N0353402E 330338N0353920E 325237N0353841E 324002N0352615E 323833N0352708E 323118N0352141E 322901N0353430E 323856N0353411E 324501N0354547E 325618N0355331E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.92,35.57",
+      "centerPos": {
+        "lat": 32.92,
+        "lon": 35.57
+      }
     }
   ],
-  "totalCount": 3117,
-  "lastUpdated": "2026-10-22T07:19:52.062Z"
+  "totalCount": 3136,
+  "lastUpdated": "2026-10-25T07:22:37.026Z"
 }
