@@ -40767,8 +40767,138 @@
         "lat": 32.92,
         "lon": 35.57
       }
+    },
+    {
+      "id": "C2269/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-DAROM-ATLIT-HASID. ATLIT-FRDIS. HOTRM-LLLV. FRDIS-LLLV. SDTYM-LLLV.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-DAROM-ATLIT-HASID. ATLIT-FRDIS. HOTRM-LLLV. FRDIS-LLLV. SDTYM-LLLV.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,34.97",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2268/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT RTE CLSD DAROM-HOTRM-BOREN-FRDIS.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) ULTRALIGHT RTE CLSD DAROM-HOTRM-BOREN-FRDIS.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,34.97",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2267/26",
+      "icaoCode": "LLLL",
+      "description": "E) CVFR RTE CLSD GALIM-DAROM-HOTRM-BOREN-FRDIS.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) CVFR RTE CLSD GALIM-DAROM-HOTRM-BOREN-FRDIS.)",
+      "mapLink": "https://www.google.com/maps?q=32.72,34.97",
+      "centerPos": {
+        "lat": 32.72,
+        "lon": 34.97
+      }
+    },
+    {
+      "id": "C2264/26",
+      "icaoCode": "LLLL",
+      "description": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA. GALIM-INBAR.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) HEL RTE CLSD GALIM-SUVAS. GALIM-KONFO. GALIM-DAFNA. GALIM-MERVA. GALIM-INBAR.)",
+      "mapLink": "https://www.google.com/maps?q=32.57,34.42",
+      "centerPos": {
+        "lat": 32.57,
+        "lon": 34.42
+      }
+    },
+    {
+      "id": "A0849/26",
+      "icaoCode": "LLLL",
+      "description": "E) ATS RTE CLSD P68 BTN GALIM-MERVA. Q17 BTN ATLIT-ZAHAV. J15 NAT-ATLIT. Q28 GALIM-ATLIT.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) ATS RTE CLSD P68 BTN GALIM-MERVA. Q17 BTN ATLIT-ZAHAV. J15 NAT-ATLIT. Q28 GALIM-ATLIT.)",
+      "mapLink": "https://www.google.com/maps?q=32.58,34.80",
+      "centerPos": {
+        "lat": 32.58,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C2263/26",
+      "icaoCode": "LLLV",
+      "description": "E) AIRSRRIP CLSD.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) AIRSRRIP CLSD.)",
+      "mapLink": "https://www.google.com/maps?q=32.60,34.80",
+      "centerPos": {
+        "lat": 32.6,
+        "lon": 34.8
+      }
+    },
+    {
+      "id": "C2262/26",
+      "icaoCode": "LLBO",
+      "description": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) AIRSTRIP CLSD TO ALL FLT.)",
+      "mapLink": "https://www.google.com/maps?q=32.65,34.93",
+      "centerPos": {
+        "lat": 32.65,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2261/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 12,000FT AMSL 323334N0345409E 324716N0345650E 324734N0345630E 324938N0345558E 330007N0345704E 330423N0344903E 330539N0342818E 330607N0342135E 324029N0341802E CTN ADZ.)",
+      "validFrom": "2026-10-28T07:45:00.000Z",
+      "validTo": "2026-10-28T13:30:00.000Z",
+      "rawText": "E) AN AREA BTN FLW PSN CLSD TO ALL FLT, FM GND UP TO 12,000FT AMSL 323334N0345409E 324716N0345650E 324734N0345630E 324938N0345558E 330007N0345704E 330423N0344903E 330539N0342818E 330607N0342135E 324029N0341802E CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.83,34.63",
+      "centerPos": {
+        "lat": 32.83,
+        "lon": 34.63
+      }
+    },
+    {
+      "id": "C2260/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 3,200FT AMSL. CTN ADZ. F) GND G) 3200FT AMSL)",
+      "validFrom": "2026-11-01T03:30:00.000Z",
+      "validTo": "2026-11-05T15:20:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM. AN AREA BTN FLW PSN 305830N0345551E 305823N0345644E 305803N0345708E 305709N0345649E 305624N0345614E 305652N0345453E CLSD FM GND UP TO 3,200FT AMSL. CTN ADZ. F) GND G) 3200FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.93",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.93
+      }
+    },
+    {
+      "id": "C2259/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-10-28T05:00:00.000Z",
+      "validTo": "2026-10-29T13:00:00.000Z",
+      "rawText": "E) AN AREA AT HACHULA-LAKE WI 0.54NM RADIUS CENTERED ON PSN 330651N0353618E CLSD FM GND UP TO 660FT AGL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=33.12,35.60",
+      "centerPos": {
+        "lat": 33.12,
+        "lon": 35.6
+      }
     }
   ],
-  "totalCount": 3136,
-  "lastUpdated": "2026-10-25T07:22:37.026Z"
+  "totalCount": 3146,
+  "lastUpdated": "2026-10-26T07:36:38.528Z"
 }
