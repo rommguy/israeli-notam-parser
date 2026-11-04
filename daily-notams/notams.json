@@ -41625,8 +41625,151 @@
         "lat": 31.22,
         "lon": 34.52
       }
+    },
+    {
+      "id": "C2349/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BEIT-RIMON FM GND UP TO 2,200FT AMSL CLSD TO ALL FLT BTN FLW PSN 324620N0351807E 324702N0351803E 324704N0351840E 324621N0351847E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-11-04T08:00:00.000Z",
+      "validTo": "2026-11-04T14:00:00.000Z",
+      "rawText": "E) AN AREA AT BEIT-RIMON FM GND UP TO 2,200FT AMSL CLSD TO ALL FLT BTN FLW PSN 324620N0351807E 324702N0351803E 324704N0351840E 324621N0351847E OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.78,35.30",
+      "centerPos": {
+        "lat": 32.78,
+        "lon": 35.3
+      }
+    },
+    {
+      "id": "C2348/26",
+      "icaoCode": "LLIB",
+      "description": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "validFrom": "2026-11-22T07:00:00.000Z",
+      "validTo": "2026-11-22T10:00:00.000Z",
+      "rawText": "E) AD CLSD TO ALL FLT, DUE WIP. OPS OF HEL AVBL BY PPR FM ATC. IN CASE OF EMERG OR MEDEVAC HEL AVBL WI 10MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.98,35.57",
+      "centerPos": {
+        "lat": 32.98,
+        "lon": 35.57
+      }
+    },
+    {
+      "id": "C2347/26",
+      "icaoCode": "LLLL",
+      "description": "E) AN AREA AT BAT-SHLOMO WI 0.54NM RADIUS CENTERED ON PSN 323721N0350002E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "validFrom": "2026-11-09T05:00:00.000Z",
+      "validTo": "2026-11-09T15:00:00.000Z",
+      "rawText": "E) AN AREA AT BAT-SHLOMO WI 0.54NM RADIUS CENTERED ON PSN 323721N0350002E CLSD FM GND UP TO 2,200FT AMSL TO ALL FLT, OPS OF AGRICULTURE FLT AVBL WITH 15MIN PPR FM ATC. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.62,35.00",
+      "centerPos": {
+        "lat": 32.62,
+        "lon": 35
+      }
+    },
+    {
+      "id": "C2346/26",
+      "icaoCode": "LLLL",
+      "description": "E) ULTRALIGHT BUBBLE SHIVTA (BSVTA) CLSD .)",
+      "validFrom": "2026-11-06T04:00:00.000Z",
+      "validTo": "2026-11-06T12:00:00.000Z",
+      "rawText": "E) ULTRALIGHT BUBBLE SHIVTA (BSVTA) CLSD .)",
+      "mapLink": "https://www.google.com/maps?q=31.02,34.53",
+      "centerPos": {
+        "lat": 31.02,
+        "lon": 34.53
+      }
+    },
+    {
+      "id": "C2345/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA FM GND UP TO 2,800FT AMSL CLSD BTN FLW PSN 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "validFrom": "2026-11-08T10:00:00.000Z",
+      "validTo": "2026-11-10T11:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT SHUNRAH. AN AREA FM GND UP TO 2,800FT AMSL CLSD BTN FLW PSN 305416N0342843E 305436N0342531E 305721N0342433E 310025N0343407E 305642N0343528E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 2800FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.95,34.50",
+      "centerPos": {
+        "lat": 30.95,
+        "lon": 34.5
+      }
+    },
+    {
+      "id": "C2344/26",
+      "icaoCode": "LLLL",
+      "description": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA FM GND UP TO 8,000FT AMSL CLSD TO ALL FLT BTN FLW PSN 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "validFrom": "2026-11-09T06:00:00.000Z",
+      "validTo": "2026-11-09T15:00:00.000Z",
+      "rawText": "E) PJE WILL TAKE PLACE AT KELACH. AN AREA FM GND UP TO 8,000FT AMSL CLSD TO ALL FLT BTN FLW PSN 313200N0345319E 313159N0344733E 312602N0344730E 312444N0345024E 312602N0345311E. OPS OF AGRICULTURE FLT WITH 15MIN PPR FM ATC. CTN ADZ. F) GND G) 8000FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.48,34.83",
+      "centerPos": {
+        "lat": 31.48,
+        "lon": 34.83
+      }
+    },
+    {
+      "id": "A0884/26",
+      "icaoCode": "LLBG",
+      "description": "E) CRANE ERECTED WI LLBG CTR, AT Q APRON. ON PSN 320114.84N0345352.36E FM GND UP TO 40M 131FT AGL. CTN ADZ.)",
+      "validFrom": "2026-11-04T11:00:00.000Z",
+      "validTo": "2026-11-04T14:00:00.000Z",
+      "rawText": "E) CRANE ERECTED WI LLBG CTR, AT Q APRON. ON PSN 320114.84N0345352.36E FM GND UP TO 40M 131FT AGL. CTN ADZ.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.90",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.9
+      }
+    },
+    {
+      "id": "A0883/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 26 CLSD FOR LDG, DUE CRANE ON FINAL 26 FOR AIRCRAFT RECOVERY DRILL. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "validFrom": "2026-11-04T11:00:00.000Z",
+      "validTo": "2026-11-04T14:00:00.000Z",
+      "rawText": "E) RWY 26 CLSD FOR LDG, DUE CRANE ON FINAL 26 FOR AIRCRAFT RECOVERY DRILL. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "A0881/26",
+      "icaoCode": "LLBG",
+      "description": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE CRANE ON FINAL 26 FOR AIRCRAFT RECOVERY DRILL. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "validFrom": "2026-11-04T11:00:00.000Z",
+      "validTo": "2026-11-04T14:00:00.000Z",
+      "rawText": "E) RWY 03/21 CLSD EXC RWY INT 03/30, DUE CRANE ON FINAL 26 FOR AIRCRAFT RECOVERY DRILL. IN CASE OF EMERG LOWERED WI 30MIN.)",
+      "mapLink": "https://www.google.com/maps?q=32.02,34.88",
+      "centerPos": {
+        "lat": 32.02,
+        "lon": 34.88
+      }
+    },
+    {
+      "id": "C2343/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS ACT WILL TAKE PLACE AT JULIS. AN AREA FM GND UP TO 1000FT AMSL CLSD TO ALL FLT BTN FLW PSN 314157N0344054E, RADIUS 0.6NM. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 650FT AMSL)",
+      "validFrom": "2026-11-03T11:00:00.000Z",
+      "validTo": "2026-11-05T17:00:00.000Z",
+      "rawText": "E) UAS ACT WILL TAKE PLACE AT JULIS. AN AREA FM GND UP TO 1000FT AMSL CLSD TO ALL FLT BTN FLW PSN 314157N0344054E, RADIUS 0.6NM. OPS OF AGRICULTURE FLT WI 15MIN PPR FM ATC. CTN ADZ. F) GND G) 650FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=31.70,34.68",
+      "centerPos": {
+        "lat": 31.7,
+        "lon": 34.68
+      }
+    },
+    {
+      "id": "C2342/26",
+      "icaoCode": "LLLL",
+      "description": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "validFrom": "2026-11-09T03:40:00.000Z",
+      "validTo": "2026-11-12T15:30:00.000Z",
+      "rawText": "E) UAS/UAV ACT WILL TAKE PLACE AT YERUHAM, FM GND UP TO 600M AGL. AN AREA WI 0.3NM RADIUS CENTERED ON PSN 305819N0345601E CLSD FM GND UP TO 3,700FT AMSL. CTN ADZ. F) GND G) 3700FT AMSL)",
+      "mapLink": "https://www.google.com/maps?q=30.97,34.93",
+      "centerPos": {
+        "lat": 30.97,
+        "lon": 34.93
+      }
     }
   ],
-  "totalCount": 3202,
-  "lastUpdated": "2026-11-03T09:08:05.136Z"
+  "totalCount": 3213,
+  "lastUpdated": "2026-11-04T08:45:40.977Z"
 }
